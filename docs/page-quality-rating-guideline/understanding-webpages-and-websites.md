@@ -78,7 +78,7 @@ All of the content on a webpage can be classified as one of the following: Main 
 
 Webpage design can be complicated, so make sure to click around and explore the page. See what kind of content is behind the tabs and test out the interactive page features. Content behind the tabs may be considered part of the MC, SC, or Ads, depending on what the content is.
 
-### 2.4.1 Identifying the Main Content (MC)
+### Identifying the Main Content (MC)
 
 Main Content is any part of the page that directly helps the page achieve its purpose. Webmasters directly control the MC of the page (except for user-generated content). MC can be text, images, videos, page features (e.g., calculators, games), or it can be user-generated content such as videos, reviews, articles, etc. that users have added or uploaded to the page. Note that tabs on some pages lead to even more information (e.g., customer reviews) and can sometimes be considered part of the MC of the page.
 

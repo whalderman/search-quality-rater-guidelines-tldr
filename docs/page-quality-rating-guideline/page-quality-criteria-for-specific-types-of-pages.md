@@ -1,6 +1,6 @@
 # Page Quality Criteria for Specific Types of Pages
 
-## 10.1 Ratings for Encyclopedia Pages
+## Ratings for Encyclopedia Pages
 
 There are many encyclopedia-type websites. Some are highly-respected publications that are standard references, while some are websites with content created and edited by anonymous users, with no editorial oversight or fact checking. We may not always know the author of the specific encyclopedia article, and therefore must rely on website reputation research to determine the E-A-T of the article. High and Highest quality ratings should only be used for encyclopedias with very good reputations for accuracy and expertise, where the article itself is well-researched with appropriate references cited.
 
@@ -8,7 +8,7 @@ A note about Wikipedia: in general, the website has a good reputation and is a v
 
 A Wikipedia article on a non-YMYL topic (example) with a satisfying amount of accurate information and trustworthy external references can usually be rated in the High range. Some Wikipedia articles may even be rated higher, although remember that a high level of expertise is required for YMYL topics. A PQ rating in the Medium range is often appropriate for pages with less extensive MC and external references. Naturally, Wikipedia articles with very little MC should get lower PQ ratings. Factual inaccuracy is a sufficient reason for a **Low** or **Lowest** rating.
 
-## 10.2 Ratings for Pages with Error Messages or No MC
+## Ratings for Pages with Error Messages or No MC
 
 Some pages are temporarily broken pages on otherwise functioning websites, while some pages have an explicit error (or custom 404) message. In some cases, pages are missing MC as well. Please think about whether the page offers help for users—did the webmaster spend time, effort, and care on the page?
 
@@ -58,7 +58,7 @@ This is an example of a "custom 404" page. These pages are designed to alert use
 
 This publication has a very positive reputation and is specifically known for its cartoons, which allows us to go as high as High+ to Highest.
 
-## 10.3 Ratings for Forums and Q&A pages
+## Ratings for Forums and Q&A pages
 
 Ratings for forum and Q&A pages can be challenging. The most important aspect is the E-A-T of the participants in the discussion, which can be difficult to judge. Keep in mind the following:
 

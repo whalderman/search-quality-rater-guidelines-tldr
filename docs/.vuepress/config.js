@@ -6,6 +6,11 @@ module.exports = {
          {
             text: 'Digital Marketing Services', items: [
                {
+                  text: 'Some Digital Marketers', items: [
+                     { text: 'English', link: 'https://www.bruceclay.com/' }
+                  ]
+               },
+               {
                   text: 'U.S.', items: [
                      { text: 'English', link: 'https://www.bruceclay.com/' }
                   ]
@@ -49,7 +54,7 @@ module.exports = {
       sidebarDepth: 2,
       sidebar: [
          {
-            title: 'Table of Contents',
+            title: '🔰 There\'s Too Much Here',
             path: '/'
          },
          {
@@ -74,8 +79,41 @@ module.exports = {
                '/page-quality-rating-guideline/page-quality-criteria-for-specific-types-of-pages',
                '/page-quality-rating-guideline/page-quality-rating-faqs'
             ]
+         },
+         {
+            title: 'Understanding Mobile User Needs',
+            children: [
+               '/understanding-mobile-user-needs/understanding-mobile-users-queries-and-results'
+            ]
+         },
+         {
+            title: 'Needs Met Rating Guideline',
+            children: [
+               '/needs-met-rating-guideline/rating-using-the-needs-met-scale',
+               '/needs-met-rating-guideline/rating-porn-foreign-language-did-not-load-and-upsetting-offensive-results',
+               '/needs-met-rating-guideline/the-relationship-between-e-a-t-and-needs-met',
+               '/needs-met-rating-guideline/rating-queries-with-multiple-interpretations-and-intents',
+               '/needs-met-rating-guideline/specificity-of-queries-and-landing-pages',
+               '/needs-met-rating-guideline/needs-met-rating-and-freshness',
+               '/needs-met-rating-guideline/misspelled-and-mistyped-queries-and-results',
+               '/needs-met-rating-guideline/non-fully-meets-results-for-url-queries',
+               '/needs-met-rating-guideline/product-queries-importance-of-browsing-and-researching',
+               '/needs-met-rating-guideline/rating-visit-in-person-intent-queries',
+               '/needs-met-rating-guideline/rating-english-language-results-in-non-english-locales'
+            ]
+         },
+         {
+            title: 'Appendix: Using the Evaluation Platform',
+            children: [
+               '/appendix-using-the-evaluation-platform/overview',
+               '/appendix-using-the-evaluation-platform/acquiring-tasks',
+               '/appendix-using-the-evaluation-platform/rating-tasks-using-the-rating-interface',
+               '/appendix-using-the-evaluation-platform/releasing-tasks',
+               '/appendix-using-the-evaluation-platform/understanding-the-user-location-on-the-task-page',
+               '/appendix-using-the-evaluation-platform/reporting-duplicate-results-in-tasks',
+               '/appendix-using-the-evaluation-platform/simplified-needs-met-tasks'
+            ]
          }
-
       ],
       lastUpdated: "Updated",
       repo: 'thewarrman/qrg-bci',

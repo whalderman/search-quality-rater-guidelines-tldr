@@ -2880,7 +2880,7 @@ o Asks whether you want to open the page in the browser or the website’s app: 
 
 # Part 3: Needs Met Rating Guideline
 
-## 13. Rating Using the Needs Met Scale
+# 13. Rating Using the Needs Met Scale
 
 There are many different kinds of queries and results, but the process of rating is the same: **Needs Met rating tasks ask you to focus on mobile user needs and think about how helpful and satisfying the result is for the mobile users**.
 
