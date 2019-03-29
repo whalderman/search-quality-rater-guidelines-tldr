@@ -2,169 +2,169 @@
 
 ## General Guidelines Overview
 
-0. Introduction to Search Quality Rating
-    1. The Purpose of Search Quality Rating
-    2. Raters Must Represent the User
-    3. Browser Requirements
-    4. Ad Blocking Extensions
-    5. Internet Safety Information
+- Introduction to Search Quality Rating
+  - The Purpose of Search Quality Rating
+  - Raters Must Represent the User
+  - Browser Requirements
+  - Ad Blocking Extensions
+  - Internet Safety Information
 
 ## Part 1: Page Quality Rating Guideline
 
-1. Introduction to Page Quality Rating
-2. Understanding Webpages and Websites
-    1. Important Definitions
-    2. What is the Purpose of a Webpage?
-    3. Your Money or Your Life (YMYL) Pages
-    4. Understanding Webpage Content
-        1. Identifying the Main Content (MC)
-        2. Identifying the Supplementary Content (SC)
-        3. Identifying Advertisements/Monetization (Ads)
-        4. Summary of the Parts of the Page
-    5. Understanding the Website
-        1. Finding the Homepage
-        2. Finding Who is Responsible for the Website and Who Created the Content on the Page
-        3. Finding About Us, Contact Information, and Customer Service Information
-    6. Reputation of the Website or Creator of the Main Content
-        1. Research on the Reputation of the Website or Creator of the Main Content
-        2. Sources of Reputation Information
-        3. Customer Reviews of Stores/Businesses
-        4. How to Search for Reputation Information
-        5. What to Do When You Find No Reputation Information
-3. Overall Page Quality Rating
-    1. Page Quality Rating: Most Important Factors
-    2. Expertise, Authoritativeness, and Trustworthiness (E-A-T)
-4. High Quality Pages
-    1. Characteristics of High Quality Pages
-    2. A Satisfying Amount of High Quality Main Content
-    3. Clear and Satisfying Website Information: Who is Responsible and Customer Service
-    4. Positive Reputation
-    5. A High Level of Expertise/Authoritativeness/Trustworthiness (E-A-T)
-    6. Examples of High Quality Pages
-5. Highest Quality Pages
-    1. Very High Quality MC
-    2. Very Positive Reputation
-    3. Very High Level of E-A-T
-    4. Examples of Highest Quality Pages
-6. Low Quality Pages
-    1. Lacking Expertise, Authoritativeness, or Trustworthiness (E-A-T)
-    2. Low Quality Main Content
-    3. Unsatisfying Amount of Main Content
-    4. Distracting Ads/SC
-    5. Mixed or Mildly Negative Reputation of the Website or Creator of the Main Content
-    6. Unsatisfying Amount of Information about the Website or Creator of the Main Content
-    7. Examples of Low Quality Pages
-7. Lowest Quality Pages
-    1. Lack of Purpose Pages
-    2. Pages that Fail to Achieve Their Purpose
-        1. Lowest E-A-T
-        2. No/Little Main Content
-        3. Lowest Quality Main Content
-        4. Copied Main Content
-        5. How to Determine if Content is Copied
-        6. Auto-Generated Main Content
-        7. Obstructed or Inaccessible Main Content
-        8. Inadequate Information about the Website or Creator of the Main Content
-        9. Unmaintained Websites, and Hacked, Defaced, or Spammed Pages
-    3. Pages that Potentially Spread Hate
-    4. Potentially Harmful Pages
-        1. Encourage Harm
-        2. Malicious Pages
-        3. Negative or Malicious Reputation
-    5. Pages that Potentially Misinform Users
-    6. Pages that Potentially Deceive Users
-        1. Deceptive Page Purpose
-        2. Deceptive Page Design
-    7. Examples of Lowest Quality Pages
-8. Medium Quality Pages
-    1. Examples of Medium Quality Pages
-9. Page Quality Rating Tasks
-    1. Instructions for Rating Page Quality Tasks
-        1. Rating on Your Phone
-    2. Reputation and E-A-T: Website or the Creators of the Main Content?
-10. Page Quality Criteria for Specific Types of Pages
-    1. Ratings for Encyclopedia Pages
-    2. Ratings for Pages with Error Messages or No MC
-    3. Ratings for Forums and Q&A pages
-11. Page Quality Rating FAQs
+- Introduction to Page Quality Rating
+- Understanding Webpages and Websites
+  - Important Definitions
+  - What is the Purpose of a Webpage?
+  - Your Money or Your Life (YMYL) Pages
+  - Understanding Webpage Content
+    - Identifying the Main Content (MC)
+    - Identifying the Supplementary Content (SC)
+    - Identifying Advertisements/Monetization (Ads)
+    - Summary of the Parts of the Page
+  - Understanding the Website
+    - Finding the Homepage
+    - Finding Who is Responsible for the Website and Who Created the Content on the Page
+    - Finding About Us, Contact Information, and Customer Service Information
+  - Reputation of the Website or Creator of the Main Content
+    - Research on the Reputation of the Website or Creator of the Main Content
+    - Sources of Reputation Information
+    - Customer Reviews of Stores/Businesses
+    - How to Search for Reputation Information
+    - What to Do When You Find No Reputation Information
+- Overall Page Quality Rating
+  - Page Quality Rating: Most Important Factors
+  - Expertise, Authoritativeness, and Trustworthiness (E-A-T)
+- High Quality Pages
+  - Characteristics of High Quality Pages
+  - A Satisfying Amount of High Quality Main Content
+  - Clear and Satisfying Website Information: Who is Responsible and Customer Service
+  - Positive Reputation
+  - A High Level of Expertise/Authoritativeness/Trustworthiness (E-A-T)
+  - Examples of High Quality Pages
+- Highest Quality Pages
+  - Very High Quality MC
+  - Very Positive Reputation
+  - Very High Level of E-A-T
+  - Examples of Highest Quality Pages
+- Low Quality Pages
+  - Lacking Expertise, Authoritativeness, or Trustworthiness (E-A-T)
+  - Low Quality Main Content
+  - Unsatisfying Amount of Main Content
+  - Distracting Ads/SC
+  - Mixed or Mildly Negative Reputation of the Website or Creator of the Main Content
+  - Unsatisfying Amount of Information about the Website or Creator of the Main Content
+  - Examples of Low Quality Pages
+- Lowest Quality Pages
+  - Lack of Purpose Pages
+  - Pages that Fail to Achieve Their Purpose
+    - Lowest E-A-T
+    - No/Little Main Content
+    - Lowest Quality Main Content
+    - Copied Main Content
+    - How to Determine if Content is Copied
+    - Auto-Generated Main Content
+    - Obstructed or Inaccessible Main Content
+    - Inadequate Information about the Website or Creator of the Main Content
+    - Unmaintained Websites, and Hacked, Defaced, or Spammed Pages
+  - Pages that Potentially Spread Hate
+  - Potentially Harmful Pages
+    - Encourage Harm
+    - Malicious Pages
+    - Negative or Malicious Reputation
+  - Pages that Potentially Misinform Users
+  - Pages that Potentially Deceive Users
+    - Deceptive Page Purpose
+    - Deceptive Page Design
+  - Examples of Lowest Quality Pages
+- Medium Quality Pages
+  - Examples of Medium Quality Pages
+- Page Quality Rating Tasks
+  - Instructions for Rating Page Quality Tasks
+    - Rating on Your Phone
+  - Reputation and E-A-T: Website or the Creators of the Main Content?
+- Page Quality Criteria for Specific Types of Pages
+  - Ratings for Encyclopedia Pages
+  - Ratings for Pages with Error Messages or No MC
+  - Ratings for Forums and Q&A pages
+- Page Quality Rating FAQs
 
-## Part 2: Understanding Mobile User Needs 63
+## Part 2: Understanding Mobile User Needs
 
-12. Understanding Mobile Users, Mobile Queries, and Mobile Results
-    1. Important Rating Definitions and Ideas
-    2. Understanding the Query
-    3. Locale and User Location
-    4. Queries with an Explicit Location
-    5. Queries with Multiple Meanings
-    6. Query Meanings Can Change Over Time
-    7. Understanding User Intent
-        1. Know and Know Simple Queries
-        2. Do and Device Action Queries
-        3. Website Queries
-        4. Visit-in-Person Queries and User Location
-        5. Queries with Multiple User Intents
-    8. Understanding Result Blocks
-        1. Web Search Result Block Examples
-        2. Special Content Result Block Examples
-        3. Device Action Result Block Examples
-        4. How Device Action Results are Displayed in Rating Tasks
-    9. Rating on Your Phone Issues
+- Understanding Mobile Users, Mobile Queries, and Mobile Results
+  - Important Rating Definitions and Ideas
+  - Understanding the Query
+  - Locale and User Location
+  - Queries with an Explicit Location
+  - Queries with Multiple Meanings
+  - Query Meanings Can Change Over Time
+  - Understanding User Intent
+    - Know and Know Simple Queries
+    - Do and Device Action Queries
+    - Website Queries
+    - Visit-in-Person Queries and User Location
+    - Queries with Multiple User Intents
+  - Understanding Result Blocks
+    - Web Search Result Block Examples
+    - Special Content Result Block Examples
+    - Device Action Result Block Examples
+    - How Device Action Results are Displayed in Rating Tasks
+  - Rating on Your Phone Issues
 
-## Part 3: Needs Met Rating Guideline 83
+## Part 3: Needs Met Rating Guideline
 
-13. Rating Using the Needs Met Scale
-    1. Rating Result Blocks: Block Content and Landing Pages
-    2. Fully Meets (FullyM)
-        1. Examples of Fully Meets (FullyM) Result Blocks
-        2. Examples of Queries that Cannot Have Fully Meets Results
-    3. Highly Meets (HM)
-        1. Examples of Highly Meets (HM) Result Blocks
-    4. Moderately Meets (MM)
-        1. Examples of Moderately Meets (MM) Result Blocks
-    5. Slightly Meets (SM)
-        1. Examples of Slightly Meets (SM) Result Blocks
-    6. Fails to Meet (FailsM)
-        1. Examples of Fails to Meet (FailsM) Result Blocks
-14. Rating Porn, Foreign Language, Did Not Load, and Upsetting-Offensive Results
-    1. Porn Flag
-    2. Needs Met Rating for Porn Results
-        1. Needs Met Rating for Clear Non-Porn Intent Queries
-        2. Needs Met Rating for Possible Porn Intent Queries
-        3. Needs Met Rating for Clear Porn Intent Queries
-    3. Reporting Illegal Images
-    4. Foreign Language Flag
-        1. Using the Foreign Language Flag
-        2. Needs Met Rating for Foreign Language Results
-    5. Did Not Load Flag
-        1. Using the Did Not Load Flag
-        2. Needs Met Rating for Did Not Load Results
-    6. Upsetting-Offensive Flag
-        1. Using the Upsetting-Offensive Flag
-        2. Needs Met Rating for Upsetting-Offensive Tolerant Queries
-15. The Relationship between E-A-T and Needs Met
-16. Rating Queries with Multiple Interpretations and Intents
-    1. Rating Queries with Both Website and Visit-in-Person Intent
-17. Specificity of Queries and Landing Pages
-18. Needs Met Rating and Freshness
-19. Misspelled and Mistyped Queries and Results
-    1. Misspelled and Mistyped Queries
-    2. Name Queries
-20. Non-Fully Meets Results for URL Queries
-21. Product Queries: Importance of Browsing and Researching
-22. Rating Visit-in-Person Intent Queries
-    1. Examples Where User Location Does (and Does Not) Matter
-23. Rating English Language Results in Non-English Locales
-    1. Examples of English (and Non-English) Results in Non-English Locales
+- Rating Using the Needs Met Scale
+  - Rating Result Blocks: Block Content and Landing Pages
+  - Fully Meets (FullyM)
+    - Examples of Fully Meets (FullyM) Result Blocks
+    - Examples of Queries that Cannot Have Fully Meets Results
+  - Highly Meets (HM)
+    - Examples of Highly Meets (HM) Result Blocks
+  - Moderately Meets (MM)
+    - Examples of Moderately Meets (MM) Result Blocks
+  - Slightly Meets (SM)
+    - Examples of Slightly Meets (SM) Result Blocks
+  - Fails to Meet (FailsM)
+    - Examples of Fails to Meet (FailsM) Result Blocks
+- Rating Porn, Foreign Language, Did Not Load, and Upsetting-Offensive Results
+  - Porn Flag
+  - Needs Met Rating for Porn Results
+    - Needs Met Rating for Clear Non-Porn Intent Queries
+    - Needs Met Rating for Possible Porn Intent Queries
+    - Needs Met Rating for Clear Porn Intent Queries
+  - Reporting Illegal Images
+  - Foreign Language Flag
+    - Using the Foreign Language Flag
+    - Needs Met Rating for Foreign Language Results
+  - Did Not Load Flag
+    - Using the Did Not Load Flag
+    - Needs Met Rating for Did Not Load Results
+  - Upsetting-Offensive Flag
+    - Using the Upsetting-Offensive Flag
+    - Needs Met Rating for Upsetting-Offensive Tolerant Queries
+- The Relationship between E-A-T and Needs Met
+- Rating Queries with Multiple Interpretations and Intents
+  - Rating Queries with Both Website and Visit-in-Person Intent
+- Specificity of Queries and Landing Pages
+- Needs Met Rating and Freshness
+- Misspelled and Mistyped Queries and Results
+  - Misspelled and Mistyped Queries
+  - Name Queries
+- Non-Fully Meets Results for URL Queries
+- Product Queries: Importance of Browsing and Researching
+- Rating Visit-in-Person Intent Queries
+  - Examples Where User Location Does (and Does Not) Matter
+- Rating English Language Results in Non-English Locales
+  - Examples of English (and Non-English) Results in Non-English Locales
 
 ## Appendix: Using the Evaluation Platform
 
-24. Overview
-25. Acquiring Tasks
-26. Rating Tasks Using the Rating Interface
-27. Releasing Tasks
-28. Understanding the User Location on the Task Page
-29. Reporting Duplicate Results in Tasks
-    1. Pre-Identified Duplicates
-    2. Rater-Identified Duplicates
-    3. Reporting Duplicate Results
-30. Simplified Needs Met Tasks
+- Overview
+- Acquiring Tasks
+- Rating Tasks Using the Rating Interface
+- Releasing Tasks
+- Understanding the User Location on the Task Page
+- Reporting Duplicate Results in Tasks
+  - Pre-Identified Duplicates
+  - Rater-Identified Duplicates
+  - Reporting Duplicate Results
+- Simplified Needs Met Tasks

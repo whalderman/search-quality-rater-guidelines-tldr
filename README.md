@@ -226,7 +226,7 @@ You may also encounter pages that require RealPlayer or the Adobe Flash plug-in.
 
 # Part 1: Page Quality Rating Guideline
 
-## 1.0 Introduction to Page Quality Rating
+# 1. Introduction to Page Quality Rating
 
 A Page Quality (PQ) rating task consists of a URL and a grid to record your observations, in order to guide your exploration of the landing page and the website associated with the URL. Ultimately, the goal of Page Quality rating is to evaluate how well the page achieves its purpose. Because different types of websites and webpages can have very different purposes, our expectations and standards for different types of pages are also different.
 
@@ -242,7 +242,7 @@ The examples in these guidelines are very important. Please view each one and ke
 - The information in the examples was accurate at the time it was added, but content and websites may change over time.
 - Some examples show pages on desktop and some show pages on mobile devices.
 
-# 2.0 Understanding Webpages and Websites
+# 2. Understanding Webpages and Websites
 
 PQ rating requires an in-depth understanding of websites. We'll start with the basics. Along the way, we'll share important information about Page Quality rating, so please read through this section even if you are a website expert!
 
@@ -551,7 +551,7 @@ You should expect to find reputation information for large businesses and websit
 
 Frequently, you will find little or no information about the reputation of a website for a small organization. This is not indicative of positive or negative reputation. Many small, local businesses or community organizations have a small "web presence" and rely on word of mouth, not online reviews. For these smaller businesses and organizations, lack of reputation should not be considered an indication of low page quality.
 
-# 3.0 Overall Page Quality Rating
+# 3. Overall Page Quality Rating
 
 At a high level, here are the steps of Page Quality rating:
 
@@ -606,7 +606,7 @@ It’s even possible to have everyday expertise in YMYL topics. For example, the
 
 Think about the topic of the page. What kind of expertise is required for the page to achieve its purpose well? The standard for expertise depends on the topic of the page.
 
-# 4.0 High Quality Pages
+# 4. High Quality Pages
 
 In this section, we will describe characteristics of **High** quality pages and give many examples. Examples help calibrate your ratings, so please review each one.
 
@@ -850,7 +850,7 @@ Landscaping an aquarium
 
 This discussion focuses on the landscaping for a particular paludarium (an aquarium with terrestrial and aquatic elements). There is a lot of discussion and interaction between forum members about the types of materials and species used in the aquarium. The posts show expertise in a niche topic aquarium landscaping.
 
-# 5.0 Highest Quality Pages
+# 5. Highest Quality Pages
 
 **Highest** quality pages are created to serve a beneficial purpose and achieve their purpose very well. The distinction between **High** and **Highest** is based on the quality and quantity of MC, as well as the level of reputation and E-A-T.
 
@@ -1163,7 +1163,7 @@ The official Twitter profile page of the Tennessee Republican Party (YMYL)
 
 This is the official Twitter account for the Tennessee Republican Party (TNGOP). It is an expert and authoritative source of information about the Tennessee Republican Party.
 
-# 6.0 Low Quality Pages
+# 6. Low Quality Pages
 
 **Low** quality pages may have been intended to serve a beneficial purpose. However, **Low** quality pages do not achieve their purpose well because they are lacking in an important dimension, such as having an unsatisfying amount of MC, or because the creator of the MC lacks expertise for the purpose of the page.
 
@@ -1374,7 +1374,7 @@ This is a page from a Q&A site with an unanswered question. Q&A pages exist to a
 
 In addition to having no answer, this page has Ads and links to other questions (misleadingly labeled as "Relevant answers") displayed prominently, which users may mistake for answers to the question. It takes a moment to notice that this page actually has no answer.
 
-# 7.0 Lowest Quality Pages
+# 7. Lowest Quality Pages
 
 This section describes **Lowest** quality pages. The examples at the end of this section are critical for understanding these concepts, so please review them carefully. As a reminder, here are the steps for doing PQ rating.
 
@@ -2017,7 +2017,7 @@ This page is selling Nike Air Jordan shoes. When you look at the "Contact Us" pa
 
 In addition, the "Shipping and Returns" page has the name of another company that seems to be unrelated. There are also official looking logos at the bottom of the homepage, including the Better Business Bureau logo and Google Checkout logo, that don’t appear to be affiliated with the website.
 
-# 8.0 Medium Quality Pages
+# 8. Medium Quality Pages
 
 In this section, we will describe pages that should get the **Medium** quality rating. **Medium** pages have a beneficial purpose and achieve their purpose.
 
@@ -2133,7 +2133,7 @@ This forum is about dance topics, and many pages have expertise from a community
 This page is "mixed" because there is some distracting content that makes it hard to read the MC. However, this is not a beauty contest!
 Even though the page may be cluttered, there is some valuable everyday expertise and helpful MC, making Medium a good rating for this page.
 
-# 9.0 Page Quality Rating Tasks
+# 9. Page Quality Rating Tasks
 
 At first, PQ rating may seem difficult. There are several aspects of the page and the website to look at and think about. This type of rating takes practice. Rereading sections of these guidelines and thinking about the examples may help when you encounter difficult rating tasks.
 
@@ -2178,7 +2178,7 @@ The reputation and E-A-T of the creators of the MC is extremely important when a
 
 **Important:** Research the reputation and E-A-T of both the website and the creators of the MC. If either are lacking for the purpose of the page, the **Low** or **Lowest** rating is appropriate.
 
-# 10.0 Page Quality Criteria for Specific Types of Pages
+# 10. Page Quality Criteria for Specific Types of Pages
 
 ## 10.1 Ratings for Encyclopedia Pages
 
@@ -2348,7 +2348,7 @@ Q&A page on abbreviations
 
 The purpose of the page is to answer questions about the usage of abbreviations. This website has a very good reputation as a reference for information on writing, publishing, etc. It is considered highly authoritative and trustworthy for the topic of the page.
 
-# 11.0 Page Quality Rating FAQs
+# 11. Page Quality Rating FAQs
 
 Question Answer
 
@@ -2392,7 +2392,7 @@ Yes! More intensive analysis on the website (e.g., researching E-A-T) can be don
 
 ## Part 2: Understanding Mobile User Needs
 
-# 12.0 Understanding Mobile Users, Mobile Queries, and Mobile Results
+# 12. Understanding Mobile Users, Mobile Queries, and Mobile Results
 
 What do you do on your mobile smartphone?
 
@@ -2880,7 +2880,7 @@ o Asks whether you want to open the page in the browser or the website’s app: 
 
 # Part 3: Needs Met Rating Guideline
 
-## 13.0 Rating Using the Needs Met Scale
+## 13. Rating Using the Needs Met Scale
 
 There are many different kinds of queries and results, but the process of rating is the same: **Needs Met rating tasks ask you to focus on mobile user needs and think about how helpful and satisfying the result is for the mobile users**.
 
@@ -4366,7 +4366,7 @@ This is a broad query seeking information about Islam. The LP was created for th
 
 Remember: Upsetting or offensive results for queries that are not obviously seeking this type of content should be rated Fails to Meet.
 
-# 14.0 Rating Porn, Foreign Language, Did Not Load, and Upsetting-Offensive Results
+# 14. Rating Porn, Foreign Language, Did Not Load, and Upsetting-Offensive Results
 
 You will assign **Porn** , **Foreign Language** , **Did Not Load** , and **Upsetting-Offensive** flags to result blocks when appropriate. Some rating tasks may ask you to identify **Not-for-Everyone** results. All flags are query-independent, meaning that they do not depend on the query. Here is a screenshot of the flags:
 
@@ -4774,7 +4774,7 @@ Important: Though there are some upsetting/offensive results on the topic of thi
 **User Location:** New York, New York
 **User Intent:** Go to the homepage of the website Stormfront.org.
 
-# 15.0 The Relationship between E-A-T and Needs Met
+# 15. The Relationship between E-A-T and Needs Met
 
 The Needs Met rating is based on _both_ the query and the result. You must carefully think about the query and user intent when assigning a Needs Met rating.
 
@@ -4818,7 +4818,7 @@ Memphis, Tennessee
 **Needs Met**: This result would be very helpful for most users.
 (^)
 
-# 16.0 Rating Queries with Multiple Interpretations and Intents
+# 16. Rating Queries with Multiple Interpretations and Intents
 
 Some queries really only have one meaning. Consider the query [iphone], English (US). There may be different user intents for this query (research iPhones, buy an iPhone, go to the iPhone page on Apple’s website), but all users are basically referring to the same thing: the phone made by Apple, Inc.
 
@@ -4877,7 +4877,7 @@ The result block shows three nearby Citibank locations in the user location of P
 
 The result is very satisfying and fulfills the user intent to do online banking or otherwise use the website.
 
-# 17.0 Specificity of Queries and Landing Pages
+# 17. Specificity of Queries and Landing Pages
 
 Some queries are very general and some queries are specific. Here are some examples that compare levels of specificity of English (US) queries:
 
@@ -5048,7 +5048,7 @@ This LP has information about how to volunteer at the museum.
 **Needs Met**: The LP is more specific than the query and would be helpful for few users.^
 **Needs Met**: This is not the museum requested in the query so the result **Fails to Meet** the user intent. No E-A-T rating required^
 
-# 18.0 Needs Met Rating and Freshness
+# 18. Needs Met Rating and Freshness
 
 Some queries demand very recent or "fresh" information. Users may be looking for "breaking news," such as an important event or natural disaster happening right now. Here are different types of queries demanding current/recent results.
 
@@ -5138,7 +5138,7 @@ Chicago, Illinois
 (^)
 We couldn’t find a stale page for this query. N/A
 
-# 19.0 Misspelled and Mistyped Queries and Results
+# 19. Misspelled and Mistyped Queries and Results
 
 ## 19.1 Misspelled and Mistyped Queries
 
@@ -5183,7 +5183,7 @@ LinkedIn page for Mich **ea** l Jordan, a facilities services professional in At
 Michael Jordan’s player profile page on the NBA basketball website.
 (^)
 
-# 20.0 Non-Fully Meets Results for URL Queries
+# 20. Non-Fully Meets Results for URL Queries
 
 Raters sometimes ask the question, "For a well-formed working URL query, are the only acceptable Needs Met ratings for a result either **Fully Meets** or **Fails to Meet** ?" The answer is no. There can be other helpful results for URL queries.
 
@@ -5221,7 +5221,7 @@ This LP is an article dated April
 17, 2006 about the ratemyprofessors.com website. Few or no users would be interested in this outdated information.
 (^)
 
-# 21.0 Product Queries: Importance of Browsing and Researching
+# 21. Product Queries: Importance of Browsing and Researching
 
 Some product queries, such as [ipad reviews], have a clear information-seeking ( **Know** ) intent. Other product queries, such as [buy ipad], have a clear purchase ( **Do** ) intent. And some product queries, such as [ipad store.apple.com], have a clear navigation ( **Website** ) intent. However, most product queries don’t obviously specify one type of intent.
 
@@ -5264,7 +5264,7 @@ User Intent: The user is looking for a specific ring sold by the Pandora brand a
 
 This result has a variety of images of the ring, showing different angles and materials. Knowing what the ring looks like is very helpful to users who are researching the product and browsing options that are available.
 
-# 22.0 Rating Visit-in-Person Intent Queries
+# 22. Rating Visit-in-Person Intent Queries
 
 When there is a user location for a visit-in-person intent query and a location has not been specified in the query itself, such as [chinese restaurants] with a user location of **Boston, MA** , results in or near the user location are the most helpful.
 
@@ -5319,7 +5319,7 @@ The user is looking for a job at Google and there is no information in this resu
 
 This is Google’s official page on careers and jobs at Google, where users can search for currently open opportunities. This page is exactly what the user is looking for—it Fully Meets the user need.
 
-# 23.0 Rating English Language Results in Non-English Locales
+# 23. Rating English Language Results in Non-English Locales
 
 **The following rating guidance is for raters in non-English locales. You may stop reading this section if your task language is English, such as English (US), English (IN), English (NG), etc.**
 
@@ -5466,7 +5466,7 @@ This Wikipedia page in Chinese about Obama would also be very helpful to users i
 
 ## Appendix: Using the Evaluation Platform
 
-# 24.0 Overview
+# 24. Overview
 
 The Evaluation Platform is the system you will use to acquire and rate tasks. You can access the Evaluation Platform by going to this link: [http://www.raterhub.com/evaluation/rater](http://www.raterhub.com/evaluation/rater)
 
@@ -5474,7 +5474,7 @@ As a Search Quality Evaluator, you will work on many different types of rating t
 
 **Important:** Many tasks that you receive will display project-specific instructions on the task page. You should always follow these project-specific instructions when they are provided.
 
-# 25.0 Acquiring Tasks
+# 25. Acquiring Tasks
 
 Here is a simplified screenshot of the task acquisition page on the Evaluation Platform. Please note that changes are sometimes made to the appearance of this page, so it may not look exactly as it appears below.
 
@@ -5488,7 +5488,7 @@ A few notes about how to acquire tasks from this page:
 
 Please note there are other types of rating tasks (e.g., Result Review, Side-by-Side). Sometimes there will be only one task type available, but other times you may see more than one type displayed. When there is more than one type displayed, you may choose the type you want to acquire.
 
-# 26.0 Rating Tasks Using the Rating Interface
+# 26. Rating Tasks Using the Rating Interface
 
 Here is a general outline of the steps you should follow upon acquiring a task:
 
@@ -5499,13 +5499,13 @@ Here is a general outline of the steps you should follow upon acquiring a task:
 
 Additionally, here are a few general things to keep in mind when rating tasks:
 
-- Result blocks are sometimes slow to load: Before assigning any ratings, please scan the task page to make sure that all result blocks have loaded. Please note that result blocks may be slow to load and/or that the task page may need reloading if there are empty result blocks. If the result blocks fail to load after refreshing a few times, please release the task by following the instructions in Section 27.0 below.
+- Result blocks are sometimes slow to load: Before assigning any ratings, please scan the task page to make sure that all result blocks have loaded. Please note that result blocks may be slow to load and/or that the task page may need reloading if there are empty result blocks. If the result blocks fail to load after refreshing a few times, please release the task by following the instructions in Section 27. below.
 
 - Sometimes a side will not have any result blocks: If one side displays the message "This side did not generate any results," please do not release the task.
 
 - Do not refresh the task page after assigning ratings: If you refresh the page after assigning ratings, you will lose them and they will have to be entered again.
 
-# 27.0 Releasing Tasks
+# 27. Releasing Tasks
 
 Most raters have difficulty rating some tasks now and then. Some queries are about highly technical topics (e.g., computer science or physics) or involve very specialized areas of interest (e.g., gaming or torrents).
 
@@ -5535,7 +5535,7 @@ Query General Query Topic
 
 Note: Based on the number and/or type of tasks that you release, you may be asked to provide additional details about the reason for some of the releases.
 
-# 28.0 Understanding the User Location on the Task Page
+# 28. Understanding the User Location on the Task Page
 
 The location of the user should be inferred from the map provided. The map can help clarify where the user was physically located when the query was issued.
 
@@ -5549,7 +5549,7 @@ The user can be located anywhere within the blue rectangle on the map.
 
 The map includes a response pin, which is a marker for a visit-in-person result block in the task. If there are three visit-in-person result blocks in the task, there should be three response pins on the map.
 
-# 29.0 Reporting Duplicate Results in Tasks
+# 29. Reporting Duplicate Results in Tasks
 
 In some rating tasks, you may be asked to determine whether any results are Duplicates (dupes). This section provides guidance and examples of how to report duplicate results In Needs Met (NM) rating tasks.
 
@@ -5605,7 +5605,7 @@ URL 1: [http://www.lyricsfreak.com/m/madonna/material+girl_20086925.html](http:/
 URL 2: [http://www.lyrics007.com/Madonna%20Lyrics/Material%20Girl%20Lyrics.html](http://www.lyrics007.com/Madonna%20Lyrics/Material%20Girl%20Lyrics.html)
 **Reason**: Even though both pages display the lyrics to the song "Material Girl," users would probably want to have the option to visit both pages so that they could verify the accuracy of the lyrics. Users could benefit by search engines returning more than one page with the lyrics to the song.
 
-# 30.0 Simplified Needs Met Tasks
+# 30. Simplified Needs Met Tasks
 
 Some Needs Met rating tasks may not require ratings for all blocks. In these blocks, the Needs Met and E-A-T rating scales will be greyed out and annotated with the text "No Rating Required".
 

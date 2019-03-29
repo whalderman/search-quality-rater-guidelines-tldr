@@ -1,8 +1,8 @@
 module.exports = {
    themeConfig: {
+      title: 'Google\'s Quality Rater Guidelines',
       nav: [
          { text: 'Table of Contents', link: '/' },
-         { text: 'Original PDF', link: 'https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/searchqualityevaluatorguidelines.pdf' },
          {
             text: 'Digital Marketing Services', items: [
                {
@@ -50,19 +50,38 @@ module.exports = {
       sidebar: [
          {
             title: 'Table of Contents',
-            path: '/',
-            children: [
-               '/'
-            ]
+            path: '/'
          },
          {
             title: 'General Guidelines Overview',
-            path: '/General Guidelines Overview'
+            children: [
+               '/general-guidelines-overview/',
+               '/general-guidelines-overview/introduction-to-search-quality-rating'
+            ]
+         },
+         {
+            title: 'Page Quality Rating Guideline',
+            children: [
+               '/page-quality-rating-guideline/introduction-to-page-quality-rating',
+               '/page-quality-rating-guideline/understanding-webpages-and-websites',
+               '/page-quality-rating-guideline/overall-page-quality-rating',
+               '/page-quality-rating-guideline/high-quality-pages',
+               '/page-quality-rating-guideline/highest-quality-pages',
+               '/page-quality-rating-guideline/low-quality-pages',
+               '/page-quality-rating-guideline/lowest-quality-pages',
+               '/page-quality-rating-guideline/medium-quality-pages',
+               '/page-quality-rating-guideline/page-quality-rating-tasks',
+               '/page-quality-rating-guideline/page-quality-criteria-for-specific-types-of-pages',
+               '/page-quality-rating-guideline/page-quality-rating-faqs'
+            ]
          }
+
       ],
       lastUpdated: "Updated",
       repo: 'thewarrman/qrg-bci',
       docsDir: 'docs',
-      editLinks: true
+      editLinks: true,
+      editLinkText: 'Edit on GitHub',
+      evergreen: true
    }
 }

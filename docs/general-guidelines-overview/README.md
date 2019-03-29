@@ -6,5 +6,5 @@ As a Search Quality evaluator, you will work on many different types of rating p
 
 For brevity, we refer to "Search Quality Evaluators" as "raters" in these guidelines.
 
-![Should I buy an iPhone?](images/img6.jpg)
-![Is this page trustworthy?](images/img8.jpg)
+![Should I buy an iPhone?](../images/img6.jpg)
+![Is this page trustworthy?](../images/img8.jpg)
