@@ -1,4 +1,6 @@
-# Ain't Nobody Got Time For This
+# 🔰 Got Anything... Shorter?
+
+And what the heck does that emoji mean?
 
 Google hands out some good info from time to time (thanks for the backrubs, Big G), all *we* have to do is parse through it. But **_sweet bejesus_** there's a lot to go over.
 

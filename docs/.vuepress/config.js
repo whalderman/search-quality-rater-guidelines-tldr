@@ -54,7 +54,7 @@ module.exports = {
       sidebarDepth: 2,
       sidebar: [
          {
-            title: '🔰 There\'s Too Much Here',
+            title: '🔰 Got Anything... Shorter?',
             path: '/'
          },
          {
