@@ -1,24 +1,25 @@
-# 🔰 Got Anything... Shorter?
+# 🔰 Got Anything... Useful?
 
-And what the heck does that emoji mean?
+[Yep](#choose-your-adventure).
 
 Google hands out some good info from time to time (thanks for the backrubs, Big G), all *we* have to do is parse through it. But **_sweet bejesus_** there's a lot to go over.
 
-Take my advice and take our advice.
+Below you'll find some broad categories for types of businesses and services provided. If you think there's something else that should be added, [shoot me an email](mailto:whalderman@bruceclay.com).
 
-## Choose Your Adventure
+## Who or what are you?
 
-> You call this an adventure?
+### I specialize in SEO.
 
-### I'm a digital marketer.
+**That's** weird... sorry to say, yer gonna have to peruse this entire thing.
 
-**That's** weird...
+**_Or_** you can just pay attention to the [TL;DR]()s.
 
-...sorry to say, yer gonna have to peruse this entire thing. **Or** you could read this ol' [TL;DR]().
+> And for those interested in *black hat* SEO;
+> all you need can be found [here](https://bit.ly/2U6ZdlL).
 
 ### I'm a local brick and mortar.
 
-We got ya covered, yer gonna want to focus on [these here sections]().
+We got ya covered, yer gonna want to take a gander at [these here sections]().
 
 ### I am strictly an online merchant.
 
@@ -26,4 +27,4 @@ Need some *scalable* solutions? *Scalable* ROIs? Or *data-driven deliverables* t
 
 > Just give me the goods.
 
-<small><small><small>[Right this way.]()</small></small></small>
+<small><small>[Right this way.]()</small></small>

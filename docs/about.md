@@ -1,1 +1,1 @@
-# Bruce Clay Japan
+# Bruce Clay Japan Inc.
