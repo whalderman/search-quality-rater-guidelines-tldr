@@ -12,7 +12,7 @@ module.exports = {
 							{
 								text: "Show me the takeaways for...", items: [
 									{ text: "Small to Medium Businesses", link: "/seo-takeaways-for-smbs/" },
-									{ text: "Brick and Mortar Shops", link: "/seo-takeaways-for-smbs/" },
+									{ text: "Brick and Mortar Shops", link: "/seo-takeaways-for-brick-and-mortars/" },
 									{ text: "Online Businesses", link: "/seo-takeaways-for-online-businesses/" }
 								]
 							}
