@@ -8,6 +8,13 @@ module.exports = {
 				description: "This is where you learn about Google's SEO advisory.",
 				nav: [
 					{
+						text: "🔰 Got Anything... Useful?",
+						path: "/about/something-useful"
+					},
+					{
+						text: "Who Did This?", link: "/about/"
+					},
+					{
 						text: "Ain't Nobody Got Time For This", items: [
 							{
 								text: "Show me the takeaways for...", items: [
@@ -59,15 +66,10 @@ module.exports = {
 								]
 							}
 						]
-					},
-					{ text: "Table of Contents", link: "/" }
+					}
 				],
 				sidebarDepth: 2,
 				sidebar: [
-					{
-						title: "🔰 Got Anything... Useful?",
-						path: "/"
-					},
 					{
 						title: "General Guidelines Overview",
 						children: [
