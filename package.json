@@ -1,16 +1,16 @@
 {
-  "name": "qrg-bci",
-  "version": "0.1.0",
-  "main": "index.js",
-  "repository": "https://github.com/thewarrman/qrg-bci.git",
-  "author": "thewarrman <halderman.warren@gmail.com>",
-  "license": "MIT",
-  "private": true,
-  "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
-  },
-  "devDependencies": {
-    "vuepress": "^1.0.0-alpha.46"
-  }
+	"name": "qrg-bci",
+	"version": "0.1.0",
+	"main": "index.js",
+	"repository": "https://github.com/thewarrman/qrg-bci.git",
+	"author": "thewarrman <halderman.warren@gmail.com>",
+	"license": "MIT",
+	"private": true,
+	"scripts": {
+		"docs:dev": "vuepress dev docs",
+		"docs:build": "vuepress build docs"
+	},
+	"devDependencies": {
+		"vuepress": "^1.0.0-alpha.47"
+	}
 }
