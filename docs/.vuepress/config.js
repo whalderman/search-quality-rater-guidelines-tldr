@@ -1,6 +1,6 @@
 module.exports = {
 	themeConfig: {
-
+		width: "900px",
 		locales: {
 			"/": {
 				lang: "en",
@@ -68,7 +68,7 @@ module.exports = {
 						]
 					}
 				],
-				sidebarDepth: 2,
+				sidebarDepth: 1,
 				sidebar: [
 					{
 						title: "General Guidelines Overview",
@@ -133,12 +133,7 @@ module.exports = {
 				docsDir: "docs",
 				editLinks: true,
 				editLinkText: "Edit on GitHub",
-				evergreen: true,
-			},
-			"/zh/": {
-				lang: "zh",
-				title: "Google的质量评估指南",
-				description: "这是您了解Google的SEO顾问的地方。"
+				evergreen: true
 			}
 		}
 	}
