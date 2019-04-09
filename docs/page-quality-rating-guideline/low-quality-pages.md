@@ -4,7 +4,7 @@
 
 If a page has one or more of the following characteristics, the **Low** rating applies:
 
-- *An inadequate level of Expertise, Authoritativeness, and Trustworthiness (E-A-T).*
+- *An inadequate level of Expertise, Authoritativeness, and Trustworthiness (E‑A‑T).*
 - The quality of the MC is low.
 - There is an unsatisfying amount of MC for the purpose of the page.
 - The title of the MC is exaggerated or shocking.
@@ -14,17 +14,17 @@ If a page has one or more of the following characteristics, the **Low** rating a
 
 If a page has multiple **Low** quality attributes, a rating lower than **Low** may be appropriate.
 
-## Lacking Expertise, Authoritativeness, or Trustworthiness (E-A-T)
+## Lacking Expertise, Authoritativeness, or Trustworthiness (E‑A‑T)
 
-**Low** quality pages often lack an appropriate level of E-A-T for the purpose of the page. Here are some examples:
+**Low** quality pages often lack an appropriate level of E‑A‑T for the purpose of the page. Here are some examples:
 
 - The creator of the MC does not have adequate expertise in the topic of the MC, e.g. a tax form instruction video made by someone with no clear expertise in tax preparation.
 - The website is not an authoritative source for the topic of the page, e.g. tax information on a cooking website.
 - The MC is not trustworthy, e.g. a shopping checkout page that has an insecure connection.
 
-Note: Websites with user-generated content span the Page Quality rating spectrum. Please pay careful attention to websites that allow users to publish content with little oversight, such as social networking pages, video sharing websites, volunteer-created encyclopedias, article sharing websites, forums, etc. Depending on the topic, pages on these websites may lack E-A-T.
+Note: Websites with user-generated content span the Page Quality rating spectrum. Please pay careful attention to websites that allow users to publish content with little oversight, such as social networking pages, video sharing websites, volunteer-created encyclopedias, article sharing websites, forums, etc. Depending on the topic, pages on these websites may lack E‑A‑T.
 
-**Important**: The **Low** rating should be used if the page lacks appropriate E-A-T for its purpose.
+**Important**: The **Low** rating should be used if the page lacks appropriate E‑A‑T for its purpose.
 
 ## Low Quality Main Content
 
@@ -44,13 +44,13 @@ Some **Low** quality pages are unsatisfying because they have a small amount of 
 
 ## Distracting Ads/SC
 
-We expect Ads and SC to be visible. However, some Ads, SC, or interstitial pages (i.e., pages displayed before or after the content you are expecting) make it difficult to use the MC. Pages with Ads, SC, or other features that distract from or interrupt the use of the MC should be given a **Low** rating.
+We expect Ads and SC to be visible. However, some Ads, SC, or [interstitial pages]() (i.e., pages displayed before or after the content you are expecting) make it difficult to use the MC. Pages with Ads, SC, or other features that distract from or interrupt the use of the MC should be given a **Low** rating.
 
 A single pop-over Ad with a clear and easy-to-use close button is not terribly distracting, though may not be a great user experience. However, difficult-to-close Ads that follow page scrolls can be truly distracting and make the MC difficult to use.
 
-The content of the Ads, SC, or other features may be distracting as well: sexually suggestive images such ashere, grotesque images such as here, and porn Ads on non-porn pages should be considered very distracting.
+The content of the Ads, SC, or other features may be distracting as well: sexually suggestive images such as [here](), grotesque images such as [here](), and porn Ads on non-porn pages should be considered very distracting.
 
-Finally, Ads and SC can be distracting if the titles or images of the Ads or SC are shocking or disturbing. Here is an example of a page with shocking and exaggerated titles, images, and text in the Ads and SC.
+Finally, Ads and SC can be distracting if the titles or images of the Ads or SC are shocking or disturbing. [Here]() is an example of a page with shocking and exaggerated titles, images, and text in the Ads and SC.
 
 **Important**: The **Low** rating should be used if the page has Ads, SC, or other features that interrupt or distract from using the MC.
 
@@ -74,137 +74,19 @@ Stores and websites that process financial transactions require a high level of 
 
 ## Examples of Low Quality Pages
 
-Type of Webpage/Content Low Quality Characteristics PQ Rating and Explanation
-
-Low: News 1
-
-Article about nuclear power
-
-- Low quality MC
-- Lacking E-A-T
-
-The writing of this article is unprofessional, including many grammar and punctuation errors. The MC also appears to have been paraphrased from a science article found on a different source, but with factual inaccuracies introduced throughout. The combination of low quality MC and lack of E-A-T justify the Lowest+ to Low rating.
-
-Low: News 2
-
-Article titled "Getting Rid Of Toxins After The Holiday Season"
-
-- Low quality MC
-- Misleading page title
-- Lacking E-A-T
-
-The title of the article is misleading and does not reflect the actual content of the page. The MC does not explain how to get rid of toxins or what the word "toxins" in the headline refers to.
-
-The content also has many problems: the writing quality is poor, and the article includes meaningless statements such as "water therapy is one of the easiest ways of beauty regimen since it will give enough moisture on the skin". The article fails to cite sources, and there is no evidence of E-A-T.
-
-**Type of Webpage/Content Low Quality Characteristics PQ Rating and Explanation**
-
-Low: Informational 1
-
-40th birthday party food ideas
-
-- Low quality MC
-- Disruptive Ads
-
-This page and website have many of characteristics of Low quality pages. Close observation shows MC that contains mostly commonly known information and poor quality writing. The MC is broken up by large Ads that disrupt the user experience.
-
-Low: Informational 2
-
-Q&A unanswered question
-
-- Unsatisfying amount of MC for the purpose of the page Some websites rely on users to create virtually all of their MC. In this case, the MC is the user’s question. If there are no answers, the amount of MC on the page is unsatisfying.
-
-Low: Article 1
-
-Article with tips for dressing for the office
-
-- Low or Lowest quality MC
-- Lacking E-A-T This content has many problems:
-inaccurate/meaningless information and complete lack of editing with poor spelling and grammar—both of these characteristics in combination justify the Lowest+ to Low rating.
-
-Low: Article 2
-
-Using ginger for your health
-
-- Low or Lowest quality MC
-- Lacking E-A-T This content has many problems: garbled information and a lack of editing. Both of these characteristics in combination justify the Lowest+ to Low rating. In addition, lacking E-A-T on this topic is concerning.
-
-Low: Article 3
-
-How to adopt children from Iraq
-(YMYL)
-
-- Low quality MC: commonly known information only
-- Lacking E-A-T on a YMYL topic
-
-This is a YMYL topic. However, the steps listed here are merely commonly-known information that would be of little benefit to someone interested in adopting a child from Iraq.
-
-For example, step 1 says "Choose an adoption agency" and suggests looking in a phone book. There is almost no information specific to Iraq. There is no evidence of expertise on adoption from the description about the author.
-
-Note that some Ads have the same format as links to other articles on this website, potentially making it a bit harder for users to visually distinguish these Ads from the MC and SC.
-
-**Type of Webpage/Content Low Quality Characteristics PQ Rating and Explanation**
-
-Low: Financial
-
-Page with advice on picking a quality stock for investment
-(YMYL)
-
-- Lacking E-A-T on a YMYL topic There is no evidence that the author has financial expertise. Because this is a YMYL financial article, lacking expertise is a reason for a Low rating.
-
-Low: Medical
-
-Page with information about how long the flu lasts (YMYL)
-
-- Lacking E-A-T on a YMYL topic There is no evidence that the author has medical expertise. Because this is a YMYL medical article, lacking expertise is a reason for a Low rating.
-
-Low: Recipes 1
-
-Apple pie recipe
-
-- Low quality and unsatisfying amount of MC
-
-This page and website have many of characteristics of Low quality pages. The MC is low quality and lacks important information. For example, it gives no indication of how to make a crust and doesn’t list premade crust as an ingredient. It would be very difficult to actually make an apple pie using this recipe.
-
-This page is lacking the kind of helpful content we expect in recipe pages, such as user reviews or comments. Without such information, it’s hard to tell if the recipe is any good. The small pink text at the top is not helpful for users.
-
-Low: Recipes 2
-
-Gluten-free New York cheesecake recipe
-
-- Very distracting SC or Ads (not clear) in the right column
-- Disruptive Ads in the middle column
-
-This is an example of distracting and disruptive Ads/SC: there are large Ads in the main column pushing down the MC as well as highly distracting content on the right that are labeled
-"Top Posts & Pages." It is unclear whether these are SC or Ads.
-
-Low: Q&A1
-
-Page about Native American customs
-
-- Lacking E-A-T There are 94 answers to this question with a few results that seem helpful. Many of the posts appear to be deliberately incorrect or misleading, including the top answer, which is labeled the "best answer."
-
-Type of Webpage/Content Low Quality Characteristics PQ Rating and Explanation
-
-Low: Q&A 2
-
-Page about a 2002 Volvo part
-
-- Misleading Ads
-- Unsatisfying amount of MC for the purpose of the page
-
-Please read the MC (areas with red boxes around it), including the completely unhelpful
-"answer." This answer is so unhelpful, we can consider this question to be unanswered. This page has an unsatisfying amount of MC.
-
-In addition to a very unhelpful "answer," the page design makes it difficult to distinguish the MC from Ads. For example, below the answer, we see a "sponsored answer," which has the same format as the real answer, but is actually an Ad and not an answer to the question—this is misleading to users.
-
-Low: Q&A 3
-
-Page about water and soil
-
-- Misleading Ads/SC
-- Unsatisfying amount of MC for the purpose of the page
-
-This is a page from a Q&A site with an unanswered question. Q&A pages exist to answer user questions. Pages with unanswered questions should generally be rated Low because they have little MC (just a question and no answer) and don’t achieve their purpose well.
-
-In addition to having no answer, this page has Ads and links to other questions (misleadingly labeled as "Relevant answers") displayed prominently, which users may mistake for answers to the question. It takes a moment to notice that this page actually has no answer.
+Type of Webpage/Content|Low Quality Characteristics|PQ Rating and Explanation
+|---|---|---|
+[Low: News 1](https://guidelines.raterhub.com/images/hngn-article-m.jpg)<br/><br/>Article about nuclear power|・Low quality MC<br/>・Lacking E‑A‑T|![low quality](../images/img100.jpg)<br/>The writing of this article is unprofessional, including many grammar and punctuation errors. The MC also appears to have been paraphrased from a [science article](https://guidelines.raterhub.com/images/engadget-original-article-m.jpg) found on a different source, but with factual inaccuracies introduced throughout. The combination of low quality MC and lack of E‑A‑T justify the Lowest+ to Low rating.
+[Low: News 2](https://guidelines.raterhub.com/images/news-article-toxins-m.jpg)<br/><br/>Article titled "Getting Rid Of Toxins After The Holiday Season"|・Low quality MC<br/>・Misleading page title<br/>・Lacking E‑A‑T|![low quality](../images/img101.jpg)<br/>The title of the article is misleading and does not reflect the actual content of the page. The MC does not explain how to get rid of toxins or what the word "toxins" in the headline refers to.<br/><br/>The content also has many problems: the writing quality is poor, and the article includes meaningless statements such as "water therapy is one of the easiest ways of beauty regimen since it will give enough moisture on the skin". The article fails to cite sources, and there is no evidence of E‑A‑T.
+[Low: Informational 1](https://guidelines.raterhub.com/images/40thBirthday.jpg)<br/><br/>40th birthday party food ideas|・Low quality MC<br/>・Disruptive Ads|![low quality](../images/img100.jpg)<br/>This page and website have many of characteristics of Low quality pages. Close observation shows MC that contains mostly commonly known information and poor quality writing. The MC is broken up by large Ads that disrupt the user experience.
+[Low: Informational 2](https://guidelines.raterhub.com/images/2ds.jpg)<br/><br/>Q&A unanswered question|・Unsatisfying amount of MC for the purpose of the page|![low quality](../images/img101.jpg)<br/>Some websites rely on users to create virtually all of their MC. In this case, the MC is the user’s question. If there are no answers, the amount of MC on the page is unsatisfying.
+[Low: Article 1](https://guidelines.raterhub.com/images/PQ.2.3.8.jpg)<br/><br/>Article with tips for dressing for the office|・Low or Lowest quality MC<br/>・Lacking E‑A‑T|![low quality](../images/img100.jpg)<br/>This content has many problems: inaccurate/meaningless information and complete lack of editing with poor spelling and grammar—both of these characteristics in combination justify the Lowest+ to Low rating.
+[Low: Article 2](https://guidelines.raterhub.com/images/GingerHealth.jpg)<br/><br/>Using ginger for your health|・Low or Lowest quality MC<br/>・Lacking E‑A‑T|![low quality](../images/img100.jpg)<br/>This content has many problems: garbled information and a lack of editing. Both of these characteristics in combination justify the Lowest+ to Low rating. In addition, lacking E‑A‑T on this topic is concerning.
+[Low: Article 3](https://guidelines.raterhub.com/images/AdoptChildren.jpg)<br/><br/>How to adopt children from Iraq (YMYL)|・Low quality MC: commonly known information only<br/>・Lacking E‑A‑T on a YMYL topic|![low quality](../images/img101.jpg)<br/>This is a YMYL topic. However, the steps listed here are merely commonly-known information that would be of little benefit to someone interested in adopting a child from Iraq.<br/><br/>For example, step 1 says "Choose an adoption agency" and suggests looking in a phone book. There is almost no information specific to Iraq. There is no evidence of expertise on adoption from the description about the author.<br/><br/>Note that some Ads have the same format as links to other articles on this website, potentially making it a bit harder for users to visually distinguish these Ads from the MC and SC.
+[Low: Financial](https://guidelines.raterhub.com/images/StockPickingTips.jpg)<br/><br/>Page with advice on picking a quality stock for investment (YMYL)|・Lacking E‑A‑T on a YMYL topic|![low quality](../images/img101.jpg)<br/>There is no evidence that the author has financial expertise. Because this is a YMYL financial article, lacking expertise is a reason for a Low rating.
+[Low: Medical](https://guidelines.raterhub.com/images/HowLongDoesFluLast.jpg)<br/><br/>Page with information about how long the flu lasts (YMYL)|・Lacking E‑A‑T on a YMYL topic|![low quality](../images/img101.jpg)<br/>There is no evidence that the author has medical expertise. Because this is a YMYL medical article, lacking expertise is a reason for a Low rating.
+[Low: Recipes 1](https://guidelines.raterhub.com/images/LowApplePieRecipe.jpg)<br/><br/>Apple pie recipe|・Low quality and unsatisfying amount of MC|![low quality](../images/img100.jpg)<br/>This page and website have many of characteristics of Low quality pages. The MC is low quality and lacks important information. For example, it gives no indication of how to make a crust and doesn’t list premade crust as an ingredient. It would be very difficult to actually make an apple pie using this recipe.<br/><br/>This page is lacking the kind of helpful content we expect in recipe pages, such as user reviews or comments. Without such information, it’s hard to tell if the recipe is any good. The small pink text at the top is not helpful for users.
+[Low: Recipes 2](https://guidelines.raterhub.com/images/CheeseCakeRecipe.jpg)<br/><br/>Gluten-free New York cheesecake recipe|・Very distracting SC or Ads (not clear) in the right column<br/>・Disruptive Ads in the middle column|![low quality](../images/img100.jpg)<br/>This is an example of distracting and disruptive Ads/SC: there are large Ads in the main column pushing down the MC as well as highly distracting content on the right that are labeled "Top Posts & Pages." It is unclear whether these are SC or Ads.
+[Low: Q&A1](https://guidelines.raterhub.com/images/beliefcustoms.jpg)<br/><br/>Page about Native American customs|・Lacking E‑A‑T|![low quality](../images/img101.jpg)<br/>There are 94 answers to this question with a few results that seem helpful. Many of the posts appear to be deliberately incorrect or misleading, including the top answer, which is labeled the "best answer."
+[Low: Q&A 2](https://guidelines.raterhub.com/images/VolvoPart.jpg)<br/><br/>Page about a 2002 Volvo part|・Misleading Ads<br/>・Unsatisfying amount of MC for the purpose of the page|![low quality](../images/img100.jpg)<br/>Please read the MC (areas with red boxes around it), including the completely unhelpful "answer." This answer is so unhelpful, we can consider this question to be unanswered. This page has an unsatisfying amount of MC.<br/><br/>In addition to a very unhelpful "answer," the page design makes it difficult to distinguish the MC from Ads. For example, below the answer, we see a "sponsored answer," which has the same format as the real answer, but is actually an Ad and not an answer to the question—this is misleading to users.
+[Low: Q&A 3](https://guidelines.raterhub.com/images/PQ.2.6.5.jpg)<br/><br/>Page about water and soil|・Misleading Ads/SC<br/>・Unsatisfying amount of MC for the purpose of the page|![low quality](../images/img100.jpg)<br/>This is a page from a Q&A site with an unanswered question. Q&A pages exist to answer user questions. Pages with unanswered questions should generally be rated Low because they have little MC (just a question and no answer) and don’t achieve their purpose well.<br/><br/>In addition to having no answer, this page has Ads and links to other questions (misleadingly labeled as "Relevant answers") displayed prominently, which users may mistake for answers to the question. It takes a moment to notice that this page actually has no answer.
