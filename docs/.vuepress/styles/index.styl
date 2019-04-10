@@ -1,5 +1,16 @@
-.content {
+.content:not(.custom) {
+	max-width: 850px;
+	margin: 0 auto;
+	padding: 2rem 2.5rem;
+}
 
+tr:nth-child(2n) {
+    background-color: #ffffff00;
+}
+
+th, td {
+    border: 1px solid #00000022;
+    padding: 0.5em 0.5em;
 }
 
 th {
@@ -7,6 +18,7 @@ th {
     color: #fdfdfd;
 }
 
+/*
 td:nth-child(1) {
 	width: 150px;
 	overflow-wrap: break-word;
@@ -17,3 +29,4 @@ td:nth-child(2) {
 td:nth-child(3) {
 	min-width: 240px;
 }
+*/
