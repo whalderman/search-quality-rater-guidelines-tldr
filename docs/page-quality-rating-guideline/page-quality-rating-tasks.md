@@ -23,7 +23,7 @@ Finally, this Page Quality Rating Guideline does not completely cover every aspe
 Some results to the initial questions will end the task early. If the page is Porn, Foreign Language, or Did Not Load, you will not fill in the PQ grid or assign an overall rating.
 
 - Foreign Language should be used when the language on the landing page is NOT the task language, a language that is commonly used by a significant percentage of the population in the task location, or English.
-- Did Not Load should be used for pages where there is absolutely no content on the page created by the website. There is no MC, SC, or Ads on the page. See this Wikipedia article for descriptions of different types of error messages.
+- Did Not Load should be used for pages where there is absolutely no content on the page created by the website. There is no MC, SC, or Ads on the page. See this [Wikipedia article](http://en.wikipedia.org/wiki/List_of_HTTP_status_codes) for descriptions of different types of error messages.
 
 Similarly, if you respond that the page is malicious, harmful, deceptive, or lacking in purpose, you will also not fill in the PQ grid or assign an overall rating.
 
