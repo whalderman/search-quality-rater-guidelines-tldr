@@ -7,10 +7,9 @@ At a high level, here are the steps of Page Quality rating:
 
 On Page Quality rating tasks, you will use the Page Quality sliding scale (slider) to assign the overall PQ rating. The slider looks like this:
 
-![A photo of the Page Quality rating scale](../images/img27.jpg)
+![A photo of the Page Quality rating scale](../images/page-quality-rating-scale.jpg)
 
-You may also use the in-between ratings of **Lowest+** , **Low+** , **Medium+** , and **High+**. Please interpret the "+" as "+ ½,"
-meaning that the **Lowest+** rating is halfway between **Lowest** and **Low** , **Low+** is halfway between **Low** and **Medium** , etc.
+You may also use the in-between ratings of **Lowest+** , **Low+** , **Medium+** , and **High+**. Please interpret the "`+`" as "`+ ½`," meaning that the **Lowest+** rating is halfway between **Lowest** and **Low** , **Low+** is halfway between **Low** and **Medium** , etc.
 
 In the following sections, you will learn about characteristics of **Lowest** , **Low** , **Medium** , **High,** and **Highest** quality pages.
 
