@@ -10,12 +10,12 @@ Here is a summary of what different types of **Lowest** pages look like:
 
 Type of Lowest Page|What Pages Looks Like
 |---|---|
-Pages that potentially spread hate|・Promote hate or violence towards a group of people
-Potentially harmful pages|・Encourage harm to self or others</li><li>Malicious pages, e.g., scams, phishing, malware downloads</li><li>Extremely negative or malicious reputation
-Pages that potentially misinform users|・Demonstrably inaccurate content</li><li>YMYL content that contradicts well-established expert consensus</li><li>Debunked or unsubstantiated conspiracy theories
-Pages that potentially deceive users|・Deceptive intent, e.g., websites created to deceive users</li><li>Deceptive design, e.g., Ads that are disguised as MC
-Lack of purpose pages|・No MC</li><li>Gibberish MC</li><li>Cannot determine a purpose
-Pages that fail to achieve their purpose|・Lowest E-A-T</li><li>No/little MC or lowest quality MC</li><li>Copied MC or auto-generated MC</li><li>Obstructed or inaccessible MC</li><li>Inadequate information about the website or creator of the MC</li><li>Unmaintained websites, and hacked, defaced, or spammed pages
+Pages that potentially spread hate|<ul><li>Promote hate or violence towards a group of people</li></ul>
+Potentially harmful pages|<ul><li>Encourage harm to self or others</li><li>Malicious pages, e.g., scams, phishing, malware downloads</li><li>Extremely negative or malicious reputation</li></ul>
+Pages that potentially misinform users|<ul><li>Demonstrably inaccurate content</li><li>YMYL content that contradicts well-established expert consensus</li><li>Debunked or unsubstantiated conspiracy theories</li></ul>
+Pages that potentially deceive users|<ul><li>Deceptive intent, e.g., websites created to deceive users</li><li>Deceptive design, e.g., Ads that are disguised as MC</li></ul>
+Lack of purpose pages|<ul><li>No MC</li><li>Gibberish MC</li><li>Cannot determine a purpose</li></ul>
+Pages that fail to achieve their purpose|<ul><li>Lowest E-A-T</li><li>No/little MC or lowest quality MC</li><li>Copied MC or auto-generated MC</li><li>Obstructed or inaccessible MC</li><li>Inadequate information about the website or creator of the MC</li><li>Unmaintained websites, and hacked, defaced, or spammed pages</li></ul>
 
 ## Lack of Purpose Pages
 
