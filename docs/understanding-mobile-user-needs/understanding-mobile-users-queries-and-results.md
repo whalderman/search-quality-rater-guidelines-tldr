@@ -48,7 +48,7 @@ There are many different types of queries because users ask their phones to do m
 
 ## Understanding the Query
 
-![](../images/img207.jpg)Understanding the query is the first step in evaluating the task. Remember, a query is what a user types or speaks into a mobile phone.
+Understanding the query is the first step in evaluating the task. Remember, a query is what a user types or speaks into a mobile phone.
 
 Some tasks include a query research link, which you should use if you don’t understand the query or user intent. Otherwise, please do web research using Google or an online dictionary or encyclopedia. If you still don’t understand the query or user intent, please release the task.
 
@@ -67,17 +67,20 @@ Query Likely|User Intent
 
 All queries have a task language and task location (referred to in rating tasks as the "Locale"). The locale is important for understanding the query and user intent. Users in different locations may have different expectations for the same query. Each rating task will show you the User Location information: some tasks have an approximate user location area and some tasks have a very specific user location.
 
-Note: Examples in the following sections will include a User Location in the form of a city and state. Note that in the actual rating tasks, you will need to infer the User Location based on the map that is provided, as discussed in Section 28.
+Note: Examples in the following sections will include a User Location in the form of a city and state. Note that in the actual rating tasks, you will need to infer the User Location based on the map that is provided, as discussed in [Understanding the User Location on the Task Page](/appendix-using-the-evaluation-platform/understanding-the-user-location-on-the-task-page).
 
-For many or most queries, the user location does not change our understanding of the query and user intent. Here are some examples: [facebook.com], [pictures of kittens], [distance between the earth and the moon], [call mom]. If the task does not display a user location, please evaluate it as a query where the location does not matter and use your judgment.
+![UK and US football](../images/img206.jpg)
 
-When is the user location important in understanding query interpretation and user intent? Please use both web research and your personal judgment to answer this question. Ask yourself, "Would users in one city or country be looking for
+For many or most queries, the user location does not change our understanding of the query and user intent. Here are some examples: `[facebook.com]`, `[pictures of kittens]`, `[distance between the earth and the moon]`, `[call mom]`. If the task does not display a user location, please evaluate it as a query where the location does not matter and use your judgment.
 
-## something different than users in another city or country?"
+When is the user location important in understanding query interpretation and user intent? Please use both web research and your personal judgment to answer this question. Ask yourself, "Would users in one city or country be looking for something different than users in another city or country?"
 
 ## Queries with an Explicit Location
 
 Sometimes users tell search engines exactly what kinds of results they are looking for by adding the desired location in the query, regardless of their user location. We'll call this location inside the query the "explicit location." The explicit location makes queries much easier to understand and interpret.
+
+![explicit location queries](../images/img209.jpg)
+![explicit location queries](../images/img210.jpg)
 
 Sometimes the explicit location matches the user location or locale, and sometimes it doesn't.
 
@@ -93,34 +96,37 @@ Many queries have more than one meaning. For example, the query [apple] might re
 
 **Minor Interpretations**: Sometimes you will find less common interpretations. These are interpretations that few users have in mind. We will call these _minor interpretations_.
 
-**Query: [apple]
-Locale: English (US)**
+**Query: [apple]**\
+**Locale: English (US)**
+![interpretation for the query "apple"](../images/img212.jpg)
 
-**Query: [mercury]
-Locale: English (US)**
+**Query: [mercury]**\
+**Locale: English (US)**
+![interpretation for the query "mercury"](../images/img213.jpg)
 
 ## Query Meanings Can Change Over Time
 
 Remember to think about the query and its current meaning as you are rating. We will assume users are looking for current information about a topic, the most recent product model, the most recent occurrence of a recurring event, etc., unless otherwise specified by the query.
 
-The interpretation of the query [iphone], English (US) has changed over time as new iPhone models are released. The first iPhone was introduced in 2007. Users searching for [iphone], English (US) at that time were looking for the new (at the time) first iPhone model. Most users now are looking for the most recent or upcoming iPhone model. In the future, new models will come out and the dominant interpretation will change again.
+![interpretation for the query "George Bush"](../images/img215.jpg)
+![interpretation for the query "iphone"](../images/img216.jpg)
+
+The interpretation of the query [iphone], _English (US)_ has changed over time as new iPhone models are released. The first iPhone was introduced in 2007. Users searching for [iphone], *English (US)* at that time were looking for the new (at the time) first iPhone model. Most users now are looking for the most recent or upcoming iPhone model. In the future, new models will come out and the dominant interpretation will change again.
 
 ## Understanding User Intent
 
 It can be helpful to think of queries as having one or more of the following intents.
 
-- Know query, some of which are Know Simple queries
-- Do query, some of which are Device Action queries
-- Website query, when the user is looking for a specific website or webpage
-- Visit-in-person query, some of which are looking for a specific business or organization, some of which are looking for a category of businesses
+- **Know** query, some of which are **Know Simple** queries
+- **Do** query, some of which are **Device Action** queries
+- **Website** query, when the user is looking for a specific website or webpage
+- **Visit-in-person** query, some of which are looking for a specific business or organization, some of which are looking for a category of businesses
 
-### Know and Know Simple Queries
+### `Know` and `Know Simple` Queries
 
 The intent of a **Know** query is to find information on a topic. Users want to **Know** more about something.
 
-**Know Simple** queries are a special type of **Know** query. **Know Simple** queries seek a very specific answer, like a fact, diagram, etc. This answer has to be correct and complete, and can be displayed in a relatively small amount of space:
-the size of a mobile phone screen. As a rule of thumb, if most people would agree on a correct answer, and it would fit in
-1-2 sentences or a short list of items, the query can be called a **Know Simple** query.
+**Know Simple** queries are a special type of **Know** query. **Know Simple** queries seek a very specific answer, like a fact, diagram, etc. This answer has to be correct and complete, and can be displayed in a relatively small amount of space: the size of a mobile phone screen. As a rule of thumb, if most people would agree on a correct answer, and it would fit in 1-2 sentences or a short list of items, the query can be called a **Know Simple** query.
 
 **Know Simple** queries may be questions such as [how tall is barack obama]. Frequently, **Know Simple** queries do not have question words. For example, [barack obama height] has the same user intent as [how tall is barack obama], but is not in a question format.
 
@@ -134,59 +140,33 @@ Most queries are _not_ **Know Simple** queries, such as:
 
 Here are some examples where the **Know Simple** query asks for a simple fact, which can be answered correctly and completely in a small amount of space, and the **Know** query answer is more complex.
 
-Know Simple Query Know Query Explanation
-
-[barack obama height]
-[how tall is obama] [barack obama]^
-
-The Know query is a broad information query and different users may be looking for different things (e.g., biography, books, social media posts, etc.).
-
-[new york city population 2013] [new york city]
-
-The Know query is a broad information query and different users may be looking for different things (e.g., tourist and trip planning information, facts, photographs, history).
-
-[who is graves disease named after] [graves disease]^
-
-The Know query is a broad query for medical information and different users may have different needs. There is no single "answer" for this query.
-
-[macy’s store hours] [macy’s gift wrap options]
-
-The Know query is a broad query for a particular service offered by a department store, and does not have a short answer.
-
-[what is the symbol for the element nickel] [what nickel is used for]^
-
-The Know query is a broad query and there is no short, complete answer.
-
-[who won the 2014 bcs national championship game]
-
-[who is going to win the bcs national championship game]
-
-The Know query asks for an opinion and there is no definitive answer.
-
-[what is starbucks stock price] [should i invest in starbucks stock]
-
-Even though the Know query is theoretically a yes/no question, there is not a single answer that everyone would agree on.
+Know Simple Query|Know Query|Explanation
+---|---|---
+[barack obama height]<br/>[how tall is obama]|[barack obama]|The **Know** query is a broad information query and different users may be looking for different things (e.g., biography, books, social media posts, etc.).
+[new york city population 2013]|[new york city]|The **Know** query is a broad information query and different users may be looking for different things (e.g., tourist and trip planning information, facts, photographs, history).
+[who is graves disease named after]|[graves disease]|The **Know** query is a broad query for medical information and different users may have different needs. There is no single "answer" for this query.
+[macy’s store hours]|[macy’s gift wrap options]|The **Know** query is a broad query for a particular service offered by a department store, and does not have a short answer.
+[what is the symbol for the element nickel]|[what nickel is used for]|The **Know** query is a broad query and there is no short, complete answer.
+[who won the 2014 bcs national championship game]|[who is going to win the bcs national championship game]|The **Know** query asks for an opinion and there is no definitive answer.
+[what is starbucks stock price]|[should i invest in starbucks stock]|Even though the **Know** query is theoretically a yes/no question, there is not a single answer that everyone would agree on.
 
 Raters must think about mobile users when deciding if queries are **Know Simple**. Use your judgment here.
 
-**Important Rating Example**: The query [weather] may seem like a broad information query, but most mobile users likely have a fairly simple informational need: to find the current or upcoming temperature, and the chance of local weather events, such as rain or snow. Therefore, we will consider queries like [weather], [weather today], [weather tomorrow],
+<span style="color: red;">**Important Rating Example**</span>: The query [weather] may seem like a broad information query, but most mobile users likely have a fairly simple informational need: to find the current or upcoming temperature, and the chance of local weather events, such as rain or snow. Therefore, we will consider queries like [weather], [weather today], [weather tomorrow],
 [weather this week] to be **Know Simple** queries for mobile phone users.
 
-### Do and Device Action Queries
+### `Do` and `Device Action` Queries
 
 The intent of a **Do** query is to accomplish a goal or engage in an activity on a phone. The goal or activity may be to download, to buy, to obtain, to be entertained by, or to interact with a website or app. Users want to **Do** something.
 
 Here are some examples.
 
-Query Likely User Intent
-
-[get candy crush game] Install the Candy Crush game.
-
-[online personality test] Take an online personality test.
-
-[what is my bmi?] Calculate BMI (body mass index).
-
-[buy citizen kane dvd] Purchase this DVD.
+Query|Likely User Intent
+---|---
+[get candy crush game]|Install the Candy Crush game.
+[online personality test]|Take an online personality test.
+[what is my bmi?]|Calculate BMI (body mass index).
+[buy citizen kane dvd]|Purchase this DVD.
 
 **Device Action** queries are a special kind of **Do** query. Users are asking their phone to do something for them. Users giving **Device Action** queries may be using phones in the hands-free mode, for example, while in a car. It’s very important for mobile phones to accommodate **Device Action** queries, and we have a high standard for rating these results.
 
@@ -194,40 +174,24 @@ A **Device Action** query usually has a clear action word and intent. The verb o
 
 Here are some examples of **Device Action** queries.
 
-Type of Action Device Action Query Examples (verb or action shown in bold)
+Type of Action|Device Action Query Examples (verb or action shown in bold)
+---|---
+Call someone|[**call** mom’s mobile phone], [place a **call** to anne jones], [ok google, could you please call my mom]
+Send a message|[**send** a text to john smith], [**text** john smith], [**sms** john smith]
+Get map information (e.g., directions, traffic, etc.)|[**navigate** to central park], [**show** me traffic], [**show** me a map]
+Open an app or webpage, or install an app|[**go** to amazon.com], [**open** facebook app], [**open** facebook.com], [**open** the business section of the new york times], [siri, would you **open** facebook for me], [**get** candy crush app]
+Play or view media|[**play** me songs from the white album], [**watch** the life of pi], [**show** me cute kittens], [i want to **look** at cute kittens], [i want to **listen** to imagine dragons radioactive]
+Schedule a meeting [ **schedule** a meeting for 9am]
+Set an alarm or timer [ **set** an alarm for 6am], [alarm for 6am], [countdown timer for 30 secs]
 
-Call someone
-
-[ call mom’s mobile phone], [place a call to anne jones], [ok google, could you please call my mom]
-
-Send a message [ send a text to john smith], [ text john smith], [ sms john smith]
-
-Get map information (e.g., directions, traffic, etc.) [ navigate to central park], [ show me traffic], [ show me a map]^
-
-Open an app or webpage, or install an app
-
-[ go to amazon.com], [ open facebook app], [ open facebook.com], [ open the business section of the new york times], [siri, would you open facebook for me], [ get candy crush app]
-
-Play or view media [ lookplay at cute kittens], [i want to me songs from the white album], [ listen to imagine dragons radioactive] watch the life of pi], [ show me cute kittens], [i want to
-
-Schedule a meeting [ schedule a meeting for 9am]
-
-Set an alarm or timer [ set an alarm for 6am], [alarm for 6am], [countdown timer for 30 secs]
 Here are some examples of queries that are **not Device Action** queries.
 
-Query Query is NOT a Device Action Query: Explanation
-
-[phone number empire state building]
-
-There is no action word. The user may be looking for the phone number without the intention of calling the number. We’ll consider this a Know Simple query.
-
-[facebook.com] There is no action word, such as "open." We will consider this a Website query.
-
-[amazon.com] There is no action word, such as "open." We will consider this a Website query.
-
-[anne jones]
-
-There is no action word, such as "call" or "text." We will consider this a Know query for information.
+Query|Query is NOT a Device Action Query: Explanation
+---|---
+[phone number empire state building]|There is no action word. The user may be looking for the phone number without the intention of calling the number. We’ll consider this a **Know Simple** query.
+[facebook.com]|There is no action word, such as "open." We will consider this a **Website** query.
+[amazon.com]|There is no action word, such as "open." We will consider this a **Website** query.
+[anne jones]|There is no action word, such as "call" or "text." We will consider this a **Know** query for information.
 
 ### Website Queries
 
@@ -240,17 +204,13 @@ One type of **Website** query is a URL Query, which can be:
 
 Here are some examples.
 
-Query Likely User Intent
-
-[kayak], English (US) View the Kayak website.
-
-[youtube], English (US) View the YouTube website.
-
-[ebay], Italian (IT) View the Italian eBay website.
-
-[new york time health section], English (US) View the Health section of the New York Times website.
-
-[canon.com eos digital camera], English (US) View the EOS digital cameras page on the Canon website.
+Query|Likely User Intent
+---|---
+[kayak], _English (US)_|View the Kayak website.
+[youtube], _English (US)_|View the YouTube website.
+[ebay], _Italian (IT)_|View the Italian eBay website.
+[new york time health section], _English (US)_|View the Health section of the New York Times website.
+[canon.com eos digital camera], _English (US)_|View the EOS digital cameras page on the Canon website.
 
 ### Visit-in-Person Queries and User Location
 
@@ -258,14 +218,16 @@ Users carry mobile phones with them throughout the day, for example, at work, to
 
 Some queries clearly "ask" for nearby information or nearby results (e.g., businesses, organizations, other nearby places). Some queries are not asking for nearby information or nearby results. Here are some examples.
 
-Queries with Visit-in-Person Intent Query with Non-Visit-in-Person Intent
-(^)
-**More examples**: [pizza], [yoga class], [coffee shops], [movie showtimes], [car repair], [dentists], [bank of america atm locations], [starbucks near me]
-**More examples**: [boston red sox], [washington post], [scrabble cheat], [definition of sedentary], [aapl], [beyonce], [angry birds],
-[small dog breeds], [dance videos], [oscars 2012], [pick up lines],
-[bank of america login]
+Queries with Visit-in-Person Intent|Query with Non-Visit-in-Person Intent
+---|---
+![query for chinese restaurants](../images/img220.jpg)![user intent for chinese restaurants](../images/img221.jpg)|![query for tom cruise's height](../images/img222.jpg)![user intent for tom cruise's height](../images/img223.jpg)
+![query for gas stations](../images/img224.jpg)![user intent for gas stations](../images/img225.jpg)|![query for iq test](../images/img226.jpg)![user intent for iq test](../images/img227.jpg)
+**More examples**: [pizza], [yoga class], [coffee shops], [movie showtimes], [car repair], [dentists], [bank of america atm locations], [starbucks near me]|**More examples**: [boston red sox], [washington post], [scrabble cheat], [definition of sedentary], [aapl], [beyonce], [angry birds], [small dog breeds], [dance videos], [oscars 2012], [pick up lines], [bank of america login]
 
 And some queries could go either way. Some users may want nearby results and others may not.
+
+![](../images/img229.jpg)\
+![](../images/img230.jpg)
 
 Here are some examples of queries with both visit-in-person and non-visit-in-person intent:
 
@@ -282,7 +244,12 @@ Here are some examples of queries with both visit-in-person and non-visit-in-per
 
 Sometimes, the user location can change our understanding of the query. For users close to Sunnyvale, California, the query [turmeric] could have two different interpretations: a popular restaurant named Turmeric or the spice turmeric.
 
+![query for turmeric in California returning address to restaurant](../images/img232.jpg)\
+![query for turmeric in California returning information about the spice](../images/img233.jpg)
+
 In most other user locations, there is no restaurant (or anything else) named Turmeric and there is just one interpretation of the query [turmeric]: the spice. The Sunnyvale restaurant is not well-known outside of Sunnyvale, California.
+
+![query for turmeric in Nebraska returning information about the spice](../images/img234.jpg)
 
 Use your common sense when thinking about queries and whether they have possible visit-in-person intent.
 
