@@ -2,52 +2,53 @@
 
 What do you do on your mobile smartphone?
 
+![what do mobile users want to do...](../images/img201.jpg)
+
 People rely on their phones for many different tasks in different environments. Users may want to search the web or may want to tell the phone to do something specific. Keep in mind that tasks can be simple or complex, and may take multiple steps to complete. For example, a simple task may be to find the director of a movie. A complex task may be to find a movie’s showtimes nearby, purchase tickets, get directions, and then use the phone’s navigation to go to the theater.
 
 We expect our phones to do a lot. At the same time, phones can be challenging to use, especially compared to a desktop computer or laptop:
 
-- Entering data may be cumbersome: typing is difficult on mobile smartphones, and when users speak to their phones instead of typing, voice recognition may not always be accurate.
-- Small screen sizes make it difficult to use some phone features, apps, and webpages.
-- Some webpages are difficult to use on a mobile phone. Website navigation can be difficult as menus and navigation links may be small. Webpages may require left-to-right scrolling to read text. Images may not fit on the screen. In addition, many mobile devices cannot access webpages with Flash or other similar features.
-- Internet connectivity can be slow and inconsistent for mobile users going in and out of networks. App opening, recognition of voice commands, and webpage load times can be very slow on a mobile phone.
+- **Entering data may be cumbersome**: typing is difficult on mobile smartphones, and when users speak to their phones instead of typing, voice recognition may not always be accurate.
+- **Small screen sizes** make it difficult to use some phone features, apps, and webpages.
+- **Some webpages are difficult to use on a mobile phone**. Website navigation can be difficult as menus and navigation links may be small. Webpages may require left-to-right scrolling to read text. Images may not fit on the screen. In addition, many mobile devices cannot access webpages with Flash or other similar features.
+- **Internet connectivity can be slow and inconsistent** for mobile users going in and out of networks. App opening, recognition of voice commands, and webpage load times can be very slow on a mobile phone.
 
 **Important: Mobile smartphones should make tasks easy, even for mobile users with a small screen device (i.e., size of smartphone, not a tablet).** Users want results right away, at that moment, and may not be able to spend a lot of time to find what they are looking for.
 
 In order to do mobile rating tasks, you must have experience using a mobile smartphone, which we’ll also refer to as a mobile phone in these guidelines. If you are not familiar with voice commands, device actions, or phone features, please take some time to experiment on a mobile smartphone. For example, you can try some of these voice commands:
 
-- iPhone Siri voice commands
-- Android voice commands, or say "OK Google" and then "Help" on an Android device
+- [iPhone Siri voice commands](https://www.apple.com/ios/siri/)
+- [Android voice commands](https://support.google.com/websearch/answer/2940021?hl=en), or say "OK Google" and then "Help" on an Android device
 
 ## Important Rating Definitions and Ideas
 
-**Query**: This refers to the word(s) and/or number(s) that a user types or speaks into a mobile phone. In these guidelines, queries have square brackets around them. If a user says "navigate home," we display: [navigate home]. If a user types
-"iPhone" in the search box, we display: [iphone].
+**Query**: This refers to the word(s) and/or number(s) that a user types or speaks into a mobile phone. In these guidelines, queries have square brackets around them. If a user says "navigate home," we display: [navigate home]. If a user types "iPhone" in the search box, we display: [iphone].
 
 There are many different types of queries because users ask their phones to do many things, from opening an app to calling a friend to searching the web.
 
-**User:** The user is the person trying to accomplish something by typing or speaking into a mobile phone with a small screen (i.e., size of a smartphone, not a tablet).
+**User** T:he user is the person trying to accomplish something by typing or speaking into a mobile phone with a small screen (i.e., size of a smartphone, not a tablet).
 
 **User Intent**: When a user types or speaks a query, he or she is trying to accomplish something. We refer to this goal as the user intent.
 
-**Locale**: All queries have a locale, which is the language and location for the task. Locales are represented by a two-letter country code. For a current list of country codes, click here. We sometimes refer to the locale as the task location.
+**Locale**: All queries have a locale, which is the language and location for the task. Locales are represented by a two-letter country code. For a current list of country codes, [click here](https://guidelines.raterhub.com/images/RG1_1.2-1.jpg). We sometimes refer to the locale as the task location.
 
 **User Location**: This tells us where the user is located, and should be inferred from the map provided.
 
-**Search Engine Results Page (SERP):** The page a search engine shows after a user enters a query in the search box. The SERP is made up of **result blocks**.
+**Search Engine Results Page (SERP)**: The page a search engine shows after a user enters a query in the search box. The SERP is made up of **result blocks**.
 
 **Result**: We will use the word **result** to refer to the result block _and_ the landing page.
 
-- Result Block: This is an individual "block" that appears on the user’s phone in response to the query. The result block may display information in the block itself or contain links, or may do both.
-- The Landing Page ( LP ) is the page you see after you click a link in the result block.
+- **Result Block**: This is an individual "block" that appears on the user’s phone in response to the query. The result block may display information in the block itself or contain links, or may do both.
+- The **Landing Page ( LP )** is the page you see after you click a link in the result block.
 
 **Device Actions**: Mobile phones and other devices can respond to voice commands to perform many actions, such as setting an alarm or opening an app. This is a specific type of query that we’ll refer to as a **Device Action** query.
 
-- Device Action query: Specific type of query where users ask their phone to perform an action. These are frequently spoken commands used to complete actions that would normally require interaction with the screen or the device's controls.
-- Device Action result: The phone may respond to a Device Action query by performing an action, suchas calling a phone number, etc.
+- **Device Action query**: Specific type of query where users ask their phone to perform an action. These are frequently spoken commands used to complete actions that would normally require interaction with the screen or the device's controls.
+- **Device Action result**: The phone may respond to a **Device Action** query by performing an action, suchas calling a phone number, etc.
 
 ## Understanding the Query
 
-Understanding the query is the first step in evaluating the task. Remember, a query is what a user types or speaks into a mobile phone.
+![](../images/img207.jpg)Understanding the query is the first step in evaluating the task. Remember, a query is what a user types or speaks into a mobile phone.
 
 Some tasks include a query research link, which you should use if you don’t understand the query or user intent. Otherwise, please do web research using Google or an online dictionary or encyclopedia. If you still don’t understand the query or user intent, please release the task.
 
@@ -55,15 +56,12 @@ Some tasks include a query research link, which you should use if you don’t un
 
 Think about users in your locale typing or speaking the following queries into their phone.
 
-Query Likely User Intent
-
-[population of paris], English (US) Find the current population of Paris, France.
-
-[starbucks near me], English (US) Find the nearest Starbucks location.
-
-[weather], English (US) Find weather information in the user location right now.
-
-[call mom], English (US) Call/dial the number stored for the contact "Mom" on the device.
+Query Likely|User Intent
+---|---
+\[population of paris\], English (US)|Find the current population of Paris, France.
+\[starbucks near me\], English (US)|Find the nearest Starbucks location.
+\[weather\], English (US)|Find weather information in the user location right now.
+\[call mom\], English (US)|Call/dial the number stored for the contact "Mom" on the device.
 
 ## Locale and User Location
 
