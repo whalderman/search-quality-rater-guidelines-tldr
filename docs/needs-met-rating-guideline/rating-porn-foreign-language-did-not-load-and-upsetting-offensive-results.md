@@ -1,6 +1,6 @@
 # Rating Porn, Foreign Language, Did Not Load, and Upsetting-Offensive Results
 
-You will assign **Porn** , **Foreign Language** , **Did Not Load** , and **Upsetting-Offensive** flags to result blocks when appropriate. Some rating tasks may ask you to identify **Not-for-Everyone** results. All flags are query-independent, meaning that they do not depend on the query. Here is a screenshot of the flags:
+You will assign **Porn**, **Foreign Language**, **Did Not Load**, and **Upsetting-Offensive** flags to result blocks when appropriate. Some rating tasks may ask you to identify **Not-for-Everyone** results. All flags are query-independent, meaning that they do not depend on the query. Here is a screenshot of the flags:
 
 Click on the flag name to select it. The flag block will turn red and change the "No" to "Yes." For example, here is a result that shows when the **Porn** flag should be used.
 
@@ -164,7 +164,7 @@ When in doubt, don’t use the Foreign Language flag.
 
 You must assign a Needs Met rating for all result blocks in your task, even if the result blocks have a foreign language landing page.
 
-In most cases, pages you flag as **Foreign Language** should be rated **FailsM** , because they cannot be understood by most users in your locale and are therefore useless. Remember that if users in your locale can read the language, then you shouldn’t be using the **Foreign Language** flag. Occasionally, you will encounter helpful **Foreign Language** pages.
+In most cases, pages you flag as **Foreign Language** should be rated **FailsM**, because they cannot be understood by most users in your locale and are therefore useless. Remember that if users in your locale can read the language, then you shouldn’t be using the **Foreign Language** flag. Occasionally, you will encounter helpful **Foreign Language** pages.
 
 If the query clearly indicates that most users would expect or want a foreign language result, then the Needs Met rating of the foreign language page should _not_ be **FailsM**. For example, please assign the **FullyM** rating and **Foreign Language**
 flag for baidu.com if the query is [baidu.com], English (US).

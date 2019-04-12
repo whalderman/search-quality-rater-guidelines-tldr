@@ -58,7 +58,7 @@ The word "copied" refers to the practice of "scraping" content, or copying conte
 
 **Important**: We do not consider legitimately licensed or syndicated content to be "copied" (see [here](http://en.wikipedia.org/wiki/Web_syndication) for more on web syndication). Examples of syndicated content in the U.S. include news articles by AP or Reuters.
 
-The **Lowest** rating is appropriate if all or almost all of the MC on the page is copied with little or no time, effort, expertise, manual curation, or added value for users. Such pages should be rated **Lowest** , even if the page assigns credit for the content to another source.
+The **Lowest** rating is appropriate if all or almost all of the MC on the page is copied with little or no time, effort, expertise, manual curation, or added value for users. Such pages should be rated **Lowest**, even if the page assigns credit for the content to another source.
 
 All of the following are considered copied content:
 
@@ -66,7 +66,7 @@ All of the following are considered copied content:
 - **Content that is copied, but changed slightly from the original.** This type of copying makes it difficult to find the exact matching original source. Sometimes just a few words are changed, or whole sentences are changed, or a "find and replace" modification is made, where one word is replaced with another throughout the text. These types of changes are deliberately done to make it difficult to find the original source of the content. We call this kind of content "copied with minimal alteration."
 - **Content copied from a changing source, such as a search results page or news feed.** You often will not be able to find an exact matching original source if it is a copy of "dynamic" content (content that changes frequently). However, we will still consider this to be copied content.
 
-**Important**: The **Lowest** rating is appropriate if all or almost all of the MC on the page is copied with little or no time, effort, expertise, manual curation, or added value for users. Such pages should be rated **Lowest** , even if the page assigns credit for the content to another source.
+**Important**: The **Lowest** rating is appropriate if all or almost all of the MC on the page is copied with little or no time, effort, expertise, manual curation, or added value for users. Such pages should be rated **Lowest**, even if the page assigns credit for the content to another source.
 
 ### How to Determine if Content is Copied
 
@@ -92,7 +92,7 @@ Use your best judgment. Sometimes it is clear that the content is copied from so
 
 We have confirmed that the above text (the text in the sentence and phrases in the table) comes from an [older version of a Wikipedia article](https://guidelines.raterhub.com/images/WizardOfOzWikipediaInternetArchive.jpg) about "The Wizard of Oz," which can be found using the [Internet Archive Wayback Machine](https://guidelines.raterhub.com/images/InternetArchiveWaybackMachine.jpg). Please note that searching for the above sentence and phrases will not lead you to a current Wikipedia article about "The Wizard of Oz," which demonstrates how confirming that the MC of a page contains copied content can sometimes be difficult.
 
-**Important**: The **Lowest** rating is appropriate if all or almost all of the MC on the page is copied with little or no time, effort, expertise, manual curation, or added value for users. Such pages should be rated **Lowest** , even if the page assigns credit for the content to another source.
+**Important**: The **Lowest** rating is appropriate if all or almost all of the MC on the page is copied with little or no time, effort, expertise, manual curation, or added value for users. Such pages should be rated **Lowest**, even if the page assigns credit for the content to another source.
 
 ### Auto-Generated Main Content
 
@@ -212,7 +212,7 @@ Some pages are deliberately created to deceive users, for example:
 - A webpage with a misleading title or a title that has nothing to do with the content on the page. Users who come to the page expecting content related to the title will feel tricked or deceived.
 - A webpage or website with deceptive website information. For example, the website may misrepresent who owns the site, what the website purpose really is, how the content was created, how to contact the site, etc.
 
-Any page or website that may deceive or trick users should be rated **Lowest** , regardless of intent. Use the **Lowest** rating even if you cannot see a reason for the deception or even if you think most users wouldn’t "fall" for the trick.
+Any page or website that may deceive or trick users should be rated **Lowest**, regardless of intent. Use the **Lowest** rating even if you cannot see a reason for the deception or even if you think most users wouldn’t "fall" for the trick.
 
 You should also use the **Lowest** rating if you suspect a page is deceptive, even if you’re not able to completely confirm it. Please exercise caution and practice good Internet safety skills since deceptive pages may be malicious.
 

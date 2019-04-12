@@ -1,6 +1,6 @@
 # Rating Visit-in-Person Intent Queries
 
-When there is a user location for a visit-in-person intent query and a location has not been specified in the query itself, such as [chinese restaurants] with a user location of **Boston, MA** , results in or near the user location are the most helpful.
+When there is a user location for a visit-in-person intent query and a location has not been specified in the query itself, such as [chinese restaurants] with a user location of **Boston, MA**, results in or near the user location are the most helpful.
 
 How close is "near"? The type of business and/or entity should be taken into consideration when deciding if the distance of the visit-in-person result is too far. For example, most people are not willing to travel very far for a gas station, coffee shop, supermarket, etc. Those are types of businesses that most users expect to find nearby.
 

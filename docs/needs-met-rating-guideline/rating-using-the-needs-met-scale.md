@@ -1034,7 +1034,7 @@ This block contains images of the logo for IBM, but these images are not particu
 
 **User Location:** Oklahoma City, Oklahoma
 
-**User Intent:** Find the location of "Nibiru", which was a fictional planet in the movie _Star Trek Into Darkness_ , as well as a pseudoscientific outer planet in the solar system that doesn't actually exist.
+**User Intent:** Find the location of "Nibiru", which was a fictional planet in the movie _Star Trek Into Darkness_, as well as a pseudoscientific outer planet in the solar system that doesn't actually exist.
 
 The title of this article makes it appear as though the article describes an impending catastrophe. Yet, the MC states in its third paragraph that Nibiru
 "doesn’t actually exist" and calls believers in it "conspiracy theorists". The title contradicts the content of the article, and as a result could mislead users who don't read the full article.
