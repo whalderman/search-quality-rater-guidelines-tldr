@@ -30,7 +30,7 @@ Type of Block|What to Rate
 
 For example, think about the query [what does love mean].
 
-Result Block|Query: [what does love mean]|Rating
+Result Block|**Query:** [what does love mean]|Rating
 ---|---|---
 **Special Content Result Block**|![what does love mean Special Content Result Block](../images/img266.jpg)|Most users would probably not click on the Special Content Result Block, because the block contains a large amount of helpful content and has no obvious landing page link associated with it.<br/><br/>Therefore, base your rating on the content inside the block itself.
 **Web Search Result Block**|![what does love mean Web Search Result Block](../images/img267.jpg)|In this case, users would have to click on the web search result in order to get an answer to the question.<br/><br/>Therefore, base your rating on the content of the landing page.
@@ -39,12 +39,12 @@ Here are some examples of Special Content Result Blocks where the block should b
 
 Query|Special Content Result Block
 ---|---
-Query: [utopia animal hospital]|![](../images/img269.jpg)
-Query: [chicago weather]|![](../images/img270.jpg)
-Query: [calories in a banana]|![](../images/img271.jpg)
-Query: [how to find security code on visa]|![](../images/img272.jpg)
-Query: [how did Lincoln die]|![](../images/img273.jpg)
-Query: [movies san francisco]|![](../images/img274.jpg)
+**Query:** [utopia animal hospital]|![](../images/img269.jpg)
+**Query:** [chicago weather]|![](../images/img270.jpg)
+**Query:** [calories in a banana]|![](../images/img271.jpg)
+**Query:** [how to find security code on visa]|![](../images/img272.jpg)
+**Query:** [how did Lincoln die]|![](../images/img273.jpg)
+**Query:** [movies san francisco]|![](../images/img274.jpg)
 
 ## Fully Meets (FullyM)
 
@@ -70,23 +70,12 @@ Sometimes you have to think about how specific the user need is and will need to
 
 ### Examples of Fully Meets (FullyM) Result Blocks
 
-Query and User Intent Result Rating Fully Meets Explanation
+Query and User Intent|Result|Rating Fully Meets|Explanation
+---|---|---|---
 
-Query: [amazon.com]
+**Query:** [amazon.com]<br/><br/>**User Location:** Austin, Texas<br/><br/>**User Intent:** Go to amazon.com.
 
-User Location :
-Austin, Texas
-
-User Intent: Go to amazon.com.
-
-What you might see in the rating task:
-
-Action: Open a specific webpage
-
-URL: http://www.amazon.com/
-
-Website Name: Amazon.com:
-Online Shopping for Electronics, Apparel, Computers ...
+What you might see in the rating task:<br/><br/>Action: Open a specific webpage<br/><br/>URL: http://www.amazon.com/<br/><br/>Website Name: Amazon.com:<br/>Online Shopping for Electronics, Apparel, Computers ...
 
 The query has clear intent to go to amazon.com and the phone is opening the specified website.
 
@@ -469,32 +458,32 @@ Have high standards for the **Highly Meets** rating. This is especially importan
 
 Query and User Intent Result Rating Highly Meets Explanation
 
-Query: [trader joes]
+**Query:** [trader joes]
 
-User Location: Charlotte, North Carolina
+**User Location:** Charlotte, North Carolina
 
-User Intent: There are two possible user intents: most users probably want to visit a nearby location or go to the website.
+**User Intent:** There are two possible user intents: most users probably want to visit a nearby location or go to the website.
 
 This result shows a complete list of all three locations in the Charlotte area, with information that is especially helpful for users who want to visit the store.
 
 > Note: This result block is not Fully Meets because users who want to go to the website to see coupons, promotions, etc. would have to see additional results.
 
-Query: [trader joes]
+**Query:** [trader joes]
 
-User Location: Charlotte, North Carolina
+**User Location:** Charlotte, North Carolina
 
-User Intent: There are two possible user intents: most users probably want to visit a nearby location or go to the website.
+**User Intent:** There are two possible user intents: most users probably want to visit a nearby location or go to the website.
 
 This is the official website for Trader Joe’s, which has highly authoritative information on the businesses’ stores, promotions, recipes, news, etc.
 
 > Note: This result block is not Fully Meets because users who want information to visit the store have to do a bit of work to find that information—it is not immediately available.
 
-Query: [museum of modern art]
+**Query:** [museum of modern art]
 
 User Location:
 Manhattan, New York
 
-User Intent: There are two possible user intents: most users probably want to visit the museum (note that the user is located in NYC where the museum is located) or go to the website.
+**User Intent:** There are two possible user intents: most users probably want to visit the museum (note that the user is located in NYC where the museum is located) or go to the website.
 
 This is the museum’s official website and has very helpful information about exhibits, membership, the store, etc.
 
@@ -825,41 +814,41 @@ Query and User Intent Result Rating
 
 Moderately Meets Explanation
 
-Query: [shutterfly]
+**Query:** [shutterfly]
 
-User Location: Boise, Idaho
+**User Location:** Boise, Idaho
 
-User Intent: Go to the Shutterfly website or find information about the company.
+**User Intent:** Go to the Shutterfly website or find information about the company.
 
 The LP for this web result is a high-quality page on crunchbase.com—a member site on the TechCrunch network—with a profile of Shutterfly. The MC has a lot of helpful and accurate information about the company and is easy to read on a mobile device. This result would be helpful for many users or very helpful for some.
 
-Query: [tom cruise]
+**Query:** [tom cruise]
 
 User Location:
 Scottsdale, Arizona
 
-User Intent: Find biographical information or current news/celebrity gossip about Tom Cruise.
+**User Intent:** Find biographical information or current news/celebrity gossip about Tom Cruise.
 
 The LP for this web result contains information about Tom Cruise, which would be helpful for many users or very helpful for some users. The photos and main links can easily be accessed on a phone.
 
 Note that there are many, many pages about Tom Cruise and this result is not helpful enough for a rating of Highly Meets.
 
-Query: [seattle, washington]
+**Query:** [seattle, washington]
 
-User Location: Denver, Colorado
+**User Location:** Denver, Colorado
 
-User Intent: Find information, news, maps, etc. related to Seattle, Washington.
+**User Intent:** Find information, news, maps, etc. related to Seattle, Washington.
 
 This is a broad query for a city. Different users may be looking for different things.
 
 The result shows a map of Seattle, Washington and clicking on the map brings up a more detailed map. This result may be helpful for some users.
 
-Query: [city of angels]
+**Query:** [city of angels]
 
 User Location:
 Los Angeles, California
 
-User Intent: Find information about the movie, song, musical, school, or some other entity by this name.
+**User Intent:** Find information about the movie, song, musical, school, or some other entity by this name.
 
 This result reflects one of several possible user intents, as the query is also the name of a movie, song, musical, and more. However, since the user location is near the school, this result would be very helpful for some users—specifically, users who are looking for the school.
 
@@ -909,37 +898,37 @@ results may serve a minor interpretation, be low quality, have stale or outdated
 
 Query and User Intent Result Rating Slightly Meets Explanation
 
-Query: [britney spears]
+**Query:** [britney spears]
 
-User Location: Baltimore, Maryland
+**User Location:** Baltimore, Maryland
 
-User Intent: Find information about Britney Spears (e.g., current news, pictures).
+**User Intent:** Find information about Britney Spears (e.g., current news, pictures).
 
 The LP of this mobile-friendly web result has a 2006 article about Britney Spears filing for divorce. This is very old, stale news, making the result helpful for few users.
 
-Query: [honda odyssey]
+**Query:** [honda odyssey]
 
-User Location: Miami, Florida
+**User Location:** Miami, Florida
 
-User Intent: We will assume that users are interested in the current Honda Odyssey model, unless specified otherwise.
+**User Intent:** We will assume that users are interested in the current Honda Odyssey model, unless specified otherwise.
 
 Although the LP has comprehensive information from a reputable source, and is easy to use on a mobile device, the information is about the 2010
 Honda Odyssey. This information would be considered stale for the query today, making this result helpful for some or few users.
 
-Query: [hot dog]
+**Query:** [hot dog]
 
 User Location:
 Sunnyvale, California
 
-User Intent: Find information about hot dogs, such as recipes or nutrition information.
+**User Intent:** Find information about hot dogs, such as recipes or nutrition information.
 
 The LP of this web result is about the movie "Hot Dog," which came out in 1984 and is a minor interpretation of this query. Because this is an unlikely interpretation, this web result would be helpful for few users, even though the landing page has good content from a reputable source, and is easy to use on a mobile device.
 
-Query: [motorcycles]
+**Query:** [motorcycles]
 
-User Location: Potsdam, New York
+**User Location:** Potsdam, New York
 
-User Intent: Find information about motorcycles.
+**User Intent:** Find information about motorcycles.
 
 This result provides contact information for one of the two motorcycle shops in Potsdam, New York. It is possible this would be helpful for some users, but many users would be looking for information. Additionally, there is distracting information (a listing for an insurance agent).
 
@@ -1039,11 +1028,11 @@ The following should also be rated **Fails to Meet** because they lead to very p
 
 Query and User Intent Result Rating Fails to Meet Explanation
 
-Query: [dogs]
+**Query:** [dogs]
 
-User Location: Pittsfield Charter Township, Michigan
+**User Location:** Pittsfield Charter Township, Michigan
 
-User Intent: Find information (e.g., pictures, breeds, training details, etc.) related to dogs.
+**User Intent:** Find information (e.g., pictures, breeds, training details, etc.) related to dogs.
 
 > Note: For this query, it is very unlikely users want to go anywhere in person.
 
@@ -1051,11 +1040,11 @@ This is a broad informational query for an animal. Different users may be lookin
 
 This result block shows visit-in-person information for three different dog care providers near the user location. However, the query is very broad and it is unlikely users want to go anywhere in person.
 
-Query: [mike]
+**Query:** [mike]
 
-User Location: Eustis, Florida
+**User Location:** Eustis, Florida
 
-User Intent: Find information about something related to Mike.
+**User Intent:** Find information about something related to Mike.
 
 > Note: For this query, it is unlikely users want to go anywhere in person.
 
@@ -1128,7 +1117,7 @@ Although this is a trustworthy website for information about NFL football, this 
 
 **User Intent:** Navigate to Yellowstone National Park from the user’s location.
 
-This web result (the official homepage of Yellowstone National Park) completely fails to respond to the specific Device Action query: to navigate to the park.
+This web result (the official homepage of Yellowstone National Park) completely fails to respond to the specific Device Action **query:** to navigate to the park.
 
 **Query and User Intent Result Rating Fails to Meet Explanation**
 
