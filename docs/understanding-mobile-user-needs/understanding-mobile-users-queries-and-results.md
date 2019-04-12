@@ -259,7 +259,7 @@ Many queries have more than one likely user intent. Please use your judgment whe
 
 Query Likely User Intent
 
-[harvard] Depending on the user need and location, users may want to visit the official homepage (get directions ( Visit-in-Person ), or learn more about the school ( Know ). Website ),^
+[harvard] Depending on the user need and location, users may want to visit the official homepage (get directions ( Visit-in-Person ), or learn more about the school ( Know ). Website ),
 
 [walmart] Most users want to go to a nearby W( Website ). Some or few users may want to learn more information about the company (almart ( Visit-in-Person ) or view the homepage to shop online Know ).
 
