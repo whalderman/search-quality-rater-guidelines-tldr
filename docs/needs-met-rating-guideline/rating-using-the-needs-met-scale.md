@@ -4,25 +4,15 @@ There are many different kinds of queries and results, but the process of rating
 
 This is what the Needs Met rating slider looks like:
 
-Rating Description
+![The Needs Met Rating scale](../images/img264.jpg)
 
-Fully Meets (FullyM)
-
-A special rating category, which only applies to certain queries and results. All or almost all mobile users would be immediately and fully satisfied by the result and would not need to view other results to satisfy their need.
-
-Highly Meets (HM) Very helpful for many or most mobile users. Some users may wish to see additional results.
-
-Moderately Meets (MM)
-
-Helpful for many users OR very helpful for some mobile users. Some or many users may wish to see additional results.
-
-Slightly Meets (SM)
-
-Helpful for fewer mobile users. There is a connection between the query and the result, but not a strong or satisfying connection. Many or most users would wish to see additional results.
-
-Fails to Meet (FailsM)
-
-Completely fails to meet the needs of the mobile users. All or almost all users would wish to see additional results.
+Rating|Description
+---|---
+**Fully Meets (FullyM)**|A special rating category, which only applies to certain queries and results. All or almost all mobile users would be immediately and fully satisfied by the result and would not need to view other results to satisfy their need.
+**Highly Meets (HM)**|Very helpful for many or most mobile users. Some users may wish to see additional results.
+**Moderately Meets (MM)**|Helpful for many users OR very helpful for some mobile users. Some or many users may wish to see additional results.
+**Slightly Meets (SM)**|Helpful for fewer mobile users. There is a connection between the query and the result, but not a strong or satisfying connection. Many or most users would wish to see additional results.
+**Fails to Meet (FailsM)**|Completely fails to meet the needs of the mobile users. All or almost all users would wish to see additional results.
 
 Please note that you may assign **in-between** ratings. Use in-between ratings if you think the rating of a result falls between two labels. You can either drag the slider or click on the point that you want the slider to land on.
 
@@ -30,54 +20,31 @@ Please note that you may assign **in-between** ratings. Use in-between ratings i
 
 For Needs Met rating, you will assign a rating to each result. Each result includes the content inside the result block and landing pages associated with the result.
 
-**Which part of the result do you rate? It depends on both the query and the result block:**
+Which part of the result do you rate? It depends on both the query and the result block:
 
-Type of Block What to Rate
-
-Special Content Result Block
-(SCRB)
-
-> Note: Assume that interactive result blocks function as intended. Try to interact with the result block as some links, buttons, or other features in your rating task may work.
-
-The content inside this type of block should always play a large role in your rating.
-
-In addition, think about whether a user would click on the link(s) if available, in order to satisfy their user need.
-
-- If most users would not click, rate the Special Content Result Block based on the block content alone.
-- If some or many users would click, you may consider the helpfulness of the landing page(s) in addition to the content in the block. In this case, both need to be helpful to justify a high rating.
-
-Web Search Result Block A click is required, and you should evaluate the landing page to assign a rating.
-
-Device Action Result Block Base your rating on the helpfulness of the action itself.
+Type of Block|What to Rate
+---|---
+**Special Content Result Block (SCRB)**<br/><br/>*Note: Assume that interactive result blocks function as intended. Try to interact with the result block as some links, buttons, or other features in your rating task may work.*|The content inside this type of block should always play a large role in your rating.<br/><br/>In addition, think about whether a user would click on the link(s) if available, in order to satisfy their user need.<br/><br/><ul><li>If most users would not click, rate the Special Content Result Block based on the block content alone.</li><li>If some or many users would click, you may consider the helpfulness of the landing page(s) in addition to the content in the block. In this case, both need to be helpful to justify a high rating.</li></ul>
+**Web Search Result Block**|A click is required, and you should evaluate the landing page to assign a rating.
+**Device Action Result Block**|Base your rating on the helpfulness of the action itself.
 
 For example, think about the query [what does love mean].
 
-Result Block Query: [what does love mean] Rating
-
-Special Content Result Block
-
-Most users would probably not click on the Special Content Result Block, because the block contains a large amount of helpful content and has no obvious landing page link associated with it.
-
-Therefore, base your rating on the content inside the block itself.
-
-Web Search Result Block
-
-In this case, users would have to click on the web search result in order to get an answer to the question.
-
-Therefore, base your rating on the content of the landing page.
+Result Block|Query: [what does love mean]|Rating
+---|---|---
+**Special Content Result Block**|![what does love mean Special Content Result Block](../images/img266.jpg)|Most users would probably not click on the Special Content Result Block, because the block contains a large amount of helpful content and has no obvious landing page link associated with it.<br/><br/>Therefore, base your rating on the content inside the block itself.
+**Web Search Result Block**|![what does love mean Web Search Result Block](../images/img267.jpg)|In this case, users would have to click on the web search result in order to get an answer to the question.<br/><br/>Therefore, base your rating on the content of the landing page.
 
 Here are some examples of Special Content Result Blocks where the block should be rated primarily on the content inside the block itself. As always, please use your judgment.
 
-Query and Special Content Result Block
-
-Query: [utopia animal hospital]
-Query: [chicago weather]
-Query: [calories in a banana]
-
-Query: [how to find security code on visa]
-
-Query: [how did Lincoln die]
-Query: [movies san francisco]
+Query|Special Content Result Block
+---|---
+Query: [utopia animal hospital]|![](../images/img269.jpg)
+Query: [chicago weather]|![](../images/img270.jpg)
+Query: [calories in a banana]|![](../images/img271.jpg)
+Query: [how to find security code on visa]|![](../images/img272.jpg)
+Query: [how did Lincoln die]|![](../images/img273.jpg)
+Query: [movies san francisco]|![](../images/img274.jpg)
 
 ## Fully Meets (FullyM)
 
@@ -91,9 +58,9 @@ In other words, the **Fully Meets** rating should be reserved for results that a
 
 You will need to use your judgment to decide whether a result block can **Fully Meet** the user need. Here are some scenarios when the **Fully Meets** rating is appropriate:
 
-- The user is clearly looking for a specific webpage or website and the result block with the specific webpage or website Fully Meets the user’s need.
+- The user is clearly looking for a specific webpage or website and the result block with the specific webpage or website **Fully Meets** the user’s need.
 - The user is trying to complete a device action and the result block accomplishes the desired request.
-- The user is looking for a very specific fact or piece of information and the result block provides the information immediately, thoroughly, accurately, and clearly. No other results would be needed. Before using the Fully Meets rating for queries seeking a very specific fact or piece of information, you must check for accuracy and confirm that the information is supported by expert consensus where such consensus exists.
+- The user is looking for a very specific fact or piece of information and the result block provides the information immediately, thoroughly, accurately, and clearly. No other results would be needed. Before using the **Fully Meets** rating for queries seeking a very specific fact or piece of information, you must check for accuracy and confirm that the information is supported by expert consensus where such consensus exists.
 
 **Fully Meets** may apply in other situations as well. Ask yourself whether the result block alone is the perfect and complete result that would fully satisfy all or almost all users. Be conservative when using the **Fully Meets** rating. When in doubt, consider a lower rating.
 
