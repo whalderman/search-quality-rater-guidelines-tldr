@@ -8,7 +8,7 @@ People rely on their phones for many different tasks in different environments. 
 
 We expect our phones to do a lot. At the same time, phones can be challenging to use, especially compared to a desktop computer or laptop:
 
-- **Entering data may be cumbersome**: typing is difficult on mobile smartphones, and when users speak to their phones instead of typing, voice recognition may not always be accurate.
+- **Entering data may be cumbersome:** typing is difficult on mobile smartphones, and when users speak to their phones instead of typing, voice recognition may not always be accurate.
 - **Small screen sizes** make it difficult to use some phone features, apps, and webpages.
 - **Some webpages are difficult to use on a mobile phone**. Website navigation can be difficult as menus and navigation links may be small. Webpages may require left-to-right scrolling to read text. Images may not fit on the screen. In addition, many mobile devices cannot access webpages with Flash or other similar features.
 - **Internet connectivity can be slow and inconsistent** for mobile users going in and out of networks. App opening, recognition of voice commands, and webpage load times can be very slow on a mobile phone.
@@ -22,29 +22,29 @@ In order to do mobile rating tasks, you must have experience using a mobile smar
 
 ## Important Rating Definitions and Ideas
 
-**Query**: This refers to the word(s) and/or number(s) that a user types or speaks into a mobile phone. In these guidelines, queries have square brackets around them. If a user says "navigate home," we display: [navigate home]. If a user types "iPhone" in the search box, we display: [iphone].
+**Query:** This refers to the word(s) and/or number(s) that a user types or speaks into a mobile phone. In these guidelines, queries have square brackets around them. If a user says "navigate home," we display: [navigate home]. If a user types "iPhone" in the search box, we display: [iphone].
 
 There are many different types of queries because users ask their phones to do many things, from opening an app to calling a friend to searching the web.
 
 **User** T:he user is the person trying to accomplish something by typing or speaking into a mobile phone with a small screen (i.e., size of a smartphone, not a tablet).
 
-**User Intent**: When a user types or speaks a query, he or she is trying to accomplish something. We refer to this goal as the user intent.
+**User Intent:** When a user types or speaks a query, he or she is trying to accomplish something. We refer to this goal as the user intent.
 
-**Locale**: All queries have a locale, which is the language and location for the task. Locales are represented by a two-letter country code. For a current list of country codes, [click here](https://guidelines.raterhub.com/images/RG1_1.2-1.jpg). We sometimes refer to the locale as the task location.
+**Locale:** All queries have a locale, which is the language and location for the task. Locales are represented by a two-letter country code. For a current list of country codes, [click here](https://guidelines.raterhub.com/images/RG1_1.2-1.jpg). We sometimes refer to the locale as the task location.
 
-**User Location**: This tells us where the user is located, and should be inferred from the map provided.
+**User Location:** This tells us where the user is located, and should be inferred from the map provided.
 
-**Search Engine Results Page (SERP)**: The page a search engine shows after a user enters a query in the search box. The SERP is made up of **result blocks**.
+**Search Engine Results Page (SERP):** The page a search engine shows after a user enters a query in the search box. The SERP is made up of **result blocks**.
 
-**Result**: We will use the word **result** to refer to the result block _and_ the landing page.
+**Result:** We will use the word **result** to refer to the result block _and_ the landing page.
 
-- **Result Block**: This is an individual "block" that appears on the user’s phone in response to the query. The result block may display information in the block itself or contain links, or may do both.
+- **Result Block:** This is an individual "block" that appears on the user’s phone in response to the query. The result block may display information in the block itself or contain links, or may do both.
 - The **Landing Page ( LP )** is the page you see after you click a link in the result block.
 
-**Device Actions**: Mobile phones and other devices can respond to voice commands to perform many actions, such as setting an alarm or opening an app. This is a specific type of query that we’ll refer to as a **Device Action** query.
+**Device Actions:** Mobile phones and other devices can respond to voice commands to perform many actions, such as setting an alarm or opening an app. This is a specific type of query that we’ll refer to as a **Device Action** query.
 
-- **Device Action query**: Specific type of query where users ask their phone to perform an action. These are frequently spoken commands used to complete actions that would normally require interaction with the screen or the device's controls.
-- **Device Action result**: The phone may respond to a **Device Action** query by performing an action, suchas calling a phone number, etc.
+- **Device Action query:** Specific type of query where users ask their phone to perform an action. These are frequently spoken commands used to complete actions that would normally require interaction with the screen or the device's controls.
+- **Device Action result:** The phone may respond to a **Device Action** query by performing an action, suchas calling a phone number, etc.
 
 ## Understanding the Query
 
@@ -52,7 +52,7 @@ Understanding the query is the first step in evaluating the task. Remember, a qu
 
 Some tasks include a query research link, which you should use if you don’t understand the query or user intent. Otherwise, please do web research using Google or an online dictionary or encyclopedia. If you still don’t understand the query or user intent, please release the task.
 
-**Important**: If you research the query on Google, please do not rely on the top results on the SERP. A query may have other meanings not represented on Google’s search results pages. Do not assign a high rating to a webpage just because it appears at the top of a list of search results on Google.
+**Important:** If you research the query on Google, please do not rely on the top results on the SERP. A query may have other meanings not represented on Google’s search results pages. Do not assign a high rating to a webpage just because it appears at the top of a list of search results on Google.
 
 Think about users in your locale typing or speaking the following queries into their phone.
 
@@ -90,11 +90,11 @@ When there is an explicit location in the query, pay attention to it! Users use 
 
 Many queries have more than one meaning. For example, the query [apple] might refer to the computer brand or the fruit. We will call these possible meanings **query interpretations**.
 
-**Dominant Interpretation**: The _dominant interpretation_ of a query is what most users mean when they type the query. Not all queries have a dominant interpretation. The dominant interpretation should be clear to you, especially after doing a little web research.
+**Dominant Interpretation:** The _dominant interpretation_ of a query is what most users mean when they type the query. Not all queries have a dominant interpretation. The dominant interpretation should be clear to you, especially after doing a little web research.
 
-**Common Interpretation**: A _common interpretation_ of a query is what many or some users mean when they type a query. A query can have multiple common interpretations.
+**Common Interpretation:** A _common interpretation_ of a query is what many or some users mean when they type a query. A query can have multiple common interpretations.
 
-**Minor Interpretations**: Sometimes you will find less common interpretations. These are interpretations that few users have in mind. We will call these _minor interpretations_.
+**Minor Interpretations:** Sometimes you will find less common interpretations. These are interpretations that few users have in mind. We will call these _minor interpretations_.
 
 **Query: [apple]**\
 **Locale: English (US)**
@@ -222,7 +222,7 @@ Queries with Visit-in-Person Intent|Query with Non-Visit-in-Person Intent
 ---|---
 ![query for chinese restaurants](../images/img220.jpg)![user intent for chinese restaurants](../images/img221.jpg)|![query for tom cruise's height](../images/img222.jpg)![user intent for tom cruise's height](../images/img223.jpg)
 ![query for gas stations](../images/img224.jpg)![user intent for gas stations](../images/img225.jpg)|![query for iq test](../images/img226.jpg)![user intent for iq test](../images/img227.jpg)
-**More examples**: [pizza], [yoga class], [coffee shops], [movie showtimes], [car repair], [dentists], [bank of america atm locations], [starbucks near me]|**More examples**: [boston red sox], [washington post], [scrabble cheat], [definition of sedentary], [aapl], [beyonce], [angry birds], [small dog breeds], [dance videos], [oscars 2012], [pick up lines], [bank of america login]
+**More examples:** [pizza], [yoga class], [coffee shops], [movie showtimes], [car repair], [dentists], [bank of america atm locations], [starbucks near me]|**More examples:** [boston red sox], [washington post], [scrabble cheat], [definition of sedentary], [aapl], [beyonce], [angry birds], [small dog breeds], [dance videos], [oscars 2012], [pick up lines], [bank of america login]
 
 And some queries could go either way. Some users may want nearby results and others may not.
 
@@ -257,11 +257,10 @@ Use your common sense when thinking about queries and whether they have possible
 
 Many queries have more than one likely user intent. Please use your judgment when trying to decide if one intent is more likely than another intent.
 
-Query Likely User Intent
-
-[harvard] Depending on the user need and location, users may want to visit the official homepage (get directions ( Visit-in-Person ), or learn more about the school ( Know ). Website ),
-
-[walmart] Most users want to go to a nearby W( Website ). Some or few users may want to learn more information about the company (almart ( Visit-in-Person ) or view the homepage to shop online Know ).
+Query|Likely User Intent
+---|---
+[harvard]|Depending on the user need and location, users may want to visit the official homepage (**Website**), get directions,(**Visit-in-Person**), or learn more about the school (**Know**).
+[walmart]|Most users want to go to a nearby Walmart (**Visit-in-Person**) or view the homepage to shop online (**Website**). Some or few users may want to learn more information about the company (**Know**).
 
 ## Understanding Result Blocks
 
@@ -271,21 +270,10 @@ The following sections contain examples of different types of queries and result
 
 Web Search Result Blocks typically have a title link, a URL and a "snippet" of text describing the page. For many queries, Web Search Result Blocks are the most helpful type of result.
 
-Query, User Location, User Intent Web Search Result Block
-
-Query: [cuisinart food processor reviews]
-
-User Location: Oklahoma City, Oklahoma
-
-User Intent: This is a Know query. The user wants to find recent reviews of Cuisinart food processors.
-
-Result: This is a Web Search Result Block that has a link to a landing page with Cuisinart reviews.
-
-Query: [broadway tickets]
-
-User Location: New York City, New York
-
-User Intent: This is a Know query or Do query. The user wants to search prices and/or purchase tickets to a Broadway show in New York City.
+Query, User Location, User Intent|Web Search Result Block
+---|---
+**Query:** [cuisinart food processor reviews]<br/><br/>**User Location:** Oklahoma City, Oklahoma<br/><br/>**User Intent:** This is a **Know** query. The user wants to find recent reviews of Cuisinart food processors.<br/><br/>**Result:** This is a Web Search Result Block that has a link to a landing page with Cuisinart reviews.|![web search result block](../images/img236.jpg)
+**Query:** [broadway tickets]<br/><br/>**User Location:** New York City, New York<br/><br/>**User Intent:** This is a **Know** query or **Do** query. The user wants to search prices and/or purchase tickets to a Broadway show in New York City.|![web search result block](../images/img237.jpg)
 
 ### Special Content Result Block Examples
 
@@ -293,156 +281,77 @@ Special Content Result Blocks (SCRBs) appear in the search results page, along w
 
 Special Content Result Blocks are designed to show content directly to users on the search results page. From working calculators to playable videos to interactive weather information, these results help users immediately get information or content, and may not require additional "clicks" or page loads.
 
-Because mobile phones can be difficult to use, SCRBs can help mobile phone users accomplish their tasks very quickly, especially for certain **Know Simple** , **Visit-in-Person** , and **Do** queries.
+Because mobile phones can be difficult to use, SCRBs can help mobile phone users accomplish their tasks very quickly, especially for certain **Know Simple**, **Visit-in-Person**, and **Do** queries.
 
-**Important**: Please assume that any interactive features work and function properly. Some notes:
+**Important:** Please assume that any interactive features work and function properly. Some notes:
 
-- All result blocks are "screenshots" or images of search results with prominent links enabled. Unfortunately, a screenshot or image of an interactive result block will not function as it would for a real user. For the purpose of rating, please assume that interactive result blocks do function as intended. Try to interact with the result block as some links, buttons, or other features may work.
-- There may be a delay between when the rating task is created and when you actually rate the block, causing some information in special content result blocks to be a few hours or even days out of date. Stock price or weather informational blocks are designed to give users extremely current and timely information. However, due to a delay in rating time, the information may no longer be accurate.Don’t penalize a special content result block for being out of date. Assume that the blocks show current information for users, unless instructed otherwise.
+- All result blocks are "screenshots" or images of search results with prominent links enabled. Unfortunately, a screenshot or image of an interactive result block will not function as it would for a real user. **For the purpose of rating, please assume that interactive result blocks do function as intended.** Try to interact with the result block as some links, buttons, or other features may work.
+- There may be a delay between when the rating task is created and when you actually rate the block, causing some information in special content result blocks to be a few hours or even days out of date. Stock price or weather informational blocks are designed to give users extremely current and timely information. However, due to a delay in rating time, the information may no longer be accurate.Don’t penalize a special content result block for being out of date. **Assume that the blocks show current information for users, unless instructed otherwise.**
 
-Query, User Location, User Intent Special Content Result Block
-
-Query: [weather]
-
-User Location: Chicago, Illinois
-
-User Intent: This is a Know Simple query since mobile users have a fairly simple informational need: find the current temperature and chance of rain or snow. The user wants to know the weather for the User Location.
-
-> Note: Assume the block shows current information for users.
-
-**Query, User Location, User Intent** **Special Content Result Block**
-
-**Query:** [emma stone movies]
-
-**User Location:** Des Moines, Iowa
-
-**User Intent:** This is a **Know** query. The user wants to get information on movies with Emma Stone.
-
-**Result:** In this result block, users can immediately see some popular movies starring Emma Stone, with an option to click on the links to learn more about each movie. Users can also swipe to see a list of more movies.
-
-**Query:** [calories in a banana]
-
-**User Location:** Oakland, California
-
-**User Intent:** This is a **Know Simple** query. The user wants to find out how many calories are in a banana.
-
-**Query:** [baseball scores]
-
-**User Location:** Wichita, Kansas
-
-**User Intent:** This is a **Know** query. The user wants to find the most recent Major League Baseball scores.
-
-Query, User Location, User Intent Special Content Result Block
-
-Query: [coldplay fix you video]
-
-User Location: New Orleans, Louisiana
-
-User Intent: This is a Do query. The user wants to watch the music video for the song
-"Fix You" by Coldplay.
-
-Result: By clicking on this result block, users can play the music video for the song on their phone, learn more about the artist/album, etc.
-
-Query: [what is the tallest tree]
-
-User Location: Boise, Idaho
-
-User Intent: This is a Know Simple query. The user wants to know what type of tree is the tallest.
+Query, User Location, User Intent|Special Content Result Block
+---|---
+**Query:** [weather]<br/><br/>**User Location:** Chicago, Illinois<br/><br/>**User Intent:** This is a **Know Simple** query since mobile users have a fairly simple informational need: find the current temperature and chance of rain or snow. The user wants to know the weather for the User Location.<br/><br/>_**Note:** Assume the block shows current information for users._|![special content result block](../images/img240.jpg)
+**Query:** [emma stone movies]<br/><br/>**User Location:** Des Moines, Iowa<br/><br/>**User Intent:** This is a **Know** query. The user wants to get information on movies with Emma Stone.<br/><br/>**Result:** In this result block, users can immediately see some popular movies starring Emma Stone, with an option to click on the links to learn more about each movie. Users can also swipe to see a list of more movies.|![special content result block](../images/img242.jpg)
+**Query:** [calories in a banana]<br/><br/>**User Location:** Oakland, California<br/><br/>**User Intent:** This is a **Know Simple** query. The user wants to find out how many calories are in a banana.|![special content result block](../images/img243.jpg)
+**Query:** [baseball scores]<br/><br/>**User Location:** Wichita, Kansas<br/><br/>**User Intent:** This is a **Know** query. The user wants to find the most recent Major League Baseball scores.|![special content result block](../images/img244.jpg)
+**Query:** [coldplay fix you video]<br/><br/>**User Location:** New Orleans, Louisiana<br/><br/>**User Intent:** This is a **Do** query. The user wants to watch the music video for the song "Fix You" by Coldplay.<br/><br/>**Result:** By clicking on this result block, users can play the music video for the song on their phone, learn more about the artist/album, etc.|![special content result block](../images/img246.jpg)
+**Query:** [what is the tallest tree]<br/><br/>**User Location:** Boise, Idaho<br/><br/>**User Intent:** This is a **Know Simple** query. The user wants to know what type of tree is the tallest.|![special content result block](../images/img247.jpg)
 
 ### Device Action Result Block Examples
 
-A mobile phone should respond to a **Device Action** query and do what the user is asking. If the block is a **Device Action**
-query to open an app, please assume that the user has the app installed on their phone. If the query is to download the app, please assume that the user does not have the app installed on their phone.
+A mobile phone should respond to a **Device Action** query and do what the user is asking. If the block is a **Device Action** query to open an app, please assume that the user has the app installed on their phone. If the query is to download the app, please assume that the user does not have the app installed on their phone.
 
-Query, User Location, User Intent, Result Device Action Result Block
-
-Query: [open angry birds]
-
-User Location: Little Rock, Arkansas
-
-User Intent: This is a Device Action query. The user wants the device to open the Angry Birds app so he/she can play the game.
-
-Result: In this result block, users can click the link to open the app.
-
-**Query, User Location, User Intent, Result Device Action Result Block**
-
-**Query:** [go to amazon.com]
-
-**User Location**: Glendale California
-
-**User Intent:** This is a **Device Action** query. The user wants to go to amazon.com to interact with the website.
-
-**Result:** In this result block, users can click the links to go directly to the website.
-
-**Query**: [set alarm for 5 o’clock am]
-
-**User Location**: Tacoma, Washington
-
-**User Intent:** This is a **Device Action** query. The user wants to set the device’s alarm to go off at 5:00 AM.
-
-**Result:** In this result block, the query has initiated the alarm on the phone to be set for
-5:00 AM.^
-
-**Query**: [send text to mom]
-
-**User Location**: Tacoma, Washington
-
-**User Intent:** This is a **Device Action** query. The user wants to send a text message to a contact nicknamed "Mom."
-
-**Result:** In this Device Action Result Block, the query has initiated a text to the contact nicknamed "Mom," with an option to text either the work or mobile number.
-
-Query, User Location, User Intent, Result Device Action Result Block
-
-Query: [call best buy]
-
-User Location: Mountain View, California
-
-User Intent: This is a Device Action query. The user wants to call the nearest Best Buy store.
-
-Result: In this Device Action Result Block, the query has initiated a call to the nearest Best Buy location.
+Query, User Location, User Intent, Result|Device Action Result Block
+---|---
+**Query:** [open angry birds]<br/><br/>**User Location:** Little Rock, Arkansas<br/><br/>**User Intent:** This is a **Device Action** query. The user wants the device to open the Angry Birds app so he/she can play the game.<br/><br/>**Result:** In this result block, users can click the link to open the app.|![device action result block](../images/img248.jpg)
+**Query:** [go to amazon.com]<br/><br/>**User Location:** Glendale California<br/><br/>**User Intent:** This is a **Device Action** query. The user wants to go to amazon.com to interact with the website.<br/><br/>**Result:** In this result block, users can click the links to go directly to the website.|![device action result block](../images/img250.jpg)
+**Query:** [set alarm for 5 o’clock am]<br/><br/>**User Location:** Tacoma, Washington<br/><br/>**User Intent:** This is a **Device Action** query. The user wants to set the device’s alarm to go off at 5:00 AM.<br/><br/>**Result:** In this result block, the query has initiated the alarm on the phone to be set for 5:00 AM.|![device action result block](../images/img251.jpg)
+**Query:** [send text to mom]<br/><br/>**User Location:** Tacoma, Washington<br/><br/>**User Intent:** This is a **Device Action** query. The user wants to send a text message to a contact nicknamed "Mom."<br/><br/>**Result:** In this Device Action Result Block, the query has initiated a text to the contact nicknamed "Mom," with an option to text either the work or mobile number.|![device action result block](../images/img252.jpg)
+**Query:** [call best buy]<br/><br/>**User Location:** Mountain View, California<br/><br/>**User Intent:** This is a **Device Action** query. The user wants to call the nearest Best Buy store.<br/><br/>**Result:** In this Device Action Result Block, the query has initiated a call to the nearest Best Buy location.|![device action result block](../images/img254.jpg)
 
 ### How Device Action Results are Displayed in Rating Tasks
 
-**Important note**: Users issuing queries actually experience the phone’s response to the query, while raters are given a description of it. If an iPhone user says "Siri, call Mom," the iPhone displays a visual prompt to show that it’s dialing a phone number. In these rating tasks, you will see a description of this action.
+**Important note:** Users issuing queries actually experience the phone’s response to the query, while raters are given a description of it. If an iPhone user says "Siri, call Mom," the iPhone displays a visual prompt to show that it’s dialing a phone number. In these rating tasks, you will see a description of this action.
 
 Please also assume that the phone successfully performs the action in a fully satisfying way.
 
 Below are some additional examples of **Device Action** queries, along with the corresponding "action text" displayed in the rating task.
 
-This is what the user sees on his or her phone for the Device Action query
-
-This is what you (the rater) might see in the rating task
-
-The left side shows what the user sees on the phone for the query [set alarm for 30 mins], while the right side shows the
-"action text" that you (the rater) might see in the rating task. The text on the right indicates that the user issued the query at 1:48 PM (13:48:00), and the device has set its alarm to go off 30 minutes later at 2:18 PM (14:18:00).
-
-This is what the **user** sees on his or her phone for the
-**Device Action** query
-
-This is what you (the rater) might see in the rating task
-
-The left side shows what the user sees on the phone for the query [open facebook app]. In this case, the phone shows an "Opening app" message and then opens the app. The right side shows the "action text" that you (the rater) might see in the rating task. The text indicates that the device responded by opening the Facebook app on the user’s phone.
-
-The left side shows what the user sees on the phone for the query [call dan], while the right side shows the "action text"
-that you (the rater) might see in the rating task. The user wants to dial the number stored for the contact "Dan" on the device. This text indicates that the device responded by displaying the contact’s phone number and dialing the number.
-
-This is what the **user** sees on his or her phone for the
-**Device Action** query
-
-This is what you (the rater) might see in the rating task
-
-For some **Device Action** queries, the device displays a list of options to choose from before it can respond to the
-**Device Action** query. Here is an example for the query [call target]. The user is shown a list of Target stores in the area to choose from. This example shows that the Device Action result taken by the device will be to call the desired Target store after the user makes his/her selection.
-
-Here is an example for the query [play adele]. The user is shown a "Play media" type of result. In this case, since the user wants to play music, the Device Action result shown is a "Play Music" button to click. Clicking this button will play the specified song if the user has the song on his/her device. If not, clicking the result box will give the user options to hear the specified song online.
+This is what the **user** sees on his or her phone for the **Device Action** query|This is what **you (the rater)** might see in the rating task
+---|---
+![](../images/img255.jpg)
+|||
+---|---
+The left side shows what the user sees on the phone for the query [set alarm for 30 mins], while the right side shows the "action text" that you (the rater) might see in the rating task.|The text on the right indicates that the user issued the query at 1:48 PM (13:48:00), and the device has set its alarm to go off 30 minutes later at 2:18 PM (14:18:00).
+![](../images/img257.jpg)
+|||
+---|---
+The left side shows what the user sees on the phone for the query [open facebook app]. In this case, the phone shows an "Opening app" message and then opens the app.|The right side shows the "action text" that you (the rater) might see in the rating task. The text indicates that the device responded by opening the Facebook app on the user’s phone.
+![](../images/img258.jpg)
+|||
+---|---
+The left side shows what the user sees on the phone for the query [call dan], while the right side shows the "action text" that you (the rater) might see in the rating task.|The user wants to dial the number stored for the contact "Dan" on the device. This text indicates that the device responded by displaying the contact’s phone number and dialing the number.
+![](../images/img260.jpg)
+|||
+---|---
+For some **Device Action** queries, the device displays a list of options to choose from before it can respond to the **Device Action** query. Here is an example for the query [call target]. The user is shown a list of Target stores in the area to choose from.|This example shows that the Device Action result taken by the device will be to call the desired Target store after the user makes his/her selection.
+![](../images/img261.jpg)
+|||
+---|---
+Here is an example for the query [play adele]. The user is shown a "Play media" type of result. In this case, since the user wants to play music, the Device Action result shown is a "Play Music" button to click.|Clicking this button will play the specified song if the user has the song on his/her device. If not, clicking the result box will give the user options to hear the specified song online.
 
 ## Rating on Your Phone Issues
 
 We understand that raters using different phones, operating systems, and browsers may have different experiences. In general, do what you would do naturally, and rate based on your experience. Here are some additional points to keep in mind when you are rating on your phone:
 
 - If you see one of these messages when you open a landing page on your phone:
+
   - Asks whether you want to open the page in the browser or the website’s app: select and evaluate the webpage. However, if the result automatically opens an app by default based on your phone’s setting (e.g. some users have set all YouTube pages to automatically open the result in the YouTube app), you should rate your natural app experience—you do not have to change your phone’s default settings.
+
   - Asks whether you want to visit the mobile page or desktop page: it is fine to select the mobile page as long as the landing page is the same. Sometimes, the mobile option will bring you to the mobile homepage instead of the specific URL in the task. You may need to check that the mobile page is in fact the same URL as the desktop page.
+
 - Please open and look at PDF files. Your experience may be easier or harder than other users depending on your phone and browser, but you should still open the PDF file and look at it.
+
 - Occasionally, you may be assigned some of these rating tasks on a desktop computer, but please rate from the perspective of a mobile user unless otherwise instructed.
+
 - You should assume queries were issued on a smartphone. For some queries, there are results that are helpful for specific types of phones—for example, some apps will only work on an Android or iPhone. Please assume that queries with device-specific results were issued on an Android device, unless explicitly stated otherwise in the instructions.

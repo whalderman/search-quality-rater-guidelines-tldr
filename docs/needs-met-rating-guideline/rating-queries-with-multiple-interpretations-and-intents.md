@@ -6,8 +6,8 @@ Some queries truly have different possible meanings. Consider the query [apple],
 
 When giving Needs Met ratings for results involving different query interpretations, think about how likely the query interpretation is and how helpful the result is.
 
-- A very helpful result for a dominant interpretation should be rated Highly Meets , because it is very helpful for many or most users. Some queries with a dominant interpretation have a FullyM result.
-- A very helpful result for a common interpretation may be Highly Meets or Moderately Meets , depending on how likely the interpretation is.
+- A very helpful result for a dominant interpretation should be rated Highly Meets, because it is very helpful for many or most users. Some queries with a dominant interpretation have a FullyM result.
+- A very helpful result for a common interpretation may be Highly Meets or Moderately Meets, depending on how likely the interpretation is.
 - A very helpful result for a very minor interpretation may be Slightly Meets or lower because few users may be interested in that interpretation.
 - There are some interpretations that are so unlikely that results should be rated FailsM. We call these "no chance"
 interpretations.

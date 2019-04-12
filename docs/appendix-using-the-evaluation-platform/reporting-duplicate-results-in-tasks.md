@@ -34,7 +34,7 @@ When you notice that the results in two or more result blocks are duplicates, pl
 You can then check results that are duplicates of the current result, and the checked results will be highlighted in yellow. You must select the " **Dupe of** ..." button.
 
 The duplicate results that you checked will be annotated by " **Dupe of** ..." text at the top of the block. After selecting all dupes, click on the **finish selecting dupes** link to return to the normal rating mode. The link’s name will change back to
-**Select Dupes** , and you will be able to report other sets of dupes, if there are any. If you change your mind, you can always uncheck a result.
+**Select Dupes**, and you will be able to report other sets of dupes, if there are any. If you change your mind, you can always uncheck a result.
 
 **Dupes**
 QUERY: [choosing and installing a motorcycle battery]

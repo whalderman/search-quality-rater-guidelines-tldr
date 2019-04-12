@@ -8,7 +8,7 @@ Some results don’t have a E-A-T slider. If a result block has no E-A-T rating 
 
 Here is some guidance about assigning Needs Met and E-A-T ratings:
 
-- Useless results should always be rated **FailsM** , even if the landing page has a high E-A-T rating. Useless is useless.
+- Useless results should always be rated **FailsM**, even if the landing page has a high E-A-T rating. Useless is useless.
 - On-topic, helpful, but low E-A-T results should get lower Needs Met ratings than on-topic, helpful, and high E-A-T results. The Needs Met scale encompasses all aspects of "helpfulness," and many users find low E-A-T results less helpful than high E-A-T results. Your ratings should reflect this.
 - The **HM** rating should be given to helpful, high E-A-T pages that are a good fit for the query. The **HM** rating may also be used for results that are very helpful, medium quality, and have other very desirable characteristics, such as very recent information.
 - Do not use the **HM** rating if a page has low E-A-T or has any other undesirable characteristic, such as outdated or inaccurate information, or if it is a poor fit for the query. We have very high standards for the **HM** rating.
