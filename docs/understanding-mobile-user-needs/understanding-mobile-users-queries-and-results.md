@@ -319,23 +319,23 @@ Below are some additional examples of **Device Action** queries, along with the 
 
 This is what the **user** sees on his or her phone for the **Device Action** query|This is what **you (the rater)** might see in the rating task
 ---|---
-![](../images/img255.jpg)
+![device action query example 1](../images/img255.jpg)
 |||
 ---|---
 The left side shows what the user sees on the phone for the query [set alarm for 30 mins], while the right side shows the "action text" that you (the rater) might see in the rating task.|The text on the right indicates that the user issued the query at 1:48 PM (13:48:00), and the device has set its alarm to go off 30 minutes later at 2:18 PM (14:18:00).
-![](../images/img257.jpg)
+![device action query example 2](../images/img257.jpg)
 |||
 ---|---
 The left side shows what the user sees on the phone for the query [open facebook app]. In this case, the phone shows an "Opening app" message and then opens the app.|The right side shows the "action text" that you (the rater) might see in the rating task. The text indicates that the device responded by opening the Facebook app on the user’s phone.
-![](../images/img258.jpg)
+![device action query example 3](../images/img258.jpg)
 |||
 ---|---
 The left side shows what the user sees on the phone for the query [call dan], while the right side shows the "action text" that you (the rater) might see in the rating task.|The user wants to dial the number stored for the contact "Dan" on the device. This text indicates that the device responded by displaying the contact’s phone number and dialing the number.
-![](../images/img260.jpg)
+![device action query example 4](../images/img260.jpg)
 |||
 ---|---
 For some **Device Action** queries, the device displays a list of options to choose from before it can respond to the **Device Action** query. Here is an example for the query [call target]. The user is shown a list of Target stores in the area to choose from.|This example shows that the Device Action result taken by the device will be to call the desired Target store after the user makes his/her selection.
-![](../images/img261.jpg)
+![device action query example 5](../images/img261.jpg)
 |||
 ---|---
 Here is an example for the query [play adele]. The user is shown a "Play media" type of result. In this case, since the user wants to play music, the Device Action result shown is a "Play Music" button to click.|Clicking this button will play the specified song if the user has the song on his/her device. If not, clicking the result box will give the user options to hear the specified song online.
