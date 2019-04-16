@@ -4,7 +4,7 @@ There are many different kinds of queries and results, but the process of rating
 
 This is what the Needs Met rating slider looks like:
 
-![The Needs Met Rating scale](../images/img264.jpg)
+![The Needs Met Rating scale](../images/needs-met-scale.jpg)
 
 Rating|Description
 ---|---
@@ -74,349 +74,249 @@ Query and User Intent|Result|Rating Fully Meets|Explanation
 ---|---|---|---
 
 **Query:** [amazon.com]<br/><br/>**User Location:** Austin, Texas<br/><br/>**User Intent:** Go to amazon.com.
-
-What you might see in the rating task:<br/><br/>Action: Open a specific webpage<br/><br/>URL: http://www.amazon.com/<br/><br/>Website Name: Amazon.com:<br/>Online Shopping for Electronics, Apparel, Computers ...
-
+|
+![fully meets example]()
+|
+![rating: fully meets]()<br/><br/>**What you might see in the rating task:**<br/><br/>Action: Open a specific webpage<br/><br/>URL: http://www.amazon.com/<br/><br/>Website Name: Amazon.com:<br/>Online Shopping for Electronics, Apparel, Computers ...
+|
 The query has clear intent to go to amazon.com and the phone is opening the specified website.
 
-**Query and User Intent Result Rating Fully Meets Explanation**
-
-**Query:** [amazon]
-
-**User Location** :
-Austin, Texas
-
-**User Intent:** Go to the Amazon website.
-
+**Query:** [amazon]<br/><br/>**User Location:** Austin, Texas<br/><br/>**User Intent:** Go to the Amazon website.
+|
+![fully meets example]()
+|
+![rating: fully meets]()
+|
 The query has clear intent to go to the amazon.com website. While there may be other interpretations for the query, the dominant one is by far the website.
 
-**Query**: [target website]
-
-**User Location**: Jacksonville, Florida
-
-**User Intent:** Go to the Target website.
-
+**Query:** [target website]<br/><br/>**User Location:** Jacksonville, Florida<br/><br/>**User Intent:** Go to the Target website.
+|
+![fully meets example]()
+|
+![rating: fully meets]()
+|
 The query has clear intent to go to target.com.
 
-**Query:** [shop nordstrom online]
-
-**User Location:** Monterey, California
-
-**User Intent:** Go to the Nordstrom website for online shopping.
-
+**Query:** [shop nordstrom online]<br/><br/>**User Location:** Monterey, California<br/><br/>**User Intent:** Go to the Nordstrom website for online shopping.
+|
+![fully meets example]()
+|
+![rating: fully meets]()
+|
 The query has clear intent to go to the Nordstrom website.
 
-**Query:** [titanic imdb]
-
-**User Location:** Lexington, Kentucky
-
-**User Intent:** Go to the IMDb page for Titanic.
-
+**Query:** [titanic imdb]<br/><br/>**User Location:** Lexington, Kentucky<br/><br/>**User Intent:** Go to the IMDb page for Titanic.
+|
+![fully meets example]()
+|
+![rating: fully meets]()
+|
 The query has clear intent to go to the IMDb page for Titanic.
 
-**Query:** [www.yahoo.c0m]
-
-**User Location:** Denver, Colorado
-
-**User Intent:** Go to the Yahoo website.
-
+**Query:** [www.yahoo.c0m]<br/><br/>**User Location:** Denver, Colorado<br/><br/>**User Intent:** Go to the Yahoo website.
+|
+![fully meets example]()
+|
+![rating: fully meets]()
+|
 Even though this is an imperfect URL query, it’s clear the user wants to go to the Yahoo website.
 
-**Query:** [cnn health]
-
-**User Location:** Annapolis, Maryland
-
-**User Intent:** Go to the Health section of cnn.com.
-
+**Query:** [cnn health]<br/><br/>**User Location:** Annapolis, Maryland<br/><br/>**User Intent:** Go to the Health section of cnn.com.
+|
+![fully meets example]()
+|
+![rating: fully meets]()
+|
 The query has clear intent to go to the Health section of the cnn.com webpage.
 
-**Query:** [cnn]
-
-**User Location:** Annapolis, Maryland
-
-**User Intent:** Go to the CNN website.
-
+**Query:** [cnn]<br/><br/>**User Location:** Annapolis, Maryland<br/><br/>**User Intent:** Go to the CNN website.
+|
+![fully meets example]()
+|
+![rating: fully meets]()
+|
 The query has clear intent to access CNN news and content. The website has the content the user is searching for, and fully satisfies the user intent.
 
-**Query and User Intent Result Rating Fully Meets Explanation**
+**Query:** [yelp]<br/><br/>**User Location:** Raleigh, North Carolina<br/><br/>**User Intent:** Open the Yelp app or go to the website at yelp.com.
+|
+![fully meets example]()
+|
+![rating: fully meets]()
+|
+This result **Fully Meets** the user need whether they want the Yelp app or the Yelp website, which are both popular.<br/><br/>*Note: If you see this kind of result, assume that the user has the app installed on their phone.*<br/><br/>Clicking on the Yelp link above the logo opens the app directly, and clicking on the "Open on yelp.com" link gives the option of opening the app or website.<br/><br/>![rating: fully meets]()
 
-**Query**: [yelp]
-
-**User Location**: Raleigh, North Carolina
-
-**User Intent:** Open the Yelp app or go to the website at yelp.com.
-
-This result Fully Meets the user need whether they want the Yelp app or the Yelp website, which are both popular.
-
-Note: If you see this kind of result, assume that the user has the app installed on their phone.
-
-Clicking on the Yelp link above the logo opens the app directly, and clicking on the "Open on yelp.com" link gives the option of opening the app or website.
-
-**Query:** [lebron james stats basketball- reference.com]
-
-**User Location** :
-Miami, Florida
-
-**User Intent:** Go to the player statistics page for LeBron James on a specific website.
-
+**Query:** [lebron james stats basketball- reference.com]<br/><br/>**User Location:** Miami, Florida<br/><br/>**User Intent:** Go to the player statistics page for LeBron James on a specific website.
+|
+![fully meets example]()
+|
+![rating: fully meets]()
+|
 The query has clear intent to go to the player statistics page for LeBron James on a specific website, basketball-reference.com.
 
-**Query**: [open instagram]
+**Query:** [open instagram]<br/><br/>**User Location:** Laguna Beach, California<br/><br/>**User Intent:** Open the Instagram app on the user’s device.
+|
+**What the user sees:**<br/><br/>![fully meets example]()
+|
+![rating: fully meets]()<br/><br/>**What you might see in the rating task:**<br/><br/>Action: Open an app<br/><br/>App: Instagram
+|
+This **Device Action** query is clear and specific: the user wants to open the Instagram app. The result block shows the phone in the process of opening the specified app—it **Fully Meets** the user need.
 
-**User Location** :
-Laguna Beach, California
+**Query:** [open bing search app]<br/><br/>**User Location:** Dallas, Texas<br/><br/>**User Intent:** Open the Bing Search app on the user’s device.
+|
+![fully meets example]()
+|
+![rating: fully meets]()
+|
+The result block shows that the phone has detected that the app is not installed and gives the option of downloading the app. This result **Fully Meets** the user need.<br/><br/>*Note: Remember that you should assume that queries were issued on an Android device when rating Device Action Result Blocks, unless explicitly stated otherwise in the instructions. Therefore, the Google Play result for this query is appropriate.*
 
-**User Intent:** Open the Instagram app on the user’s device.
-
-What the user sees:
-
-What you might see in the rating task:
-
-Action: Open an app
-
-App: Instagram
-
-This Device Action query is clear and specific: the user wants to open the Instagram app. The result block shows the phone in the process of opening the specified app—it Fully Meets the user need.
-
-**Query**: [open bing search app]
-
-**User Location**: Dallas, Texas
-
-**User Intent:** Open the Bing Search app on the user’s device.
-
-The result block shows that the phone has detected that the app is not installed and gives the option of downloading the app. This result Fully Meets the user need.
-
-Note: Remember that you should assume that queries were issued on an Android device when rating Device Action Result Blocks, unless explicitly stated otherwise in the instructions. Therefore, the Google Play result for this query is appropriate.
-
-**Query and User Intent Result Rating Fully Meets Explanation**
-
-**Query**: [open facebook app]
-
-**User Location**: Richmond, Virginia
-
-**User Intent:** Open the Facebook app on the user’s device.
-
-What the user sees:
-
-What you might see in the rating task:
-
-Action: Open an app
-
-App: Facebook
-
+**Query:** [open facebook app]<br/><br/>**User Location:** Richmond, Virginia<br/><br/>**User Intent:** Open the Facebook app on the user’s device.
+|
+**What the user sees:**<br/><br/>![fully meets example]()
+|
+![rating: fully meets]()<br/><br/>**What you might see in the rating task:**<br/><br/>Action: Open an app<br/><br/>App: Facebook
+|
 This Device Action query is clear and specific: the user wants to open the Facebook app. The result block shows the phone’s confirmation that it is opening the app—it Fully Meets the user need.
 
-**Query**: [set alarm for 5
-o’clock am]
-
-**User Location**: Tacoma, Washington
-
-**User Intent:** Set the device’s alarm to go off at 5:00 AM.
-
-What the user sees:
-
-What you might see in the rating task:
-
-Action: Set alarm
-
-Alarm Time: 5:00 AM
-
+**Query:** [set alarm for 5 o’clock am]<br/><br/>**User Location:** Tacoma, Washington<br/><br/>**User Intent:** Set the device’s alarm to go off at 5:00 AM.
+|
+**What the user sees:**<br/><br/>![fully meets example]()
+|
+![rating: fully meets]()<br/><br/>**What you might see in the rating task:**<br/><br/>Action: Set alarm<br/><br/>Alarm Time: 5:00 AM
+|
 This Device Action query is clear and specific: the user wants to set the phone’s alarm clock for 5:00 AM. The result block shows the phone in the process of setting the alarm at the specified time—it Fully Meets the user need.
 
-**Query:** [chef chu phone number]
-
-**User Location:** Los Altos, California
-
-**User Intent:** Find the phone number for the restaurant
-
-called Chef Chu’s. (^)
+**Query:** [chef chu phone number]<br/><br/>**User Location:** Los Altos, California<br/><br/>**User Intent:** Find the phone number for the restaurant called Chef Chu’s.
+|
+![fully meets example]()
+|
+![rating: fully meets]()
+|
 Chef Chu’s is a Chinese restaurant located in the user location. This result block immediately shows the correct phone number with the option to call the number directly on the device—it **Fully Meets** the user intent.
 **Note:** You must check for accuracy before using the **Fully Meets** rating. You can verify that the phone number in this SCRB is correct by checking Chef Chu's official website.
-**Query**: [call best buy]
-**User Location**: Mountain View, California
-**User Intent:** Call the nearest Best Buy store. Note that there is only one Best Buy store located in Mountain View.
-**What the user sees:
-What you might see in the rating task:**
-Action: Make a call Business Name: Best Buy Location: 2460 E Charleston Rd, Mountain View, CA 94043
-Phone number: (650) 903-0591
-This **Device Action** query is clear and specific: the user wants to call the nearest Best Buy store. The result block shows the phone in the process of calling the store with the correct phone number—it **Fully Meets** the user need.
-**Note:** You must check for accuracy before using the **Fully Meets** rating. You can verify that the phone number in this Device Action block is correct by checking Best Buy's official website for the location in Mountain View.
 
-**Query and User Intent Result Rating Fully Meets Explanation**
+**Query:** [call best buy]<br/><br/>**User Location:** Mountain View, California<br/><br/>**User Intent:** Call the nearest Best Buy store. Note that there is only one Best Buy store located in Mountain View.
+|
+**What the user sees:**<br/><br/>![fully meets example]()
+|
+![rating: fully meets]()<br/><br/>**What you might see in the rating task:**<br/><br/>Action: Make a call<br/><br/>Business Name: Best Buy<br/><br/>Location: 2460 E Charleston Rd, Mountain View, CA 94043<br/><br/>Phone number: (650) 903-0591
+|
+This **Device Action** query is clear and specific: the user wants to call the nearest Best Buy store. The result block shows the phone in the process of calling the store with the correct phone number—it **Fully Meets** the user need.<br/><br/>**Note:** You must check for accuracy before using the **Fully Meets** rating. You can verify that the phone number in this Device Action block is correct by checking Best Buy's official website for the location in Mountain View.
 
-**Query**: [open map of italy]
-
-**User Location**: Baltimore, Maryland
-
-**User Intent:** Open a map of Italy on the user’s device.
-
-What the user sees:
-
-What you might see in the rating task:
-
-Action: Open map
-
-Location: Italy
-
+**Query:** [open map of italy]<br/><br/>**User Location:** Baltimore, Maryland<br/><br/>**User Intent:** Open a map of Italy on the user’s device.
+|
+**What the user sees:**<br/><br/>![fully meets example]()
+|
+![rating: fully meets]()<br/><br/>**What you might see in the rating task:**<br/><br/>Action: Open map<br/><br/>Location: Italy
+|
 This Device Action query is clear and specific: the user wants to see a map of Italy. The result block shows a map with a link to open it in Google Maps—it Fully Meets the user need.
 
-**Query:** [navigate to yosemite national park]
+**Query:** [navigate to yosemite national park]<br/><br/>**User Location:** Seattle, Washington<br/><br/>**User Intent:** Navigate to Yosemite National Park from the user’s location.
+|
+**What the user sees:**<br/><br/>![fully meets example]()
+|
+![rating: fully meets]()<br/><br/>**What you might see in the rating task:**<br/><br/>Action: Navigation<br/><br/>Destination: Yosemite National Park<br/><br/>Destination Address: Yosemite Village, CA 95389
+|
+This **Device Action** query is clear and specific: the user wants to navigate to Yosemite National Park. The result block shows the phone in the process of opening up the Navigation app, which will give the user turn-by-turn directions from the user’s locationーit **Fully Meets** the user need.
 
-**User Location:** Seattle, Washington
-
-**User Intent:** Navigate to Yosemite National Park from the user’s location.
-
-What the user sees:
-
-What you might see in the rating task:
-
-Action: Navigation
-
-Destination: Yosemite National Park
-
-Destination Address: Yosemite Village, CA 95389
-
-This Device Action query is clear and specific: the user wants to navigate to Yosemite National Park. The result block shows the phone in the process of opening up the Navigation app, which will give the user turn-by-turn directions from the user’s location—it Fully Meets the user need.
-
-**Query:** [how to find security code on visa]
-
-**User Location:** Chicago, Illinois
-
-**User Intent:** Find out how to locate the security code on a Visa card.
-
+**Query:** [how to find security code on visa]<br/><br/>**User Location:** Chicago, Illinois<br/><br/>**User Intent:** Find out how to locate the security code on a Visa card.
+|
+![fully meets example]()
+|
+![rating: fully meets]()
+|
 The result block displays the complete and correct answer prominently in the result block, in a way that is easy for users on mobile devices to read. The block also includes an image showing users exactly where to find the code, and the block Fully Meets the user need.
 
-**Query and User Intent Result Rating Fully Meets Explanation**
+**Query:** [starbucks stock price]<br/><br/>**User Location:** Alexandria, Virginia<br/><br/>**User Intent:** Find the current stock price for Starbucks.
+|
+![fully meets example]()
+|
+![rating: fully meets]()
+|
+The result block displays the complete and correct answer prominently in the result block, in a way that is easy for users on mobile devices to read—it Fully Meets the user need.<br/><br/>*Note: Assume that the result shows current information for users.*
 
-**Query**: [starbucks stock price]
-
-**User Location:** Alexandria, Virginia
-
-**User Intent:** Find the current stock price for Starbucks.
-
+**Query:** [new york city population 2012]<br/><br/>**User Location:** Pasadena, California<br/><br/>**User Intent:** Find the population of New York City back in 2012.
+|
+![fully meets example]()
+|
+![rating: fully meets]()
+|
 The result block displays the complete and correct answer prominently in the result block, in a way that is easy for users on mobile devices to read—it Fully Meets the user need.
 
-Note: Assume that the result shows current information for users.
+**Query:** [what is the weather forecast for today]<br/><br/>**User Location:** Mountain View, California<br/><br/>**User Intent:** Find weather forecast information for the current day in Mountain View, California.
+|
+![fully meets example]()
+|
+![rating: fully meets]()
+|
+The result block displays the complete and correct answer prominently in the result block, in a way that is easy for users on mobile devices to read—it **Fully Meets** the user need.<br/><br/>Remember that we consider weather queries, like this one, to be a **Know Simple** query for mobile phone users.<br/><br/>*Note: Assume the result shows current information for users.*
 
-**Query**: [new york city population 2012]
+**Query:** [london time]<br/><br/>**User Location:** New York, New York<br/><br/>**User Intent:** Find the current time in London.
+|
+![fully meets example]()
+|
+![rating: fully meets]()
+|
+The result block displays the complete and correct answer prominently in the result block, in a way that is easy for users on mobile devices to read—it **Fully Meets** the user need.<br/><br/>*Note: Assume that the result shows current information for users.*
 
-**User Location:** Pasadena, California
+**Query:** [who is the chancellor of germany]<br/><br/>**User Location:** New York, New York<br/><br/>**User Intent:** Find the name of the current Chancellor of Germany.
+|
+![fully meets example]()
+|
+![rating: fully meets]()
+|
+The result block displays the complete and correct answer prominently in the result block, in a way that is easy for users on mobile devices to read—it **Fully Meets** the user need.
 
-**User Intent:** Find the population of New York City back in 2012.
-
-The result block displays the complete and correct answer prominently in the result block, in a way that is easy for users on mobile devices to read—it Fully Meets the user need.
-
-**Query:** [what is the weather forecast for today]
-
-**User Location:**
-Mountain View, California
-
-**User Intent:** Find weather forecast information for the current day in Mountain View, California.
-
-The result block displays the complete and correct answer prominently in the result block, in a way that is easy for users on mobile devices to read—it Fully Meets the user need.
-
-Remember that we consider weather queries, like this one, to be a Know Simple query for mobile phone users.
-
-Note: Assume the result shows current information for users.
-
-**Query:** [london time]
-
-**User Location:** New York, New York
-
-**User Intent:** Find the current time in London.
-
-The result block displays the complete and correct answer prominently in the result block, in a way that is easy for users on mobile devices to read—it Fully Meets the user need.
-
-Note: Assume that the result shows current information for users.
-
-**Query and User Intent Result Rating Fully Meets Explanation**
-
-**Query:** [who is the chancellor of germany]
-
-**User Location:** New York, New York
-
-**User Intent:** Find the name of the current Chancellor of Germany.
-
-The result block displays the complete and correct answer prominently in the result block, in a way that is easy for users on mobile devices to read—it Fully Meets the user need.
-
-**Query:** [chevron at shoreline and middlefield]
-
-**User Location:** Mountain View, California
-
-**User Intent:** Find the specific gas station specified by the user in order to visit the location in person.
-
+**Query:** [chevron at shoreline and middlefield]<br/><br/>**User Location:** Mountain View, California<br/><br/>**User Intent:** Find the specific gas station specified by the user in order to visit the location in person.
+|
+![fully meets example]()
+|
+![rating: fully meets]()
+|
 The intent is to visit the specific gas station specified by the user. This result block is for the specified Chevron location, with information to visit this location in person.
 
-**Query**: [decemberists crane wife 3 lyrics]
+**Query:** [decemberists crane wife 3 lyrics]<br/><br/>**User Location:** Long Beach, California<br/><br/>**User Intent:** See the lyrics to The Decemberists song called "Crane Wife 3."
+|
+![fully meets example]()
+|
+![rating: fully meets]()
+|
+The result has exactly what the user wants, displaying the lyrics to the specified song clearly and completely inside the result block. The user does not need to click to a new page to see the complete lyrics for this song.<br/><br/>*Note: The lyrics posted on Google Play are licensed.*
 
-**User Location:** Long Beach, California
+**Query:** [gas stations near me]<br/><br/>**User Location:** Mountain View, California<br/><br/>**User Intent:** Find gas stations near the user location. Note that this may be an urgent query.
+|
+![highly meets+ example]()
+|
+![rating: highly meets+ narrow]()
+|
+The intent is to find gas stations near the specific user location, represented by the blue dot on the map.<br/><br/>This result block has a very satisfying list of nearby, popular, and prominent options within one mile of the specific location. This kind of block is especially helpful for users who want to visit the business in person.<br/><br/>This result would be very convenient for mobile users who need gas immediately, especially for those who are driving and cannot easily use their phone.<br/><br/>*Note: A range is included because some users would be fully satisfied with these selections, while some users would want more information (e.g., gas prices, hours, distance from location, longer list of options).*
 
-**User Intent:** See the lyrics to The Decemberists song called "Crane Wife 3."
+**Query:** [nearby coffee shops]<br/><br/>**User Location:** Mountain View, California<br/><br/>**User Intent:** Find coffee shops near the user location.
+|
+![highly meets+ example]()
+|
+![rating: highly meets+ narrow]()
+|
+The intent is to find coffee shops near the specific user location, represented by the blue dot on the map.<br/><br/>This result block has a very satisfying list of nearby, popular, and prominent options within a few miles of the specific location. This kind of block is especially helpful for users who want to visit the business in person. Note that these blocks are interactive—clicking on a coffee shop will give options to call the business, get directions, read reviews, etc.<br/><br/>*Note: A range is included because some users would be fully satisfied with these selections, while some users would want more information (e.g., hours, distance from location, longer list of options).*
 
-The result has exactly what the user wants, displaying the lyrics to the specified song clearly and completely inside the result block. The user does not need to click to a new page to see the complete lyrics for this song.
+**Query:** [1600 pennsylvania ave washington dc]<br/><br/>**User Location:** Bakersville, California<br/><br/>**User Intent:** Find a map, directions, information about what is located at this address, etc.
+|
+![highly meets+ example]()
+|
+![rating: highly meets+ narrow]()
+|
+This block contains a map with the queried address, link to get directions, and specifies the landmark at the well-known address on the map ("The White House").<br/><br/>It’s not unusual to search for an address (or business) that is far from the user location. Here, the user has explicitly asked for a specific address in a far away place, and this result is very satisfying. For a query this specific, the user location does not change the rating.<br/><br/>*Note: A range is included because some users would be fully satisfied with this result, while some users would want more information (e.g., photos, a brief description).*
 
-> Note: The lyrics posted on Google Play are licensed.
-
-**Query and User Intent Result Rating Fully Meets Explanation**
-
-**Query:** [gas stations near me]
-
-**User Location:** Mountain View, California
-
-**User Intent:** Find gas stations near the user location. Note that this may be an urgent query.
-
-The intent is to find gas stations near the specific user location, represented by the blue dot on the map.
-
-This result block has a very satisfying list of nearby, popular, and prominent options within one mile of the specific location. This kind of block is especially helpful for users who want to visit the business in person.
-
-This result would be very convenient for mobile users who need gas immediately, especially for those who are driving and cannot easily use their phone.
-
-> Note: A range is included because some users would be fully satisfied with these selections, while some users would want more information
-(e.g., gas prices, hours, distance from location, longer list of options).
-
-**Query:** [nearby coffee shops]
-
-**User Location:** Mountain View, California
-
-**User Intent:** Find coffee shops near the user location.
-
-The intent is to find coffee shops near the specific user location, represented by the blue dot on the map.
-
-This result block has a very satisfying list of nearby, popular, and prominent options within a few miles of the specific location. This kind of block is especially helpful for users who want to visit the business in person. Note that these blocks are interactive—clicking on a coffee shop will give options to call the business, get directions, read reviews, etc.
-
-> Note: A range is included because some users would be fully satisfied with these selections, while some users would want more information
-(e.g., hours, distance from location, longer list of options).
-
-**Query and User Intent Result Rating Fully Meets Explanation**
-
-**Query:** [1600 pennsylvania ave washington dc]
-
-**User Location:** Bakersville, California
-
-**User Intent:** Find a map, directions, information about what is located at this address, etc.
-
-This block contains a map with the queried address, link to get directions, and specifies the landmark at the well-known address on the map ("The White House").
-
-It’s not unusual to search for an address (or business) that is far from the user location. Here, the user has explicitly asked for a specific address in a far away place, and this result is very satisfying. For a query this specific, the user location does not change the rating.
-
-> Note: A range is included because some users would be fully satisfied with this result, while some users would want more information (e.g., photos, a brief description).
-
-**Query:** [metro center station]
-
-**User Location:** Adams Morgan, Washington D.C.
-
-**User Intent:** The user wants to see a map, schedule, transfer options, and/or other train information for the Metro Center station, given that the user is close to the queried station.
-
-This block contains a map, link to get directions, departure times for the multiple train lines that operate at this station, link to a detailed schedule (i.e., the
-"Departure board"), and an option to see more information.
-
-Since the user is located in the same city as the station, the information in this block is highly satisfying.
-
-> Note: A range is included because some users would be fully satisfied with this result, while some users may want more information (e.g., nearby attractions, ticket prices).
+**Query:** [metro center station]<br/><br/>**User Location:** Adams Morgan, Washington D.C.<br/><br/>**User Intent:** The user wants to see a map, schedule, transfer options, and/or other train information for the Metro Center station, given that the user is close to the queried station.
+|
+![highly meets+ example]()
+|
+![rating: highly meets+ narrow]()
+|
+This block contains a map, link to get directions, departure times for the multiple train lines that operate at this station, link to a detailed schedule (i.e., the "Departure board"), and an option to see more information.<br/><br/>Since the user is located in the same city as the station, the information in this block is highly satisfying.<br/><br/>*Note: A range is included because some users would be fully satisfied with this result, while some users may want more information (e.g., nearby attractions, ticket prices).*
 
 ### Examples of Queries that Cannot Have Fully Meets Results
 
-There are some queries that _cannot_ have a **Fully Meets** result. Here are some examples.
+There are some queries that *cannot* have a **Fully Meets** result. Here are some examples.
 
 Type of Query Example No Fully Meets Result: Explanation
 
@@ -547,7 +447,7 @@ There is only one library in the user location (Belmont, California). The result
 
 > Note: This result block is not Fully Meets— even though there is a website link,it is not very satisfying for users who want to go to the website because it is not as informative as a web search result block with a title, snippet, and URL.
 
-**Query**: [decemberists]
+**Query:** [decemberists]
 
 **User Location:** Long Beach, California
 
@@ -555,7 +455,7 @@ There is only one library in the user location (Belmont, California). The result
 
 The user intent is too broad to have a Fully Meets result. However, this is The Decemberists’ official website and has a lot of content including tour dates, music videos, the latest album, etc. The result is uniquely authoritative and most users would be very satisfied by this website.
 
-**Query**: [celine dion]
+**Query:** [celine dion]
 
 **User Location:** Bellevue, Washington
 
@@ -621,7 +521,7 @@ The LP for this mobile-friendly web result is part of an authoritative governmen
 
 **Query:** [michael jordan]
 
-**User Location**: Boston, Massachusetts
+**User Location:** Boston, Massachusetts
 
 **User Intent:** Find information, news, images, etc. about Michael Jordan.
 
@@ -1123,7 +1023,7 @@ This web result (the official homepage of Yellowstone National Park) completely 
 
 **Query:** [doctor salary]
 
-**User Location**: San Francisco, California
+**User Location:** San Francisco, California
 
 **User Intent:** Find information about doctor salaries.
 
@@ -1131,7 +1031,7 @@ The answer in this block is about the cost of education, not salary, which is mi
 
 **Query:** [stony child development center west point phone number]
 
-**User Location**: West Point, New York
+**User Location:** West Point, New York
 
 **User Intent:** Find the telephone number for the Stony Child Development Center in West Point, New York.
 
