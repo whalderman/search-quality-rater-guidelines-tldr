@@ -193,7 +193,7 @@ Query|Query is NOT a Device Action Query: Explanation
 [amazon.com]|There is no action word, such as "open." We will consider this a **Website** query.
 [anne jones]|There is no action word, such as "call" or "text." We will consider this a **Know** query for information.
 
-### Website Queries
+### `Website` Queries
 
 The intent of a **Website** query is to locate a specific website or webpage that users have requested. This single webpage is called the **target** of the query.
 
@@ -212,7 +212,7 @@ Query|Likely User Intent
 [new york time health section], _English (US)_|View the Health section of the New York Times website.
 [canon.com eos digital camera], _English (US)_|View the EOS digital cameras page on the Canon website.
 
-### Visit-in-Person Queries and User Location
+### `Visit-in-Person` Queries and User Location
 
 Users carry mobile phones with them throughout the day, for example, at work, to school, to restaurants, or running errands. One reason to carry a mobile phone is to have help with **Visit-in-Person** queries, such as finding coffee shops, gas stations, ATMs, restaurants, etc. Because mobile phones are often used for **Visit-in-Person** queries, make sure to consider visit-in-person intent as a possibility for mobile phone users.
 
