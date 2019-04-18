@@ -8,8 +8,7 @@ module.exports = {
 				description: "This is where you learn about Google's SEO advisory.",
 				nav: [
 					{
-						text: "🔰 Got Anything... Useful?",
-						path: "/about/something-useful"
+						text: "🔰 Got Anything... Useful?", link: "/guidance/"
 					},
 					{
 						text: "Who Did This?", link: "/about/"

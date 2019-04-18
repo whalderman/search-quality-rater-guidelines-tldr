@@ -1,6 +1,4 @@
-# Bruce Clay Japan Inc.
-
-👆
+# Bruce Clay Japan Inc. 👈
 
 [Bruce Clay Japan Inc.](https://bruceclay.jpn.com/) is the Japanese branch <small><small>(surprise, surprise)</small></small> of [Bruce Clay Inc.](https://www.bruceclay.com)
 

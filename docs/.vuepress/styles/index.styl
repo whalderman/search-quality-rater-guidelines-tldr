@@ -1,7 +1,26 @@
+$sidebarWidth = 30rem
+
 .content:not(.custom) {
 	max-width: 850px;
 }
 
+.page {
+    padding-left: $sidebarWidth;
+}
+.sidebar {
+	z-index: 9000;
+	font-size: 16px;
+	background-color: rgb(255, 255, 255);
+	width: $sidebarWidth;
+	position: fixed;
+	top: 3.6rem;
+	left: 0px;
+	bottom: 0px;
+	box-sizing: border-box;
+	overflow-y: auto;
+	margin: 0px;
+	border-right: 1px solid rgb(202, 204, 207);
+}
 .navbar {
 	z-index: 9001;
 }
