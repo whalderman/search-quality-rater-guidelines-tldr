@@ -1,1 +1,1 @@
-# [Start Here](/about/something-useful.html)
+# [Start Here](/guidance/)
