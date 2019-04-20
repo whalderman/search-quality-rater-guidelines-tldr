@@ -231,334 +231,44 @@ The following should also be rated **Fails to Meet** because they lead to very p
 
 Query and User Intent|Result|Rating|Fails to Meet Explanation
 ---|---|---|---
-
-**Query:** [dogs]<br/><br/>**User Location:** Pittsfield Charter Township, Michigan<br/><br/>**User Intent:** Find information (e.g., pictures, breeds, training details, etc.) related to dogs.<br/><br/>*Note: For this query, it is very unlikely users want to go anywhere in person.*
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm-narrow.jpg)
-|
-This is a broad informational query for an animal. Different users may be looking for different things.<br/><br/>This result block shows visit-in-person information for three different dog care providers near the user location. However, the query is very broad and it is unlikely users want to go anywhere in person.
-
-**Query:** [mike]<br/><br/>**User Location:** Eustis, Florida<br/><br/>**User Intent:** Find information about something related to Mike.<br/><br/>*Note: For this query, it is unlikely users want to go anywhere in person.*
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm-narrow.jpg)
-|
-This is a broad query and it is unclear exactly what the user is looking for.<br/><br/>This result block shows visit-in-person information for two businesses that contain the name Mike. However, the query is very broad and it is very unlikely these businesses are what users seek given the query.
-
-**Query:** [tampa rays]<br/><br/>**User Location:** Tampa, Florida<br/><br/>**User Intent:** Find information (e.g., scores, roster, recent news) about a professional baseball team in Florida called Tampa Bay Rays.<br/><br/>*Note: For this query, it is unlikely users want to go anywhere in person.*
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm-narrow.jpg)
-|
-This result block shows information to visit a sports card store in person, which happens to have the baseball team in the name. However, remember that for this query, it is unlikely users want to go anywhere in person. Note: This business was fabricated for the purposes of this example, and does not exist in real life.
-
-**Query:** [wral]<br/><br/>**User Location:** Wake County, North Carolin<br/><br/>**User Intent:** Go to the WRAL website or find other information about the news station in North Carolina.<br/><br/>*Note: Users generally would not go to a news station in person.*
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm-narrow.jpg)
-|
-WRAL is a television news station in North Carolina. Users want to go to the website or find information about the station. In this example, clicking on the blocks show information about the businesses’ corporate headquarters. Note that television stations (like radio stations, newspapers, etc.) usually have special contact information for the public that is different than their corporate headquarter information. Also, with the query just being the name of the station, it is very unlikely that users want this kind of information.
-
-**Query:** [texas farm fertilizer]<br/><br/>**User Location:** Dallas, Texa<br/><br/>**User Intent:** Find information about, or where to buy, fertilizer from the company Texas Farm.
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm-narrow.jpg)
-|
-This result block shows the Texas Farm corporate office, which is not helpful given the user intent—users could not physically go to the company’s corporate office to buy or learn about the product. Fertilizer is the kind of product that you would have to buy at a store.
-
-**Query:** [united 656]<br/><br/>**User Location:** Skokie, Illinois<br/><br/>**User Intent:** Find information about flight 656 operated by United Airlines (e.g., whether the flight is on time, what gate it is departing from).
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm.jpg)
-|
-This result shows information for a church, an event venue, and the closest airport. However, users clearly want to know details about a specific flight, and there is absolutely no information in the block about the flight. This result Fails to Meet the user intent.
-
-**Query:** [german cars]<br/><br/>**User Location:** Toledo, Ohio<br/><br/>**User Intent:** Find information about German cars or go to the official homepage of a German automaker.
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm.jpg)
-|
-This LP is the homepage of Subaru, a Japanese car company, not a German car company.<br/><br/>The page completely Fails to Meet the user intent and would be helpful for no or very few users.
-
-**Query:** [company to get rid of the possum in my attic]<br/><br/>**User Location:** Naperville, Illinois<br/><br/>**User Intent:** Find a company to trap and remove a possum from the attic.
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm.jpg)
-|
-This LP is the homepage of a pest control company in Australia. U.S. users would need a U.S. company to take care of this problem. There is a mismatch between the page and the locale that makes this result helpful for no users—it completely Fails to Meet the user intent.
-
-**Query:** [starting jets quarterback 2001]<br/><br/>**User Location:** Chicago, Illinois<br/><br/>**User Intent:** Find the name of the starting quarterback for the New York Jets football team in 2001.
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm.jpg)
-|
-Although this is a trustworthy website for information about NFL football, this LP does not contain the information requested by the user. This result completely Fails to Meet the user intent.
-
-**Query:** [navigate to yellowstone national park]<br/><br/>**User Location:** Denver, Colorado<br/><br/>**User Intent:** Navigate to Yellowstone National Park from the user’s location.
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm.jpg)
-|
-This web result (the official homepage of Yellowstone National Park) completely fails to respond to the specific Device Action **query:** to navigate to the park.
-
-**Query:** [doctor salary]<br/><br/>**User Location:** San Francisco, California<br/><br/>**User Intent:** Find information about doctor salaries.
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm.jpg)
-|
-The answer in this block is about the cost of education, not salary, which is misleading and doesn’t answer the user’s query.
-
-**Query:** [stony child development center west point phone number]<br/><br/>**User Location:** West Point, New York<br/><br/>**User Intent:** Find the telephone number for the Stony Child Development Center in West Point, New York.
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm.jpg)
-|
-The answer in this block provides the phone number for the West Point Club, not the Stony Child Development Center located in West Point, New York. This result Fails to Meet the user intent.
-
-**Query:** [who invented stairs]<br/><br/>**User Location:** Lubbock, Texas<br/><br/>**User Intent:** Find out about the origin of stairs.
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm.jpg)
-|
-The answer provided in this result block is factually inaccurate. Stairs have been a common architectural feature of buildings, pathways, outdoor structures, etc. since long before 1948, and they were not invented by a person named Werner Bösendörfer.
-
-**Query:** [young famous app developers]<br/><br/>**User Location:** Lubbock, Texas<br/><br/>**User Intent:** Find information about, or a list of, well-known app developers who are young.
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm.jpg)
-|
-This result includes several apps to download, with an option to see more apps. The user is looking for information about app developers that are well-known, so it Fails to Meet the user intent.<br/><br/>*Note: Unless you feel the user intent to download an app is strong, results that allow users to download apps are generally less helpful. Mobile users want answers and results right away, at that moment, and may not be able to spend a lot of time downloading and installing apps.*
-
-**Query:** [send text message to john that i’m running late]<br/><br/>**User Location:** New York, New York<br/><br/>**User Intent:** Send a text message to a contact named John with the message "I’m running late."
-|
-Action: Send an email<br/><br/>Subject:<br/><br/>Recipient: John<br/><br/>Body: I'm running late
-|
-![fails to meet](../images/failsm.jpg)
-|
-The user clearly wants to send a text message. The Device Action result to "Send an email" is incorrect and completely Fails to Meet user intent.
-
-**Query:** [weather]<br/><br/>**User Location:** Mountain View, California<br/><br/>**User Intent:** Find current weather information for Mountain View, California.
-|
-Query Time: 2013-4-23 6:00:12<br/><br/>Action: Set alarm<br/><br/>Alarm Time: 22:43:00
-|
-![fails to meet](../images/failsm.jpg)
-|
-The user clearly wants weather information. The Device Action result to set an alarm is inappropriate (and even absurd) for this information query. This result completely Fails to Meet the user intent.
-
-**Query:** [batman]<br/><br/>**User Location:** Anaheim, California<br/><br/>**User Intent:** Find information about the fictional superhero that appears in American comic books, movies, and television shows.
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm.jpg)
-|
-It is extremely unlikely (potentially a no-chance interpretation) that this query is looking for information on a city in Turkey called Batman, given that the user is located in the United States. No or almost no users would be satisfied with this result.
-
-**Query:** [obama]<br/><br/>**User Location:** Austin, Texas<br/><br/>**User Intent:** Find information about Barack Obama.
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm.jpg)
-|
-It is extremely unlikely (potentially a no-chance interpretation) that this query is looking for information on a city in Japan called Obama, given that the user is located in the United States. No or almost no users would be satisfied with this result.
-
-**Query:** [weather paris, texas]<br/><br/>**User Location:** Paris, Texas<br/><br/>**User Intent:** Find current weather information for Paris, Texas.
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm.jpg)
-|
-This result completely fails to satisfy the user intent, which is to find weather information for Paris, Texas, and not Paris, France. No users would be satisfied with this result.
-
-**Query:** [what is the third quarter earnings for ge]<br/><br/>**User Location:** New York, New York<br/><br/>**User Intent:** Find this most recent third quarter earnings information for General Electric.
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm.jpg)
-|
-This result does not answer the user’s question to show third quarter earnings for GE. No users would be satisfied with this result.
-
-**Query:** [city of angels]<br/><br/>**User Location:** Chicago, Illinois<br/><br/>**User Intent:** Find information about the school, a movie by this name, or some other entity by this name.
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm-narrow.jpg)
-|
-This result reflects one of several possible user intents, as the query is also the name of a movie, song, musical, and more.<br/><br/>Since the user location is in Chicago, very few or no users would be interested in seeing information about a school by this name in Los Angeles that is not well known outside of this city. It is very unlikely that people outside of Los Angeles would use this query to search for this school.
-
-**Query:** [go kart for sale]<br/><br/>**User Location:** Warrington, Pennsylvania<br/><br/>**User Intent:** Find go karts for sale in the Warrington, Pennsylvania area.
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm.jpg)
-|
-This result block shows a go kart arcade in Warrington, Pennsylvania, and two other go kart arcades in the surrounding area. These arcades are places to go ride go karts, not purchase them, so the result completely Fails to Meet the user intent. No users would be satisfied with this result.
-
-**Query:** [ralphs]<br/><br/>**User Location:** San Clemente, California<br/><br/>**User Intent:** There are two possible user intents: most users probably want to visit a nearby Ralphs location or go to the website.
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm.jpg)
-|
-Ralphs is a nationwide supermarket chain. These locations are all in San Diego, California, which is a major city south of the user location (about
-60 miles away). These results are too far to be helpful.
-
-**Query:** [amazon]<br/><br/>**User Location:** Austin, Texas<br/><br/>**User Intent:** Go to the Amazon website.
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm.jpg)
-|
-Users issuing this query want to go to the Amazon website.<br/><br/>Showing information about how to visit or call the corporate office for an online company would not be helpful. Very, very few people ever go to an Amazon corporate office, which is not open to the public. If someone needed to go to the office for an interview or business visit, they would need to get that information from someone at the company or would use a more specific query.
-
-**Query:** [what is the closest large city]<br/><br/>**User Location:** Myrtle Beach, South Carolina<br/><br/>**User Intent:** Find the closest large city to Myrtle Beach, South Carolina.
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm.jpg)
-|
-A news result is inappropriate and completely unhelpful for this query. No users would be satisfied with this result.
-
-**Query:** [australian open mens singles result 2008]<br/><br/>**User Location:** Kent, Washington<br/><br/>**User Intent:** Find a page that displays the 2008
-men’s singles result for this tennis tournament.
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm.jpg)
-|
-This LP is about the 2004 Australian Open, not the 2008 Australian Open. It does not pay attention to an aspect of the query that is important for satisfying user intent (i.e., 2008). The result Fails to Meet the user intent.
-
-**Query:** [tooth loss five years old]<br/><br/>**User Location:** Denton, Texas<br/><br/>**User Intent:** Find information about tooth loss in a five-year-old child.
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm.jpg)
-|
-This LP has information about tooth loss in pike fish and has the words "five years old" on the page. This result Fails to Meet the user intent because it has keyword matches only and would be helpful for no users.
-
-**Query:** [what is wedding in spanish]<br/><br/>**User Location:** Denton, Texas<br/><br/>**User Intent:** Find how to say the word "wedding" in Spanish.
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm.jpg)
-|
-The translation in the result block is completely wrong and inaccurate.<br/><br/>Mañana means "tomorrow," not "wedding."
-
-**Query:** [american express]<br/><br/>**User Location:** Denton, Texas<br/><br/>**User Intent:** Go to the American Express card website or get information about the company and its products and services.
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm.jpg)
-|
-The LP is a humorous blog post about a wife helping her husband to buy a suit. The page mentions "American Express," but is insufficiently related to the query to be helpful for users, so it Fails to Meet the user intent.
-
-**Query:** [zoo atlanta]<br/><br/>**User Location:** Denton, Texas<br/><br/>**User Intent:** Go to the Zoo Atlanta website.
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm.jpg)
-|
-This LP on about.com has a short article about the Louisville Zoo. The page has a link in the SC titled "Visit Zoo Atlanta On The Cheap Atlanta."<br/><br/>The MC of this page is not about Zoo Atlanta. The link to an article about Zoo Atlanta is in the SC and many users would never notice this link. This result should not be rated above Fails to Meet.
-
-**Query:** [how to quit smoking]<br/><br/>**User Location:** Denton, Texas<br/><br/>**User Intent:** Find information on ways to quit smoking.
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm.jpg)
-|
-This LP has gibberish text. Read this sentence: "How do you make a cigarette symbol on the keyboard? In." The quality of the landing page is so low that the page Fails to Meet the user intent.
-
-**Query:** [american beauty]<br/><br/>**User Location:** Mountain View, California<br/><br/>**User Intent:** Learn more about the movie called
-"American Beauty".
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm.jpg)
-|
-This is the official website of the movie "American Beauty". However, the landing page is extremely difficult to use (even seems broken on a mobile phone) and there is no satisfying or helpful content on the page—it Fails to Meet the user intent.<br/><br/>QR Code to view the page:<br/>![QR code "American Beauty" official website](../images/img541.jpg)
-
-**Query:** [starting order for today’s nascar race]<br/><br/>**User Location:** Denton, Texas<br/><br/>**User Intent:** Find information about the starting order of the Nascar race that day.
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm.jpg)
-|
-This result shows a NASCAR schedule, but does not have the starting order. The content is not what the user is looking for and Fails to Meet the user intent.
-
-**Query:** [air canada phone number]<br/><br/>**User Location:** Seattle, Washington<br/><br/>**User Intent:** Find the customer service phone number for the airline Air Canada.
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm.jpg)
-|
-Remember that you should check for the factual accuracy of answers. For this result, go to the company’s page at http://www.aircanada.com/en/customer care/int/ and select USA to check the number shown here. According to the airline’s website, the correct phone number is 1-888-247-2262. Because this answer is incorrect, it should be rated Fails to Meet.
-
-**Query:** [obama news]<br/><br/>**User Location:** Norfolk, Virginia<br/><br/>**User Intent:** Find recent news about Barack Obama, the 44th president of the United States.
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm.jpg)
-|
-The MC of this page is an example of a demonstrably inaccurate news report, including a fictitious quotation by Barack Obama. Because the content is presented as a factual news article, it is inaccurate with an intent to deceive users and should be rated Fails to Meet.
-
-**Query:** [does smoking cause cancer]<br/><br/>**User Location:** Scottsdale, Arizona<br/><br/>**User Intent:** Find out whether smoking causes cancer.
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm.jpg)
-|
-Despite strong medical consensus linking tobacco to lung cancer—which can be found at authoritative sources by searching [lung cancer and smoking]—this LP claims there is no connection between smoking and cancer by selectively interpreting some experiments done on animals.<br/><br/>Additionally, this is a YMYL query on a medical topic, so accurate and trustworthy information is highly important. This page directly contradicts well-established medical consensus and may potentially cause harm to users, so it should be rated Fails to Meet.
-
-**Query:** [betty white]<br/><br/>**User Location:** Lexington, Kentucky<br/><br/>**User Intent:** Find information about the American actress Betty White, such as biographical info, filmography, awards, current news, etc.
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm.jpg)
-|
-Betty White was alive at the time this example was written. This LP is a social media profile page created by an unknown author that was designed to look like a memorial page for Betty White and falsely states that she died. This page is factually inaccurate and deceptive to users, so it should be rated Fails to Meet.<br/><br/>*Remember: For informational queries/results, it is important to check other reputable sources to determine if the result is factually accurate. A quick online search for [betty white] would allow you to confirm that she was still alive.*
-
-**Query:** [miley cyrus]<br/><br/>**User Location:** Lexington, Kentucky<br/><br/>**User Intent:** Find information about the American singer/actress Miley Cyrus, such as biographical info, discography/filmography, current news, etc.
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm.jpg)
-|
-Miley Cyrus was alive at the time this example was written. This LP is an article written by an unknown author that was designed to look like a news story and falsely states that she died. Furthermore, the page is found on a low quality website, and the article has not been updated, clarified, or removed even days after having been proven false. This page is factually inaccurate and deceptive to users, so it should be rated Fails to Meet.<br/><br/>*Remember: Just because a website has the look and feel of a traditional news site does NOT mean that you should consider the reporting to be factually accurate without further research. Watch out for sites that present themselves as news, but were actually created with the intent to mislead or misinform users.*
-
-**Query:** [holocaust history]<br/><br/>**User Location:** Cooperstown, New York<br/><br/>**User Intent:** Find historical information about the Holocaust.
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm.jpg)
-|
-This query is seeking historical information. The LP of this web result is on a well-known white supremacist hate site (read more here or here). The discussion on this page is inaccurate and misleading, since the Holocaust is an extremely well-documented historical event.<br/><br/>*Remember: Pages that directly contradict well-established historical facts should be rated Fails to Meet, unless the query clearly indicates the user is seeking an alternative viewpoint.*
-
-**Query:** [who is hitler's daughter]<br/><br/>**User Location:** Cooperstown, New York<br/><br/>**User Intent:** Find the name of or information about Adolf Hitler's daughter, if Hitler in fact had a daughter.
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm.jpg)
-|
-This LP is a blog post presenting a factually unsupported conspiracy theory that Angela Merkel is the daughter of Adolph Hitler. Because the MC is inaccurate and misleading, it completely Fails to Meet the user intent, even though the topic of the page matches the query.<br/><br/>*Note: A more helpful result for this query might confirm that Adolf Hitler had no children, or provide information on the novel Hitler's Daughter by Jackie French.*
-
-**Query:** [islam]<br/><br/>**User Location:** Lexington, Kentucky<br/><br/>**User Intent:** Find information about the religion of Islam.
-|
-![fails to meet example]()
-|
-![fails to meet](../images/failsm.jpg)
-|
-This is a broad query seeking information about Islam. The LP was created for the purpose of stating the author's opinion that Islam is not a religion. The author lacks expertise in the topic; the writing has frequent misspellings, typos, and grammar errors; and the page seems to exist to promote intolerance or hate.<br/><br/>*Remember: Upsetting or offensive results for queries that are not obviously seeking this type of content should be rated Fails to Meet.*
+**Query:** [dogs]<br/><br/>**User Location:** Pittsfield Charter Township, Michigan<br/><br/>**User Intent:** Find information (e.g., pictures, breeds, training details, etc.) related to dogs.<br/><br/>*Note: For this query, it is very unlikely users want to go anywhere in person.*|![fails to meet example](../images/img472.jpg)|![fails to meet](../images/failsm-narrow.jpg)|This is a broad informational query for an animal. Different users may be looking for different things.<br/><br/>This result block shows visit-in-person information for three different dog care providers near the user location. However, the query is very broad and it is unlikely users want to go anywhere in person.
+**Query:** [mike]<br/><br/>**User Location:** Eustis, Florida<br/><br/>**User Intent:** Find information about something related to Mike.<br/><br/>*Note: For this query, it is unlikely users want to go anywhere in person.*|![fails to meet example](../images/img474.jpg)|![fails to meet](../images/failsm-narrow.jpg)|This is a broad query and it is unclear exactly what the user is looking for.<br/><br/>This result block shows visit-in-person information for two businesses that contain the name Mike. However, the query is very broad and it is very unlikely these businesses are what users seek given the query.
+**Query:** [tampa rays]<br/><br/>**User Location:** Tampa, Florida<br/><br/>**User Intent:** Find information (e.g., scores, roster, recent news) about a professional baseball team in Florida called Tampa Bay Rays.<br/><br/>*Note: For this query, it is unlikely users want to go anywhere in person.*|![fails to meet example](../images/img477.jpg)|![fails to meet](../images/failsm-narrow.jpg)|This result block shows information to visit a sports card store in person, which happens to have the baseball team in the name. However, remember that for this query, it is unlikely users want to go anywhere in person. Note: This business was fabricated for the purposes of this example, and does not exist in real life.
+**Query:** [wral]<br/><br/>**User Location:** Wake County, North Carolin<br/><br/>**User Intent:** Go to the WRAL website or find other information about the news station in North Carolina.<br/><br/>*Note: Users generally would not go to a news station in person.*|![fails to meet example](../images/img479.jpg)|![fails to meet](../images/failsm-narrow.jpg)|WRAL is a television news station in North Carolina. Users want to go to the website or find information about the station. In this example, clicking on the blocks show information about the businesses’ corporate headquarters. Note that television stations (like radio stations, newspapers, etc.) usually have special contact information for the public that is different than their corporate headquarter information. Also, with the query just being the name of the station, it is very unlikely that users want this kind of information.
+**Query:** [texas farm fertilizer]<br/><br/>**User Location:** Dallas, Texa<br/><br/>**User Intent:** Find information about, or where to buy, fertilizer from the company Texas Farm.|![fails to meet example](../images/img481.jpg)|![fails to meet](../images/failsm-narrow.jpg)|This result block shows the Texas Farm corporate office, which is not helpful given the user intent—users could not physically go to the company’s corporate office to buy or learn about the product. Fertilizer is the kind of product that you would have to buy at a store.
+**Query:** [united 656]<br/><br/>**User Location:** Skokie, Illinois<br/><br/>**User Intent:** Find information about flight 656 operated by United Airlines (e.g., whether the flight is on time, what gate it is departing from).|![fails to meet example](../images/img484.jpg)|![fails to meet](../images/failsm.jpg)|This result shows information for a church, an event venue, and the closest airport. However, users clearly want to know details about a specific flight, and there is absolutely no information in the block about the flight. This result Fails to Meet the user intent.
+**Query:** [german cars]<br/><br/>**User Location:** Toledo, Ohio<br/><br/>**User Intent:** Find information about German cars or go to the official homepage of a German automaker.|![fails to meet example](../images/img486.jpg)|![fails to meet](../images/failsm.jpg)|This LP is the homepage of Subaru, a Japanese car company, not a German car company.<br/><br/>The page completely Fails to Meet the user intent and would be helpful for no or very few users.
+**Query:** [company to get rid of the possum in my attic]<br/><br/>**User Location:** Naperville, Illinois<br/><br/>**User Intent:** Find a company to trap and remove a possum from the attic.|![fails to meet example](../images/img488.jpg)|![fails to meet](../images/failsm.jpg)|This LP is the homepage of a pest control company in Australia. U.S. users would need a U.S. company to take care of this problem. There is a mismatch between the page and the locale that makes this result helpful for no users—it completely Fails to Meet the user intent.
+**Query:** [starting jets quarterback 2001]<br/><br/>**User Location:** Chicago, Illinois<br/><br/>**User Intent:** Find the name of the starting quarterback for the New York Jets football team in 2001.|![fails to meet example](../images/img490.jpg)|![fails to meet](../images/failsm.jpg)|Although this is a trustworthy website for information about NFL football, this LP does not contain the information requested by the user. This result completely Fails to Meet the user intent.
+**Query:** [navigate to yellowstone national park]<br/><br/>**User Location:** Denver, Colorado<br/><br/>**User Intent:** Navigate to Yellowstone National Park from the user’s location.|![fails to meet example](../images/img492.jpg)|![fails to meet](../images/failsm.jpg)|This web result (the official homepage of Yellowstone National Park) completely fails to respond to the specific Device Action **query:** to navigate to the park.
+**Query:** [doctor salary]<br/><br/>**User Location:** San Francisco, California<br/><br/>**User Intent:** Find information about doctor salaries.|![fails to meet example](../images/img495.jpg)|![fails to meet](../images/failsm.jpg)|The answer in this block is about the cost of education, not salary, which is misleading and doesn’t answer the user’s query.
+**Query:** [stony child development center west point phone number]<br/><br/>**User Location:** West Point, New York<br/><br/>**User Intent:** Find the telephone number for the Stony Child Development Center in West Point, New York.|![fails to meet example](../images/img497.jpg)|![fails to meet](../images/failsm.jpg)|The answer in this block provides the phone number for the West Point Club, not the Stony Child Development Center located in West Point, New York. This result Fails to Meet the user intent.
+**Query:** [who invented stairs]<br/><br/>**User Location:** Lubbock, Texas<br/><br/>**User Intent:** Find out about the origin of stairs.|![fails to meet example](../images/img499.jpg)|![fails to meet](../images/failsm.jpg)|The answer provided in this result block is factually inaccurate. Stairs have been a common architectural feature of buildings, pathways, outdoor structures, etc. since long before 1948, and they were not invented by a person named Werner Bösendörfer.
+**Query:** [young famous app developers]<br/><br/>**User Location:** Lubbock, Texas<br/><br/>**User Intent:** Find information about, or a list of, well-known app developers who are young.|![fails to meet example](../images/img501.jpg)|![fails to meet](../images/failsm.jpg)|This result includes several apps to download, with an option to see more apps. The user is looking for information about app developers that are well-known, so it Fails to Meet the user intent.<br/><br/>*Note: Unless you feel the user intent to download an app is strong, results that allow users to download apps are generally less helpful. Mobile users want answers and results right away, at that moment, and may not be able to spend a lot of time downloading and installing apps.*
+**Query:** [send text message to john that i’m running late]<br/><br/>**User Location:** New York, New York<br/><br/>**User Intent:** Send a text message to a contact named John with the message "I’m running late."|Action: Send an email<br/><br/>Subject:<br/><br/>Recipient: John<br/><br/>Body: I'm running late|![fails to meet](../images/failsm.jpg)|The user clearly wants to send a text message. The Device Action result to "Send an email" is incorrect and completely Fails to Meet user intent.
+**Query:** [weather]<br/><br/>**User Location:** Mountain View, California<br/><br/>**User Intent:** Find current weather information for Mountain View, California.|Query Time: 2013-4-23 6:00:12<br/><br/>Action: Set alarm<br/><br/>Alarm Time: 22:43:00|![fails to meet](../images/failsm.jpg)|The user clearly wants weather information. The Device Action result to set an alarm is inappropriate (and even absurd) for this information query. This result completely Fails to Meet the user intent.
+**Query:** [batman]<br/><br/>**User Location:** Anaheim, California<br/><br/>**User Intent:** Find information about the fictional superhero that appears in American comic books, movies, and television shows.|![fails to meet example](../images/img506.jpg)|![fails to meet](../images/failsm.jpg)|It is extremely unlikely (potentially a no-chance interpretation) that this query is looking for information on a city in Turkey called Batman, given that the user is located in the United States. No or almost no users would be satisfied with this result.
+**Query:** [obama]<br/><br/>**User Location:** Austin, Texas<br/><br/>**User Intent:** Find information about Barack Obama.|![fails to meet example](../images/img508.jpg)|![fails to meet](../images/failsm.jpg)|It is extremely unlikely (potentially a no-chance interpretation) that this query is looking for information on a city in Japan called Obama, given that the user is located in the United States. No or almost no users would be satisfied with this result.
+**Query:** [weather paris, texas]<br/><br/>**User Location:** Paris, Texas<br/><br/>**User Intent:** Find current weather information for Paris, Texas.|![fails to meet example](../images/img510.jpg)|![fails to meet](../images/failsm.jpg)|This result completely fails to satisfy the user intent, which is to find weather information for Paris, Texas, and not Paris, France. No users would be satisfied with this result.
+**Query:** [what is the third quarter earnings for ge]<br/><br/>**User Location:** New York, New York<br/><br/>**User Intent:** Find this most recent third quarter earnings information for General Electric.|![fails to meet example](../images/img513.jpg)|![fails to meet](../images/failsm.jpg)|This result does not answer the user’s question to show third quarter earnings for GE. No users would be satisfied with this result.
+**Query:** [city of angels]<br/><br/>**User Location:** Chicago, Illinois<br/><br/>**User Intent:** Find information about the school, a movie by this name, or some other entity by this name.|![fails to meet example](../images/img515.jpg)|![fails to meet](../images/failsm-narrow.jpg)|This result reflects one of several possible user intents, as the query is also the name of a movie, song, musical, and more.<br/><br/>Since the user location is in Chicago, very few or no users would be interested in seeing information about a school by this name in Los Angeles that is not well known outside of this city. It is very unlikely that people outside of Los Angeles would use this query to search for this school.
+**Query:** [go kart for sale]<br/><br/>**User Location:** Warrington, Pennsylvania<br/><br/>**User Intent:** Find go karts for sale in the Warrington, Pennsylvania area.|![fails to meet example](../images/img517.jpg)|![fails to meet](../images/failsm.jpg)|This result block shows a go kart arcade in Warrington, Pennsylvania, and two other go kart arcades in the surrounding area. These arcades are places to go ride go karts, not purchase them, so the result completely Fails to Meet the user intent. No users would be satisfied with this result.
+**Query:** [ralphs]<br/><br/>**User Location:** San Clemente, California<br/><br/>**User Intent:** There are two possible user intents: most users probably want to visit a nearby Ralphs location or go to the website.|![fails to meet example](../images/img519.jpg)|![fails to meet](../images/failsm.jpg)|Ralphs is a nationwide supermarket chain. These locations are all in San Diego, California, which is a major city south of the user location (about 60 miles away). These results are too far to be helpful.
+**Query:** [amazon]<br/><br/>**User Location:** Austin, Texas<br/><br/>**User Intent:** Go to the Amazon website.|![fails to meet example](../images/img522.jpg)|![fails to meet](../images/failsm.jpg)|Users issuing this query want to go to the Amazon website.<br/><br/>Showing information about how to visit or call the corporate office for an online company would not be helpful. Very, very few people ever go to an Amazon corporate office, which is not open to the public. If someone needed to go to the office for an interview or business visit, they would need to get that information from someone at the company or would use a more specific query.
+**Query:** [what is the closest large city]<br/><br/>**User Location:** Myrtle Beach, South Carolina<br/><br/>**User Intent:** Find the closest large city to Myrtle Beach, South Carolina.|![fails to meet example](../images/img524.jpg)|![fails to meet](../images/failsm.jpg)|A news result is inappropriate and completely unhelpful for this query. No users would be satisfied with this result.
+**Query:** [australian open mens singles result 2008]<br/><br/>**User Location:**Kent, Washington<br/><br/>**User Intent:** Find a page that displays the 2008 men’s singles result for this tennis tournament.|![fails to meet example](../images/img526.jpg)|![fails to meet](../images/failsm.jpg)|This LP is about the 2004 Australian Open, not the 2008 Australian Open. It does not pay attention to an aspect of the query that is important for satisfying user intent (i.e., 2008). The result Fails to Meet the user intent.
+**Query:** [tooth loss five years old]<br/><br/>**User Location:** Denton, Texas<br/><br/>**User Intent:** Find information about tooth loss in a five-year-old child.|![fails to meet example](../images/img528.jpg)|![fails to meet](../images/failsm.jpg)|This LP has information about tooth loss in pike fish and has the words "five years old" on the page. This result Fails to Meet the user intent because it has keyword matches only and would be helpful for no users.
+**Query:** [what is wedding in spanish]<br/><br/>**User Location:** Denton, Texas<br/><br/>**User Intent:** Find how to say the word "wedding" in Spanish.|![fails to meet example](../images/img530.jpg)|![fails to meet](../images/failsm.jpg)|The translation in the result block is completely wrong and inaccurate.<br/><br/>Mañana means "tomorrow," not "wedding."
+**Query:** [american express]<br/><br/>**User Location:** Denton, Texas<br/><br/>**User Intent:** Go to the American Express card website or get information about the company and its products and services.|![fails to meet example](../images/img533.jpg)|![fails to meet](../images/failsm.jpg)|The LP is a humorous blog post about a wife helping her husband to buy a suit. The page mentions "American Express," but is insufficiently related to the query to be helpful for users, so it Fails to Meet the user intent.
+**Query:** [zoo atlanta]<br/><br/>**User Location:** Denton, Texas<br/><br/>**User Intent:** Go to the Zoo Atlanta website.|![fails to meet example](../images/img535.jpg)|![fails to meet](../images/failsm.jpg)|This LP on about.com has a short article about the Louisville Zoo. The page has a link in the SC titled "Visit Zoo Atlanta On The Cheap Atlanta."<br/><br/>The MC of this page is not about Zoo Atlanta. The link to an article about Zoo Atlanta is in the SC and many users would never notice this link. This result should not be rated above Fails to Meet.
+**Query:** [how to quit smoking]<br/><br/>**User Location:** Denton, Texas<br/><br/>**User Intent:** Find information on ways to quit smoking.|![fails to meet example](../images/img537.jpg)|![fails to meet](../images/failsm.jpg)|This LP has gibberish text. Read this sentence: "How do you make a cigarette symbol on the keyboard? In." The quality of the landing page is so low that the page Fails to Meet the user intent.
+**Query:** [american beauty]<br/><br/>**User Location:** Mountain View,California<br/><br/>**User Intent:** Learn more about the movie called "American Beauty".|![fails to meet example](../images/img539.jpg)|![fails to meet](../images/failsm.jpg)|This is the official website of the movie "American Beauty". However, the landing page is extremely difficult to use (even seems broken on a mobile phone) and there is no satisfying or helpful content on the page—it Fails to Meet the user intent.<br/><br/>QR Code to view the page:<br/>![QR code "American Beauty" official website](../images/img541.jpg)
+**Query:** [starting order for today’s nascar race]<br/><br/>**User Location:** Denton, Texas<br/><br/>**User Intent:** Find information about the starting order of the Nascar race that day.|![fails to meet example](../images/img543.jpg)|![fails to meet](../images/failsm.jpg)|This result shows a NASCAR schedule, but does not have the starting order. The content is not what the user is looking for and Fails to Meet the user intent.
+**Query:** [air canada phone number]<br/><br/>**User Location:** Seattle, Washington<br/><br/>**User Intent:** Find the customer service phone number for the airline Air Canada.|![fails to meet example](../images/img545.jpg)|![fails to meet](../images/failsm.jpg)|Remember that you should check for the factual accuracy of answers. For this result, go to the company’s page at http://www.aircanada.com/en/customer care/int/ and select USA to check the number shown here. According to the airline’s website, the correct phone number is 1-888-247-2262. Because this answer is incorrect, it should be rated Fails to Meet.
+**Query:** [obama news]<br/><br/>**User Location:** Norfolk, Virginia<br/><br/>**User Intent:** Find recent news about Barack Obama, the 44th president of the United States.|![fails to meet example](../images/img547.jpg)|![fails to meet](../images/failsm.jpg)|The MC of this page is an example of a demonstrably inaccurate news report, including a fictitious quotation by Barack Obama. Because the content is presented as a factual news article, it is inaccurate with an intent to deceive users and should be rated Fails to Meet.
+**Query:** [does smoking cause cancer]<br/><br/>**User Location:** Scottsdale, Arizona<br/><br/>**User Intent:** Find out whether smoking causes cancer.|![fails to meet example](../images/img549.jpg)|![fails to meet](../images/failsm.jpg)|Despite strong medical consensus linking tobacco to lung cancer—which can be found at authoritative sources by searching [lung cancer and smoking]—this LP claims there is no connection between smoking and cancer by selectively interpreting some experiments done on animals.<br/><br/>Additionally, this is a YMYL query on a medical topic, so accurate and trustworthy information is highly important. This page directly contradicts well-established medical consensus and may potentially cause harm to users, so it should be rated Fails to Meet.
+**Query:** [betty white]<br/><br/>**User Location:** Lexington, Kentucky<br/><br/>**User Intent:** Find information about the American actress Betty White, such as biographical info, filmography, awards, current news, etc.|![fails to meet example](../images/img552.jpg)|![fails to meet](../images/failsm.jpg)|Betty White was alive at the time this example was written. This LP is a social media profile page created by an unknown author that was designed to look like a memorial page for Betty White and falsely states that she died. This page is factually inaccurate and deceptive to users, so it should be rated Fails to Meet.<br/><br/>*Remember: For informational queries/results, it is important to check other reputable sources to determine if the result is factually accurate. A quick online search for [betty white] would allow you to confirm that she was still alive.*
+**Query:** [miley cyrus]<br/><br/>**User Location:** Lexington, Kentucky<br/><br/>**User Intent:** Find information about the American singer/actress Miley Cyrus, such as biographical info, discography/filmography, current news, etc.|![fails to meet example](../images/img554.jpg)|![fails to meet](../images/failsm.jpg)|Miley Cyrus was alive at the time this example was written. This LP is an article written by an unknown author that was designed to look like a news story and falsely states that she died. Furthermore, the page is found on a low quality website, and the article has not been updated, clarified, or removed even days after having been proven false. This page is factually inaccurate and deceptive to users, so it should be rated Fails to Meet.<br/><br/>*Remember: Just because a website has the look and feel of a traditional news site does NOT mean that you should consider the reporting to be factually accurate without further research. Watch out for sites that present themselves as news, but were actually created with the intent to mislead or misinform users.*
+**Query:** [holocaust history]<br/><br/>**User Location:** Cooperstown, New York<br/><br/>**User Intent:** Find historical information about the Holocaust.|![fails to meet example](../images/img557.jpg)|![fails to meet](../images/failsm.jpg)|This query is seeking historical information. The LP of this web result is on a well-known white supremacist hate site (read more here or here). The discussion on this page is inaccurate and misleading, since the Holocaust is an extremely well-documented historical event.<br/><br/>*Remember: Pages that directly contradict well-established historical facts should be rated Fails to Meet, unless the query clearly indicates the user is seeking an alternative viewpoint.*
+**Query:** [who is hitler's daughter]<br/><br/>**User Location:** Cooperstown, New York<br/><br/>**User Intent:** Find the name of or information about Adolf Hitler's daughter, if Hitler in fact had a daughter.|![fails to meet example](../images/img559.jpg)|![fails to meet](../images/failsm.jpg)|This LP is a blog post presenting a factually unsupported conspiracy theory that Angela Merkel is the daughter of Adolph Hitler. Because the MC is inaccurate and misleading, it completely Fails to Meet the user intent, even though the topic of the page matches the query.<br/><br/>*Note: A more helpful result for this query might confirm that Adolf Hitler had no children, or provide information on the novel Hitler's Daughter by Jackie French.*
+**Query:** [islam]<br/><br/>**User Location:** Lexington, Kentucky<br/><br/>**User Intent:** Find information about the religion of Islam.|![fails to meet example](../images/img561.jpg)|![fails to meet](../images/failsm.jpg)|This is a broad query seeking information about Islam. The LP was created for the purpose of stating the author's opinion that Islam is not a religion. The author lacks expertise in the topic; the writing has frequent misspellings, typos, and grammar errors; and the page seems to exist to promote intolerance or hate.<br/><br/>*Remember: Upsetting or offensive results for queries that are not obviously seeking this type of content should be rated Fails to Meet.*
