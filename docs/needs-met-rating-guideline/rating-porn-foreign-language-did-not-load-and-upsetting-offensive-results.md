@@ -198,31 +198,18 @@ For example, a result with content that encourages child abuse should be flagged
 
 Query and User Intent|Result Block and LP, Flags|Explanation
 ---|---|---
-**Query:** [holocaust history]<br/><br/>**Locale:** English (US)<br/><br/>**User Location:** New York, NY<br/><br/>**User Intent:** Find historical information about the Holocaust.|![](../images/img593.jpg)<br/>![upsetting-offensive](../images/img594.jpg)|This result is a discussion of how to convince others that the Holocaust never happened. Because of the direct relationship between Holocaust denial and anti-Semitism, many people would consider it offensive.<br/><br/>This result should receive the **Upsetting-Offensive** flag, regardless of what the query was.
-**Query:** [holocaust history]<br/><br/>**Locale:** English (US)<br/><br/>**User Location:** New York, NY<br/><br/>**User Intent:** Find historical information about the Holocaust.|![](../images/img593.jpg)<br/>![upsetting-offensive](../images/img564.jpg)|While the Holocaust itself is a potentially upsetting topic for some, this result is a factually accurate source of historical information. Furthermore, the page does not exist to promote hate or violence against a group of people, contain racial slurs, or depict graphic violence.<br/><br/>Do NOT assign the **Upsetting-Offensive** flag, regardless of what the query was.
-
-**Query:** [racism against blacks]<br/><br/>**Locale:** English (US)<br/><br/>**User Location:** New York, New York<br/><br/>**User Intent:** Find information, news, or other resources about racism against Black people.
-
-![]()<br/>![not upsetting-offensive](../images/img596.jpg)
-
-The purpose of this page is to argue that black people are inferior. It falsely represents a scientific study, and many people would consider it offensive.<br/><br/>This result should receive the **Upsetting-Offensive** flag, regardless of what the query was.
-
-This Wikipedia page provides a well-informed and historically accurate overview of racism and ethnic discrimination in the U.S.<br/><br/>Do NOT assign the **Upsetting-Offensive** flag, regardless of what the query was.
-
-**Query:** [islam]<br/><br/>**Locale:** English (US)<br/><br/>**User Location:** New York, New York<br/><br/>**User Intent:** Find information about the religion of Islam.
-
-![]()<br/>![]()
-
-The purpose of this page is to explain the author's belief that Islam is evil. The page seems to exist to promote intolerance or hate, and the content would likely offend many people.<br/><br/>This result should receive the **Upsetting-Offensive** flag, regardless of what the query was.
-
-This is a high-quality article on a reputable site, with an accurate summary of the major beliefs and practices of Islam.<br/><br/>Do NOT assign the **Upsetting-Offensive** flag, regardless of what the query was.
+**Query:** [holocaust history]<br/><br/>**Locale:** English (US)<br/><br/>**User Location:** New York, NY<br/><br/>**User Intent:** Find historical information about the Holocaust.|![](../images/img593.jpg)<br/>![upsetting-offensive](../images/upsetting-offensive.jpg)|This result is a discussion of how to convince others that the Holocaust never happened. Because of the direct relationship between Holocaust denial and anti-Semitism, many people would consider it offensive.<br/><br/>This result should receive the **Upsetting-Offensive** flag, regardless of what the query was.
+*(Same as above.)*|![](../images/img593.jpg)<br/>![not upsetting-offensive](../images/no-flag.jpg)|While the Holocaust itself is a potentially upsetting topic for some, this result is a factually accurate source of historical information. Furthermore, the page does not exist to promote hate or violence against a group of people, contain racial slurs, or depict graphic violence.<br/><br/>Do NOT assign the **Upsetting-Offensive** flag, regardless of what the query was.
+**Query:** [racism against blacks]<br/><br/>**Locale:** English (US)<br/><br/>**User Location:** New York, New York<br/><br/>**User Intent:** Find information, news, or other resources about racism against Black people.|![](../images/img598.jpg)<br/>![upsetting-offensive](../images/upsetting-offensive.jpg)|The purpose of this page is to argue that black people are inferior. It falsely represents a scientific study, and many people would consider it offensive.<br/><br/>This result should receive the **Upsetting-Offensive** flag, regardless of what the query was.
+*(Same as above.)*|![](../images/img600.jpg)<br/>![not upsetting-offensive](../images/no-flag.jpg)|This Wikipedia page provides a well-informed and historically accurate overview of racism and ethnic discrimination in the U.S.<br/><br/>Do NOT assign the **Upsetting-Offensive** flag, regardless of what the query was.
+**Query:** [islam]<br/><br/>**Locale:** English (US)<br/><br/>**User Location:** New York, New York<br/><br/>**User Intent:** Find information about the religion of Islam.|![](../images/img602.jpg)<br/>![upsetting-offensive](../images/upsetting-offensive.jpg)|The purpose of this page is to explain the author's belief that Islam is evil. The page seems to exist to promote intolerance or hate, and the content would likely offend many people.<br/><br/>This result should receive the **Upsetting-Offensive** flag, regardless of what the query was.
+*(Same as above.)*|![](../images/img604.jpg)<br/>![not upsetting-offensive](../images/no-flag.jpg)|This is a high-quality article on a reputable site, with an accurate summary of the major beliefs and practices of Islam.<br/><br/>Do NOT assign the **Upsetting-Offensive** flag, regardless of what the query was.
 
 ### Needs Met Rating for Upsetting-Offensive Tolerant Queries
 
 Remember that users of all ages, genders, races, and religions use search engines for a variety of needs. One especially important user need is exploring subjects that may be difficult to discuss in person. For example, some people may hesitate to ask what racial slurs mean. People may also want to understand why certain racially offensive statements are made. Giving users access to resources that help them understand racism, hatred, and other sensitive topics is beneficial to society.
 
-When the user's query seems to either ask for or tolerate potentially upsetting or offensive content, we will call the query a
-"Upsetting-Offensive tolerant query". For the purpose of Needs Met rating, please assume that users have a dominant educational/informational intent for Upsetting-Offensive tolerant queries. All results should be rated on the Needs Met rating scale assuming a genuine educational/informational intent.
+When the user's query seems to either ask for or tolerate potentially upsetting or offensive content, we will call the query a "Upsetting-Offensive tolerant query". For the purpose of Needs Met rating, please assume that users have a dominant educational/informational intent for Upsetting-Offensive tolerant queries. All results should be rated on the Needs Met rating scale assuming a genuine educational/informational intent.
 
 In particular, to receive a **Highly Meets** rating, informational results about Upsetting-Offensive topics must:
 
@@ -237,39 +224,19 @@ In particular, to receive a **Highly Meets** rating, informational results about
 
 Here are some examples of how to interpret user intent for queries about possibly Upsetting-Offensive topics.
 
-Query User Intent and Explanation
-
-[are women evil], English (US) Users may want to understand why there is discrimination against women or why peoplemay say "women are evil".
-
-[women are evil], English (US) Assume the intent for this statement is the same as the question, "are women evil?"Users may want to understand why people would say "women are evil".
-
-[did the holocaust happen?], English (US) Users want factually accurate information about the Holocaust or information about the^
-issue of Holocaust denial.
-
-[christians worship the devil], English (US)
-
-Users are looking for information about how Christians and the Christian church view the devil and whether Christians worship the devil.
-
-[racist whites], [racist blacks], (etc.), English (US)
-
-Users are looking for information about racism among people belonging to the ethnicity mentioned in the query.
+Query|User Intent and Explanation
+---|---
+[are women evil], English (US)|Users may want to understand why there is discrimination against women or why peoplemay say "women are evil".
+[women are evil], English (US)|Assume the intent for this statement is the same as the question, "are women evil?"Users may want to understand why people would say "women are evil".
+[did the holocaust happen?], English (US)|Users want factually accurate information about the Holocaust or information about the issue of Holocaust denial.
+[christians worship the devil], English (US)|Users are looking for information about how Christians and the Christian church view the devil and whether Christians worship the devil.
+[racist whites], [racist blacks], (etc.), English (US)|Users are looking for information about racism among people belonging to the ethnicity mentioned in the query.
 
 Here are some full rating examples. Remember that you should assign the Upsetting-Offensive flag to all upsetting/offensive results, even if they satisfy the user intent.
 
-Query and User Intent Result Block and LP, Needs Met Rating, E-A-T Rating, Flags
-
-**Query:** [holocaust history]
-
-**Locale:** English (US)
-
-**User Location:** Seattle, Washington
-
-**User Intent:** Find historical information about the Holocaust.
-
-Important: Though there are some upsetting/offensive results on the topic of this query, the query [holocaust history] should not be considered an Upsetting-Offensive tolerant query.
-(^)
-(^)
-**Query:** [stormfront.org]
-**Locale:** English (US)
-**User Location:** New York, New York
-**User Intent:** Go to the homepage of the website Stormfront.org.
+Query and User Intent|Result Block and LP, Needs Met Rating, E-A-T Rating, Flags
+---|---
+**Query:** [holocaust history]<br/><br/>**Locale:** English (US)<br/><br/>**User Location:** Seattle, Washington<br/><br/>**User Intent:** Find historical information about the Holocaust.<br/><br/>**Important:** Though there are some upsetting/offensive results on the topic of this query, the query [holocaust history] should not be considered an Upsetting-Offensive tolerant query.|![](../images/img608.jpg)<br/>![](../images/failsm.jpg)![](../images/lowest-narrow.jpg)<br/>![upsetting-offensive](../images/upsetting-offensive.jpg)
+*(Same as above.)*|![](../images/img612.jpg)<br/>![](../images/hm.jpg)![](../images/high-narrow.jpg)<br/>![not upsetting-offensive](../images/no-flag.jpg)
+**Query:** [stormfront.org]<br/><br/>**Locale:** English (US)<br/><br/>**User Location:** New York, New York<br/><br/>**User Intent:** Go to the homepage of the website Stormfront.org.|![](../images/img616.jpg)<br/>![](../images/fullym.jpg)![](../images/lowest-narrow.jpg)<br/>![upsetting-offensive](../images/upsetting-offensive.jpg)
+*(Same as above.)*|![](../images/img620.jpg)<br/>![](../images/failsm.jpg)![](../images/medium-narrow.jpg)<br/>![not upsetting-offensive](../images/no-flag.jpg)
