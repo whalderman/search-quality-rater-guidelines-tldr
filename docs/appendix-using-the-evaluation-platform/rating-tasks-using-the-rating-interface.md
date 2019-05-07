@@ -9,8 +9,8 @@ Here is a general outline of the steps you should follow upon acquiring a task:
 
 Additionally, here are a few general things to keep in mind when rating tasks:
 
-- Result blocks are sometimes slow to load: Before assigning any ratings, please scan the task page to make sure that all result blocks have loaded. Please note that result blocks may be slow to load and/or that the task page may need reloading if there are empty result blocks. If the result blocks fail to load after refreshing a few times, please release the task by following the instructions in Section 27. below.
+- **Result blocks are sometimes slow to load:** Before assigning any ratings, please scan the task page to make sure that all result blocks have loaded. Please note that result blocks may be slow to load and/or that the task page may need reloading if there are empty result blocks. If the result blocks fail to load after refreshing a few times, please release the task by following the instructions in Section 27. below.
 
-- Sometimes a side will not have any result blocks: If one side displays the message "This side did not generate any results," please do not release the task.
+- **Sometimes a side will not have any result blocks:** If one side displays the message "This side did not generate any results," please do not release the task.
 
-- Do not refresh the task page after assigning ratings: If you refresh the page after assigning ratings, you will lose them and they will have to be entered again.
+- **Do not refresh the task page after assigning ratings:** If you refresh the page after assigning ratings, you will lose them and they will have to be entered again.
