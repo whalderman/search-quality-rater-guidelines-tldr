@@ -1,8 +1,15 @@
 # 🔰 Got Anything... Useful?
 
-[Darn right](#choose-your-specialty).
+[We certainly _hope_ it's useful](#choose-your-specialty).
 
-## Choose your Specialty
+## The Point of this Site.
+
+Google provides a lot of recommendations and guidance, albeit through what feels like riddles and loose language. However, they **have** to do this.
+
+By keeping things vague, they achieve the following:
+
+1. Bad actors (black-hat SEOs) will have a _slighty_ more difficult time figuring out what they can do to exploit Google's algorithm.
+2. 
 
 ### I specialize in SEO.
 
@@ -12,7 +19,7 @@ Additionally, for those of you interested in *black hat* SEO, all you need can b
 
 ### Local Business.
 
-We got ya covered, yer gonna want to take a gander at [these here sections]().
+We got you covered, you're gonna want to take a gander at [these sections]().
 
 ### Online Business.
 
