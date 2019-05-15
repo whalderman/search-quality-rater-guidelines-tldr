@@ -16,10 +16,11 @@ module.exports = {
 					{
 						text: "Ain't Nobody Got Time For This", items: [
 							{
-								text: "Show me the takeaways for...", items: [
-									{ text: "Small to Medium Businesses", link: "/seo-takeaways-for-smbs/" },
-									{ text: "Brick and Mortar Shops", link: "/seo-takeaways-for-brick-and-mortars/" },
-									{ text: "Online Businesses", link: "/seo-takeaways-for-online-businesses/" }
+								text: "Speak to me in...", items: [
+									{ text: "CEO Terms", link: "/seo-takeaways/ceos" },
+									{ text: "Sales Terms", link: "/seo-takeaways/sales" },
+									{ text: "Developer Terms", link: "/seo-takeaways/developers" },
+									{ text: "Designer Terms", link: "/seo-takeaways/designers" }
 								]
 							}
 						]
@@ -135,5 +136,25 @@ module.exports = {
 				evergreen: true
 			}
 		}
-	}
+	},
+	plugins: [
+		["container", {
+			type: "ceo",
+			defaultTitle: "CEO TL;DR",
+			before: info => `<div class="ceo"><p class="title">${info}</p>`,
+			after: "</div>"
+		}],
+		["container", {
+			type: "sales",
+			defaultTitle: "Sales TL;DR"
+		}],
+		["container", {
+			type: "dev",
+			defaultTitle: "Developer TL;DR"
+		}],
+		["container", {
+			type: "des",
+			defaultTitle: "Designer TL;DR"
+		}],
+	]
 }
