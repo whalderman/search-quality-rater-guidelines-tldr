@@ -4,9 +4,11 @@
 
 ## The Point of this Site.
 
-Google provides a lot of recommendations and guidance, albeit through what feels like riddles and loose language. However, they **have** to do this.
+## Why Does Google Make This Difficult?
 
-By keeping things vague, they achieve the following:
+
+
+Google provides a lot of recommendations and guidance, albeit through riddles and loose, vague language. However, they **have** to do this. By keeping things vague, they achieve the following:
 
 1. Bad actors (black-hat SEOs) will have a _slighty_ more difficult time figuring out what they can do to exploit Google's algorithm.
 2.
