@@ -22,12 +22,6 @@ Need some *scalable* solutions? *Scalable* ROIs? Or *data-driven deliverables* t
 
 <small><small>[Right this way.]()</small></small>
 
-### Medical or Legal.
-
-### Restaurants and Bars.
-
-### Handyman.
-
-### Real Estate.
-
-### Handyman.
+::: ceo
+We've attempted to keep things as short and concise as possible for the CEOs out there. We try to keep these TL;DRs in layman's terms.
+:::
