@@ -1,6 +1,6 @@
 {
 	"name": "qrg-bci",
-	"version": "0.2.0",
+	"version": "2019.5.16",
 	"main": "index.js",
 	"repository": "https://github.com/thewarrman/qrg-bci.git",
 	"author": "thewarrman <halderman.warren@gmail.com>",

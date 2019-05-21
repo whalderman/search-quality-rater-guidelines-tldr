@@ -10,6 +10,6 @@ A few notes about how to acquire tasks from this page:
 
 - **Acquire if available:** Click this button to acquire a new task.
 
-- **Experimental:** This text indicates that there is an Experimental task available.
+- **Headphones or speakers required:** This label indicates that the task requires headphones or speakers (for example, to listen to an audio file).
 
-  Please note there are other types of rating tasks (e.g., Result Review, Side-by-Side). Sometimes there will be only one task type available, but other times you may see more than one type displayed. When there is more than one type displayed, you may choose the type you want to acquire.
+  Please note you may see other types of labels next to the button on the task acquisition page. Sometimes there will be only one button, while other times you may see more than one button displayed to distinguish tasks with different requirements. When there is more than one displayed, you may choose the one you want to acquire.

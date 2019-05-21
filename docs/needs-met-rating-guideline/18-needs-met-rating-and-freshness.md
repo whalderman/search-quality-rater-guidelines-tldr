@@ -13,11 +13,11 @@ When a query demands recent content, only pages with current, recent, or updated
 
 For some queries, there may be "newsy" or recent information user intent, as well as more "timeless" information user intent. Users issuing queries for celebrities or politicians may be interested in biographical information, or users may be looking for the latest news or gossip.
 
-Freshness is generally less of a concern for E-A-T rating. "Stale" pages can have high E-A-T ratings. For example, some highly reputable news websites maintain "archival" content. However, unmaintained/abandoned "old" websites or unmaintained and inaccurate/misleading content is a reason for a low E-A-T rating.
+Freshness is generally less of a concern for Page Quality rating. "Stale" pages can have high Page Quality ratings. For example, some highly reputable news websites maintain "archival" content. However, unmaintained/abandoned "old" websites or unmaintained and inaccurate/misleading content is a reason for a low Page Quality rating.
 
 **Note:** The date the page was created may be different from when the content was last updated or modified. When content is updated, the page will sometimes show the date of the update, not the date the page was created. Some websites always show the current date, regardless of when the content was last updated. If you are curious about the content of a page, see [here](http://archive.org/web/web.php) to try the "Wayback Machine" on the Internet Archive. Not all pages are available, but this tool may help you understand how some pages were created and how their content has changed over time.
 
-Query and User Intent|Result Block and LP, Needs Met Rating, E-A-T Rating|Explanation
+Query and User Intent|Result Block and LP, Needs Met Rating, Page Quality Rating|Explanation
 ---|---|---
 **Query:** `nasa mars landing`<br/><br/>**User Location:** San Francisco, California<br/><br/>**User Intent:** On the date this example was written, NASA had just landed the "Curiosity" rover on Mars. Most users are probably looking for breaking news and pictures about the event.|![](../images/img721.jpg)<br/>![](../images/hm.jpg)![](../images/high-narrow.jpg)|This LP has an article about the "Curiosity" rover landing, published on the same day as the landing, which is the day this example was written.
 *(Same as above.)*|![](../images/img724.jpg)<br/>![](../images/failsm-narrow.jpg)![](../images/high-narrow.jpg)|This LP has an article about the launching of the "Curiosity" rover, published nine months before its landing on Mars. The content on this page would be considered stale for the query.

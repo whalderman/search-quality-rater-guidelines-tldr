@@ -46,7 +46,7 @@ Some **Low** quality pages are unsatisfying because they have a small amount of 
 
 We expect Ads and SC to be visible. However, some Ads, SC, or [interstitial pages]() (i.e., pages displayed before or after the content you are expecting) make it difficult to use the MC. Pages with Ads, SC, or other features that distract from or interrupt the use of the MC should be given a **Low** rating.
 
-A single pop-over Ad with a clear and easy-to-use close button is not terribly distracting, though may not be a great user experience. However, difficult-to-close Ads that follow page scrolls can be truly distracting and make the MC difficult to use.
+A single pop­-over Ad or interstitial page with a clear and easy­ to ­use close button is not terribly distracting, though may not be a great user experience. However, difficult to ­close Ads that follow page scrolls, or interstitial pages that require an app download, can be truly distracting and make the MC difficult to use. You can see examples of interstitial pages here.
 
 The content of the Ads, SC, or other features may be distracting as well: sexually suggestive images such as [here](), grotesque images such as [here](), and porn Ads on non-porn pages should be considered very distracting.
 
