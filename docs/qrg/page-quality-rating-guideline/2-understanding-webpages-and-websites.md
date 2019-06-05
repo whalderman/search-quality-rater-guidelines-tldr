@@ -20,7 +20,7 @@ A **subpage** on a website is any page on the site other than the homepage. For 
 
 A **webmaster** is the person who is responsible for maintaining a website.
 
-**Important** _:_ You must be very comfortable exploring websites, both by clicking links and modifying URLs in the address bar of your web browser. Become a website detective and explorer!
+**Important:** You must be very comfortable exploring websites, both by clicking links and modifying URLs in the address bar of your web browser. Become a website detective and explorer!
 
 ## What is the Purpose of a Webpage?
 

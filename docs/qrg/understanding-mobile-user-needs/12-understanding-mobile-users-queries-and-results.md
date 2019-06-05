@@ -26,7 +26,7 @@ In order to do mobile rating tasks, you must have experience using a mobile smar
 
 There are many different types of queries because users ask their phones to do many things, from opening an app to calling a friend to searching the web.
 
-**User** T:he user is the person trying to accomplish something by typing or speaking into a mobile phone with a small screen (i.e., size of a smartphone, not a tablet).
+**User:** The user is the person trying to accomplish something by typing or speaking into a mobile phone with a small screen (i.e., size of a smartphone, not a tablet).
 
 **User Intent:** When a user types or speaks a query, he or she is trying to accomplish something. We refer to this goal as the user intent.
 

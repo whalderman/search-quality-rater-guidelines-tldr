@@ -167,7 +167,7 @@ module.exports = {
 		anchor: {
 			permalink: true,
 			permalinkBefore: true,
-			permalinkSymbol: '☞'
+			permalinkSymbol: '📌'
 		}
 	}
 }
