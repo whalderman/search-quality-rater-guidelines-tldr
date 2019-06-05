@@ -15,24 +15,20 @@ Google provides a lot of recommendations and guidance, albeit through riddles an
 
 ### I specialize in SEO
 
-**That's** weird... sorry to say, you're gonna have to peruse this entire thing. **_Or_** you can just browse through the [TL;DR](/tldr)s.
+**That's** weird... you're gonna have to peruse this entire thing. **_Or_** you can just browse through the [TL;DR](/tldr)s.
 
 Also, for those of you interested in *black hat* SEO, all you need can be found [here](https://bit.ly/2U6ZdlL).
 
 ### Local Business
 
-We got ya covered, you're going to want to take a gander at [these here sections](/tldr/local).
+We got ya covered, you're going to want to take a gander at [these here sections](/tldr/).
 
 ### Online Business
 
 Need some *scalable* solutions? *Scalable* ROIs? Or *data-driven deliverables* that happen to be **_scales_**? Well **hoo boy** do I-!
 
 ::: danger
-Just give me the goods.
+Just give me the goods
 :::
 
-[Right this way.](/tldr/online)
-
-::: ceo
-We've attempted to keep things as short and concise as possible for the CEOs out there. These get straight to the bottom line.
-:::
+<small>[Right this way.](/tldr/)</small>

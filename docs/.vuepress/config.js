@@ -40,7 +40,7 @@ module.exports = {
 				description: 'This is where you learn about Google\'s SEO advisory.',
 				nav: [
 					{
-						text: '🔰 Got Anything... Useful?', link: '/guidance/'
+						text: '🔰 Got Anything... Useful?', link: '/'
 					},
 					{
 						text: 'Who Did This?', link: '/about/'
@@ -161,6 +161,13 @@ module.exports = {
 					}
 				]
 			}
+		}
+	},
+	markdown: {
+		anchor: {
+			permalink: true,
+			permalinkBefore: true,
+			permalinkSymbol: '☞'
 		}
 	}
 }

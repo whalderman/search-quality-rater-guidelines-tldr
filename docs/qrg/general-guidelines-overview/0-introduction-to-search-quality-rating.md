@@ -22,7 +22,7 @@ Do not use add-ons or extensions that block ads for Needs Met rating or Page Qua
 
 In the course of your work, you will visit many different webpages. Some of them may harm your computer unless you are careful. Please do not download any executables, applications, or other potentially dangerous files, or click on any links that you are uncomfortable with.
 
-**It is strongly recommended that you have antivirus and antispyware protection on your computer. This software must be updated frequently or your computer will not be protected. There are many free and for-purchase antivirus and antispyware products available on the web**.
+**It is strongly recommended that you have antivirus and antispyware protection on your computer. This software must be updated frequently or your computer will not be protected. There are many free and for-purchase antivirus and antispyware products available on the web.**
 
 See [here](http://en.wikipedia.org/wiki/Antivirus_software) for a Wikipedia page on antivirus software and [here](http://en.wikipedia.org/wiki/Spyware) for a Wikipedia page on spyware.
 
