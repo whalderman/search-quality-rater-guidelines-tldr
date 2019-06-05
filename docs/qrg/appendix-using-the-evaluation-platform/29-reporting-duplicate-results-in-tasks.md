@@ -27,7 +27,7 @@ Please note that in Needs Met rating and other query-based tasks, dupe identific
 
 Please identify dupes both within the same side and across sides. Even for cross-side results, you should still ask yourself the question, "Would users want to see both results if they were returned by the same search engine?"
 
-**Note**: If two result blocks have very different types of content or very different appearances, do not mark them as duplicates even if they have the same landing page URL. For example, these two blocks should not be marked as duplicates of each other.
+**Note:** If two result blocks have very different types of content or very different appearances, do not mark them as duplicates even if they have the same landing page URL. For example, these two blocks should not be marked as duplicates of each other.
 
 |||
 -|-
@@ -53,7 +53,7 @@ URL 1: [http://www.caimag.com/wordpress/2010/03/06/motorcycle-battery-how-to-cho
 
 URL 2: [http://www.articlesbase.com/motorcycles-articles/choosing-and-installing-a-motorcycle-battery-47798.html](http://www.articlesbase.com/motorcycles-articles/choosing-and-installing-a-motorcycle-battery-47798.html)
 
-**Reason**: Both of these results display the same article (which also appears on many other pages on the web). The only real difference between the landing pages are the Ads displayed around the article. The query is broad enough that users would **not** benefit by search engines returning more than one of these results.
+**Reason:** Both of these results display the same article (which also appears on many other pages on the web). The only real difference between the landing pages are the Ads displayed around the article. The query is broad enough that users would **not** benefit by search engines returning more than one of these results.
 
 <span style="color: red">**Dupes**</span>
 
@@ -63,7 +63,7 @@ URL 1: [http://www.myspace.com/jasoncastromusic](http://www.myspace.com/jasoncas
 
 URL 2: [http://www.myspace.com/jasoncastromusic?MyToken=503599bf-01cf-4427-bdf4-d63920c107f9](http://www.myspace.com/jasoncastromusic?MyToken=503599bf-01cf-4427-bdf4-d63920c107f9)
 
-**Reason**: These two results have the same landing page, even though the URLs are different. Users would **not** benefit by search engines returning both results.
+**Reason:** These two results have the same landing page, even though the URLs are different. Users would **not** benefit by search engines returning both results.
 
 <span style="color: green">**Not Dupes**</span>
 
@@ -73,4 +73,4 @@ URL 1: [http://www.lyricsfreak.com/m/madonna/material+girl_20086925.html](http:/
 
 URL 2: [http://www.lyrics007.com/Madonna%20Lyrics/Material%20Girl%20Lyrics.html](http://www.lyrics007.com/Madonna%20Lyrics/Material%20Girl%20Lyrics.html)
 
-**Reason**: Even though both pages display the lyrics to the song "Material Girl," users would probably want to have the option to visit both pages so that they could verify the accuracy of the lyrics. Users could benefit by search engines returning more than one page with the lyrics to the song.
+**Reason:** Even though both pages display the lyrics to the song "Material Girl," users would probably want to have the option to visit both pages so that they could verify the accuracy of the lyrics. Users could benefit by search engines returning more than one page with the lyrics to the song.

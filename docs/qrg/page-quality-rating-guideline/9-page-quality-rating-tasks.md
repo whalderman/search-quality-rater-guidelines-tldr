@@ -2,7 +2,7 @@
 
 At first, PQ rating may seem difficult. There are several aspects of the page and the website to look at and think about. This type of rating takes practice. Rereading sections of these guidelines and thinking about the examples may help when you encounter difficult rating tasks.
 
-**Important**: Do not struggle with each PQ rating. Please give your best rating and move on. If you are having trouble deciding between two ratings, use the lower rating. If you are torn between three ratings, choose the one in the middle.
+**Important:** Do not struggle with each PQ rating. Please give your best rating and move on. If you are having trouble deciding between two ratings, use the lower rating. If you are torn between three ratings, choose the one in the middle.
 
 Do not consider the country or location of the page or website for PQ rating. For example, English (US) raters should use the same PQ standards when rating pages from other English language websites (UK websites, Canadian websites, etc.)
 as they use when rating pages from U.S. websites. In other words, English (US) raters should not lower the PQ rating because the page location (UK, Canada) does not match the task location.

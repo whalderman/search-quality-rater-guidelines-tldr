@@ -31,7 +31,7 @@ One of the most important criteria of PQ rating is E-A-T. Expertise of the creat
 
 If the E-A-T of a page is low enough, users cannot or should not use the MC of the page. This is especially true of YMYL topics. If the page is highly inexpert, unauthoritative or untrustworthy, it fails to achieve its purpose.
 
-**Important**: The **Lowest** rating should be used if the page is highly inexpert, unauthoritative, or untrustworthy.
+**Important:** The **Lowest** rating should be used if the page is highly inexpert, unauthoritative, or untrustworthy.
 
 ### No/Little Main Content
 
@@ -56,7 +56,7 @@ One way to create MC with little to no time, effort, or expertise is to copy it 
 
 The word "copied" refers to the practice of "scraping" content, or copying content from other non-affiliated websites without adding any original content or value to users (see [here](https://support.google.com/webmasters/answer/2721312) for more information on copied or scraped content).
 
-**Important**: We do not consider legitimately licensed or syndicated content to be "copied" (see [here](http://en.wikipedia.org/wiki/Web_syndication) for more on web syndication). Examples of syndicated content in the U.S. include news articles by AP or Reuters.
+**Important:** We do not consider legitimately licensed or syndicated content to be "copied" (see [here](http://en.wikipedia.org/wiki/Web_syndication) for more on web syndication). Examples of syndicated content in the U.S. include news articles by AP or Reuters.
 
 The **Lowest** rating is appropriate if all or almost all of the MC on the page is copied with little or no time, effort, expertise, manual curation, or added value for users. Such pages should be rated **Lowest**, even if the page assigns credit for the content to another source.
 
@@ -66,7 +66,7 @@ All of the following are considered copied content:
 - **Content that is copied, but changed slightly from the original.** This type of copying makes it difficult to find the exact matching original source. Sometimes just a few words are changed, or whole sentences are changed, or a "find and replace" modification is made, where one word is replaced with another throughout the text. These types of changes are deliberately done to make it difficult to find the original source of the content. We call this kind of content "copied with minimal alteration."
 - **Content copied from a changing source, such as a search results page or news feed.** You often will not be able to find an exact matching original source if it is a copy of "dynamic" content (content that changes frequently). However, we will still consider this to be copied content.
 
-**Important**: The **Lowest** rating is appropriate if all or almost all of the MC on the page is copied with little or no time, effort, expertise, manual curation, or added value for users. Such pages should be rated **Lowest**, even if the page assigns credit for the content to another source.
+**Important:** The **Lowest** rating is appropriate if all or almost all of the MC on the page is copied with little or no time, effort, expertise, manual curation, or added value for users. Such pages should be rated **Lowest**, even if the page assigns credit for the content to another source.
 
 ### How to Determine if Content is Copied
 
@@ -92,7 +92,7 @@ Use your best judgment. Sometimes it is clear that the content is copied from so
 
 We have confirmed that the above text (the text in the sentence and phrases in the table) comes from an [older version of a Wikipedia article](https://guidelines.raterhub.com/images/WizardOfOzWikipediaInternetArchive.jpg) about "The Wizard of Oz," which can be found using the [Internet Archive Wayback Machine](https://guidelines.raterhub.com/images/InternetArchiveWaybackMachine.jpg). Please note that searching for the above sentence and phrases will not lead you to a current Wikipedia article about "The Wizard of Oz," which demonstrates how confirming that the MC of a page contains copied content can sometimes be difficult.
 
-**Important**: The **Lowest** rating is appropriate if all or almost all of the MC on the page is copied with little or no time, effort, expertise, manual curation, or added value for users. Such pages should be rated **Lowest**, even if the page assigns credit for the content to another source.
+**Important:** The **Lowest** rating is appropriate if all or almost all of the MC on the page is copied with little or no time, effort, expertise, manual curation, or added value for users. Such pages should be rated **Lowest**, even if the page assigns credit for the content to another source.
 
 ### Auto-Generated Main Content
 
@@ -166,9 +166,9 @@ Use the **Lowest** rating if the website and the creators of the MC have a negat
 
 Website|Description
 |---|---|
-[Site selling children’s jungle gym](https://guidelines.raterhub.com/images/domeclimber.com.jpg)|**Negative reputation information**: This business has a [BBB rating](https://guidelines.raterhub.com/images/DomeClimberBBBReview.jpg) of F. There is a news article about financial fraud. There are many reviews on websites describing how users sent money and did not receive anything in return.
-[Site selling products related to eyewear](https://guidelines.raterhub.com/images/RG3_3.5-40.jpg)|**Negative/malicious reputation information**: This website engaged in criminal behavior such as physically threatening users.
-[Organization serving the hospitalized veteran community](https://guidelines.raterhub.com/images/PQ.3.5.10.jpg)|**Negative reputation information**: There are many detailed negative articles on news sites and charity watchdog sites describing fraud and financial mishandling about this organization.
+[Site selling children’s jungle gym](https://guidelines.raterhub.com/images/domeclimber.com.jpg)|**Negative reputation information:** This business has a [BBB rating](https://guidelines.raterhub.com/images/DomeClimberBBBReview.jpg) of F. There is a news article about financial fraud. There are many reviews on websites describing how users sent money and did not receive anything in return.
+[Site selling products related to eyewear](https://guidelines.raterhub.com/images/RG3_3.5-40.jpg)|**Negative/malicious reputation information:** This website engaged in criminal behavior such as physically threatening users.
+[Organization serving the hospitalized veteran community](https://guidelines.raterhub.com/images/PQ.3.5.10.jpg)|**Negative reputation information:** There are many detailed negative articles on news sites and charity watchdog sites describing fraud and financial mishandling about this organization.
 
 ## Pages that Potentially Misinform Users
 

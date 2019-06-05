@@ -18,10 +18,10 @@ In the following sections, you will learn about characteristics of **Lowest**, *
 Here are the most important factors to consider when selecting an overall Page Quality rating:
 
 - **The Purpose of the Page**
-- **Expertise, Authoritativeness, Trustworthiness**: This is an important quality characteristic. Use your research on the additional factors below to inform your rating.
-- **Main Content Quality and Amount**: The rating should be based on the landing page of the task URL.
-- **Website Information/information about who is responsible for the MC**: Find information about the website as well as the creator of the MC.
-- **Website Reputation/reputation about who is responsible for the MC**: Links to help with reputation research will be provided.
+- **Expertise, Authoritativeness, Trustworthiness:** This is an important quality characteristic. Use your research on the additional factors below to inform your rating.
+- **Main Content Quality and Amount:** The rating should be based on the landing page of the task URL.
+- **Website Information/information about who is responsible for the MC:** Find information about the website as well as the creator of the MC.
+- **Website Reputation/reputation about who is responsible for the MC:** Links to help with reputation research will be provided.
 
 > Note: Some tasks may ask you to view the page on your phone, but to do research (e.g., finding website information and reputation) on your desktop. Other tasks may ask you to do everything on desktop. Please follow instructions in the task.
 

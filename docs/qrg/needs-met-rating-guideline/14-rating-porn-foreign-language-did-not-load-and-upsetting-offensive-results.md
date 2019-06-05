@@ -16,7 +16,7 @@ Please assign the **Porn** flag to all porn pages, whether the query is porn-see
 
 This flag should be used if the content inside the result block, or the content on the LP, is pornographic, including porn images, links, text, pop-ups, and/or prominent porn ads. An image may be considered porn in one culture or country, but not another. Please use your judgment and knowledge of your locale.
 
-**Remember**: The **Porn** flag is used to indicate that the result is porn. It doesn’t matter whether the query "asks for porn".
+**Remember:** The **Porn** flag is used to indicate that the result is porn. It doesn’t matter whether the query "asks for porn".
 
 ## Needs Met Rating for Porn Results
 
@@ -101,7 +101,7 @@ Query and User Intent|Result Block and LP, Flag, Needs Met Rating|Explanation
 ---|---|---
 **Query:** [baidu]<br/><br/>**Locale:** English (US)<br/><br/>**User Location:** Anchorage, Alaska<br/><br/>**User Intent:** Go to the Baidu website.|![](../images/img571.jpg)<br/>![](../images/img572.jpg)<br/>![](../images/fullym.jpg)|This LP is the homepage of the Baidu website. The result is the target page of the query, but is in a foreign language (Chinese).<br/><br/>This result merits a **FullyM** rating and the **Foreign Language** flag.
 
-**Important**:
+**Important:**
 
 - Please assign the **Foreign Language** flag even if you personally understand the language, but most users in your locale do not.
 - Please assign the **Foreign Language** flag based on the language of the landing page, not the appearance of the result block.

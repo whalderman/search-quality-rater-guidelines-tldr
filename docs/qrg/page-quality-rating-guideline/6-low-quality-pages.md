@@ -24,7 +24,7 @@ If a page has multiple **Low** quality attributes, a rating lower than **Low** m
 
 Note: Websites with user-generated content span the Page Quality rating spectrum. Please pay careful attention to websites that allow users to publish content with little oversight, such as social networking pages, video sharing websites, volunteer-created encyclopedias, article sharing websites, forums, etc. Depending on the topic, pages on these websites may lack E‑A‑T.
 
-**Important**: The **Low** rating should be used if the page lacks appropriate E‑A‑T for its purpose.
+**Important:** The **Low** rating should be used if the page lacks appropriate E‑A‑T for its purpose.
 
 ## Low Quality Main Content
 
@@ -34,13 +34,13 @@ In addition, please examine the title on the page. The title of the page should 
 
 Exaggerated or shocking titles can entice users to click on pages in search results. If pages do not live up to the exaggerated or shocking title or images, the experience leaves users feeling surprised and confused. Here is an example of a page with an exaggerated and shocking title: "Is the World about to End? Mysterious Sightings of 25ft Sea Serpents Prompt Panic!" as the title for an article about the unidentified remains of one small dead fish on a beach. Pages with exaggerated or shocking titles that do not describe the MC well should be rated **Low**.
 
-**Important**: The **Low** rating should be used if the page has **Low** quality MC.
+**Important:** The **Low** rating should be used if the page has **Low** quality MC.
 
 ## Unsatisfying Amount of Main Content
 
 Some **Low** quality pages are unsatisfying because they have a small amount of MC for the purpose of the page. For example, imagine an encyclopedia article on a very broad topic such as World War II that has just a few paragraphs.
 
-**Important**: The **Low** rating should be used if the page has an unsatisfying amount of MC for the purpose of the page.
+**Important:** The **Low** rating should be used if the page has an unsatisfying amount of MC for the purpose of the page.
 
 ## Distracting Ads/SC
 
@@ -52,7 +52,7 @@ The content of the Ads, SC, or other features may be distracting as well: sexual
 
 Finally, Ads and SC can be distracting if the titles or images of the Ads or SC are shocking or disturbing. [Here]() is an example of a page with shocking and exaggerated titles, images, and text in the Ads and SC.
 
-**Important**: The **Low** rating should be used if the page has Ads, SC, or other features that interrupt or distract from using the MC.
+**Important:** The **Low** rating should be used if the page has Ads, SC, or other features that interrupt or distract from using the MC.
 
 ## Mixed or Mildly Negative Reputation of the Website or Creator of the Main Content
 
@@ -62,7 +62,7 @@ If the MC was not created by the website, research the reputation of the creator
 
 Pay attention when there is evidence of mixed or mildly negative—though not malicious or financially fraudulent—reputation. The **Low** rating should be used if the website or the creator of the MC has a mildly negative reputation.
 
-**Important**: For a YMYL website, a mixed reputation is cause for a **Low** rating.
+**Important:** For a YMYL website, a mixed reputation is cause for a **Low** rating.
 
 ## Unsatisfying Amount of Information about the Website or Creator of the Main Content
 
@@ -70,7 +70,7 @@ We expect some form of website information for many or most websites. We expect 
 
 Stores and websites that process financial transactions require a high level of user trust. If a store or financial transaction website has just an email address and physical address, it may be difficult to get help if there are issues with the transaction. Likewise, many other types of YMYL websites also require a high degree of user trust.
 
-**Important**: For YMYL pages and other pages that require a high level of user trust, an unsatisfying amount of any of the following is a reason to give a page a **Low** quality rating: customer service information, contact information, information about who is responsible for the website or information about who created the content. For other types of websites, use your judgment.
+**Important:** For YMYL pages and other pages that require a high level of user trust, an unsatisfying amount of any of the following is a reason to give a page a **Low** quality rating: customer service information, contact information, information about who is responsible for the website or information about who created the content. For other types of websites, use your judgment.
 
 ## Examples of Low Quality Pages
 
