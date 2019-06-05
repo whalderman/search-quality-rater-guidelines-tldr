@@ -49,10 +49,10 @@ module.exports = {
 						text: 'Ain\'t Nobody Got Time For This', items: [
 							{
 								text: 'Speak to me in...', items: [
-									{ text: 'CEO Jargon', link: '/seo-takeaways/ceos' },
-									{ text: 'Sales Jargon', link: '/seo-takeaways/sales' },
-									{ text: 'Developer Jargon', link: '/seo-takeaways/developers' },
-									{ text: 'Designer Jargon', link: '/seo-takeaways/designers' }
+									{ text: 'CEO Jargon', link: '/tldr/ceos' },
+									{ text: 'Sales Jargon', link: '/tldr/sales' },
+									{ text: 'Developer Jargon', link: '/tldr/developers' },
+									{ text: 'Designer Jargon', link: '/tldr/designers' }
 								]
 							}
 						]
