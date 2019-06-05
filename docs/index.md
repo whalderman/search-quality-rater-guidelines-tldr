@@ -9,7 +9,7 @@ We're trying to save you time.
 Google provides a lot of recommendations and guidance, albeit through riddles and loose, vague language. However, they **have** to do this. By keeping things vague, they achieve the following:
 
 1. Bad actors (black-hat SEOs) will have a _slighty_ more difficult time figuring out what they can do to exploit Google's algorithm.
-2. Wow
+2. ...
 
 ## Choose your Specialty
 
