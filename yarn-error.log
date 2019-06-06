@@ -1,5 +1,5 @@
 Arguments: 
-  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add @vuepress/vue
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add @vuepress/plugin-git-log moment
 
 PATH: 
   C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\dotnet\;C:\Program Files\PostgreSQL\11\bin;C:\Program Files\PostgreSQL\pg11\bin;C:\Program Files\Git\cmd;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Program Files (x86)\Yarn\bin\;C:\Ruby23-x64\bin;C:\Ruby24-x64\bin;C:\Ruby26-x64\bin;C:\Users\whald\scoop\shims;C:\Users\whald\AppData\Local\Programs\Python\Python36-32\Scripts\;C:\Users\whald\AppData\Local\Programs\Python\Python36-32\;C:\Users\whald\AppData\Local\Programs\Python\Launcher\;C:\Users\whald\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Microsoft VS Code\bin;C:\Users\whald\.dotnet\tools;C:\Users\whald\AppData\Local\hyper\app-2.0.0\resources\bin;C:\Users\whald\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\whald\AppData\Local\Microsoft\WindowsApps;C:\Program Files\heroku\bin;C:\Users\whald\Downloads\libwebp-1.0.2-windows-x64\bin;C:\Users\whald\AppData\Roaming\npm;C:\Users\whald\AppData\Local\Yarn\bin
@@ -14,7 +14,7 @@ Platform:
   win32 x64
 
 Trace: 
-  Error: https://registry.yarnpkg.com/@vuepress%2fvue: Not found
+  Error: https://registry.yarnpkg.com/@vuepress%2fplugin-git-log: Not found
       at Request.params.callback [as _callback] (C:\Program Files (x86)\Yarn\lib\cli.js:65200:18)
       at Request.self.callback (C:\Program Files (x86)\Yarn\lib\cli.js:129590:22)
       at Request.emit (events.js:189:13)

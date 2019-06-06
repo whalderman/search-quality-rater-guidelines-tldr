@@ -8,7 +8,7 @@ module.exports = [
 	{
 		text: 'TL;DR', items: [
 			{
-				text: '...の専門用語で私に話して', items: [
+				text: '〇〇の専門用語で私に話して', items: [
 					{ text: '最高経営責任者', link: '/ja/tldr/ceos' },
 					{ text: '営業', link: '/ja/tldr/sales' },
 					{ text: '開発者', link: '/ja/tldr/developers' },

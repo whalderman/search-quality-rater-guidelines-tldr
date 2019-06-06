@@ -1,10 +1,10 @@
-# General Guidelines Overview
+# 検索品質評価ガイドラインの概要
 
-**Welcome to the Search Quality Rating Program!**
+## 検索品質評価プログラムへようこそ！
 
-As a Search Quality Rater, you will work on many different types of rating projects. The General Guidelines primarily cover Page Quality (PQ) rating and Needs Met (NM) rating; however, the concepts are also important for many other types of rating tasks.
+この「検索品質評価ガイドライン」を通して、「Page Quality評価（PQ評価）」（初めにページ品質を評価する）と「Needs Met評価」（ユーザーニーズとの合致を評価する）理解していく。評価タスクでは、PQ評価・NM評価のコンセプトが重要である。
 
-For brevity, we refer to "Search Quality Raters" as "raters" in these guidelines.
+本ガイドラインでは「検索品質評価者」を省略して「評価者」とする。
 
 ![Should I buy an iPhone?](../images/img6.jpg)
 ![Is this page trustworthy?](../images/img8.jpg)

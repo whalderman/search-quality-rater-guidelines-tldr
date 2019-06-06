@@ -1,13 +1,13 @@
 module.exports = [
 	{
-		title: 'General Guidelines Overview',
+		title: '検索品質評価ガイドラインの概要',
 		children: [
 			'/ja/qrg/general-guidelines-overview/',
 			'/ja/qrg/general-guidelines-overview/0-introduction-to-search-quality-rating'
 		]
 	},
 	{
-		title: 'Page Quality Rating Guideline',
+		title: 'Page Quality評価のガイドライン',
 		children: [
 			'/ja/qrg/page-quality-rating-guideline/1-introduction-to-page-quality-rating',
 			'/ja/qrg/page-quality-rating-guideline/2-understanding-webpages-and-websites',
@@ -23,13 +23,13 @@ module.exports = [
 		]
 	},
 	{
-		title: 'Understanding Mobile User Needs',
+		title: 'モバイルユーザーのニーズ把握',
 		children: [
 			'/ja/qrg/understanding-mobile-user-needs/12-understanding-mobile-users-queries-and-results'
 		]
 	},
 	{
-		title: 'Needs Met Rating Guideline',
+		title: 'Needs Met評価のガイドライン',
 		children: [
 			'/ja/qrg/needs-met-rating-guideline/13-rating-using-the-needs-met-scale',
 			'/ja/qrg/needs-met-rating-guideline/14-rating-porn-foreign-language-did-not-load-and-upsetting-offensive-results',
@@ -45,7 +45,7 @@ module.exports = [
 		]
 	},
 	{
-		title: 'Appendix: Using the Evaluation Platform',
+		title: '付録：Evaluation Platformを使う',
 		children: [
 			'/ja/qrg/appendix-using-the-evaluation-platform/24-overview',
 			'/ja/qrg/appendix-using-the-evaluation-platform/25-acquiring-tasks',

@@ -1,6 +1,6 @@
 # General Guidelines Overview
 
-**Welcome to the Search Quality Rating Program!**
+## Welcome to the Search Quality Rating Program!
 
 As a Search Quality Rater, you will work on many different types of rating projects. The General Guidelines primarily cover Page Quality (PQ) rating and Needs Met (NM) rating; however, the concepts are also important for many other types of rating tasks.
 

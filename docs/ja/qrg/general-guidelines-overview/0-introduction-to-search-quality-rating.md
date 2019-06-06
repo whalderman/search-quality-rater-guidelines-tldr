@@ -1,39 +1,42 @@
-# Introduction to Search Quality Rating
+# 序章　検索品質評価の概要
 
-## The Purpose of Search Quality Rating
+## 検索品質評価の目的
 
-Your ratings will be used to evaluate search engine quality around the world. Good search engines give results that are helpful for users in their specific language and locale.
+あなたの評価は世界中の検索エンジンの評価に使われる。
+良い検索エンジンはユーザーに適した言語や場所にとって役に立つ情報を与える。
 
-It is important that you are familiar with and comfortable using a search engine. We encourage you to be an expert in Google search! For example, experiment with using operators (e.g., quotes or a dash) in your searches or try using Google’s advanced search option.
+検索エンジンを快適に使い、よく知ることが重要。Google検索のエキスパートになることを推奨する。例えば、[検索演算子](https://support.google.com/websearch/answer/2466433?hl=ja)や[検索オプション](https://support.google.com/websearch/answer/35890?hl=ja)を使ってみる。
 
-## Raters Must Represent the User
+## 検索品質評価者はユーザーの代表
 
-It is very important for you to represent users in the locale you evaluate. You must be very familiar with the task language and location in order to represent the experience of users in your locale. If you do not have the knowledge to do this, please inform your employer/company.
+あなたの評価ロケールのユーザーを代表するということは重要。評価タスクの言語・地域を理解しなければならない。知識が無いときはベンダーに連絡する。
 
-## Browser Requirements
+## ブラウザの設定
 
-Check with your employer/company for browser requirements. You may use helpful browser add-ons or extensions, but please do not use add-ons or extensions that interfere with or alter the user experience of the page.
+ベンダーにブラウザの設定を確認する。アドオン・拡張を利用してもいいが、UXに影響を与えたり、変えたりするものは使わない。
 
-## Ad Blocking Extensions
+## 広告ブロック用の拡張
 
-Do not use add-ons or extensions that block ads for Needs Met rating or Page Quality rating. These add-ons or extensions may cause you to give incorrect ratings. As a rater, only use an ad blocking extension or add-on if specifically instructed to do so in the project-specific instructions.
+NM評価・PQ評価を行うときは、広告をブロックするアドオン・拡張は使わない。
 
-## Internet Safety Information
+## セキュリティについて
 
-In the course of your work, you will visit many different webpages. Some of them may harm your computer unless you are careful. Please do not download any executables, applications, or other potentially dangerous files, or click on any links that you are uncomfortable with.
+業務では、多種多様なサイトを訪れる。サイトによっては、コンピューターが被害を受けることがある。実行可能なファイルやアプリ、危険な可能性のあるファイルをダウンロードしたり、怪しいリンクをクリックしたりしないようにする。
 
-**It is strongly recommended that you have antivirus and antispyware protection on your computer. This software must be updated frequently or your computer will not be protected. There are many free and for-purchase antivirus and antispyware products available on the web.**
+**スパイウェア対策ソフトウェアやウイルス対策ソフトウェアの導入を推奨する。**
+**これらのソフトウェアは頻繁に更新しなければコンピューターが保護されない。オンラインで様々なウイルス対策スパイウェア・ソフトウェア対策ソフトウェアを入手できる。**
 
-See [here](http://en.wikipedia.org/wiki/Antivirus_software) for a Wikipedia page on antivirus software and [here](http://en.wikipedia.org/wiki/Spyware) for a Wikipedia page on spyware.
+[ウイルス対策ソフトウェア](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%81%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2)・[スパイウェア対策ソフトウェア](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%91%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A2)については、Wikipediaを参照。
 
-We suggest that you only open files with which you are comfortable. The file formats listed below are generally considered safe if antivirus software is in place.
+安心して開けるファイルを開く。
+ウイルス対策ソフトウェアを導入していれば、以下のファイルは開いても安全。
 
-- `.txt` (text file)
+- `.txt` (テキストファイル)
 - `.ppt` or `.pptx` (Microsoft PowerPoint)
 - `.doc` or `.docx` (Microsoft Word)
 - `.xls` or `.xlsx` (Microsoft Excel)
-- `.pdf` (PDF) files
+- `.pdf` (PDF)
 
-If you encounter a page with a warning message, such as "Warning-visiting this web site may harm your computer," or if your antivirus software warns you about a page, you should not try to visit the page to assign a rating.
+**注**：このwebサイトを訪問すると、コンピューターに損害が発生することがあります」のような警告が示されるページや、ウイルス対策ソフトウェアが警告するページは、ページ訪問ことも評価をつけることも必要ない。
 
-You may also encounter pages that require RealPlayer or the Adobe Flash plug-in. These are generally safe to download.
+RealPlayerやAdobe Flash Playerプラグインが必要なページもあるが、基本的にダウンロードしても安全である。

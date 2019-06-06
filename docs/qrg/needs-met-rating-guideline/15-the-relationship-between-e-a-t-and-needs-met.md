@@ -22,7 +22,7 @@ Here is some guidance about assigning Needs Met and E-A-T ratings:
 
 - SM is often an appropriate rating for low quality but on-topic pages. However, a page can have such low Page Quality that it is useless for nearly all queries. Gibberish pages are a good example of pages with low Page Quality that should be rated FailsM. An exception to this is queries with clear website intent, where the target website should be rated FullyM even if the page has low Page Quality.
 
-- Remember that if a page lacks a beneficial purpose, it should always be rated Lowest Page Quality ­ regardless of the page’s Needs Met rating or how well­-designed the page may be. Please review [Section 7.0](../page-quality-rating-guideline/7-lowest-quality-pages) for a summary of other types of Lowest Page Quality pages.
+- Remember that if a page lacks a beneficial purpose, it should always be rated Lowest Page Quality ­ regardless of the page’s Needs Met rating or how well­-designed the page may be. Please review [Lowest Quality Pages](../page-quality-rating-guideline/7-lowest-quality-pages) for a summary of other types of Lowest Page Quality pages.
 
 Query and User Intent|Result Block and LP, Needs Met Rating, E-A-T Rating|Explanation
 ---|---|---

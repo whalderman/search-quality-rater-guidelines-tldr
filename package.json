@@ -14,6 +14,7 @@
 		"vuepress": "^1.0.0-beta.1"
 	},
 	"dependencies": {
+		"moment": "^2.24.0",
 		"vuepress-plugin-container": "^2.0.1"
 	}
 }
