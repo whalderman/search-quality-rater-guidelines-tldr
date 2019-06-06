@@ -1,15 +1,15 @@
-# Introduction to Page Quality Rating
+# Page Quality評価の概要
 
-A Page Quality (PQ) rating task consists of a URL and a grid to record your observations, in order to guide your exploration of the landing page and the website associated with the URL. Ultimately, the goal of Page Quality rating is to evaluate how well the page achieves its purpose. Because different types of websites and webpages can have very different purposes, our expectations and standards for different types of pages are also different.
+Page Quality（PQ）評価タスクは「URL」と「評価結果を記録するためのグリット」からなる。それにより、LPやWebサイトの確認が簡単になっている。PQ評価は「**ページ*が、*ページ自体の目的をどの程度達成しているか**」の評価をすることが目的である。評価基準はWebサイト・ページのタイプによって目的が大きく異なるため、それぞれに合わせた基準がある。
 
-Here's what you'll need to be a successful Page Quality rater:
+優秀な品質評価者になるために大切な点を以下にまとめる。
 
-- Your experience using the web as an ordinary user in your rating locale.
-- In-depth knowledge of these guidelines.
-- And most importantly—practice doing PQ rating tasks!
+- 評価対象地域で、一般ユーザーとしてネットを活用した経験
+- それぞれのガイドラインへの正確な理解
+- 何よりも、PQ評価タスクの繰り返し練習
 
-The examples in these guidelines are very important. Please view each one and keep in mind a few notes about the examples:
+このガイドラインに記載した事例は重要であるため、以下の点を必ず確認する。
 
-- Webpages and websites change rapidly, so we use images or "snapshots" of webpages in most of our examples.
-- The information in the examples was accurate at the time it was added, but content and websites may change over time.
-- Some examples show pages on desktop and some show pages on mobile devices.
+- Webサイト・ページ内容はすぐに変化するものである。事例にはスクリーンショットを使用する。
+- 事例記載情報は、作成時のものであるため、記載後にコンテンツ内容やWebサイトに変更があることがある。
+- デスクトップPCとモバイルの事例双方を記載している。
