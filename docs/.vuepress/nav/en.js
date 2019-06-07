@@ -3,7 +3,7 @@ module.exports = [
 		text: '🔰 TL;DR', link: '/'
 	},
 	{
-		text: 'Explain Using...', items: [
+		text: 'Summarize Using...', items: [
 			{ text: 'CEO Jargon', link: '/tldr/managers' },
 			{ text: 'Sales Jargon', link: '/tldr/sales' },
 			{ text: 'Developer Jargon', link: '/tldr/developers' },

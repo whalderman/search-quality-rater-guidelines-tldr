@@ -49,6 +49,7 @@ module.exports = {
 		}
 	},
 	themeConfig: {
+		logo: '/img/BCJワイドロゴ.svg',
 		repo: 'thewarrman/qrg-bci',
 		editLinks: true,
 		docsDir: 'docs',

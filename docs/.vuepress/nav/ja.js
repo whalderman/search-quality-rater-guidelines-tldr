@@ -3,7 +3,7 @@ module.exports = [
 		text: '🔰TL;DR', link: '/ja/'
 	},
 	{
-		text: '〇〇の専門用語を使って説明して', items: [
+		text: '〇〇の専門用語を使って要約して', items: [
 			{ text: '社長・部長', link: '/ja/tldr/managers' },
 			{ text: '営業', link: '/ja/tldr/sales' },
 			{ text: '開発者', link: '/ja/tldr/developers' },
