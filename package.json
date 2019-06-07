@@ -14,6 +14,8 @@
 		"vuepress": "^1.0.0-beta.1"
 	},
 	"dependencies": {
+		"markdown-it-abbr": "^1.0.4",
+		"markdown-it-deflist": "^2.0.3",
 		"moment": "^2.24.0",
 		"vuepress-plugin-container": "^2.0.1"
 	}

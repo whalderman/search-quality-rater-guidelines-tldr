@@ -142,7 +142,7 @@ Here are some examples where the **Know Simple** query asks for a simple fact, w
 
 Know Simple Query|Know Query|Explanation
 ---|---|---
-[barack obama height]<br/>[how tall is obama]|[barack obama]|The **Know** query is a broad information query and different users may be looking for different things (e.g., biography, books, social media posts, etc.).
+[barack obama height]<br>[how tall is obama]|[barack obama]|The **Know** query is a broad information query and different users may be looking for different things (e.g., biography, books, social media posts, etc.).
 [new york city population 2013]|[new york city]|The **Know** query is a broad information query and different users may be looking for different things (e.g., tourist and trip planning information, facts, photographs, history).
 [who is graves disease named after]|[graves disease]|The **Know** query is a broad query for medical information and different users may have different needs. There is no single "answer" for this query.
 [macy’s store hours]|[macy’s gift wrap options]|The **Know** query is a broad query for a particular service offered by a department store, and does not have a short answer.
@@ -272,8 +272,8 @@ Web Search Result Blocks typically have a title link, a URL and a "snippet" of t
 
 Query, User Location, User Intent|Web Search Result Block
 ---|---
-**Query:** [cuisinart food processor reviews]<br/><br/>**User Location:** Oklahoma City, Oklahoma<br/><br/>**User Intent:** This is a **Know** query. The user wants to find recent reviews of Cuisinart food processors.<br/><br/>**Result:** This is a Web Search Result Block that has a link to a landing page with Cuisinart reviews.|![web search result block](../images/img236.jpg)
-**Query:** [broadway tickets]<br/><br/>**User Location:** New York City, New York<br/><br/>**User Intent:** This is a **Know** query or **Do** query. The user wants to search prices and/or purchase tickets to a Broadway show in New York City.|![web search result block](../images/img237.jpg)
+**Query:** [cuisinart food processor reviews]<br><br>**User Location:** Oklahoma City, Oklahoma<br><br>**User Intent:** This is a **Know** query. The user wants to find recent reviews of Cuisinart food processors.<br><br>**Result:** This is a Web Search Result Block that has a link to a landing page with Cuisinart reviews.|![web search result block](../images/img236.jpg)
+**Query:** [broadway tickets]<br><br>**User Location:** New York City, New York<br><br>**User Intent:** This is a **Know** query or **Do** query. The user wants to search prices and/or purchase tickets to a Broadway show in New York City.|![web search result block](../images/img237.jpg)
 
 ### Special Content Result Block Examples
 
@@ -290,12 +290,12 @@ Because mobile phones can be difficult to use, SCRBs can help mobile phone users
 
 Query, User Location, User Intent|Special Content Result Block
 ---|---
-**Query:** [weather]<br/><br/>**User Location:** Chicago, Illinois<br/><br/>**User Intent:** This is a **Know Simple** query since mobile users have a fairly simple informational need: find the current temperature and chance of rain or snow. The user wants to know the weather for the User Location.<br/><br/>_**Note:** Assume the block shows current information for users._|![special content result block](../images/img240.jpg)
-**Query:** [emma stone movies]<br/><br/>**User Location:** Des Moines, Iowa<br/><br/>**User Intent:** This is a **Know** query. The user wants to get information on movies with Emma Stone.<br/><br/>**Result:** In this result block, users can immediately see some popular movies starring Emma Stone, with an option to click on the links to learn more about each movie. Users can also swipe to see a list of more movies.|![special content result block](../images/img242.jpg)
-**Query:** [calories in a banana]<br/><br/>**User Location:** Oakland, California<br/><br/>**User Intent:** This is a **Know Simple** query. The user wants to find out how many calories are in a banana.|![special content result block](../images/img243.jpg)
-**Query:** [baseball scores]<br/><br/>**User Location:** Wichita, Kansas<br/><br/>**User Intent:** This is a **Know** query. The user wants to find the most recent Major League Baseball scores.|![special content result block](../images/img244.jpg)
-**Query:** [coldplay fix you video]<br/><br/>**User Location:** New Orleans, Louisiana<br/><br/>**User Intent:** This is a **Do** query. The user wants to watch the music video for the song "Fix You" by Coldplay.<br/><br/>**Result:** By clicking on this result block, users can play the music video for the song on their phone, learn more about the artist/album, etc.|![special content result block](../images/img246.jpg)
-**Query:** [what is the tallest tree]<br/><br/>**User Location:** Boise, Idaho<br/><br/>**User Intent:** This is a **Know Simple** query. The user wants to know what type of tree is the tallest.|![special content result block](../images/img247.jpg)
+**Query:** [weather]<br><br>**User Location:** Chicago, Illinois<br><br>**User Intent:** This is a **Know Simple** query since mobile users have a fairly simple informational need: find the current temperature and chance of rain or snow. The user wants to know the weather for the User Location.<br><br>_**Note:** Assume the block shows current information for users._|![special content result block](../images/img240.jpg)
+**Query:** [emma stone movies]<br><br>**User Location:** Des Moines, Iowa<br><br>**User Intent:** This is a **Know** query. The user wants to get information on movies with Emma Stone.<br><br>**Result:** In this result block, users can immediately see some popular movies starring Emma Stone, with an option to click on the links to learn more about each movie. Users can also swipe to see a list of more movies.|![special content result block](../images/img242.jpg)
+**Query:** [calories in a banana]<br><br>**User Location:** Oakland, California<br><br>**User Intent:** This is a **Know Simple** query. The user wants to find out how many calories are in a banana.|![special content result block](../images/img243.jpg)
+**Query:** [baseball scores]<br><br>**User Location:** Wichita, Kansas<br><br>**User Intent:** This is a **Know** query. The user wants to find the most recent Major League Baseball scores.|![special content result block](../images/img244.jpg)
+**Query:** [coldplay fix you video]<br><br>**User Location:** New Orleans, Louisiana<br><br>**User Intent:** This is a **Do** query. The user wants to watch the music video for the song "Fix You" by Coldplay.<br><br>**Result:** By clicking on this result block, users can play the music video for the song on their phone, learn more about the artist/album, etc.|![special content result block](../images/img246.jpg)
+**Query:** [what is the tallest tree]<br><br>**User Location:** Boise, Idaho<br><br>**User Intent:** This is a **Know Simple** query. The user wants to know what type of tree is the tallest.|![special content result block](../images/img247.jpg)
 
 ### Device Action Result Block Examples
 
@@ -303,11 +303,11 @@ A mobile phone should respond to a **Device Action** query and do what the user 
 
 Query, User Location, User Intent, Result|Device Action Result Block
 ---|---
-**Query:** [open angry birds]<br/><br/>**User Location:** Little Rock, Arkansas<br/><br/>**User Intent:** This is a **Device Action** query. The user wants the device to open the Angry Birds app so he/she can play the game.<br/><br/>**Result:** In this result block, users can click the link to open the app.|![device action result block](../images/img248.jpg)
-**Query:** [go to amazon.com]<br/><br/>**User Location:** Glendale California<br/><br/>**User Intent:** This is a **Device Action** query. The user wants to go to amazon.com to interact with the website.<br/><br/>**Result:** In this result block, users can click the links to go directly to the website.|![device action result block](../images/img250.jpg)
-**Query:** [set alarm for 5 o’clock am]<br/><br/>**User Location:** Tacoma, Washington<br/><br/>**User Intent:** This is a **Device Action** query. The user wants to set the device’s alarm to go off at 5:00 AM.<br/><br/>**Result:** In this result block, the query has initiated the alarm on the phone to be set for 5:00 AM.|![device action result block](../images/img251.jpg)
-**Query:** [send text to mom]<br/><br/>**User Location:** Tacoma, Washington<br/><br/>**User Intent:** This is a **Device Action** query. The user wants to send a text message to a contact nicknamed "Mom."<br/><br/>**Result:** In this Device Action Result Block, the query has initiated a text to the contact nicknamed "Mom," with an option to text either the work or mobile number.|![device action result block](../images/img252.jpg)
-**Query:** [call best buy]<br/><br/>**User Location:** Mountain View, California<br/><br/>**User Intent:** This is a **Device Action** query. The user wants to call the nearest Best Buy store.<br/><br/>**Result:** In this Device Action Result Block, the query has initiated a call to the nearest Best Buy location.|![device action result block](../images/img254.jpg)
+**Query:** [open angry birds]<br><br>**User Location:** Little Rock, Arkansas<br><br>**User Intent:** This is a **Device Action** query. The user wants the device to open the Angry Birds app so he/she can play the game.<br><br>**Result:** In this result block, users can click the link to open the app.|![device action result block](../images/img248.jpg)
+**Query:** [go to amazon.com]<br><br>**User Location:** Glendale California<br><br>**User Intent:** This is a **Device Action** query. The user wants to go to amazon.com to interact with the website.<br><br>**Result:** In this result block, users can click the links to go directly to the website.|![device action result block](../images/img250.jpg)
+**Query:** [set alarm for 5 o’clock am]<br><br>**User Location:** Tacoma, Washington<br><br>**User Intent:** This is a **Device Action** query. The user wants to set the device’s alarm to go off at 5:00 AM.<br><br>**Result:** In this result block, the query has initiated the alarm on the phone to be set for 5:00 AM.|![device action result block](../images/img251.jpg)
+**Query:** [send text to mom]<br><br>**User Location:** Tacoma, Washington<br><br>**User Intent:** This is a **Device Action** query. The user wants to send a text message to a contact nicknamed "Mom."<br><br>**Result:** In this Device Action Result Block, the query has initiated a text to the contact nicknamed "Mom," with an option to text either the work or mobile number.|![device action result block](../images/img252.jpg)
+**Query:** [call best buy]<br><br>**User Location:** Mountain View, California<br><br>**User Intent:** This is a **Device Action** query. The user wants to call the nearest Best Buy store.<br><br>**Result:** In this Device Action Result Block, the query has initiated a call to the nearest Best Buy location.|![device action result block](../images/img254.jpg)
 
 ### How Device Action Results are Displayed in Rating Tasks
 

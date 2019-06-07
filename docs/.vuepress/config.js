@@ -42,6 +42,10 @@ module.exports = {
 			permalink: true,
 			permalinkBefore: true,
 			permalinkSymbol: '📑'
+		},
+		extendMarkdown: md => {
+			md.use(require('markdown-it-abbr'));
+			md.use(require('markdown-it-deflist'));
 		}
 	},
 	themeConfig: {
@@ -65,7 +69,7 @@ module.exports = {
 				sidebarDepth: 1
 			},
 			'/ja/': {
-				editLinkText: 'GitHubで編集',
+				editLinkText: 'GitHubで編集（プロジェクトが公開されるまで編集できません）',
 				selectText: '🌐言語',
 				label: '日本語',
 				lastUpdated: '更新日',

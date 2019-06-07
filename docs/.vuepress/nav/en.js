@@ -1,21 +1,17 @@
 module.exports = [
 	{
-		text: '🔰 Got Anything... Useful?', link: '/'
+		text: '🔰 TL;DR', link: '/'
+	},
+	{
+		text: 'Explain Using...', items: [
+			{ text: 'CEO Jargon', link: '/tldr/managers' },
+			{ text: 'Sales Jargon', link: '/tldr/sales' },
+			{ text: 'Developer Jargon', link: '/tldr/developers' },
+			{ text: 'Designer Jargon', link: '/tldr/designers' }
+		]
 	},
 	{
 		text: 'Who Made This?', link: '/about/'
-	},
-	{
-		text: 'TL;DR', items: [
-			{
-				text: 'Speak to me in...', items: [
-					{ text: 'CEO Jargon', link: '/tldr/ceos' },
-					{ text: 'Sales Jargon', link: '/tldr/sales' },
-					{ text: 'Developer Jargon', link: '/tldr/developers' },
-					{ text: 'Designer Jargon', link: '/tldr/designers' }
-				]
-			}
-		]
 	},
 	{
 		text: 'Digital Marketing Services', items: [

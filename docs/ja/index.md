@@ -1,34 +1,21 @@
-# 🔰 Got Anything... Useful?
+# 検索品質評価ガイドライン、TL;DR
 
-[We certainly _hope_ it's useful](#choose-your-specialty).
+何百ページものテキストを読んでそれを適用するには忙しすぎる人のために。あなたの専門語は？
 
-## The Point of this Site
+## [社長・部長の専門語](./tldr/managers.html)
 
-We're trying to save you time.
+会社を組織しておく人のために。ここでは、可能な限り簡潔にして、サイトの確認対象、収益にどのような影響があるのか​​、どのチームが問題に対処する必要があるのか​​をお知らせします。
 
-Google provides a lot of recommendations and guidance, albeit through riddles and loose, vague language. However, they **have** to do this. By keeping things vague, they achieve the following:
+## [営業の専門語](./tldr/sales.html)
 
-1. Bad actors (black-hat SEOs) will have a _slighty_ more difficult time figuring out what they can do to exploit Google's algorithm.
-2. ...
+契約を売っている人のために。ここでは、クライアントのサイトで何を探すべきか、そして特定のタスクが修正するために何時間かかるかを要約します。
 
-## Choose your Specialty
+## [開発者の専門語](./tldr/developers.html)
 
-### I specialize in SEO
+皆の願いを実行することを任された人のために。ここでは、サイトに対して行うことができる（そしてすべきである）最適化と、それを達成するためのさまざまなツールについて説明します。
 
-**That's** weird... you're gonna have to peruse this entire thing. **_Or_** you can just browse through the [TL;DR](/tldr)s.
+## [デザイナーの専門語](./tldr/designers.html)
 
-Also, for those of you interested in *black hat* SEO, all you need can be found [here](https://bit.ly/2U6ZdlL).
+サイトやWebアプリを設計している人のために。ここでは、サイトを設計するときに避けるべきことをまとめ、場合によっては代わりにできることをまとめます。
 
-### Local Business
-
-We got ya covered, you're going to want to take a gander at [these here sections](/tldr/).
-
-### Online Business
-
-Need some *scalable* solutions? *Scalable* ROIs? Or *data-driven deliverables* that happen to be **_scales_**? Well **hoo boy** do I-!
-
-::: danger
-Just give me the goods
-:::
-
-<small>[Right this way.](/tldr/)</small>
+*[TL;DR]: Too Long; Didn't Read 「長過ぎだから読まなかった」

@@ -1,27 +1,27 @@
-# Overall Page Quality Rating
+# Page Quality評価スケール
 
 At a high level, here are the steps of Page Quality rating:
 
 1. Understand the true purpose of the page. Websites or pages without any beneficial purpose, including pages that re created with no attempt to help users, or pages that potentially spread hate, cause harm, or misinform or eceive users, should receive the **Lowest** rating. No further assessment is necessary.
-2. Otherwise, the PQ rating is based on how well the page achieves its purpose using the criteria outlined in the ollowing sections on **Lowest**, **Low**, **Medium**, **High,** and **Highest** quality pages.
+2. Otherwise, the PQ rating is based on how well the page achieves its purpose using the criteria outlined in the following sections on **Lowest**, **Low**, **Medium**, **High,** and **Highest** quality pages.
 
 On Page Quality rating tasks, you will use the Page Quality sliding scale (slider) to assign the overall PQ rating. The slider looks like this:
 
-![A photo of the Page Quality rating scale](../images/page-quality-rating-scale.jpg)
+![Page Quality評価スケールの画像](../images/page-quality-rating-scale.jpg)
 
-You may also use the in-between ratings of **Lowest+**, **Low+**, **Medium+**, and **High+**. Please interpret the "+" as "+ ½", meaning that the **Lowest+** rating is halfway between **Lowest** and **Low**, **Low+** is halfway between **Low** and **Medium**, etc.
+上で挙げた5つの評価の他に、**Lowest+**、**Low+**、**Medium+**、**High+**という評価メモリがある。ここでの「+」は「+2分の1」を表す。例えば**Lowest+**は**Lowest**に2分の1だけ評価を+したものとなる。つまり**Lowest+**は**Lowest**と**Low**の中間を、同様に**Low+**は**Low**と**Medium**の中間を意味する。
 
-In the following sections, you will learn about characteristics of **Lowest**, **Low**, **Medium**, **High,** and **Highest** quality pages.
+次のセクションでは、**Highest**、**High**、**Medium**、**Low**、**Lowest**の各評価段階に該当するページの特徴について解説する。
 
-## Page Quality Rating: Most Important Factors
+## Page Quality評価で最も重要な要素
 
-Here are the most important factors to consider when selecting an overall Page Quality rating:
+Page Quality評価を考える上では、特に以下の要素が重要となる。
 
 - **The Purpose of the Page**
-- **Expertise, Authoritativeness, Trustworthiness:** This is an important quality characteristic. Use your research on the additional factors below to inform your rating.
-- **Main Content Quality and Amount:** The rating should be based on the landing page of the task URL.
-- **Website Information/information about who is responsible for the MC:** Find information about the website as well as the creator of the MC.
-- **Website Reputation/reputation about who is responsible for the MC:** Links to help with reputation research will be provided.
+- **専門性、権威性、信頼性：** 質を確かめる重要な要素。調査する際には、追加要素として以下の3点を確認すること。
+- **MCの質と量：** URLのLPをもとに評価する。
+- **ウェブサイトに関する情報（サイト管理者は誰か）：** サイトの情報を調査するのに役立つリンクが提供される。
+- **ウェブサイトの評判：** サイトの評判を調査するのに役立つリンクが提供されることがある。
 
 > Note: Some tasks may ask you to view the page on your phone, but to do research (e.g., finding website information and reputation) on your desktop. Other tasks may ask you to do everything on desktop. Please follow instructions in the task.
 

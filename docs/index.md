@@ -1,34 +1,19 @@
-# 🔰 Got Anything... Useful?
+# Quality Rater Guidelines, TL;DR
 
-[We certainly _hope_ it's useful](#choose-your-specialty).
+For those too busy to read hundreds of pages of text and apply it. Pick your lingo:
 
-## The Point of this Site
+## [CEO/Manager](./tldr/managers.html)
 
-We're trying to save you time.
+For those keeping the company in order. Here we try to keep things as concise as possible, informing you about what to check your site for, how it's affecting your bottom line, and which team needs to handle the problem.
 
-Google provides a lot of recommendations and guidance, albeit through riddles and loose, vague language. However, they **have** to do this. By keeping things vague, they achieve the following:
+## [Sales](./tldr/sales.html)
 
-1. Bad actors (black-hat SEOs) will have a _slighty_ more difficult time figuring out what they can do to exploit Google's algorithm.
-2. ...
+For those selling the contracts. Here we summarize what to look for on a client's site, and how many man hours specific tasks will take to fix.
 
-## Choose your Specialty
+## [Developer](./tldr/developers.html)
 
-### I specialize in SEO
+For those tasked with implementing everyone's wishes. Here we go over optimizations that can (and should) be made to a site, as well as various tools to achieve it.
 
-**That's** weird... you're gonna have to peruse this entire thing. **_Or_** you can just browse through the [TL;DR](/tldr)s.
+## [Designer](./tldr/designers.html)
 
-Also, for those of you interested in *black hat* SEO, all you need can be found [here](https://bit.ly/2U6ZdlL).
-
-### Local Business
-
-We got ya covered, you're going to want to take a gander at [these here sections](/tldr/).
-
-### Online Business
-
-Need some *scalable* solutions? *Scalable* ROIs? Or *data-driven deliverables* that happen to be **_scales_**? Well **hoo boy** do I-!
-
-::: danger
-Just give me the goods
-:::
-
-<small>[Right this way.](/tldr/)</small>
+For those designing the client-facing portion of a site or web application. Here we summarize what to avoid when designing a site, and in some cases, what can be done instead.

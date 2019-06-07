@@ -1,305 +1,322 @@
-# Understanding Webpages and Websites
+# ページ・Webサイトの理解
 
-PQ rating requires an in-depth understanding of websites. We'll start with the basics. Along the way, we'll share important information about Page Quality rating, so please read through this section even if you are a website expert!
+PQ評価を行う上で、Webサイトについて深く理解することが必要である。このガイドラインでは、はじめに基本的な事項、流れに沿ってPQ評価の要点を理解していく。「自分はWebに詳しい」と思っている人もこのセクションを一読する。
 
-## Important Definitions
+## 重要な用語の定義
 
-Here are some important definitions:
+以下に重要な用語をまとめる。
 
-A **webpage** is connected to the World Wide Web and can be viewed or "visited" using a web browser (e.g., Chrome), a browser on your phone, or a search app. In the 1990s, webpage content was mostly text and links. Today, webpage content includes many forms of media (such as images, videos, etc.) and functionality (such as online shopping features, email, calculator functionality, online games, etc.).
+**ページ（Webページ）**
+:   wwwに接続していて、Chromeなどのブラウザで「閲覧・訪問」できるもの。
+1990年代は、ページのコンテンツは主に文章とリンクのみだった。
+現代ではコンテンツの幅も広がり、動画・画像などの「メディア」をはじめ、商品購入機能、メール、計算機、オンラインゲーム等の「機能」まで広がっている。
 
-A **URL** is a character string that your web browser uses to "find" and display a webpage. Page Quality rating doesn't require you to have in-depth understanding of the structure of URLs, i.e., you don’t need to know the difference between host, domain, etc. But if you are interested, see here to read more.
+**URL**
+:   ブラウザがページを表示するのに利用される文字列のこと。
+PQ評価では「ホストとドメインの違い」等のURL構造についての深い知識は不要である。
+そうした点に興味がある場合は、[ここを](https://en.wikipedia.org/wiki/URL)参照する。
 
-A **website** or **site** is a group of World Wide Web pages usually containing hyperlinks to each other and made available online by an individual, company, educational institution, government, or organization. Popular websites include Facebook, Wikipedia, Yahoo, YouTube, etc.
+**Webサイト**
+:   ページの集合体であり、多くの場合は各ページ間にはハイパーリンクが存在する。
+個人・企業・政府・その他組織によって作成され、公開されている。
+有名なものには、Facebook・Wikipedia・Yahoo・YouTube などがある。
 
-> Note: In these guidelines, we will use the word "website" to refer to a collection of pages owned and controlled by a single entity (individual, business, etc.). But we will also use "website" to refer to major "independent" sections (or hosts) of some websites that were created to achieve separate purposes. For example, the Yahoo website is organized into different sections (or hosts), such as Yahoo Finance (finance.yahoo.com), Yahoo Mail (mail.yahoo.com), Yahoo Sports (sports.yahoo.com), etc. Each of these has its own purpose. It’s OK to refer to each of these sections as a website; for example, the Yahoo Finance website and the Yahoo Sports website. You may also refer to pages on Yahoo Finance or Yahoo Sports as belonging to the Yahoo website.
+  > **注：** このガイドラインでは、「同一の個人・企業が所有し管理するページ群」（例：yahoo.com）をWebサイトとして扱うが、「あるWebサイト内の、独自の目的を持った部門」（例：[Yahoo!ファイナンス](http://finance.yahoo.com/)・[Yahoo!スポーツ](http://sports.yahoo.com/)・[Yahoo!メール](http://mail.yahoo.com/)など）もWebサイトとして扱うこともある。また、Yahoo!ファイナンスやYahoo!スポーツのページをYahoo!に属するページとして扱うこともある。
 
-A **homepage** of a website is the main page of the site. It is usually the first page that users see when the site loads. For example, [http://www.apple.com](http://www.apple.com) is the homepage of the Apple site, [http://www.yahoo.com](http://www.yahoo.com) is the homepage of the Yahoo company site, and [http://finance.yahoo.com](http://finance.yahoo.com) is the homepage of Yahoo Finance. You can usually find the homepage of a website by clicking on a "home" link or logo link on subpages of a website.
+**ホームページ（トップページ）**
+:   Webサイトのメインのページであり、ユーザーがWebサイトを訪問した際にはじめに表示されるページ。Appleなら「[http://www.apple.com](http://www.apple.com)」が、Yahoo!なら「[http://www.yahoo.com](http://www.yahoo.com)」が、Yahoo!ファイナンスなら「[http://finance.yahoo.com](http://finance.yahoo.com)」がホームページである。
+サブページ内の「フォーム」というリンクやロゴをクリックすることでホームページに行けることが多い。
 
-A **subpage** on a website is any page on the site other than the homepage. For example, [http://www.apple.com/iphone](http://www.apple.com/iphone) is a subpage on the Apple website, and [http://finance.yahoo.com/options](http://finance.yahoo.com/options) is a subpage on the Yahoo Finance website.
+**サブページ**
+:   ホームページ以外をサブページと呼ぶ。例えば、「[http://www.apple.com/iphone](http://www.apple.com/iphone)」・「[http://finance.yahoo.com/options](http://finance.yahoo.com/options)」等はYahoo!ファイナンスのサブページである。
 
-A **webmaster** is the person who is responsible for maintaining a website.
+**ウェブマスター**
+:   Webサイトを維持・管理する人。
 
-**Important:** You must be very comfortable exploring websites, both by clicking links and modifying URLs in the address bar of your web browser. Become a website detective and explorer!
+**重要：** 評価者はリンクをクリックし、URLの書き換えを行い、Webサイトを簡単に探し回れるようにならなければならない。サイトの探偵・探検家になろう。
 
-## What is the Purpose of a Webpage?
+## 「ページ目的」とは
 
-The purpose of a page is the reason or reasons why the page was created. Every page on the Internet is created for a purpose, or for multiple purposes. Most pages are created to be helpful for users, thus having a beneficial purpose. Some pages are created merely to make money, with little or no effort to help users. Some pages are even created to cause harm to users. The first step in understanding a page is figuring out its purpose.
+ページの作られた意味のことを「ページの目的」という。各ページは１つもしくは複数の目的があって作られるものである。ページの大半はユーザーにとって役立つことを目的に作られるものであるが、ページの中には、「金儲けが目的で役立たないページ」「ユーザーを害する事が目的」といったページも存在する。「ページの目的」を理解することが、ページを理解することの第一歩である。
 
-Why is it important to determine the purpose of the page for PQ rating?
+ページを理解する理由は以下のとおりである。
 
-- The goal of PQ rating is to determine how well a page achieves its purpose. In order to assign a rating, you must understand the purpose of the page and sometimes the website.
-- By understanding the purpose of the page, you'll better understand what criteria are important to consider when evaluating that particular page.
-- Websites and pages should be created to help users. Websites and pages that are created with intent to harm users, deceive users, or make money with no attempt to help users, should receive the Lowest PQ rating. More on this later.
+- 「ページの目的を達成できているか」を判定することがPQ評価の目的である。そのために、ページの目的、場合によってWebサイトの目的も理解する必要がある。
+- 評価する時にどんな点が重要か理解するには、ページの目的を理解する必要がある。
+- ユーザーのためにWebサイト・ページはあるべきである。「ユーザーに害を与える目的」「騙す目的」「金儲けだけの目的」などのページは、低いPQ評価を受ける。この点は後述する
 
-As long as the page is created to help users, we will not consider any particular page purpose or type to be higher quality than another. For example, encyclopedia pages are not necessarily higher quality than humor pages.
+特定の系統が他の系統より、品質が良いということは絶対にない。例えば、エンサイクロペディア系のページが、常にユーモア系のページより品質がいいとは限らない。
 
-**Important:** There are highest quality and lowest quality webpages of all different types and purposes: shopping pages, news pages, forum pages, video pages, pages with error messages, PDFs, images, gossip pages, humor pages, homepages, and all other types of pages. The type of page does not determine the PQ rating—you have to understand the purpose of the page to determine the rating.
+**重要：** ページの系統は、「ショッピング」「ニュース」「フォーラム」「動画」「エラーメッセージ」「PDF」「画像」「ゴシップ」「ユーモア」など様々ある。系統はPQ評価とは無関係である。ページの目的を理解して、評価を行っていく。
 
-Common helpful or beneficial page purposes include (but are not limited to):
+ユーザーの役に立つ「ページの目的」を以下にまとめる。
 
-- To share information about a topic.
-- To share personal or social information.
-- To share pictures, videos, or other forms of media.
-- To express an opinion or point of view.
-- To entertain.
-- To sell products or services.
-- To allow users to post questions for other users to answer.
-- To allow users to share files or to download software.
+- トピックについての情報を共有する。
+- 個人的・社会的情報を共有する。
+- 写真・動画等のメディアを共有する。
+- 意見・見解を発表する。
+- 人を楽しませる。
+- 商品・サービスを販売する。
+- ユーザーが質問を投稿したり、それに回答できるようにしたりする。
+- ユーザーがソフトウェアを共有・ダウンロードできるようにする。
 
-Here are a few examples where it is easy to understand the purpose of the page:
+何を目的としたページであるかを簡潔にまとめた例である。
 
-Type of Page|Purpose of the Page
+ページ類型|ページ目的
 ---|---
-[News website homepage](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/PQ.2.1.1.jpg)|To inform users about recent or important events.
-[Shopping page](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/PQ.2.1.2.jpg)|To sell or give information about the product.
-[Video page](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/PQ.2.1.3.jpg)|To share a cute video of a cat.
-[Currency converter page](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/PQ.2.1.4.jpg)|To calculate equivalent amounts in different currencies.
+[ニュースサイトのホームページ](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/PQ.2.1.1.jpg)|最近の重要なイベントをユーザーに提供する。
+[商品販売ページ](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/PQ.2.1.2.jpg)|商品情報の掲載、販売。
+[動画ページ](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/PQ.2.1.3.jpg)|ユーザーに動画を提供する。
+[通貨の変換ページ](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/PQ.2.1.4.jpg)|異なる通貨を計算する。
 
-[Here is an example (OmNomNomNom Page)](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/PQ.2.1.7.jpg) of a helpful page where the purpose of the page is not as obvious. At first glance, this page may seem pointless or strange. However, it is a page from a humorous site that encourages users to post photos with mouths drawn on them. The purpose of the page is humor or artistic expression. This page has a helpful or beneficial purpose. Even though the [About](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/OmNomNomNomAbout.jpg) page on this website is not very helpful, the website explains itself on its [FAQ](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/PQ.2.1.8.jpg) page.
+[ページの例（OmNomNomNom）](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/PQ.2.1.7.jpg)：このページも一見、無意味で変わったページに見える。しかし、このページはおもしろさと芸術的表現を共有するための目的があることが分かる。このページ・Webサイトはユーザーに役立つ、善意の目的があるといえる。「[Webサイトについて](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/OmNomNomNomAbout.jpg)」のページの内容は十分ではないが、「[FAQ](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/PQ.2.1.8.jpg)」のページからWebサイトについて十分知ることができる。
 
-## Your Money or Your Life (YMYL) Pages
+## YMYLページ（金銭・人生に関するページ）
 
-Some types of pages could potentially impact the future happiness, health, financial stability, or safety of users. We call such pages "Your Money or Your Life" pages, or YMYL. The following are examples of YMYL pages:
+ユーザーの将来的な幸福・健康・金銭的な安定性に関する可能性ページによってはある。GoogleはこのようなページをYMYL（Your Money or Your Life）ページと呼ぶ。以下その代表例をまとめた。
 
-- **Shopping or financial transaction pages:** webpages that allow users to make purchases, transfer money, pay bills, etc. online (such as online stores and online banking pages).
-- **Financial information pages:** webpages that provide advice or information about investments, taxes, retirement planning, home purchase, paying for college, buying insurance, etc.
-- **Medical information pages:** webpages that provide advice or information about health, drugs, specific diseases or conditions, mental health, nutrition, etc.
-- **Legal information pages:** webpages that provide legal advice or information on topics such as divorce, child custody, creating a will, becoming a citizen, etc.
-- **News articles or public/official information pages important for having an informed citizenry:** webpages that include information about local/state/national government processes, policies, people, and laws; disaster response services; government programs and social services; news about important topics such as international events, business, politics, science, and technology; etc. Please use your judgment and knowledge of your locale. Keep in mind that not all news articles are necessarily considered YMYL.
-- **Other:** there are many other topics that you may consider YMYL, such as child adoption, car safety information, etc. Please use your judgment.
+- 商品の売買・金銭の受け渡し：ショップ・銀行など、オンラインでの購入・送金・支払い機能があるページ（オンラインストアやネットバンキングページ）。
+- 財産に関する情報：投資・税・退職金運用・家の購入・学費支払・生命保険などの助言や情報に関するページ。
+- 医薬系情報：肉体/精神面の健康・薬品・病気・栄養学などの情報や助言を掲載するページ。
+- 法的情報：離婚・養育権・遺言書作成・市民権獲得などの情報や助言を掲載するページ。
+- ニュースまたは、市民に知らせる公共/公式のページでの重要な情報：地方/国家の政府が出す人、法律、災害対応サービス、政府プログラム、社会サービス、国際事象、ビジネス、政治、科学、技術などの重要なトピックに関するニュースに関するページ（全てのページがYMYLになるわけではないことに注意する。自分自身の判断と経験で判断する。）。
+- その他：養子縁組・車の安全性など、「金銭・生命に重大な影響を与えうる情報」全般。
 
-We have very high Page Quality rating standards for YMYL pages because low quality YMYL pages could potentially negatively impact users’ happiness, health, financial stability, or safety.
+YMYLページに関して、Googleの評価基準は厳しくなる。品質の悪いYMYLページは、ユーザーの生活である幸福・健康・金銭的な安定性を害する可能性がある。
 
-## Understanding Webpage Content
+## ページのコンテンツを理解する
 
-All of the content on a webpage can be classified as one of the following: Main Content (MC), Supplementary Content
-(SC), or Advertisements/Monetization (Ads). In order to understand the purpose of a webpage and do PQ rating, you will need to be able to distinguish among these different parts of the page.
+「MC（メインコンテンツ）」「SC（補助的コンテンツ）」「Ads（広告・マネタイズ要素）」にページのコンテンツは分類できる。ページそれぞれのコンテンツがどれに当たるのかを理解することが、ページの目的を理解してPQ評価を行うために必要となってくる。
 
-Webpage design can be complicated, so make sure to click around and explore the page. See what kind of content is behind the tabs and test out the interactive page features. Content behind the tabs may be considered part of the MC, SC, or Ads, depending on what the content is.
+様々なリンクをクリックすることで、ページが複雑なコンテンツであってもサイト内を探索することができる。「タブ内に隠されたコンテンツ」「ページ内のインタラクティブ要素」なども確認する。また、「タブ内に隠されたコンテンツ」も内容に応じて「MC」「SC」「Ads」の一部とみなす。
 
-### Identifying the Main Content (MC)
+### MC（メインコンテンツ）の判別
 
-Main Content is any part of the page that directly helps the page achieve its purpose. Webmasters directly control the MC of the page (except for user-generated content). MC can be text, images, videos, page features (e.g., calculators, games), or it can be user-generated content such as videos, reviews, articles, etc. that users have added or uploaded to the page. Note that tabs on some pages lead to even more information (e.g., customer reviews) and can sometimes be considered part of the MC of the page.
+「ページの目的達成に直接関わる部分」は全てMC（メインコンテンツ）である。ウェブマスターは基本的に全てのMCを直接制御する（ユーザー生成コンテンツ（UGC）は除く）コンテンツの種類についてMCは問わない。「テキスト」「画像」「動画」「計算機・ゲーム等の機能」「ユーザー生成コンテンツ」などもMCになる。タブの中にユーザーレビューの情報やその他「タブ内に隠されたコンテンツ」をMC判定することもあるので注意する。
 
 The MC also includes the title at the top of the page ([example](https://guidelines.raterhub.com/images/2.2.4mc-title.jpg)). Descriptive MC titles allow users to make informed decisions about what pages to visit. Helpful titles summarize the MC on the page.
 
-|**Type of Page and Purpose**|**MC Highlighted in Yellow**|
-|---|---|
-|News website homepage: the purpose is to inform users about recent or important events.|[MC - News Homepage](https://guidelines.raterhub.com/images/2.2.1m.jpg)|
-|News article page: the purpose is to communicate information about an event or news topic.|[MC - News Article](https://guidelines.raterhub.com/images/2.4.news.MC.jpg)|
-|Store product page: the purpose is to sell or give information about the product. *Content behind the Reviews, Shipping, and Safety Information tabs are considered to be part of the MC.*|[MC - Shopping Page](https://guidelines.raterhub.com/images/2.2.4mc.jpg)|
-Video page: the purpose is to share a video about cats.|[MC - Video Page](https://guidelines.raterhub.com/images/EngineerGuideCatsMC.jpg)
-Currency converter page: the purpose is to calculate equivalent amounts in different currencies.|[MC - Currency Converter](https://guidelines.raterhub.com/images/PQ.2.2.6m.jpg)
-Blog post page: the purpose is to share music used on a TV show.|[MC - Blog Post Page](https://guidelines.raterhub.com/images/PQ.2.2.9m.jpg)
-Search engine homepage: the purpose is to allow users to enter a query and search the Internet.|[MC - Search Engine Homepage](https://guidelines.raterhub.com/images/PQ.2.2.7m.jpg)
-Bank login page: the purpose is to allow users to log in to bank online.|[MC - Bank Login Page](https://guidelines.raterhub.com/images/PQ.2.2.8m.jpg)
+ページ種類・目的|MCの範囲（黄色で表示）
+---|---
+ニュースサイトホームページ：最近の重要なイベントをユーザーに提供する。|[参考画像](https://guidelines.raterhub.com/images/2.2.1m.jpg)
+ニュース記事ページ：記事の掲載|[参考画像](https://guidelines.raterhub.com/images/2.4.news.MC.jpg)
+商品販売ページ：商品情報の掲載・販売<br>・タブ内に隠された「レビュー」「配送について」「安全性について」などもMC考慮対象になるので注意。|[参考画像](https://guidelines.raterhub.com/images/2.2.4mc.jpg)
+動画ページ：ユーザーに動画を提供する。|[参考画像](https://guidelines.raterhub.com/images/EngineerGuideCatsMC.jpg)
+通貨変換ページ：異なる通貨の計算をする。|[参考画像](https://guidelines.raterhub.com/images/PQ.2.2.6m.jpg)
+ブログの投稿記事ページ：投稿を見せる。|[参考画像](https://guidelines.raterhub.com/images/PQ.2.2.9m.jpg)
+検索エンジンページ：ユーザーがクエリを入力し、検索できるようする。|[参考画像](https://guidelines.raterhub.com/images/PQ.2.2.7m.jpg)
+銀行のログインページ：オンラインバンクの利用許可をする。|[参考画像](https://guidelines.raterhub.com/images/PQ.2.2.8m.jpg)
 
-### Identifying the Supplementary Content (SC)
+### SC（補助的コンテンツ）の判別
 
-Supplementary Content contributes to a good user experience on the page, but does not directly help the page achieve its purpose. SC is controlled by webmasters and is an important part of the user experience. One common type of SC is navigation links that allow users to visit other parts of the website. Note that in some cases, content behind tabs may be considered part of the SC of the page.
+SCはUX（UX）を向上させるコンテンツを言い、ページの目的達成に直接は関与しないコンテンツのこと。UXを決定する重要な要素であるUXを制御するのはウェブマスターである。一般的なタイプのSCの一例としては、ユーザーがウェブサイトの他の部分を訪問することを可能にするナビゲーションリンクである。「隠されたコンテンツ」がSCになることもあるので注意する。
 
-Sometimes the easiest way to identify SC is to look for the parts of the page that *are not* MC or Ads.
+「MC/Adsではない」部分を探せば、SCを簡単に判別できる。
 
-**Type of Page and Purpose**|**SC Highlighted in Blue**
-|---|---|
-News article page: the purpose is to communicate information about an event or news topic.|[SC - News Article](https://guidelines.raterhub.com/images/2.4.news.SC.jpg)
-Store product page: the purpose is to sell or give information about the product.|[SC - Shopping Page](https://guidelines.raterhub.com/images/PQ.2.2.4s.jpg)
-Video page: the purpose is to share a video about cats.|[SC - Video Page](https://guidelines.raterhub.com/images/EngineerGuideCatsSC.jpg)
-Blog post page: the purpose is to share music used on a TV show.|[SC - Blog Post Page](https://guidelines.raterhub.com/images/PQ.2.2.9s.jpg)
+ページ種類・目的|SCの範囲（青色で表示）
+---|---
+ニュース記事ページ：記事の掲載|[参考画像](https://guidelines.raterhub.com/images/2.4.news.SC.jpg)
+商品販売ページ：商品情報の掲載・販売|[参考画像](https://guidelines.raterhub.com/images/PQ.2.2.4s.jpg)
+動画ページ：ユーザーに動画を提供する。|[参考画像](https://guidelines.raterhub.com/images/EngineerGuideCatsSC.jpg)
+ブログの投稿記事ページ：投稿を見せる。|[参考画像](https://guidelines.raterhub.com/images/PQ.2.2.9s.jpg)
 
-### Identifying Advertisements/Monetization (Ads)
+### Ads（広告・マネタイズ要素）の班別
 
-Ads may contribute to a good user experience. Advertisements/Monetization (Ads) is content and/or links that are displayed for the purpose of monetizing (making money from) the page. The presence or absence of Ads is not by itself a reason for a **High** or **Low** quality rating. Without advertising and monetization, some webpages could not exist because it costs money to maintain a website and create high quality content.
+UXの向上にAdsは役立つ可能性がある。広告・マネタイズ要素（Ads）のコンテンツやリンクはページの収益を上げるもの。Adsの有無は評価には影響しない。品質の良いコンテンツを作成することや、質の良いコンテンツを維持することは費用がかかるため、広告で収益がなければ、Webページが存在しない可能性がある。
 
-There are several different ways to monetize a webpage, including advertisements and affiliate programs. See [here](http://en.wikipedia.org/wiki/Website_monetization) for more information on website monetization. Note that monetization on mobile pages may be more subtle than monetization on desktop pages.
+広告やアフィリエイトプログラムなど、ウェブページから収益を得る方法はいくつかある。 ウェブサイト収益化の詳細については、[ここ](http://en.wikipedia.org/wiki/Website_monetization)を見る。 モバイルページの収益受け取りは、デスクトップページの収益受け取りよりも慎重に行う必要がある。
 
-The most common type of monetization is advertisements. Ads may be labeled as "ads," "sponsored links," "sponsored listings," "sponsored results," etc. Usually, you can click on the links or mouse over the content to determine whether they are Ads, as they often refer to a URL outside of that website. Ads may change when you reload the page, and different users may see different Ads on the same page.
+最も一般的な収益を得る方法は広告である。 広告は「広告」「スポンサードリンク」「スポンサードリスティング」「スポンサード結果」などのラベルがついていることがある。通常は、コンテンツ上のリンクをクリックして、 そのウェブサイト外のURLに転送する。 ページをリロードすると広告が変わる可能性があり、異なるページに異なる広告が表示されることがある。
 
-Webmasters can choose to display Ads on their page (such as by joining an [advertising network](http://en.wikipedia.org/wiki/Advertising_network)), but they may not always directly control the content of the Ads. However, we will consider a website responsible for the overall quality of the Ads displayed.
-**Important:** For the purpose of this guideline, we will consider monetized links of any type to be "Ads." See [here](http://en.wikipedia.org/wiki/Website_monetization) for different types of website monetization.
+ウェブマスターは、（[広告ネットワーク](http://en.wikipedia.org/wiki/Advertising_network)に参加するなどして）自分のページに広告を表示することを選択できるが、広告の内容を直接制御できるとは限らない。Googleはページ上に表示される広告全ては、ウェブマスターがその責任を負うとする。
 
-**Type of Page and Purpose**|**Ads Highlighted in Red**
-|---|---|
-News article page: the purpose is to communicate information about an event or news topic.|[Ads - News Article](https://guidelines.raterhub.com/images/2.4.news.Ads.jpg)
-Video page: the purpose is to share a video about cats.|[Ads - Video Page](https://guidelines.raterhub.com/images/EngineerGuideCatsAd.jpg)
-Blog post page: the purpose is to share music used on a TV show.|[Ads - Blog Post Page](https://guidelines.raterhub.com/images/PQ.2.2.9a.jpg)
-Store product page: the purpose is to sell or give information about the product.|[No ads – Shopping Page](https://guidelines.raterhub.com/images/2.2.4-Ads.jpg)
+**重要：** Google はあらゆる有償のリンクをAdsとみなす。収益化の類型については[ここ](http://en.wikipedia.org/wiki/Website_monetization)を参照する。
 
-### Summary of the Parts of the Page
+ページの系統・目的|広告の範囲（赤色で表示）
+---|---
+ニュース記事ページ：記事の掲載|[参考画像](https://guidelines.raterhub.com/images/2.4.news.Ads.jpg)
+商品販売ページ：商品情報の掲載・販売|[参考画像](https://guidelines.raterhub.com/images/EngineerGuideCatsAd.jpg)
+動画ページ：ユーザーに動画を提供する。|[参考画像](https://guidelines.raterhub.com/images/PQ.2.2.9a.jpg)
+ブログの投稿記事ページ：投稿を見せる。|[参考画像](https://guidelines.raterhub.com/images/2.2.4-Ads.jpg)
 
-Let's put it all together.
+### MC/SC/Adsまとめ
 
-- **Main Content (MC)** is any part of the page that directly helps the page achieve its purpose. MC is (or should be!) the reason the page exists. The quality of the MC plays a very large role in the Page Quality rating of a webpage.
-- **Supplementary Content (SC)** is also important. SC can help a page better achieve its purpose or it can detract from the overall experience.
-- Many pages have **advertisements/monetization (Ads)**. Without advertising and monetization, some webpages could not exist because it costs money to maintain a website and create high quality content. The presence or absence of Ads is not by itself a reason for a **High** or **Low** quality rating.
+以下にまとめを記す。
 
-On some pages, reviews may be considered MC, and on other pages they may be considered SC. Use your best judgment and think about the purpose of the page.
+**MC (主要となるコンテンツ)**
+:   ページの目的を達成するために直接役立つページの一部である。 MCはページが存在する理由。 MCの品質は、ウェブページのページ品質評価において非常に大きな役割を果たす。
 
-Do not worry too much about identifying every little part of the page. Think about which parts of the page are the MC. Next, look for the Ads. Anything left over can be considered SC.
+**SC (補足コンテンツ)**
+:   重要な一部分である。ページの目的をより良く達成するのに役立つ。また、その逆の全体的な経験を損なう可能性がある。
 
-**Type of Page and Purpose**|**MC, SC, and Ads Highlighted**
-|---|---|
-News article page: the purpose is to communicate information about an event or news topic.|[Summary - News Article](https://guidelines.raterhub.com/images/2.4.news.All.jpg)
-Store product page: the purpose is to sell or give information about the product.|[Summary - Shopping Page](https://guidelines.raterhub.com/images/PQ.2.2.4all.jpg)
-Video page: the purpose is to share a video about cats.|[Summary - Video Page](https://guidelines.raterhub.com/images/EngineerGuideCatsAll.jpg)
-Currency converter page: the purpose is to calculate equivalent amounts in different currencies.|[Summary - Currency Converter](https://guidelines.raterhub.com/images/PQ.2.2.6all.jpg)
-Blog post page: the purpose is to share music used on a TV show.|[Summary - Blog Post Page](https://guidelines.raterhub.com/images/PQ.2.2.9all.jpg)
-Bank login page: the purpose is to allow users to log in to bank online.|[Summary - Bank Login Page](https://guidelines.raterhub.com/images/PQ.2.2.8all.jpg)
+**Ads (広告・収益化)**
+:   多くのページに広告/収益化（広告）が存在する。 広告や収益化がなければ、Webサイトを維持して質の高いコンテンツを作成するための費用がかかるため、ウェブページが存在できなくなる可能性がある。 広告の有無は、高品質または低品質の評価に影響はない。
 
-## Understanding the Website
+一部のページでは、レビューはMCにみなされることもある。自分自身でページの目的を判断する必要がある。
 
-Pages often make more sense when viewed as part of a website. Some of the criteria in Page Quality rating are based on the website the page belongs to.
+すべてを細かく分類する必要はなく、MCとAdsを判断できれば、残りは全てSCと分類することができる。
 
-In order to understand a website, look for information about the website on the website itself. Websites are usually very eager to tell you all about themselves!
+ページの系統・目的|MC/SC/Ads
+---|---
+ニュース記事ページ：記事の掲載|[参考画像](https://guidelines.raterhub.com/images/2.4.news.All.jpg)
+商品販売ページ：商品情報の掲載・販売|[参考画像](https://guidelines.raterhub.com/images/PQ.2.2.4all.jpg)
+動画ページ：ユーザーに動画を提供する。|[参考画像](https://guidelines.raterhub.com/images/EngineerGuideCatsAll.jpg)
+ブログの投稿記事ページ：投稿を見せる。|[参考画像](https://guidelines.raterhub.com/images/PQ.2.2.6all.jpg)
+通貨変換ページ：異なる通貨の計算をする。|[参考画像](https://guidelines.raterhub.com/images/PQ.2.2.9all.jpg)
+銀行のログインページ：オンラインバンクの利用許可をする。|[参考画像](https://guidelines.raterhub.com/images/PQ.2.2.8all.jpg)
 
-You must also look for reputation information about the website. We need to find out what outside, independent sources say about the website. When there is disagreement between what the website says about itself and what reputable independent sources say about the website, we’ll trust the independent sources.
+## Webサイトの理解
 
-### Finding the Homepage
+Webサイトの一部としてページを見ることでより深く意味を理解できる。PQ評価の基準の一部は、ページが属するウェブサイトに基づいている。
 
-The homepage of a website usually contains or has links to important information about the website. Webmasters usually make it easy to get to the homepage of the website from any page on the site.
+ウェブサイトを理解するには、ウェブサイト自体のウェブサイトに関する情報を探す。 Webサイトは普通、自身のサイトについてすべてを伝えることを非常に熱望している。
 
-Here's how to find the homepage of a website:
+また、Webサイト自体の評価を知ることも必要である。外部のサイトからの情報を知る必要があり、Webサイト自身が伝えていることと、外部の独立したサイトがしている評価とに相違がある場合、Googleは独立したサイトの情報を信頼する。
 
-- Examine the landing page of the URL in your PQ rating task.
-- Find and click on the link labeled "home" or "main page."
-- Having trouble finding it? Try using "Ctrl-F" ("⌘-F" on a Mac) to search the page for the text "home" or "main." You may also try clicking on the website logo, which is usually at the top of the page.
+### ホームページ（トップページ）の見つけ方
 
-Sometimes, you may be given a webpage or website that appears to have no navigation links, no homepage link, and no logo or other means to find the homepage. Even some **High** or **Highest** quality pages lack a way to navigate to the homepage. If you can't find a link to the homepage, modify the URL by removing everything to the right of ".com," ".org,"
-".net," ".info," etc. and refresh the page.
+Webサイトのホームページには、普通サイト内の重要ページへ移動するのリンクがある。ウェブマスターもホームページから他のページにアクセスを容易にするように多くの場合している。
 
-Occasionally, your rating task will include a URL for which there are two or more justifiable "homepage" candidates. For example, you may not be sure whether the homepage of the URL [http://finance.yahoo.com/news/category-stocks](http://finance.yahoo.com/news/category-stocks) is
-[http://finance.yahoo.com](http://finance.yahoo.com) or [http://www.yahoo.com.](http://www.yahoo.com.)
+ホームページの探し方
 
-**Important:** When you have more than one homepage "candidate," please use whichever one offers the most information about the specific webpage in the rating task. Use your judgment. The goal is to understand the webpage and the website(s) it is associated with, not find the one unique, correct homepage.
+- PQ評価作業でURLのLPを調べる。
+- 「ホーム」「メインページ」と表示されたリンクを探す。
+- 「Ctrl+F」（Macの場合は「⌘+F」等のページ検索で「ホーム」「メイン」を検索する。または、Webサイトのロゴをクリックしてみる。
 
-In the following examples, we have included the URL of the page to be evaluated in the rating task, as well as the URL of its associated homepage. We have also included an image that shows where to click on the landing page to navigate to the homepage. In the image, you will see a red box around the link or logo you would click to navigate to the homepage.
+場合によって、ナビゲーションリンクもホームページリンクもなく、ホームページを見つけるためのロゴなどの手段もないウェブページやウェブサイトが表示されることがある。High ・Highestの評価を受けるサイトであってもホームページへの誘導のないサイトもある。そのような時は、「.com」「.org」「.net」「.info」などの右側にあるものすべてを削除してURLを変更し、ページを更新する。
 
-**URL of the Task Page**|**Homepage of the Website**|**Image that shows where to click to get to the homepage**
-|---|---|---|
-http://www.williams-sonoma.com/products/shun-premier-7-piece-knife-block-set|http://www.williams-sonoma.com|Williams-Sonoma Homepage<br/>![Williams Sonoma Logo](../images/img17.jpg)<br/>This "WILLIAMS-SONOMA" logo shown in the upper center of the page is clickable and takes users to the homepage of the website.
-[http://answers.yahoo.com/question/index;_ylt=AnAYEU1fED6ncg1jRCFy30kk5XNG;_ylv=3?qid=20091214193523AAQqHQS](http://answers.yahoo.com/question/index;_ylt=AnAYEU1fED6ncg1jRCFy30kk5XNG;_ylv=3?qid=20091214193523AAQqHQS)|http://answers.yahoo.com<br/><br/>In this case, we will consider http://answers.yahoo.com the homepage, rather than http://www.yahoo.com. Why? Because clicking on the logo takes the user to http://answers.yahoo.com. In addition, http://answers.yahoo.com has information about the Yahoo Answers website. It is very difficult to find specific information about http://answers.yahoo.com on the http://www.yahoo.com homepage.|[Specific Yahoo Answers Page](https://guidelines.raterhub.com/images/PQexamples.3.1.5.jpg)<br/>![Yahoo! Answers Logo](../images/img18.jpg)<br/>This "YAHOO ANSWERS" logo in the upper left part of the page is clickable and takes users to the homepage of the website.
-http://hms.harvard.edu/about-hms/facts-figures|http://hms.harvard.edu<br/><br/>In this case, we will consider the Harvard Medical School page at http://hms.harvard.edu to be the homepage, rather than http://www.harvard.edu (which is the homepage of Harvard University). Clicking the logo at the top of http://hms.harvard.edu/about-hms/facts-figures takes users to http://hms.harvard.edu, not to http://www.harvard.edu.|[Harvard Medical School Facts and Figures Page](https://guidelines.raterhub.com/images/HMS.jpg)<br/>![Harvard Medical School Logo](../images/img19.jpg)<br/>This "Harvard Medical School" logo in the upper left part of the page is clickable and takes users to the homepage of the Harvard Medical School website.
+複数のホームページ候補が存在する場合がある。
+例えば、[http://finance.yahoo.com/news/category-stocks](http://finance.yahoo.com/news/category-stocks)の場合、[http://finance.yahoo.com](http://finance.yahoo.com)または[http://www.yahoo.com](http://www.yahoo.com)のホームページ候補があり迷うこともある。
 
-### Finding Who is Responsible for the Website and Who Created the Content on the Page
+**重要：** 複数のホームページ候補がある場合は、情報量を多く提供しているものを自身で判断する。目的はWebページを理解することであり、ホームページを特定することではない。
 
-Every page belongs to a website, and it should be clear:
+評価対象のページURL、ホームページのURL、ホームページへの誘導の画像を以下に記載している。画像上のリンクからはホームページへの導線が赤色のボックスで表示してある。
 
-- Who (what individual, company, business, foundation, etc.) is responsible for the website.
-- Who (what individual, company, business, foundation, etc.) created the content on the page you are evaluating.
+評価対象のページURL|ホームページのURL|ホームページへの誘導の画像
+---|---|---
+[http://www.williams-sonoma.com<wbr>/products/shun-premier-7-<wbr>piece-knife-block-set](http://www.williams-sonoma.com/products/shun-premier-7-piece-knife-block-set)|[http://www.williams-sonoma.com](http://www.williams-sonoma.com)|[Williams-Sonoma Homepage](http://www.williams-sonoma.com)<br><br>![Williams Sonoma Logo](../images/img17.jpg)<br><br>This "WILLIAMS-SONOMA" logo shown in the upper center of the page is clickable and takes users to the homepage of the website.
+[http://answers.yahoo.com<wbr>/question/index;_ylt=<wbr>AnAYEU1fED6ncg1jRCFy30kk5XNG;<wbr>_ylv=3?qid=20091214193523AAQqHQS](http://answers.yahoo.com/question/index;_ylt=AnAYEU1fED6ncg1jRCFy30kk5XNG;_ylv=3?qid=20091214193523AAQqHQS)|[http://answers.yahoo.com](http://answers.yahoo.com)<br><br>この場合のホームページは[http://answers.yahoo.com](http://answers.yahoo.com)を選択する。[http://www.yahoo.com](http://www.yahoo.com)ではない。理由として、ロゴからは[http://answers.yahoo.com](http://answers.yahoo.com)へ転送される。Yahoo!Answerに関する情報量は[http://answers.yahoo.com](http://answers.yahoo.com)に多いため。|[Specific Yahoo Answers Page](https://guidelines.raterhub.com/images/PQexamples.3.1.5.jpg)<br><br>![Yahoo! Answers Logo](../images/img18.jpg)<br><br>This "YAHOO ANSWERS" logo in the upper left part of the page is clickable and takes users to the homepage of the website.
+[http://hms.harvard.edu/about-hms/facts-figures](http://hms.harvard.edu/about-hms/facts-figures)|[http://hms.harvard.edu](http://hms.harvard.edu)<br><br>この場合ホームページは[http://hms.harvard.edu](http://hms.harvard.edu)を選択する。[http://www.harvard.edu](http://www.harvard.edu)ではない。理由として、ロゴからは[http://hms.harvard.edu](http://hms.harvard.edu)に転送される。|[Harvard Medical School Facts and Figures Page](https://guidelines.raterhub.com/images/HMS.jpg)<br><br>![Harvard Medical School Logo](../images/img19.jpg)<br><br>This "Harvard Medical School" logo in the upper left part of the page is clickable and takes users to the homepage of the Harvard Medical School website.
 
-Websites are usually very clear about who created the content on the page. There are many reasons for this:
+### 「Webサイトの責任者」と「コンテンツ作成者」の見つけ方
 
-- Commercial websites may have copyrighted material they want to protect.
-- Businesses want users to know who they are.
-- Artists, authors, musicians, and other original content creators usually want to be known and appreciated.
-- Foundations often want support and even volunteers.
-- High quality stores want users to feel comfortable buying online.
+ページは全てWebサイトに所属していて、かつ以下のものが明確でなければならない
 
-Most websites have "contact us" or "about us" or "about" pages that provide information about who owns the site. Many companies have an entire website or blog devoted to who they are and what they are doing, what jobs are available, etc. Google and Marriott are both examples of this, and there are many others:
+- 誰（個人、会社、ビジネス、財団など）がWebサイトを担当しているのか
+- 誰（個人、会社、ビジネス、財団など）が評価対象のページの作成者なのか
 
-- [Google Official Blog](http://blog.google/)
-- [Marriott Blog](http://www.blogs.marriott.com/)
-- [Southwest Airlines Blog](http://www.southwestaircommunity.com/)
-- [Netflix Tech Blog](http://techblog.netflix.com/)
+Webサイトは普通、ページ上のコンテンツ作成者を明確にしている。それには理由がある。
 
-Often a business or organization is responsible for the content of a website, not an individual person. The IBM Corporation is responsible for the content on ibm.com. The Cleveland Clinic is responsible for the content on clevelandclinic.org. An individual is not responsible for the content on these websites, even though many individuals contributed to creating and maintaining the content. In these cases, we will view the business or organization as responsible for the content on every single page, as well as maintenance of the website.
+- 商用ウェブサイトには、保護したい著作物があるため
+- 自社がコンテンツを作成したとユーザーに知ってもらうため
+- アーティスト、作家、ミュージシャン、その他のオリジナルのコンテンツ制作者は、通常、知られて評価されたいため
+- 財団は支援やボランティアを必要とするため
+- 高品質の店舗では、ユーザーがオンラインで安心して購入できるようにするため
 
-On some websites, users create the MC of many pages, while the business or organization itself maintains the website. The company Facebook is responsible for the Facebook website, but individuals create the content on their personal Facebook pages. The company Wikipedia is responsible for the Wikipedia website, but individuals create article content. Other websites with user-generated content include YouTube, Twitter, other social networking websites, other article publishing websites, Q&A websites, forums, etc. For these websites, you must look at each page to determine the author(s) or creator(s) of the content on that page.
+ほとんどのWebサイトには、サイトの所有者に関する情報を提供する「お問い合わせ」または「当サイトについて」などのページがある。そして、多くの企業には、会社概要、業務内容、求人情報などのWebサイトやブログがある。GoogleとMarriottの両方がこれの例であり、他にも多くの例がある。
 
-Finally, there are some websites that show licensed or syndicated content. This means that the website has paid money or has some business relationship with the creator of the content. In these cases, we will consider the website itself to be responsible for the licensed or syndicated content, even if it wasn’t created by the website.
+- [Google 公式ブログ](http://blog.google/)
+- [Marriotのブログ](http://www.blogs.marriott.com/)
+- [Southwest Airlinesのブログ](http://www.southwestaircommunity.com/)
+- [Netflixのブログ](http://techblog.netflix.com/)
 
-### Finding About Us, Contact Information, and Customer Service Information
+多くの場合、ウェブサイトのコンテンツの責任は個人の個人ではなくビジネスや組織が負う。IBM社は、ibm.comのコンテンツの責任を負う。 Cleveland Clinicはclevelandclinic.orgのコンテンツを担当しているが、 多くの個人がコンテンツの作成と保守に貢献したとしても、個人はこれらのウェブサイトのコンテンツに責任を負わない。 このような場合、Googleは企業または組織を、コンテンツとウェブサイトの管理の責任を負うとみなす。
 
-Many websites are interested in communicating with their users. There are many reasons that users might have for contacting a website, from reporting problems such as broken pages, to asking for content removal. Many websites offer multiple ways for users to contact the website: email addresses, phone numbers, physical addresses, web contact forms, etc. Sometimes, this contact information is even organized by department and provides the names of individuals to contact.
+一部のWebサイトでは、企業や組織がWebサイトを管理して、多数のユーザーがページのMCを作成していることもある。例えば、FacebookはFacebookのWebサイトを管理しているが、コンテンツを作成はユーザーがFacebookページに行う。 WikipediaはWikipediaの財団がWebサイトを管理しているが、記事のコンテンツはそれぞれユーザーが作成している。ユーザーが作成したコンテンツを含む他のWebサイトには、YouTube、TwitterなどのソーシャルネットワーキングWebサイト、記事を公開するWebサイト、Q＆Aサイト、フォーラムなどがある。これらのWebサイトについては、各ページを見て、 そのページのコンテンツの作成者を判断する必要がある。
+
+最後に、ライセンスまたはシンジケートにより同一のコンテンツを複数のWebサイトで表示することがある。 これは、Webサイトがコンテンツの作成者にお金を払っていること、ビジネス関係があることを意味する。 このような場合、コンテンツがWebサイトで作成されていなくても、ライセンスまたはシンジケートされたコンテンツの責任はWebサイト自体にあると見なされる。
+
+### 「当サイトについて」「連絡先」「お客様サービス」などの見つけ方
+
+多くのWebサイトは、ユーザーとのコミュニケーションを取りたいと考えている。 ページの不具合などの報告から、コンテンツの削除を求めるまで、ユーザーがWebサイトに連絡する理由はたくさんある。 多くのWebサイトでは、連絡するための複数の方法（電子メールアドレス、電話番号、物理アドレス、Web連絡フォームなど）を提供している。
 
 ![L.L. Bean Contact Page](../images/img22.jpg)
 
-The types and amount of contact information needed depend on the type of website. Contact information and customer service information are extremely important for websites that handle money, such as stores, banks, credit card companies, etc. Users need a way to ask questions or get help when a problem occurs.
+必要な連絡先情報の種類と量は、Webサイトの種類によって異なる。 店舗、銀行、クレジットカード会社など、お金を扱うWebサイトでは、連絡先情報と顧客サービス情報が非常に重要である。ユーザーは、問題が発生したときに質問をする、ヘルプを得る手段が必要である。
 
-For shopping websites, we'll ask you to do some special checks. Look for contact information—including the store’s policies on payment, exchanges, and returns. Sometimes this information is listed under "customer service."
+ショッピングサイトでは「お支払い」「交換」「返品」に関する店舗のポリシーなどと連絡先情報の確認を行う。 また、この情報は「お客様サービス」の中にある。
 
-Some kinds of websites need fewer details and a smaller amount of contact information for their purpose. For example, humor websites may not need the level of detailed contact information we would expect from online banking websites.
+種類によってのWebサイトには、連絡先情報が少なくて良い場合もある。例えば、ユーモアに部類されるWebサイトには、オンラインバンキングのWebサイトのような詳細な連絡先情報のレベルは必要ない。
 
-Occasionally, you may encounter a website with a legitimate reason for anonymity. For example, personal websites may not include personal contact information such as an individual’s home address or phone number. Similarly, websites with user-generated content may allow the author to identify him/herself with an alias or username only.
+場合によっては、匿名であることに正当な理由があるWebサイトもあります。例えば、個人のWebサイトには、個人の自宅の住所や電話番号などの個人連絡先情報がないこともある。 同様に、ユーザー生成コンテンツを有するWebサイトでは、作成者は偽名またはユーザー名の登録で作成できる。
 
-To find contact or customer service information for a website, start with the homepage. Look for a "contact us" or "customer service" link. Explore the website if you cannot find a "contact us" page. Sometimes you will find the contact information on a "corporate site" link or even on the company’s Facebook page. Be a detective!
+Webサイトの連絡先またはお客様サービス情報を検索するには、ホームページから始める。 「お問い合わせ」または「お客様サービス」のリンクを探す。 「お問い合わせ」ページが見つからない場合は、Webサイト内も探してみる。 場合によっては、「企業サイト」のリンクや会社のFacebookページで連絡先情報を見つけることもできる。 探偵になったつもりで探してみる。
 
-Note that different locales may have their own specific standards and requirements for what information should be available on the website.
+記載するべき情報は、国や地域によって異なるためその点にも注意する。
 
-## Reputation of the Website or Creator of the Main Content
+## Webサイトの評判
 
-A website's reputation is based on the experience of real users, as well as the opinion of people who are experts in the topic of the website. Keep in mind that websites often represent real companies, organizations, and other entities. Therefore, reputation research applies to both the website and the actual company, organization, or entity that the website is representing.
+Webサイトの評判は、実際のユーザーの経験だけでなく、Webサイトのトピックの専門家である人々の意見に基づいている。 Webサイトは、実際の企業、組織などを代表していることが多いことに注意する。したがって、評判調査は、Webサイトと、Webサイトが代表している実際の会社、組織などについても調査する必要がある。
 
-A website's reputation can also help you understand what a website is best known for, and as a result how well it accomplishes its purpose. For example, newspapers may be known for high quality, independent investigative reporting while satire websites may be known for their humor.
+Webサイトの評判は、Webサイトが何で最も知られているかを理解することで、結果として目的がどれほどうまく達成されるかを理解するのにも役立つ。例えば、高品質で独立した調査報告で新聞が知られている一方で、風刺Webサイトがユーモアとして知られている可能性もある。
 
-Many websites are eager to tell users how great they are. Some webmasters have read these rating guidelines and write "reviews" on various review websites. But for Page Quality rating, you must also look for outside, independent reputation information about the website. When the website says one thing about itself, but reputable external sources disagree with what the website says, trust the external sources.
+多くのWebサイトは、ユーザーに自分自身の価値の発信を活発にしている。 一部のウェブマスターはこれらの評価ガイドラインを読んで、さまざまなレビューWebサイトに「レビュー」を書いている。 しかし、PQ評価では、Webサイトに関する外部の独立した評判情報も検索する必要がある。 Webサイトがそれ自体についての1つのことを言うが、その他の評判の良い外部の情報ではWebサイトの記載に同意しない場合、外部の情報源を信頼する。
 
-Your job is to truly evaluate the Page Quality of the site, not just blindly accept information on one or two pages of the website. Be skeptical of claims that websites make about themselves.
+評価者としての仕事は、Webサイトの1ページまたは2ページの情報を盲目的にただ受け入れるだけでなく、サイトのページ品質を真に評価することである。 Webサイトが作る主張を懐疑する視点をもつ。
 
-### Research on the Reputation of the Website or Creator of the Main Content
+### Webサイトの評判調査
 
-Use reputation research to find out what real users, as well as experts, think about a website. Look for reviews, references, recommendations by experts, news articles, and other credible information created/written by individuals about the website.
+評判調査を使用して、実際のユーザーと専門家がWebサイトについてどのように考えるかを確認する。 専門家、ニュース記事、およびWebサイトに関する個人によって作成されたもの、その他の信頼できる情報によるレビュー、参考資料、推奨事項を探していく。
 
-Stores frequently have user ratings, which can help you understand a store’s reputation based on the reports of people who actually shop there. We consider a large number of positive user reviews as evidence of positive reputation.
+店舗には頻繁にユーザー評価をつけるため、実際に店舗で買い物をしているユーザーの評価に基づいて店舗の評判を理解していく。 Googleは、多数の肯定的なユーザー評価を肯定的な評判の証拠とみなす。
 
-Many other kinds of websites have reputations as well. For example, you might find that a newspaper website has won journalistic awards. Prestigious awards, such as the Pulitzer Prize award, are strong evidence of positive reputation.
+他の種類のWebサイトにも様々な評判の形がある。例えば、新聞のWebサイトがジャーナリズム賞を受賞していることがある。 ピューリッツァー賞など有名な賞は肯定的な評価に大きく影響する。
 
-When a high level of authoritativeness or expertise is needed, the reputation of a website should be judged on what expert opinions have to say. Recommendations from expert sources, such as professional societies, are strong evidence of very positive reputation.
+高いレベルの権威性や専門知識が必要な場合、Webサイトの評判は、専門家の意見によって判断する必要がある。 専門家から評価されることは、非常に肯定的な評判に大きく影響する。
 
-Reputation research is necessary for all websites you encounter. Do not just assume websites you personally use have a good reputation. Please do research! You might be surprised at what you find.
+Webサイト全部で評判調査が必要である。 あなたが個人的に使っているWebサイトが良い評判を取っているということに限らず、研究していく必要がある。 驚く内容が隠されているかもしれない。
 
-### Sources of Reputation Information
+### 評判調査の情報源
 
-Look for information written by a person, not statistics or other machine-compiled information. News articles, Wikipedia articles, blog posts, magazine articles, forum discussions, and ratings from independent organizations can all be sources of reputation information. Look for independent, credible sources of information.
+統計や機械でコンパイルされた情報ではなく、人によって書かれた情報を探していく。ニュース記事、Wikipediaの記事、ブログの記事、雑誌の記事、フォーラムの議論、独立した組織からの評価は、すべて評判情報源になる可能性がある。 独立した信頼できる情報源を探していく。
 
-Sometimes, you will find information about a website that is not related to its reputation. For example, pages like [Alexa](http://www.alexa.com/) have information about Internet traffic to the website, but do not provide evidence of positive or negative reputation. You can ignore this information since it's not helpful for Page Quality rating.
+場合によっては、評判に関係しないWebサイトに関する情報を見つけることもある。例えば、[Alexa](http://www.alexa.com/)のようなページには、Webサイトへのインターネットトラフィックに関する情報があるが、肯定的または否定的な評判の判断にはならない。 この情報はページPQ評価には役立たないため、無視していく。
 
-### Customer Reviews of Stores/Businesses
+### 店舗・ビジネスのレビュー
 
 Customer reviews can be helpful for assessing the reputation of a store or business. However, you should interpret these reviews with care, particularly if there are only a few. Be skeptical of both positive and negative user reviews. Anyone can write them, including the creator of the website or someone the store or business hires for this purpose. See [here](https://guidelines.raterhub.com/images/FerretingOutFakeReviewsOnline.jpg) for a New York Times article on fake reviews and [here](http://www.theguardian.com/money/2013/jan/26/fake-reviews-plague-consumer-websites) for a Guardian article on fake reviews.
 
-When interpreting customer reviews, try to find as many as possible. Any store or website can get a few negative reviews. This is completely normal and expected. Large stores and companies have thousands of reviews and most receive some negative ones.
+顧客のレビューを調査するときは、可能な限り多くを見ていく。どの店舗やWebサイトでも、いくつかの否定的レビューを得ることがある。 大規模な店舗や企業には何千ものレビューがあり、ほとんどの場合、いくつかの否定的なレビューが存在する。
 
-It is also important to read the reviews because the content of the reviews matter, not just the number. Credible, convincing reports of fraud and financial wrongdoing is evidence of extremely negative reputation. A single encounter with a rude clerk or the delayed receipt of a single package should not be considered negative reputation information. Please use your judgment.
+レビューの内容は数字だけでなく内容重要であるため、レビューを読むことが大切である。 詐欺や財産的な不正行為の信憑性があり説得力のある報告は、極めて否定的な評判の証拠である。 否定的なレビューでも1件あったとしても、否定的な評判の証拠にはならない。自分自身で判断していく必要がある。
 
-### How to Search for Reputation Information
+### 評判の探し方
 
-Here is how to research the reputation of the website:
+以下の方法で評判を探していく。
 
-1. Identify the "homepage" of the website. For example, for the IBM website, ibm.com is the homepage. You may eed to identify the creator of the content, if it is different from that of the overall website.
+1. ウェブサイトの「ホームページ」を特定する。
+例えば、IBMのWebサイトの場合、ibm.comはホームページである。
 
-2. Using ibm.com as an example, try one or more of the following searches on Google:
-    - `ibm -site:ibm.com`: A search for IBM that excludes pages on ibm.com.
-    - `"ibm.com" -site:ibm.com`: A search for "ibm.com" that excludes pages on ibm.com.
-    - `ibm reviews -site:ibm.com` A search for reviews of IBM that excludes pages on ibm.com.
-    - `"ibm.com" reviews -site:ibm.com`: A search for reviews of "ibm.com" that excludes pages on ibm.com.
-    - For content creators, try searching for their name or alias.
+2. 例としてibm.comを使用して、Googleで次の検索の1つ以上を試してみる。
+    - `ibm -site:ibm.com`: ibm.com以外でのIBMに関する情報を検索
+    - `"ibm.com" -site:ibm.com`: ibm.com以外でのibm.comに関する情報を検索
+    - `ibm reviews -site:ibm.com` ibm.com以外でのIBMに関するレビューを検索
+    - `"ibm.com" reviews -site:ibm.com`: ibm.com以外でのibm.comに関するレビューを検索
 
-    > Note: When searching for reputation information, try to find sources that were not written or created by the website, the company itself, or the individual. For example, IBM might have official Facebook or Twitter pages that it closely maintains, which would not be considered independent sources of reputation information about the company. See [here](https://en.wikipedia.org/wiki/Wikipedia:Identifying_and_using_independent_sources) for a Wikipedia article on identifying and using independent sources.
+    > **注：** 評判の情報を検索するときは、Webサイトまたは会社自身が作成または作成していないソースで探してみる。 例えば、IBMは会社の評判情報の独立した情報源とはみなされない。密接に維持されている公式のFacebookやTwitterのページを持っているかもしれない。独立した情報源の特定と利用に関するWikipediaの記事は[ここ](https://en.wikipedia.org/wiki/Wikipedia:Identifying_and_using_independent_sources)を見る。
 
-3. Look for articles, reviews, forum posts, discussions, etc. written by people about the website. For businesses, here are many sources of reputation information and reviews. Here are some examples: [Yelp](https://guidelines.raterhub.com/images/PQ.ReputationResearchExampleWebsite1.jpg), [Better Business Bureau](https://guidelines.raterhub.com/images/PQ.ReputationResearchExampleWebsite3.jpg) (a nonprofit organization that focuses on the trustworthiness of businesses and charities), [Amazon](https://guidelines.raterhub.com/images/PQ.ReputationResearchExample4.jpg), and [Google Shopping](https://guidelines.raterhub.com/images/PQ.ReputationResearchExample5.jpg). You can try searching on specific sites to find reviews. For example, you can try `ibm ite:bbb.org` or `"ibm.com" site:bbb.org`.
+3. Webサイトについて書いた記事、レビュー、フォーラム投稿、ディスカッションなどを探す。企業にとっては、評判情報やレビューには多くの情報源がある。 いくつかの例を出すと：[Yelp](https://guidelines.raterhub.com/images/PQ.ReputationResearchExampleWebsite1.jpg)、[Better Business Bureau](https://guidelines.raterhub.com/images/PQ.ReputationResearchExampleWebsite3.jpg)（ビジネスとチャリティーの信頼性に重点を置く非営利組織）、[Amazon](https://guidelines.raterhub.com/images/PQ.ReputationResearchExample4.jpg)、[Googleショッピング](https://guidelines.raterhub.com/images/PQ.ReputationResearchExample5.jpg)は 特定のサイトを検索してレビューを探すことができる。 例えば、`ibm site:bbb.org`または`"ibm.com" site：bbb.org`を試すことができる。
 
     For content creators, look for biographical data and other sources that are not written by the individual.
 
-    > Note: You will sometimes find high ratings on the Better Business Bureau (BBB) website because there is very little data on the business, not because the business has a positive reputation. However, very low ratings on BBB are usually the result of multiple unresolved complaints. Please consider very low ratings on the BBB site to be evidence for a negative reputation.
+    > **注：** Better Business Bureau（BBB）のWebサイトには高い評価が表示されることがある。ビジネスにはデータが少ないからである。ビジネスが肯定的な評判を持っていることにはならない。しかし、BBBの格付けが非常に低いのは、通常、複数の未解決の苦情の結果である。BBBサイトの非常に低い評価であった否定的な評判の証拠として扱っていく。
 
-4. See if there is a Wikipedia article or news article from a well-known news site. Wikipedia can be a good source of nformation about companies, organizations, and content creators. For example, try `ibm site:en.wikipedia.org` or `"ibm.com" site:en.wikipedia.org`. News articles and Wikipedia articles can help you learn about a company and ay include information specific to reputation, such as awards and other forms of recognition, or also ontroversies and issues. Note that some Wikipedia articles include a message warning users that there are isagreements on some of the content, or that the content may be outdated. This may be an indication that dditional research is necessary.
+4. 有名なニュースサイト、Wikipedia記事またはニュース記事を探す。Wikipediaは、企業や組織を知る良い情報源となる。`ibm site:en.wikipedia.org`または`"ibm.com" site:en.wikipedia.org`を試してみる。賞やその他の認定書や論争や問題など、評判に関する情報も含まれている。 一部のWikipediaの記事には、コンテンツの一部に意見の不一致がある、またはコンテンツが古くなっている可能性があることを警告するメッセージが表示される。 これについては追加の調査が必要であることを示唆している可能性がある。
 
-Here are some examples of reputation information:
+以下に評判に関する例をまとめた。
 
-Website|Reputation Information About the Site|Description
-|---|---|---|
-[annualcreditreport.com](https://guidelines.raterhub.com/images/PQ_AnnualCreditReport.jpg)|[Search results for `annualcreditreport.com ‑site:annualcreditreport.com`](https://guidelines.raterhub.com/images/SearchResultsForannualcreditreport.comminussiteannualcreditreport.com.jpg)<br/><br/>[Wikipedia article about annualcreditreport.com](https://guidelines.raterhub.com/images/PQ_AnnualCreditReport_Wikipedia.jpg)<br/><br/>[Wall Street Journal article about annualcreditreport.com](https://guidelines.raterhub.com/images/PQ_annualcreditreport_WSJ.jpg)|**Positive reputation information:** Users in the U.S. can obtain free credit reports on this website by providing their Social Security Number. Note that the Wikipedia article tells us that "AnnualCreditReport.com is the only federally mandated and authorized source for obtaining a free credit report."<br/><br/>Note: Almost every website will have complaints about customer service, so it is important to look at various sources and reviews in your reputation research.
-[clevelandclinic.org](https://guidelines.raterhub.com/images/PQ_Cleveland_Clinic.jpg)|[Search results for `clevelandclinic.org`](https://guidelines.raterhub.com/images/SearchResultsforclevelandclinic.org.jpg)<br/><br/>[Wikipedia article about clevelandclinic.org](https://guidelines.raterhub.com/images/PQ_ClevelandClinic_Wikipedia.jpg)<br/><br/>[US News & World Report article about the best hospitals in the U.S.](https://guidelines.raterhub.com/images/PQ_ClevelandClinic_USNews.jpg)|**Positive reputation information:** According to Wikipedia, the Cleveland Clinic "is currently regarded as one of the top 4 hospitals in the United States as rated by U.S. News & World Report," which you will also find in the article on the best hospitals in the U.S. Users can trust medical information on this website.
-[csmonitor.com](https://guidelines.raterhub.com/images/PQ.3.5.8.jpg)|[Search results for `csmonitor.com ‑site:csmonitor.com`](https://guidelines.raterhub.com/images/PQ.3.5.8.ReputationResearchQuery1.jpg)<br/><br/>[Wikipedia article about The Christian Science Monitor](https://guidelines.raterhub.com/images/RG3.3.5.8.1.jpg)|**Positive reputation information:** Notice the highlighted section in the Wikipedia article about The Christian Science Monitor newspaper, which tells us that the newspaper has won seven Pulitzer Prize awards. From this information, we can infer that the csmonitor.com website has a positive reputation.
-[kernel.org](https://guidelines.raterhub.com/images/kerneldotorg.jpg)|[Search results for `kernel.org ‑site:kernel.org`](https://guidelines.raterhub.com/images/PQ_Examples_site-kernel.org_Google_Search.jpg)<br/><br/>[Wikipedia article about kernel.org](https://guidelines.raterhub.com/images/kernel.org_wikipedia.jpg)|**Positive reputation information:** We learn in the Wikipedia article that "Kernel.orgis a mainrepositoryof source code for theLinux kernel, the base of the popularLinuxoperating system. It makes all versions of the source code available to all users. It also hosts various other projects, likeGoogle Android. The main purpose of the site is to host a repository for Linux kernel developers and maintainers of Linux distributions."
-[Site selling children’s jungle gym](https://guidelines.raterhub.com/images/domeclimber.com.jpg)|[Search to find reputation information](https://guidelines.raterhub.com/images/searchreusltsfordomeclimber.com_site_bbb.org.jpg)<br/><br/>[Search to find reviews](https://guidelines.raterhub.com/images/SearchResultsDomeClimber.comReviews.jpg)<br/><br/>[BBB negative review](https://guidelines.raterhub.com/images/DomeClimberBBBReview.jpg)<br/><br/>[TrustLink negative reviews](https://guidelines.raterhub.com/images/TrustLinkDomeClimberNegativeReviews.jpg)<br/><br/>[Negative news article](https://guidelines.raterhub.com/images/DupedByDomeClimberArticle.jpg)|**Extremely negative reputation information:** This business has a BBB rating of F (i.e., lowest rating given by BBB). There is a news article about financial fraud. There are many reviews on websites describing users sending money and not receiving anything from various sources.
-[Site selling products related to eyewear](https://guidelines.raterhub.com/images/RG3_3.5-40.jpg)|[Search to find reputation information](https://guidelines.raterhub.com/images/SearchResultsfordecormyeyes.comminussitedecormyeyes.com.jpg)<br/><br/>[BBB page](https://guidelines.raterhub.com/images/PQ.3.5.5.jpg)<br/><br/>[Wikipedia article](https://guidelines.raterhub.com/images/PQ_DecorMyEyes_Wikipedia.jpg)<br/><br/>[New York Times article](https://guidelines.raterhub.com/images/PQ_decormyeyes_NYTimes.jpg)|**Extremely negative/malicious reputation information:** This website engaged in criminal behavior such as physically threatening users.
-[Organization serving the hospitalized veteran community](https://guidelines.raterhub.com/images/PQ.3.5.10.jpg)|[Search to find scams related this organization](https://guidelines.raterhub.com/images/PQ.3.5.10.ReputationResearchQuery2.jpg)<br/><br/>[Negative review 1](https://guidelines.raterhub.com/images/PQ.3.5.10.ReputationInformation1.jpg)<br/><br/>[Negative review 2](https://guidelines.raterhub.com/images/PQ.3.5.10.ReputationInformation2.jpg)<br/><br/>[Negative review 3](https://guidelines.raterhub.com/images/PQ.3.5.10.ReputationInformation3.jpg)<br/><br/>[Negative review 4](https://guidelines.raterhub.com/images/PQ.3.5.10.ReputationInformation4.jpg)|**Extremely negative reputation information:** There are many detailed negative articles on news sites and charity watchdog sites about this organization describing fraud and financial mishandling.
+サイト|サイトの評判|説明
+---|---|---
+[信用情報紹介サイト](https://guidelines.raterhub.com/images/PQ_AnnualCreditReport.jpg)|[site:検索結果 `annualcreditreport.com ‑site:annualcreditreport.com`](https://guidelines.raterhub.com/images/SearchResultsForannualcreditreport.comminussiteannualcreditreport.com.jpg)<br>[Wikipedia記事](https://guidelines.raterhub.com/images/PQ_AnnualCreditReport_Wikipedia.jpg)<br>[著名ニュースサイト関連記事](https://guidelines.raterhub.com/images/PQ_annualcreditreport_WSJ.jpg)|**良い評判**<br>米国のユーザーは、社会保険番号を提供され、Webサイトで無料の信用報告書を入手することができる。 Wikipediaの記事では、「同サイトは、無料で信用情報を取得できる、国家後任の唯一の情報源である」と述べている。<br>**注：** ほぼすべてのウェブサイトには顧客サービスに関する苦情があるので、評判調査のさまざまな情報源やレビューを見ていくのが重要である。
+[病院のサイト](https://guidelines.raterhub.com/images/PQ_Cleveland_Clinic.jpg)|[site:検索結果 `clevelandclinic.org`](https://guidelines.raterhub.com/images/SearchResultsforclevelandclinic.org.jpg)<br>[Wikipedia記事](https://guidelines.raterhub.com/images/PQ_ClevelandClinic_Wikipedia.jpg)<br>[メディア記事](https://guidelines.raterhub.com/images/PQ_ClevelandClinic_USNews.jpg)|**良い評判**<br>Wikipediaによると、このWebサイトを運営する病院はUS News＆World Reportにより「米国の4大病院の1つ」と評価されている。US News＆World Reportの記事にも米国最良の病院と記載がある。ユーザーはこのWebサイト上の医薬情報を信頼できる。
+[新聞社のサイト](https://guidelines.raterhub.com/images/PQ.3.5.8.jpg)|[site:検索結果 `csmonitor.com ‑site:csmonitor.com`](https://guidelines.raterhub.com/images/PQ.3.5.8.ReputationResearchQuery1.jpg)<br>[Wikipedia記事](https://guidelines.raterhub.com/images/RG3.3.5.8.1.jpg)|**良い評判**<br>The Christian Science Monitorの新聞についてのWikipedia記事のハイライト部分に注目すると、新聞がピューリッツァー賞の7つの賞を受賞したことを示している。 この情報から、csmonitor.comのウェブサイトは肯定的な評価を得ていると考えられる。
+[Linuxのレポジトリサイト](https://guidelines.raterhub.com/images/kerneldotorg.jpg)|[site:検索結果 `kernel.org ‑site:kernel.org`](https://guidelines.raterhub.com/images/PQ_Examples_site-kernel.org_Google_Search.jpg)<br>[Wikipedia article about kernel.org](https://guidelines.raterhub.com/images/kernel.org_wikipedia.jpg)|**良い評判**<br>Wikipediaの記事では、「Kernel.orgはLinuxカーネルのソースコードの、メインレポジトリである。同Webサイトからは全バージョンのソースコードをダウンロード可能で、Google、Androidなどの多くのプロジェクトもホストしている。Webサイトの目的はLinuxカーネルの開発者・維持者のためにレポジトリをホスティングする事である。」
+[通販サイト①](https://guidelines.raterhub.com/images/domeclimber.com.jpg)|[評判の検索結果](https://guidelines.raterhub.com/images/searchreusltsfordomeclimber.com_site_bbb.org.jpg)<br>[レビューの検索結果](https://guidelines.raterhub.com/images/SearchResultsDomeClimber.comReviews.jpg)<br>[BBBでの評判](https://guidelines.raterhub.com/images/DomeClimberBBBReview.jpg)<br>[TrustLinkでの悪評](https://guidelines.raterhub.com/images/TrustLinkDomeClimberNegativeReviews.jpg)<br>[否定的なレビュー](https://guidelines.raterhub.com/images/DupedByDomeClimberArticle.jpg)|**極めて悪い評判**<br>このビジネスのBBBレーティングはFである。（つまり、BBBが指定する最低レーティング）。 また、金融詐欺に関するニュース記事がある。 ユーザーがお金を送っていても、何も受け取っていないと言われる。告発のWebサイトやレビューが存在する。
+[通販サイト②](https://guidelines.raterhub.com/images/RG3_3.5-40.jpg)|[評判の検索結果](https://guidelines.raterhub.com/images/SearchResultsfordecormyeyes.comminussitedecormyeyes.com.jpg)<br>[BBBのページ](https://guidelines.raterhub.com/images/PQ.3.5.5.jpg)<br>[Wikipedia記事](https://guidelines.raterhub.com/images/PQ_DecorMyEyes_Wikipedia.jpg)<br>[ニューヨークタイムズ記事](https://guidelines.raterhub.com/images/PQ_decormyeyes_NYTimes.jpg)|**極めて悪い評判**<br>このWebサイトは、身体を脅かすような犯罪行為を行っている。
+[傷痍軍人の支援機関](https://guidelines.raterhub.com/images/PQ.3.5.10.jpg)|[評判の検索結果](https://guidelines.raterhub.com/images/PQ.3.5.10.ReputationResearchQuery2.jpg)<br>[否定的なレビュー①](https://guidelines.raterhub.com/images/PQ.3.5.10.ReputationInformation1.jpg)<br>[否定的なレビュー②](https://guidelines.raterhub.com/images/PQ.3.5.10.ReputationInformation2.jpg)<br>[否定的なレビュー③](https://guidelines.raterhub.com/images/PQ.3.5.10.ReputationInformation3.jpg)<br>[否定的なレビュー④](https://guidelines.raterhub.com/images/PQ.3.5.10.ReputationInformation4.jpg)|**極めて悪い評判**<br>ニュースサイトや慈善団体のウォッチドッグサイトには、詐欺や財務上の誤った取り扱いをしているという記述が多く。否定的な記事が多くあがっている。
 
-### What to Do When You Find No Reputation Information
+### 評判が見つからなかった場合の対処法
 
-You should expect to find reputation information for large businesses and websites of large organizations, as well as well-known content creators.
+大企業の情報や大きな規模のWebサイトの情報は評判情報を期待できる。
 
-Frequently, you will find little or no information about the reputation of a website for a small organization. This is not indicative of positive or negative reputation. Many small, local businesses or community organizations have a small "web presence" and rely on word of mouth, not online reviews. For these smaller businesses and organizations, lack of reputation should not be considered an indication of low page quality.
+小規模な組織のWebサイトの評判についての情報は、ほとんど見つからない。 これは肯定的または否定的な評判を示すものではない。 多くの小規模な地方の企業やコミュニティ組織は、小規模な「Webの存在」のため、Web上のレビューではなく、口コミに依存している。 これらの小規模な企業や組織にとって、評判がないということはページ品質の低下を示すものではない。

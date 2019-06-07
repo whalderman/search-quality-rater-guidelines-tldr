@@ -1,21 +1,17 @@
 module.exports = [
 	{
-		text: '🔰便利なことが…ありますか？', link: '/ja/'
+		text: '🔰TL;DR', link: '/ja/'
 	},
 	{
-		text: '誰がこれを作ったの？', link: '/ja/about/'
-	},
-	{
-		text: 'TL;DR', items: [
-			{
-				text: '〇〇の専門用語で私に話して', items: [
-					{ text: '最高経営責任者', link: '/ja/tldr/ceos' },
-					{ text: '営業', link: '/ja/tldr/sales' },
-					{ text: '開発者', link: '/ja/tldr/developers' },
-					{ text: 'デザイナー', link: '/ja/tldr/designers' }
-				]
-			}
+		text: '〇〇の専門用語を使って説明して', items: [
+			{ text: '社長・部長', link: '/ja/tldr/managers' },
+			{ text: '営業', link: '/ja/tldr/sales' },
+			{ text: '開発者', link: '/ja/tldr/developers' },
+			{ text: 'デザイナー', link: '/ja/tldr/designers' }
 		]
+	},
+	{
+		text: 'これを誰が作ったの？', link: '/ja/about/'
 	},
 	{
 		text: 'Webマーケティング サービス', items: [
