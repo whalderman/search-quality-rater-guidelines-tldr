@@ -29,8 +29,7 @@ Here are the most important factors to consider when selecting an overall Page Q
 
 Remember that the first step of PQ rating is to understand the true purpose of the page. Websites or pages without some sort of beneficial purpose, including pages that are created with no attempt to help users, or pages that potentially spread hate, cause harm, or misinform or deceive users, should receive the **Lowest** rating.
 
-For all other pages that have a beneficial purpose, the amount of expertise, authoritativeness, and trustworthiness (E-A-T)
-is very important. Please consider:
+For all other pages that have a beneficial purpose, the amount of expertise, authoritativeness, and trustworthiness (E-A-T) is very important. Please consider:
 
 - The expertise of the creator of the MC.
 - The authoritativeness of the creator of the MC, the MC itself, and the website.
