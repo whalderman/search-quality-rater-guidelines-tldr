@@ -4,17 +4,17 @@ module.exports = {
 		// As a special case, the default locale can use '/' as its path.
 		'/': {
 			lang: 'en', // html lang property
-			title: 'Quality Rater Guidelines', // title tag suffix
+			title: 'Google\'s Quality Rater Guidelines', // title tag suffix
 			description: 'Learn what Google looks for in high-quality web pages.', // site description
 		},
 		'/ja/': {
 			lang: 'ja',
-			title: '品質評価ガイドライン',
+			title: 'Googleの品質評価ガイドライン',
 			description: 'Googleが高品質のWebページで何を求めているのかを学びます。',
 		}
 	},
 	head: [
-		['link', { rel: 'icon', href: `/logo.png` }],
+		['link', { rel: 'icon', href: `/public/img/BCJロゴ.png` }],
 		// ['link', { rel: 'manifest', href: '/manifest.json' }],
 		['meta', { name: 'theme-color', content: '#0071ba' }],
 		['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
@@ -70,9 +70,9 @@ module.exports = {
 				sidebarDepth: 1
 			},
 			'/ja/': {
-				editLinkText: 'GitHubで編集（プロジェクトが公開されるまで編集できません）',
-				selectText: '🌐言語',
 				label: '日本語',
+				selectText: '🌐言語',
+				editLinkText: 'GitHubで編集',
 				lastUpdated: '更新日',
 				serviceWorker: {
 					updatePopup: {
