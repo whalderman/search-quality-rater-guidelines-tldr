@@ -23,30 +23,32 @@ Page Quality評価を考える上では、特に以下の要素が重要とな�
 - **ウェブサイトに関する情報（サイト管理者は誰か）：** サイトの情報を調査するのに役立つリンクが提供される。
 - **ウェブサイトの評判：** サイトの評判を調査するのに役立つリンクが提供されることがある。
 
-> Note: Some tasks may ask you to view the page on your phone, but to do research (e.g., finding website information and reputation) on your desktop. Other tasks may ask you to do everything on desktop. Please follow instructions in the task.
+> **注：** 「ページの確認はモバイル端末で行い、サイト管理者の情報やサイトの評判等の調査はデスクトップで行う」タスクもあれば、「すべての作業をデスクトップで行う」タスクもある。その時々でタスクごとの指示に従って調査をする。
 
-## Expertise, Authoritativeness, and Trustworthiness (E-A-T)
+## 専門性・権威性・信頼性（E-A-T）の詳細
 
 Remember that the first step of PQ rating is to understand the true purpose of the page. Websites or pages without some sort of beneficial purpose, including pages that are created with no attempt to help users, or pages that potentially spread hate, cause harm, or misinform or deceive users, should receive the **Lowest** rating.
 
-For all other pages that have a beneficial purpose, the amount of expertise, authoritativeness, and trustworthiness (E-A-T)
-is very important. Please consider:
+For all other pages that have a beneficial purpose, the amount of expertise, authoritativeness, and trustworthiness (E-A-T) is very important. Please consider:
 
 - The expertise of the creator of the MC.
 - The authoritativeness of the creator of the MC, the MC itself, and the website.
 - The trustworthiness of the creator of the MC, the MC itself, and the website.
 
-Keep in mind that there are high E-A-T pages and websites of all types, even gossip websites, fashion websites, humor websites, forum and Q&A pages, etc. In fact, some types of information are found almost exclusively on forums and discussions, where a community of experts can provide valuable perspectives on specific topics.
+どのようなタイプであっても、「E-A-Tの高い」Webサイトは存在する。ゴシップ情報に関するサイト、ファッション情報を集めたサイト、その他ユーモア、フォーラム、Q＆A等のサイトであっても例外ではない。情報源がフォーラムやディスカッションのサイト以外に存在しない場合は、専門家によるコミュニティが特定の情報に対し価値の高い見解を示してくれることもある。
 
-- High E-A-T medical advice should be written or produced by people or organizations with appropriate medical expertise or accreditation. High E-A-T medical advice or information should be written or produced in a professional style and should be edited, reviewed, and updated on a regular basis.
-- High E-A-T news articles should be produced with journalistic professionalism—they should contain factually accurate content presented in a way that helps users achieve a better understanding of events. High E-A-T news sources typically have published established editorial policies and robust review processes ([example 1](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/news-editorial-policy1.jpg), [example 2](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/news-editorial-policy2.jpg)).
-- High E-A-T information pages on scientific topics should be produced by people or organizations with appropriate scientific expertise and represent well-established scientific consensus on issues where such consensus exists.
-- High E-A-T financial advice, legal advice, tax advice, etc., should come from trustworthy sources and be maintained and updated regularly.
-- High E-A-T advice pages on topics such as home remodeling (which can cost thousands of dollars and impact your living situation) or advice on parenting issues (which can impact the future happiness of a family) should also come from "expert" or experienced sources that users can trust.
-- High E-A-T pages on hobbies, such as photography or learning to play a guitar, also require expertise.
+- 医学的助言は、十分な専門知識、または資格をもつ個人や組織から提供されるものほど質が高くなる。その医学的助言や情報が、専門家によって記載・作成され、編集・校閲され、尚且つ定期的に更新されているものかを確認する。
+- ニュース記事は、事実に基づいた正確な内容であるのはもちろんのこと、ユーザーにとって分かりやすい手法をとることで、その出来事に対するユーザーの理解をより深めることができるものの質が高いとされる。編集手法と校閲過程を確立するためには、一般に高い質の情報源が必要となる。([例1](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/news-editorial-policy1.jpg), [例2](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/news-editorial-policy2.jpg))
+- 科学的な情報を集めたページは、十分に確立された一般論に基づいた科学的見解を示しているものほど質が高くなる。
+- 資産、法、税金などに関する助言は、専門的な情報源によるもの、定期的に維持、更新がされているものほど質が高くなる。
+- 家のリフォーム（数十万円はかかる／生活状況にも影響を与える）や育児（一家の未来の幸せに関わる）についての助言は、専門家によるものであるか、またはすでに経験した人による、ユーザーが信頼できる情報源であるものほど質が高くなる。
+- 写真やギターのような趣味に関するページも、質の高いものとなると専門的知識が必要となる。
 
-Some topics require less formal expertise. Many people write extremely detailed, helpful reviews of products or restaurants. Many people share tips and life experiences on forums, blogs, etc. These ordinary people may be considered experts in topics where they have life experience. If it seems as if the person creating the content has the type and amount of life experience to make him or her an "expert" on the topic, we will value this "everyday expertise" and not penalize the person/webpage/website for not having "formal" education or training in the field.
+トピックによっては、正式な専門的知識はあまり必要でないものもある。例えば製品やレストランについて、とても詳細で役立つレビューを書く人は多くいる。そしてフォーラムやブログ等で、それら生活の知恵や経験を共有する人も多くいる。このような人生経験が生かされる場においては、一般の人であっても専門家としてみなされる可能性がある。コンテンツの制作者がそのトピックについて、専門家とみなされるだけの様々な経験を積んでいる場合、こうした「毎日の積み重ねで得られた専門性」をGoogleは評価する。その分野において正式な教育や訓練を受けていないからといって、コンテンツの制作者、およびWebページやWebサイトにペナルティを課すことはない。
 
-It’s even possible to have everyday expertise in YMYL topics. For example, there are forums and support pages for people with specific diseases. Sharing personal experience is a form of everyday expertise. Consider [this example](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/CancerCompass.jpg). Here, forum participants are telling how long their loved ones lived with liver cancer. This is an example of sharing personal experiences (in which they are experts), not medical advice. Specific medical information and advice (rather than descriptions of life experiences) should come from doctors or other health professionals.
+YMYLに関するトピックであっても、日々の経験から専門性を持つことは可能である。病気の人々を支えるためのフォーラムやサポートページがそれに当たる。個人的な経験は、日々の経験から得られる専門性のひとつである。[このフォーラムの例](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/CancerCompass.jpg)を見てみましょう。このフォーラムでは、愛する人がどれくらいの間、肝臓がんと闘病していたのかを伝えている。彼らが経験による専門性を有していたとしても、これはあくまで個人的な経験の共有であり、医学的な助言ではない。明確な医学的情報や助言は、こういった人生経験の記述よりも医師または医療従事者に求めるべきである。
 
-Think about the topic of the page. What kind of expertise is required for the page to achieve its purpose well? The standard for expertise depends on the topic of the page.
+ここで、ページのトピックについて考えてみる。ページの目的を十分に達成させるためには、どのような専門知識が必要になるのだろうか。その基準は、トピックによって異なる。
+
+*[MC]: メインコンテンツ
+*[E-A-T]: 専門性、権威性、信頼性
