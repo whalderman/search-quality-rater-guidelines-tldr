@@ -1,235 +1,257 @@
-# Understanding Mobile Users, Mobile Queries, and Mobile Results
+# モバイルのユーザー・クエリ・検索結果を理解する
 
-What do you do on your mobile smartphone?
+どのようなことにスマートフォンを使うか？
 
 ![what do mobile users want to do...](../images/img201.jpg)
 
-People rely on their phones for many different tasks in different environments. Users may want to search the web or may want to tell the phone to do something specific. Keep in mind that tasks can be simple or complex, and may take multiple steps to complete. For example, a simple task may be to find the director of a movie. A complex task may be to find a movie’s showtimes nearby, purchase tickets, get directions, and then use the phone’s navigation to go to the theater.
+様々な用途でスマートフォンは使用され、使用する状況も多種多様である。Web検索をすることや、ある限定の動作をスマートフォンにさせることもある。簡単な作業から、様々な段階を経て完了する作業もある。例えば、「この映画の監督を誰か調べる」というのは簡単な作業であり、「近場で、この映画を上映している映画館を探し、チケットを買うこと、行き方を調べ、ナビ機能を使う」というのは、様々な段階を経た複雑な作業になる。
 
-We expect our phones to do a lot. At the same time, phones can be challenging to use, especially compared to a desktop computer or laptop:
+ユーザーは、スマートフォンに様々なことを求めます。デスクトップPCやノートPCに比べると使いにくいという弱点がある。
 
-- **Entering data may be cumbersome:** typing is difficult on mobile smartphones, and when users speak to their phones instead of typing, voice recognition may not always be accurate.
-- **Small screen sizes** make it difficult to use some phone features, apps, and webpages.
-- **Some webpages are difficult to use on a mobile phone**. Website navigation can be difficult as menus and navigation links may be small. Webpages may require left-to-right scrolling to read text. Images may not fit on the screen. In addition, many mobile devices cannot access webpages with Flash or other similar features.
-- **Internet connectivity can be slow and inconsistent** for mobile users going in and out of networks. App opening, recognition of voice commands, and webpage load times can be very slow on a mobile phone.
+- **データの入力が不便：** スマートフォンでのタイピングは難しく、正確に音声入力が認識されない。
+- **画面が小さい：** スマートフォン本体機能・アプリ・Webページ等が使いづらい
+- **スマートフォンで使いにくいWebページがある：** メニューやリンクが小さいこと、Webサイトの見ることが難しいことがある。横方向のスクロールが必要なページや、画像サイズと画面サイズが合わずに表示できない。また、Flash等の機能を使用しているサイトは、大半のモバイル機器が接続できないなど。
+- **ネット接続が不安定で遅い：** モバイルユーザーはネットワーク環境の圏内・圏外を行き来するので、接続が不安定である。また、アプリ起動時、音声操作の認識・Webページの読み込みに時間がかかる。
 
-**Important: Mobile smartphones should make tasks easy, even for mobile users with a small screen device (i.e., size of smartphone, not a tablet).** Users want results right away, at that moment, and may not be able to spend a lot of time to find what they are looking for.
+**重要：画面の小さなスマートフォンを始めとする端末でも、簡単に作業を完了させる必要がある。** ユーザーは「この瞬間に即した」結果を「今すぐに」入手したいと思っている。また、検索に時間をかけられないこともある。
 
-In order to do mobile rating tasks, you must have experience using a mobile smartphone, which we’ll also refer to as a mobile phone in these guidelines. If you are not familiar with voice commands, device actions, or phone features, please take some time to experiment on a mobile smartphone. For example, you can try some of these voice commands:
+モバイル評価を行うためには、評価者がスマートフォンを利用すること。スマートフォンの音声コマンド・デバイスアクション・その他機能に慣れていない場合、少し時間を使ってスマートフォンに慣れる必要がある。例えば、以下の音声操作を試してみる。
 
-- [iPhone Siri voice commands](https://www.apple.com/ios/siri/)
-- [Android voice commands](https://support.google.com/websearch/answer/2940021?hl=en), or say "OK Google" and then "Help" on an Android device
+- [iPhoneのSiri](https://www.apple.com/jp/siri/)
+- [Androidoの音声操作機能](https://support.google.com/websearch/answer/2940021?hl=ja)、またはAndroid端末に「OK Google, help」と話しかけてみる
 
-## Important Rating Definitions and Ideas
+## 評価に関する重要な定義・概念
 
-**Query:** This refers to the word(s) and/or number(s) that a user types or speaks into a mobile phone. In these guidelines, queries have square brackets around them. If a user says "navigate home," we display: [navigate home]. If a user types "iPhone" in the search box, we display: [iphone].
+**クエリ**
+:  ユーザーがスマートフォンにタイピングや音声で入力した、言葉や数字のことです。本ガイドラインでは、クエリは[ ]で囲んで表示します。ユーザーが「自宅までナビ」と言ったら[自宅までナビ]、検索窓に「iPhone」と入力したら[iPhone]と表示します。<br><br>ユーザーはスマートフォンで「アプリを起動する」「友人に電話する」「Webを検索する」などさまざまなアクションをしようとするので、クエリにも色々なタイプがあります。
 
-There are many different types of queries because users ask their phones to do many things, from opening an app to calling a friend to searching the web.
+**ユーザー**
+:  （スマートフォンサイズの）画面が小さい端末に（クエリを）タイピング・音声入力して、何らかのタスクを達成しようとしている人を指します。
 
-**User:** The user is the person trying to accomplish something by typing or speaking into a mobile phone with a small screen (i.e., size of a smartphone, not a tablet).
+**ユーザーの意図**
+:  ユーザーがクエリを入力するときには、ある目的を達成しようとしています。このようなユーザーの目的を「ユーザーの意図」と呼びます。
 
-**User Intent:** When a user types or speaks a query, he or she is trying to accomplish something. We refer to this goal as the user intent.
+**ロケール**
+:  すべてのクエリには対応する言語と地域があり、それらをロケールと呼びます。ロケールの表示にはアルファベット2文字の国コードを利用しています。現在のコード一覧は[こちら](https://guidelines.raterhub.com/images/RG1_1.2-1.jpg)です。タスクによっては、ロケールがそのままタスクの対象地域になることもあります。
 
-**Locale:** All queries have a locale, which is the language and location for the task. Locales are represented by a two-letter country code. For a current list of country codes, [click here](https://guidelines.raterhub.com/images/RG1_1.2-1.jpg). We sometimes refer to the locale as the task location.
+**ユーザー所在地**
+:  ユーザーがいる場所です。
 
-**User Location:** This tells us where the user is located, and should be inferred from the map provided.
+**SERP（検索結果ページ）**
+:  ユーザーがクエリを入力した後に、検索エンジンが表示するページです。SERPは複数の**リザルトブロック**の組み合わせで構成されています。
 
-**Search Engine Results Page (SERP):** The page a search engine shows after a user enters a query in the search box. The SERP is made up of **result blocks**.
+  **リザルトブロック（RB）**
+  :  クエリに対応して表示される、個々のブロックを指します。「リザルトブロック内に情報が表示される場合」「リンクが表示される場合」「情報+リンクが表示される場合」があります。
 
-**Result:** We will use the word **result** to refer to the result block _and_ the landing page.
+  **ランディングページ（LP）**
+  :  リザルトブロック内のリンクをクリックすると表示されるページのことです。
 
-- **Result Block:** This is an individual "block" that appears on the user’s phone in response to the query. The result block may display information in the block itself or contain links, or may do both.
-- The **Landing Page ( LP )** is the page you see after you click a link in the result block.
+**デバイスアクション**
+:  スマートフォンなどの端末は、「アラーム設定」「アプリ起動」などのアクションを目的とする音声入力に対応できます。こうしたアクションを求めるクエリを **｢デバイスアクション｣** クエリといいます。
 
-**Device Actions:** Mobile phones and other devices can respond to voice commands to perform many actions, such as setting an alarm or opening an app. This is a specific type of query that we’ll refer to as a **Device Action** query.
+  **｢デバイスアクション」クエリ**
+  :  スマートフォンに特定のアクションをさせようとするクエリです。通常ならスクリーン・デバイスの操作が必要な行為を、音声コマンドで行ってしまおうとする場合が多いです。
 
-- **Device Action query:** Specific type of query where users ask their phone to perform an action. These are frequently spoken commands used to complete actions that would normally require interaction with the screen or the device's controls.
-- **Device Action result:** The phone may respond to a **Device Action** query by performing an action, suchas calling a phone number, etc.
+  **｢デバイスアクション」検索結果**
+  :  スマートフォンは「デバイスアクション」クエリに対して、 **｢電話をかける｣** などのアクションを返すことができます。
 
-## Understanding the Query
+## クエリの理解
 
-Understanding the query is the first step in evaluating the task. Remember, a query is what a user types or speaks into a mobile phone.
+![a stick figure using a smartphone](../images/img207.jpg)
 
-Some tasks include a query research link, which you should use if you don’t understand the query or user intent. Otherwise, please do web research using Google or an online dictionary or encyclopedia. If you still don’t understand the query or user intent, please release the task.
+品質評価業務の最初は、クエリを理解すること。「クエリ」とは、ユーザーが文字入力や、音声入力をした際の言葉のことである。
 
-**Important:** If you research the query on Google, please do not rely on the top results on the SERP. A query may have other meanings not represented on Google’s search results pages. Do not assign a high rating to a webpage just because it appears at the top of a list of search results on Google.
+いくつかの作業にはクエリのリサーチリンクが含まれている。クエリまたはユーザーの意図を理解していない場合に使用する必要がある。クエリやユーザーの意図が理解できない際は、Google検索、オンライン辞書、エンサイクロペディアなどを使い調べる。それでも解明されない場合は、評価タスクを手放す。
 
-Think about users in your locale typing or speaking the following queries into their phone.
+**重要：** Google検索でクエリを調べる時、上位ページのみに頼らない。クエリにはGoogle検索結果に出てこないような意図が含まれている可能性がある。「Google検索の上位に表示されるから」という理由での高評価は付けないようにする。
 
-Query Likely|User Intent
+担当のロケールユーザーが、以下のクエリをスマートフォン文字入力・音声入力した場合を考える。
+
+クエリ|ユーザーの意図
 ---|---
-\[population of paris\], English (US)|Find the current population of Paris, France.
-\[starbucks near me\], English (US)|Find the nearest Starbucks location.
-\[weather\], English (US)|Find weather information in the user location right now.
-\[call mom\], English (US)|Call/dial the number stored for the contact "Mom" on the device.
+「パリの人口」（英語・米国での検索）|現在の、フランスのパリの人口を知る。
+「近所のスターバックス」（英語・米国での検索）|距離の一番近いスターバックスの場所を知る。
+「天気」（英語・米国での検索）|現在のユーザーがいる位置の天気を知る。
+「母に電話」（英語・米国での検索）|「母」で登録している連絡先に電話をかける。
 
-## Locale and User Location
+## タスクの言語・地域
 
-All queries have a task language and task location (referred to in rating tasks as the "Locale"). The locale is important for understanding the query and user intent. Users in different locations may have different expectations for the same query. Each rating task will show you the User Location information: some tasks have an approximate user location area and some tasks have a very specific user location.
+全てのクエリには、必ず評価タスク用のロケール（言語と地域）が表示されています。クエリやユーザーの意図を理解するためには、ロケールが重要です。ユーザーの所在地が違うと、同じクエリであっても意味合いが異なることがあります。評価タスクにはユーザーの所在地情報が表示されます。「大体このあたり」というエリアで表示されることもあれば、具体的な場所が表示されることもあります。
 
-Note: Examples in the following sections will include a User Location in the form of a city and state. Note that in the actual rating tasks, you will need to infer the User Location based on the map that is provided, as discussed in [Understanding the User Location on the Task Page](/appendix-using-the-evaluation-platform/understanding-the-user-location-on-the-task-page).
+> Note: Examples in the following sections will include a User Location in the form of a city and state. Note that in the actual rating tasks, you will need to infer the User Location based on the map that is provided, as discussed in [Understanding the User Location on the Task Page](/appendix-using-the-evaluation-platform/understanding-the-user-location-on-the-task-page).
 
 ![UK and US football](../images/img206.jpg)
 
-For many or most queries, the user location does not change our understanding of the query and user intent. Here are some examples: `[facebook.com]`, `[pictures of kittens]`, `[distance between the earth and the moon]`, `[call mom]`. If the task does not display a user location, please evaluate it as a query where the location does not matter and use your judgment.
+多くのクエリでは、ユーザーの所在地がクエリ・ユーザーの意図を汲み取ることに影響はない。例えば、`facebook.com`、`子猫の写真`、`地球と月の距離`、`母に電話`など。評価タスクにユーザー所在地の表示がないものは、所在地とクエリが関係ないと考えて評価を行う。
 
-When is the user location important in understanding query interpretation and user intent? Please use both web research and your personal judgment to answer this question. Ask yourself, "Would users in one city or country be looking for something different than users in another city or country?"
+ユーザーの所在地が、クエリの解釈やユーザーの意図の汲み取りに重要なタイミングとはどんな時か？Webでの調査と評価者自身での判断で答えを出していく。「このユーザーと他の街にいるユーザーで探しているものに差異はあるのか？」と自問してみる。
 
-## Queries with an Explicit Location
+## 「明示的なロケーションのあるクエリ」
 
-Sometimes users tell search engines exactly what kinds of results they are looking for by adding the desired location in the query, regardless of their user location. We'll call this location inside the query the "explicit location." The explicit location makes queries much easier to understand and interpret.
+ユーザーは、具体的な地名を入れて、ユーザーの所在地に関係なく、検索エンジンに「この結果が欲しい」と伝えてくれることがある。このようなクエリ内に含まれた地名を「明示的なロケーション」と呼ぶ。「明示的なロケーション」があると、クエリの理解・解釈は簡単になる。
 
 ![explicit location queries](../images/img209.jpg)
-![explicit location queries](../images/img210.jpg)
 
-Sometimes the explicit location matches the user location or locale, and sometimes it doesn't.
+「明示的なロケーション」は、ユーザーの所在地と一致する時と、しない時がある。
 
-When there is an explicit location in the query, pay attention to it! Users use explicit locations to indicate exactly what they are looking for.
+クエリに「明示的なロケーション」が含まれている時は必ず考慮する。ユーザーが「明示的なロケーション」を使用する目的としては、自分の探しているものを的確に伝える為である。
 
-## Queries with Multiple Meanings
+## 複数の意味を持つクエリ
 
-Many queries have more than one meaning. For example, the query [apple] might refer to the computer brand or the fruit. We will call these possible meanings **query interpretations**.
+意味を複数持っているクエリもたくさんある。例えば、「apple」にはコンピューターのブランドと「果物のりんご」の意味がある。このように、単語の意味複数あるものを「**クエリの解釈**」と呼ぶ。
 
-**Dominant Interpretation:** The _dominant interpretation_ of a query is what most users mean when they type the query. Not all queries have a dominant interpretation. The dominant interpretation should be clear to you, especially after doing a little web research.
+**支配的解釈**
+:  大半のユーザーが意図を解釈しているクエリのことである。多数派の占める支配的な解釈がないクエリもある。支配的解釈は分かりやすく、簡単なWeb調査で明らかになる。
 
-**Common Interpretation:** A _common interpretation_ of a query is what many or some users mean when they type a query. A query can have multiple common interpretations.
+**一般的解釈**
+:  一部から多数のユーザーが意図しているクエリであり、複数の解釈が存在する。
 
-**Minor Interpretations:** Sometimes you will find less common interpretations. These are interpretations that few users have in mind. We will call these _minor interpretations_.
+**少数派解釈**
+:  一部のユーザーが意図するクエリ。一般的ではない。これを「**軽微な解釈**」という
 
-**Query: [apple]**\
-**Locale: English (US)**
+例えば、
+
+**クエリ：[apple]**  
+**ロケール：英語・アメリカ**  
 ![interpretation for the query "apple"](../images/img212.jpg)
 
-**Query: [mercury]**\
-**Locale: English (US)**
+**クエリ：[mercury]**  
+**ロケール：英語・アメリカ**  
 ![interpretation for the query "mercury"](../images/img213.jpg)
 
-## Query Meanings Can Change Over Time
+## 時間が経てば、クエリの意味も変わる
 
-Remember to think about the query and its current meaning as you are rating. We will assume users are looking for current information about a topic, the most recent product model, the most recent occurrence of a recurring event, etc., unless otherwise specified by the query.
+クエリは現時点での意味に注意して評価タスクを行う。ユーザーが特に明らかにしていない場合は、話題に関する「現在」「最新」の情報とモデル、「開催時期が一番近い」イベントの情報を求めているとGoogleは仮定する。
 
-![interpretation for the query "George Bush"](../images/img215.jpg)
-![interpretation for the query "iphone"](../images/img216.jpg)
+![interpretation for the queries "George Bush" and "iPhone"](../images/img215.jpg)
 
-The interpretation of the query [iphone], _English (US)_ has changed over time as new iPhone models are released. The first iPhone was introduced in 2007. Users searching for [iphone], *English (US)* at that time were looking for the new (at the time) first iPhone model. Most users now are looking for the most recent or upcoming iPhone model. In the future, new models will come out and the dominant interpretation will change again.
+「iPhone」のクエリの解釈は新規モデルが発表される度に変わる。2007年が最初のリリースで、当時は「iPhone」で検索したユーザーが求めている情報は、iPhone1だった。しかし、現在のユーザーが求めているのは最新のモデルのものや、今後発売されるモデルの情報である。これからも発売されるモデルとともに支配的解釈も変化してくる。
 
-## Understanding User Intent
+## ユーザーの意図を理解する
 
-It can be helpful to think of queries as having one or more of the following intents.
+クエリを考える際、以下の意図のどれか又は、複数に該当させて考えると良い。
 
-- **Know** query, some of which are **Know Simple** queries
-- **Do** query, some of which are **Device Action** queries
-- **Website** query, when the user is looking for a specific website or webpage
-- **Visit-in-person** query, some of which are looking for a specific business or organization, some of which are looking for a category of businesses
+- **Know**クエリ：一部は**Know Simple**クエリに分類
+- **Do**クエリ：一部は**デバイスアクション**クエリに分類
+- **Website**クエリ：特定のWebサイト・ページを訪問しようとしているもの
+- **Visit-in-Person**クエリ：特定のビジネス・組織や、特定カテゴリのビジネスを探しているもの
 
-### `Know` and `Know Simple` Queries
+### `Know`クエリ・`Know Simple`クエリ
 
-The intent of a **Know** query is to find information on a topic. Users want to **Know** more about something.
+**Know**クエリは、トピックに関する情報を見つける目的で、ユーザーは何かを知りたい。
 
-**Know Simple** queries are a special type of **Know** query. **Know Simple** queries seek a very specific answer, like a fact, diagram, etc. This answer has to be correct and complete, and can be displayed in a relatively small amount of space: the size of a mobile phone screen. As a rule of thumb, if most people would agree on a correct answer, and it would fit in 1-2 sentences or a short list of items, the query can be called a **Know Simple** query.
+**Know Simple**クエリは、**Know**クエリの中の特殊なものである。**Know Simple**クエリは一部の事実・図表などの限定的な答えを探すものを指す。回答には正確性が求められ、完全である必要がある。また、「モバイル端末の画面上に収まるような」狭いスペースにも表示できることがある。多くの人が認めるような回答と、その回答が１～２文の文や表で表せる場合、そのクエリを**Know Simple**クエリに分類する。
 
-**Know Simple** queries may be questions such as [how tall is barack obama]. Frequently, **Know Simple** queries do not have question words. For example, [barack obama height] has the same user intent as [how tall is barack obama], but is not in a question format.
+「オバマの身長どのくらい」のクエリは**Know Simple**クエリの一例である。また、「いつ」「何」などの疑問詞を含むことのない**Know Simple**クエリもある。「バラク・オバマ　身長」の意図は同じであるが、疑問詞はついていない。
 
-Most queries are _not_ **Know Simple** queries, such as:
+クエリの多くは**Know Simple**クエリではない。例を挙げると
 
-- Broad, complex, and/or in-depth informational queries that do not have a short answer
-- Ambiguous or unclear informational queries
-- Informational queries on controversial topics
-- Informational queries with no definitive "right answer"
-- Queries where different users may want different types of information, or different sources of information
+- 短い回答の得られない、幅広い情報、複雑な情報、深い情報を得るためのインフォメーショナルクエリ
+- 曖昧・不明瞭な意図のインフォメーショナルクエリ
+- 議論の余地がある（大人数の人が認める回答のない）トピックに関するクエリ
+- 決定的な「正解」がないインフォメーショナルクエリ
+- タイプや情報源がユーザーによって異なってくるクエリ
 
-Here are some examples where the **Know Simple** query asks for a simple fact, which can be answered correctly and completely in a small amount of space, and the **Know** query answer is more complex.
+以下の表に「**Know Simple**クエリで正確で狭いスペースでも表示できる例」と**Know**クエリ「複雑な答えが必要となってくる**Know**クエリ」をまとめた。
 
-Know Simple Query|Know Query|Explanation
+Know Simpleクエリの例|Knowクエリの例|説明
 ---|---|---
-[barack obama height]<br>[how tall is obama]|[barack obama]|The **Know** query is a broad information query and different users may be looking for different things (e.g., biography, books, social media posts, etc.).
-[new york city population 2013]|[new york city]|The **Know** query is a broad information query and different users may be looking for different things (e.g., tourist and trip planning information, facts, photographs, history).
-[who is graves disease named after]|[graves disease]|The **Know** query is a broad query for medical information and different users may have different needs. There is no single "answer" for this query.
-[macy’s store hours]|[macy’s gift wrap options]|The **Know** query is a broad query for a particular service offered by a department store, and does not have a short answer.
-[what is the symbol for the element nickel]|[what nickel is used for]|The **Know** query is a broad query and there is no short, complete answer.
-[who won the 2014 bcs national championship game]|[who is going to win the bcs national championship game]|The **Know** query asks for an opinion and there is no definitive answer.
-[what is starbucks stock price]|[should i invest in starbucks stock]|Even though the **Know** query is theoretically a yes/no question, there is not a single answer that everyone would agree on.
+[バラク オバマ 身長]<br>[オバマの身長は]|[バラク オバマ]|**Know**クエリでは幅広い情報を求めており、ユーザーによって必要な情報は異なる。（例：経歴・著書・ソーシャルメディアへの投稿など）
+[ニューヨーク市 人口 2013]|[ニューヨーク市]|**Know**クエリでは幅広い情報を求めており、ユーザーによって必要な情報は異なる。（例:旅行に関する情報・事実・写真・歴史など）
+[Grave’s Disease（バセドウ病）の語源になった人は誰]|[バセドウ病]|**Know**クエリでは幅広い情報を求めており、ユーザーによって必要な情報は異なる。たった一つの「正解」が存在しない。
+[macy’s 店舗 営業時間]|[macy’s 贈り物ラッピング オプション]|**Know**クエリは、あるデパートのサービスに関する幅広いクエリであり、短い回答はない。
+[ニッケルの元素記号は]|[ニッケルの用途は]|**Know**クエリは幅広いクエリであり、短い完全な回答はない。
+[BCSナショナルチャンピオンシップの2014年度の勝者は]|[[BCSナショナルチャンピオンシップはどこが勝つ？]|**Know**クエリは意見を求めており、決定的な答えは存在しない。
+[スターバックスの株価は]|[スターバックスの株は買いかな？]|**Know**クエリは論理的にはYes/Noで回答できるものだが、皆が納得できる正解が存在しない。
 
-Raters must think about mobile users when deciding if queries are **Know Simple**. Use your judgment here.
+**Know Simple**クエリに該当するかを判断する際には、モバイルユーザーを想定して判断してください。
 
-<span style="color: red;">**Important Rating Example**</span>: The query [weather] may seem like a broad information query, but most mobile users likely have a fairly simple informational need: to find the current or upcoming temperature, and the chance of local weather events, such as rain or snow. Therefore, we will consider queries like [weather], [weather today], [weather tomorrow],
-[weather this week] to be **Know Simple** queries for mobile phone users.
+<span style="color: red;">**重要な評価例：**</span>「天気」のクエリは、幅広い情報に見えるが、モバイルユーザーの大半は、「現在のまたは、数日間の、所在地近辺の天候」を知りたいというシンプルな目的を持っている。その為、モバイルユーザーによる「天気」「天気　今日」「天気　明日」「天気　今週」などのクエリは**Know Simple**クエリになる。
 
-### `Do` and `Device Action` Queries
+### `Do`クエリ・`デバイスアクション`クエリ
 
-The intent of a **Do** query is to accomplish a goal or engage in an activity on a phone. The goal or activity may be to download, to buy, to obtain, to be entertained by, or to interact with a website or app. Users want to **Do** something.
+**Do**クエリは、特定の行動やある目的を達成するためのクエリである。例として、「ダウンロードする」「購入する」「手に入れる」「楽しむ」「Webサイト・アプリを利用する」などがある。ユーザーは何かをしたい。
 
-Here are some examples.
+以下は、**Do**クエリの例をまとめたものである。
 
-Query|Likely User Intent
+クエリの例|ユーザーの意図
 ---|---
-[get candy crush game]|Install the Candy Crush game.
-[online personality test]|Take an online personality test.
-[what is my bmi?]|Calculate BMI (body mass index).
-[buy citizen kane dvd]|Purchase this DVD.
+[入手　Candy Crush　ゲーム]|Candy　Crushをインストールしたい。
+[オンライン　性格診断]|オンライン性格診断を受けたい。
+[私のBMIはいくつか？]|BMIを計算したい。
+[買う　citizen kane　dvd]|citizen kaneのdvdを買いたい。
 
-**Device Action** queries are a special kind of **Do** query. Users are asking their phone to do something for them. Users giving **Device Action** queries may be using phones in the hands-free mode, for example, while in a car. It’s very important for mobile phones to accommodate **Device Action** queries, and we have a high standard for rating these results.
+**Do**クエリの中の**デバイスアクション**クエリは特殊なものである。スマートフォンに何らかの動作の指示をユーザーが行うためのクエリである。このクエリを利用するユーザーの背景は、運転中などの理由で手を使わずにスマートフォンを操作したい時である。モバイル端末が**デバイスアクション**クエリに対応することはとても重要であり、検索結果の評価にも厳しい基準を適用している。
 
-A **Device Action** query usually has a clear action word and intent. The verb or action word is often at the beginning of the query, but a query might start with "OK Google" or "Google" or "Siri" or "I want to." Use your judgment.
+普通、**デバイスアクション**クエリは行動や意図や、行動させる為の指示が明らかに示されている。動詞や行動を表す単語が含まれる事が多いほか、最初に「OK　Google」「Siri」で始まることもある。
 
-Here are some examples of **Device Action** queries.
+**デバイスアクション**クエリの例を以下にまとめた。
 
-Type of Action|Device Action Query Examples (verb or action shown in bold)
+動作のタイプ|デバイスアクションクエリの例（動詞・動作を表す単語を太字表記）
 ---|---
-Call someone|[**call** mom’s mobile phone], [place a **call** to anne jones], [ok google, could you please call my mom]
-Send a message|[**send** a text to john smith], [**text** john smith], [**sms** john smith]
-Get map information (e.g., directions, traffic, etc.)|[**navigate** to central park], [**show** me traffic], [**show** me a map]
-Open an app or webpage, or install an app|[**go** to amazon.com], [**open** facebook app], [**open** facebook.com], [**open** the business section of the new york times], [siri, would you **open** facebook for me], [**get** candy crush app]
-Play or view media|[**play** me songs from the white album], [**watch** the life of pi], [**show** me cute kittens], [i want to **look** at cute kittens], [i want to **listen** to imagine dragons radioactive]
-Schedule a meeting [ **schedule** a meeting for 9am]
-Set an alarm or timer [ **set** an alarm for 6am], [alarm for 6am], [countdown timer for 30 secs]
+電話する|［母の携帯に**電話する**］［アン・ジョーンに**電話する**］［OK　Google、母さんに**電話**］
+メッセージを送る|[ジョンにテキスト送信][メッセージ送信 ジョン][SMS ジョン]
+道案内・交通情報などのマップ情報を見る|[セントラルパークまで**案内**][交通情報**見せて**][地図を**見せて**]
+アプリ・ページを開くか、アプリをインストールする|[amazon.comに**行く**][facebookアプリ **起動**][facebook.comを開く][NYタイムスのビジネスセクションを開く][siri、Facebookを**開いてくれる**？][**入手** Candy Crushアプリ]
+音楽・動画などのメディアを開く|[White albumの曲をかける][ライフ・オブ・パイを**見る**][かわいい子猫を**見せて**][かわいい子猫が**見たい**][imagine dragonsのradioactiveを**聴きたい**]
+スケジュールを登録|[午前9時にミーティングを**入れる**]
+アラーム・タイマーを設定|[午前6時にアラーム**設定**][午前6時に**アラーム**][30秒の**タイマー**]
 
-Here are some examples of queries that are **not Device Action** queries.
+逆に、以下は**デバイスアクションクエリではない**例です。
 
-Query|Query is NOT a Device Action Query: Explanation
+クエリ|デバイスアクションではないクエリの説明
 ---|---
-[phone number empire state building]|There is no action word. The user may be looking for the phone number without the intention of calling the number. We’ll consider this a **Know Simple** query.
-[facebook.com]|There is no action word, such as "open." We will consider this a **Website** query.
-[amazon.com]|There is no action word, such as "open." We will consider this a **Website** query.
-[anne jones]|There is no action word, such as "call" or "text." We will consider this a **Know** query for information.
+[エンパイアステートビルの電話番号]|動作を表す単語はない。電話番号を知りたいだけで、実際に電話する意図はなから、**Know Simple**クエリに分類。
+[facebook.com]|「開く・訪問する」などの動作を表す単語はないので、**Website**クエリに分類。
+[amazon.com]|「開く・訪問する」などの動作を表す単語はないので、**Website**クエリに分類する。
+[アン・ジョーンズ]|「電話する・テキストメッセージを送る」などの動作を表す単語はないので、情報を求める**Know**クエリに分類。
 
-### `Website` Queries
+### `Website`クエリ
 
-The intent of a **Website** query is to locate a specific website or webpage that users have requested. This single webpage is called the **target** of the query.
+**Website**クエリは特定のサイト・ページにいくことを目的としたクエリである。目的のサイト・ページを「**ターゲット**」と呼ぶ。
 
-One type of **Website** query is a URL Query, which can be:
+**Website**クエリには以下のようなURLクエリを含む
 
-- Exact, perfectly-formed, working URLs, such as [http://www.ibm.com] or [www.ibm.com] or [ibm.com].
-- Imperfect URL queries: Queries that look like URL queries, but are not "working URLs". These URLs do not load if you type or paste them into your browser address bar. Even so, we believe users have a specific page in mind.
+- 実際に開くことの出来る、完全なURL：[http://www.ibm.com]、[www.ibm.com]、[ibm.com].
+- 実際には開けない不完全なURL。この時、クエリをアドレスバーに入れても機能しないが、ユーザーは特定のURLを意図して入れているとして判断する。
 
-Here are some examples.
+以下は**Website**クエリの例をまとめたものである。
 
-Query|Likely User Intent
+クエリとロケール（言語・地域）|ユーザーの意図
 ---|---
-[kayak], _English (US)_|View the Kayak website.
-[youtube], _English (US)_|View the YouTube website.
-[ebay], _Italian (IT)_|View the Italian eBay website.
-[new york time health section], _English (US)_|View the Health section of the New York Times website.
-[canon.com eos digital camera], _English (US)_|View the EOS digital cameras page on the Canon website.
+[kayak] （英語・アメリカ）|KayakのWebサイトを見る
+[youtube] （英語・アメリカ）|YoutubeのWebサイトを見る
+[ebay] （イタリア語・イタリア）|eBay（イタリア版）のWebサイトを見る
+[NYタイムス 健康セクション]（英語・アメリカ）|NYタイムスのWebサイトの、健康に関するセクションを見る
+[canon.com eos デジタルカメラ]（英語・アメリカ）|キヤノンのWebサイトの、EOSデジタルカメラのページを見る
 
-### `Visit-in-Person` Queries and User Location
+### `Visit-in-Person`クエリとユーザーの所在地
 
-Users carry mobile phones with them throughout the day, for example, at work, to school, to restaurants, or running errands. One reason to carry a mobile phone is to have help with **Visit-in-Person** queries, such as finding coffee shops, gas stations, ATMs, restaurants, etc. Because mobile phones are often used for **Visit-in-Person** queries, make sure to consider visit-in-person intent as a possibility for mobile phone users.
+１日のほとんどをユーザーは、スマートフォンと共に行動する。仕事、学校、レストラン、その他用事などにスマートフォンを持ち歩く理由の１つとして、「喫茶店・ATM・レストランなどを探す」という**Visit-in-Person**クエリを解決するためである。スマートフォンの検索において**Visit-in-Person**クエリは使用されることが多く、スマートフォンを通しての検索では**Visit-in-Person**クエリの意図がある可能性を見落とさないようにすることが重要である。
 
-Some queries clearly "ask" for nearby information or nearby results (e.g., businesses, organizations, other nearby places). Some queries are not asking for nearby information or nearby results. Here are some examples.
+所在地付近の情報や、検索結果であるビジネス・組織・場所が明確なクエリもある。以下には、意図の明確な**Visit-in-Person**クエリと意図が明確ではない**Visit-in-Person**クエリをまとめてみた。
 
-Queries with Visit-in-Person Intent|Query with Non-Visit-in-Person Intent
----|---
-![query for chinese restaurants](../images/img220.jpg)![user intent for chinese restaurants](../images/img221.jpg)|![query for tom cruise's height](../images/img222.jpg)![user intent for tom cruise's height](../images/img223.jpg)
-![query for gas stations](../images/img224.jpg)![user intent for gas stations](../images/img225.jpg)|![query for iq test](../images/img226.jpg)![user intent for iq test](../images/img227.jpg)
-**More examples:** [pizza], [yoga class], [coffee shops], [movie showtimes], [car repair], [dentists], [bank of america atm locations], [starbucks near me]|**More examples:** [boston red sox], [washington post], [scrabble cheat], [definition of sedentary], [aapl], [beyonce], [angry birds], [small dog breeds], [dance videos], [oscars 2012], [pick up lines], [bank of america login]
+#### Visit-in-Personの意図が<span style="color: red;">ある</span>クエリ
 
-And some queries could go either way. Some users may want nearby results and others may not.
+![query and user intent for chinese restaurants](../images/img220.jpg)
 
-![](../images/img229.jpg)\
-![](../images/img230.jpg)
+![query and user intent for gas stations](../images/img224.jpg)
 
-Here are some examples of queries with both visit-in-person and non-visit-in-person intent:
+**その他の例：** [ピザ] [ヨガ 教室] [喫茶店] [映画 上映時間] [車の修理][歯医者] [バンクオブアメリカ ATM 場所] [近所のスターバックス]
+
+#### Visit-in-Personの意図が<span style="color: red;">ない</span>クエリ
+
+![query and user intent for tom cruise's height](../images/img222.jpg)
+
+![query and user intent for iq test](../images/img226.jpg)
+
+**その他の例：** [レッドソックス] [ワシントンポスト] [スクラブル（訳注：ゲーム名） コツ] [sedentary 意味] [aapl（訳注:Apple社の株式コード）] [ビヨンセ] [Angry Birds（訳注:ゲーム）] [ダンス動画] [オスカー 2012] [口説き文句] [バンクオブアメリカ ログイン]
+
+また「Visit-in-Personの意図があるユーザーもいれば、ないユーザーもいる」というクエリもあります。
+
+![user intent when searching for Walmart](../images/img229.jpg)
+
+以下は、そのようなクエリの例です。
 
 - [`ホテル`](https://www.google.com/search?q=ホテル)
 - [`郵便局`](https://www.google.com/search?q=郵便局)
@@ -242,116 +264,118 @@ Here are some examples of queries with both visit-in-person and non-visit-in-per
 - [`三井住友`](https://www.google.com/search?q=三井住友)
 - [`starbucks`](https://www.google.com/search?q=starbucks)
 
-Sometimes, the user location can change our understanding of the query. For users close to Sunnyvale, California, the query [turmeric] could have two different interpretations: a popular restaurant named Turmeric or the spice turmeric.
+クエリの解釈にはユーザーの位置情報が影響することがある。例えば[ターメリック]というクエリをカリフォルニア州サニーヴェール付近でユーザーが検索すると、以下のように検索結果が出てくる。
 
-![query for turmeric in California returning address to restaurant](../images/img232.jpg)\
-![query for turmeric in California returning information about the spice](../images/img233.jpg)
+1. サニーヴェールにある「ターメリック」という有名レストラン
+2. 香辛料の「ターメリック（ウコン）」
 
-In most other user locations, there is no restaurant (or anything else) named Turmeric and there is just one interpretation of the query [turmeric]: the spice. The Sunnyvale restaurant is not well-known outside of Sunnyvale, California.
+![query for turmeric in California returning address to restaurant](../images/img232.jpg)
+
+他の場所ではほとんど、「ターメリックという有名レストラン」は存在しない。その場合、[ターメリック]というクエリには「香辛料のターメリック」という解釈しか成立しなくなる。サニーヴェールのレストラン「ターメリック」が有名なのはサニーヴェールだけであると考えられる。
 
 ![query for turmeric in Nebraska returning information about the spice](../images/img234.jpg)
 
-Use your common sense when thinking about queries and whether they have possible visit-in-person intent.
+クエリを分析で、Visit-in-Personクエリの意図の有無を判断する時はこのようなことも頭において判断する必要がある。
 
-### Queries with Multiple User Intents
+### 複数の意図が考えられるクエリ
 
-Many queries have more than one likely user intent. Please use your judgment when trying to decide if one intent is more likely than another intent.
+複数の意図が考えられるクエリも多く存在する。どの意図が正しく、どの意図が違うのかは自身で判断していく。
 
-Query|Likely User Intent
+クエリの例|ユーザーの意図
 ---|---
-[harvard]|Depending on the user need and location, users may want to visit the official homepage (**Website**), get directions,(**Visit-in-Person**), or learn more about the school (**Know**).
-[walmart]|Most users want to go to a nearby Walmart (**Visit-in-Person**) or view the homepage to shop online (**Website**). Some or few users may want to learn more information about the company (**Know**).
+[ハーバード]|所在地などを考慮して、「公式ホームページを見る（**Website**）」「行き方を知る（**Visit-in-Person**）」「同校のことを知る（**Know**）」等が考えられる。
+[ウォルマート]|「近所のウォルマートに行く（**Visit-in-Person**）」「Webサイトで買い物をする（**Website**）の両者が主流であり、「ウォルマート社のことを知る（**Know**）」の意図は少ないだろう。
 
-## Understanding Result Blocks
+## RBを理解する
 
-The following sections contain examples of different types of queries and results. In these guidelines, please assume that the result blocks and pages are easy to use on the phone, unless otherwise noted.
+この節ではクエリとその検索結果の例を挙げていく。特記事項以外は、このガイドラインに載せられているRBやページはスマートフォンで使いやすいものだと考える。
 
-### Web Search Result Block Examples
+### 「Web検索のRB」の例
 
-Web Search Result Blocks typically have a title link, a URL and a "snippet" of text describing the page. For many queries, Web Search Result Blocks are the most helpful type of result.
+Web検索のRBを構成するものとして、「タイトル付きリンク」「URL」「ページ内容を表現する『スニペット』」などが含まれている。クエリの多くにとっては、Web検索のRBは最も役に立つ検索結果である。
 
-Query, User Location, User Intent|Web Search Result Block
+クエリ・ユーザー所在地・ユーザーの意図|Web検索のRB
 ---|---
-**Query:** [cuisinart food processor reviews]<br><br>**User Location:** Oklahoma City, Oklahoma<br><br>**User Intent:** This is a **Know** query. The user wants to find recent reviews of Cuisinart food processors.<br><br>**Result:** This is a Web Search Result Block that has a link to a landing page with Cuisinart reviews.|![web search result block](../images/img236.jpg)
-**Query:** [broadway tickets]<br><br>**User Location:** New York City, New York<br><br>**User Intent:** This is a **Know** query or **Do** query. The user wants to search prices and/or purchase tickets to a Broadway show in New York City.|![web search result block](../images/img237.jpg)
+**クエリ：** [カシナート フードプロセッサ レビュー]<br><br>**ユーザーの所在地：** オクラホマ州オクラホマ<br><br>**ユーザーの意図：** Knowクエリ。カシナート社のフードプロセッサのレビューを見たい。<br><br>**検索結果の説明：** カシナート社製品のレビューを掲載したLPへのリンクを含む、Web検索のRB。|![web search result block](../images/img236.jpg)
+**クエリ：** [ブロードウェイ チケット]<br><br>**ユーザーの所在地：** ニューヨーク州ニューヨークシティ<br><br>**ユーザーの意図：** KnowまたはDoクエリ。ニューヨークシティで開催されるブロードウェイショーのチケット代を知りたい、または購入したい。|![web search result block](../images/img237.jpg)
 
-### Special Content Result Block Examples
+### SCRB（特殊なコンテンツのRB）の例
 
-Special Content Result Blocks (SCRBs) appear in the search results page, along with Web Search Result Blocks. They are frequently, but not always, the first result on the search results page.
+検索結果画面に表示されるのはWeb検索検索のRBだけではない。SCRB（特殊なコンテンツのRB）も表示されることがある。SCRBは検索結果画面の最上位に表示されることが多いが、必ずしも最上位に表示されるわけではない。
 
-Special Content Result Blocks are designed to show content directly to users on the search results page. From working calculators to playable videos to interactive weather information, these results help users immediately get information or content, and may not require additional "clicks" or page loads.
+検索結果画面上で、直接ユーザーにコンテンツを提供する目的でSCRBはつくられている。ユーザーが瞬時にコンテンツを入手するため、検索結果画面上で利用できる計算機、再生可能な動画、操作可能な天気情報などが表示される。ページを開かずに情報を得ることができるため、ページの読み込みやクリック数を必要としない。
 
-Because mobile phones can be difficult to use, SCRBs can help mobile phone users accomplish their tasks very quickly, especially for certain **Know Simple**, **Visit-in-Person**, and **Do** queries.
+一部の**Know Simple**、**Visit-in-Person**、**Do**クエリでは、スマートフォン上の操作が楽になりSCRBは特に役に立つ。
 
-**Important:** Please assume that any interactive features work and function properly. Some notes:
+**重要：** 評価作業を行う時の前提として、インタラクティブ要素が適切に機能するものとして評価を行う。以下の点にも注意をする。
 
-- All result blocks are "screenshots" or images of search results with prominent links enabled. Unfortunately, a screenshot or image of an interactive result block will not function as it would for a real user. **For the purpose of rating, please assume that interactive result blocks do function as intended.** Try to interact with the result block as some links, buttons, or other features may work.
-- There may be a delay between when the rating task is created and when you actually rate the block, causing some information in special content result blocks to be a few hours or even days out of date. Stock price or weather informational blocks are designed to give users extremely current and timely information. However, due to a delay in rating time, the information may no longer be accurate.Don’t penalize a special content result block for being out of date. **Assume that the blocks show current information for users, unless instructed otherwise.**
+- リザルトブロックには、検索結果のスクリーンショットや、リンクだけを有効にした検索結果の画像が表示されます。残念ながら、画像内のインタラクティブ要素は機能しません。リザルトブロック内のボタン・タブ・その他の機能は動かないかもしれませんが、**評価タスクを行うときには、インタラクティブな要素が意図した通りに機能するものとして評価してください。**
+- タスクの作成から皆さんが評価するまでに時間差があるので、SCRBの情報が数時間遅れていたり、全く現状に合っていなかったりすることがあります。株価や天気情報のSCRBはタイムリーな情報を提供するためのものですが、この時間差によって内容が不正確になっていることがあります。こうした場合、SCRBが現状に合っていないからといって評価を減算しないでください。**特記していない限り、リザルトブロックは現在の情報を表示していると仮定してください。**
 
-Query, User Location, User Intent|Special Content Result Block
+クエリ・ユーザー所在地・ユーザーの意図|SCRB
 ---|---
-**Query:** [weather]<br><br>**User Location:** Chicago, Illinois<br><br>**User Intent:** This is a **Know Simple** query since mobile users have a fairly simple informational need: find the current temperature and chance of rain or snow. The user wants to know the weather for the User Location.<br><br>_**Note:** Assume the block shows current information for users._|![special content result block](../images/img240.jpg)
-**Query:** [emma stone movies]<br><br>**User Location:** Des Moines, Iowa<br><br>**User Intent:** This is a **Know** query. The user wants to get information on movies with Emma Stone.<br><br>**Result:** In this result block, users can immediately see some popular movies starring Emma Stone, with an option to click on the links to learn more about each movie. Users can also swipe to see a list of more movies.|![special content result block](../images/img242.jpg)
-**Query:** [calories in a banana]<br><br>**User Location:** Oakland, California<br><br>**User Intent:** This is a **Know Simple** query. The user wants to find out how many calories are in a banana.|![special content result block](../images/img243.jpg)
-**Query:** [baseball scores]<br><br>**User Location:** Wichita, Kansas<br><br>**User Intent:** This is a **Know** query. The user wants to find the most recent Major League Baseball scores.|![special content result block](../images/img244.jpg)
-**Query:** [coldplay fix you video]<br><br>**User Location:** New Orleans, Louisiana<br><br>**User Intent:** This is a **Do** query. The user wants to watch the music video for the song "Fix You" by Coldplay.<br><br>**Result:** By clicking on this result block, users can play the music video for the song on their phone, learn more about the artist/album, etc.|![special content result block](../images/img246.jpg)
-**Query:** [what is the tallest tree]<br><br>**User Location:** Boise, Idaho<br><br>**User Intent:** This is a **Know Simple** query. The user wants to know what type of tree is the tallest.|![special content result block](../images/img247.jpg)
+**クエリ：** [天気]<br><br>**ユーザーの所在地：** イリノイ州シカゴ<br><br>**ユーザーの意図：** Know Simpleクエリ。モバイルユーザーのニーズは「現在の天気・降水確率を知りたい」というシンプルなもの。ユーザー所在地付近の情報を求めている。<br><br>**注意：** リザルトブロックには現時点の情報が表示されていると仮定して評価すること。.|![special content result block](../images/img240.jpg)
+**クエリ：** [エマ・ストーン 映画]<br><br>**ユーザーの所在地：** アイオワ州デモワン<br><br>**ユーザーの意図：** Knowクエリ。エマ・ストーンが出演した映画を知りたい。<br><br>**検索結果の説明：** ユーザーはRBから、エマ・ストーンが出演している映画を即座に知ることができ、個々の映画をクリックするとさらに詳しい情報を入手できる。スワイプ（横スクロール）することで、他の映画も表示できる。|![special content result block](../images/img242.jpg)
+**クエリ：** [バナナのカロリー]<br><br>**ユーザーの所在地：** カリフォルニア州オークランド<br><br>**ユーザーの意図：** Know Simpleクエリ。バナナのカロリーを知りたい<br><br>**注意：** 下矢印をクリックすると、詳細が見られるようになっている|![special content result block](../images/img243.jpg)
+**クエリ：** [野球 スコア]<br><br>**ユーザーの所在地：** カンザス州ウィチタ<br><br>**ユーザーの意図：** Knowクエリ。メジャーリーグの、現時点での点数を知りたい。|![special content result block](../images/img244.jpg)
+**クエリ：** [coldplay fix you video]<br><br>**ユーザーの所在地：** ルイジアナ州ニューオリンズ<br><br>**ユーザーの意図：** Doクエリ。Coldplayの「Fix You」という曲を聴きたい。<br><br>**注意：** ユーザーはRBから、直接この曲を再生することや、リンクをクリックして詳しい情報を知ることができる。|![special content result block](../images/img246.jpg)
+**クエリ：** [一番背が高い木は]<br><br>**ユーザーの所在地：** アイオワ州ボイズ<br><br>**ユーザーの意図：** Know Simpleクエリ。一番背が高い木を知りたい。|![special content result block](../images/img247.jpg)
 
-### Device Action Result Block Examples
+### 「デバイスアクションのRB」の例
 
-A mobile phone should respond to a **Device Action** query and do what the user is asking. If the block is a **Device Action** query to open an app, please assume that the user has the app installed on their phone. If the query is to download the app, please assume that the user does not have the app installed on their phone.
+ユーザーの**デバイスアクション**にスマートフォンはユーザーの求める行動を返すことが出来る。**デバイスアクション**クエリが「アプリを起動する」目的の場合は、ユーザーがアプリをインストールしていると仮定する。また、「アプリをダウンロードする」目的のクエリである場合は、アプリをインストールしていないと仮定する。
 
-Query, User Location, User Intent, Result|Device Action Result Block
+クエリ・ユーザー所在地・ユーザーの意図・検索結果|デバイスアクションのRB
 ---|---
-**Query:** [open angry birds]<br><br>**User Location:** Little Rock, Arkansas<br><br>**User Intent:** This is a **Device Action** query. The user wants the device to open the Angry Birds app so he/she can play the game.<br><br>**Result:** In this result block, users can click the link to open the app.|![device action result block](../images/img248.jpg)
-**Query:** [go to amazon.com]<br><br>**User Location:** Glendale California<br><br>**User Intent:** This is a **Device Action** query. The user wants to go to amazon.com to interact with the website.<br><br>**Result:** In this result block, users can click the links to go directly to the website.|![device action result block](../images/img250.jpg)
-**Query:** [set alarm for 5 o’clock am]<br><br>**User Location:** Tacoma, Washington<br><br>**User Intent:** This is a **Device Action** query. The user wants to set the device’s alarm to go off at 5:00 AM.<br><br>**Result:** In this result block, the query has initiated the alarm on the phone to be set for 5:00 AM.|![device action result block](../images/img251.jpg)
-**Query:** [send text to mom]<br><br>**User Location:** Tacoma, Washington<br><br>**User Intent:** This is a **Device Action** query. The user wants to send a text message to a contact nicknamed "Mom."<br><br>**Result:** In this Device Action Result Block, the query has initiated a text to the contact nicknamed "Mom," with an option to text either the work or mobile number.|![device action result block](../images/img252.jpg)
-**Query:** [call best buy]<br><br>**User Location:** Mountain View, California<br><br>**User Intent:** This is a **Device Action** query. The user wants to call the nearest Best Buy store.<br><br>**Result:** In this Device Action Result Block, the query has initiated a call to the nearest Best Buy location.|![device action result block](../images/img254.jpg)
+**クエリ：** [開く アングリーバード]<br><br>**ユーザーの所在地：** アーカンザス州リトルロック<br><br>**ユーザーの意図：** デバイスアクションクエリ。アングリーバードを起動して、このゲームで遊びたい。<br><br>**検索結果の説明：** RB内のリンクを開くと、アプリが起動する。|![device action result block](../images/img248.jpg)
+**クエリ：** [amazon.comに行く]<br><br>**ユーザーの所在地：** カリフォルニア州グレンデル<br><br>**ユーザーの意図：** デバイスアクションクエリ。Amazon.comを訪問して利用したい。<br><br>**検索結果の説明：** RB内のリンクをクリックすると、AmazonのWebサイトを訪問できる。|![device action result block](../images/img250.jpg)
+**クエリ：** [午前5時にアラーム設定]<br><br>**ユーザーの所在地：** ワシントン州タコマ<br><br>**ユーザーの意図：** デバイスアクションクエリ。午前5時にアラームを設定したい。<br><br>**検索結果の説明：** RBでは、午前5時にアラームを設定することができる。|![device action result block](../images/img251.jpg)
+**クエリ：** [母にテキストメッセージ]<br><br>**ユーザーの所在地：** ワシントン州タコマ<br><br>**ユーザーの意図：** デバイスアクションクエリ。「母」という連絡先にテキストメッセージを送りたい。<br><br>**検索結果の説明：** RBでは、「母」という連絡先の、職場・携帯電話のどちらにメッセージを送るか選ぶことができる。|![device action result block](../images/img252.jpg)
+**クエリ：** [best buyに電話]<br><br>**ユーザーの所在地：** カリフォルニア州マウンテンビュー<br><br>**ユーザーの意図：** デバイスアクションクエリ。最寄りのBest Buy店舗に電話したい。<br><br>**検索結果の説明：** RBから、最寄りのBest Buy店舗に電話できる。|![device action result block](../images/img254.jpg)
 
-### How Device Action Results are Displayed in Rating Tasks
+### 評価タスクでの「デバイスアクションのRB」表示方法
 
-**Important note:** Users issuing queries actually experience the phone’s response to the query, while raters are given a description of it. If an iPhone user says "Siri, call Mom," the iPhone displays a visual prompt to show that it’s dialing a phone number. In these rating tasks, you will see a description of this action.
+**重要：** ユーザーがデバイスアクションクエリを使うと、スマートフォンを操作することをユーザーは体験できる。評価者側に見えるものは、説明文のみである。例えばiPhoneユーザーが「Siri、お母さんに電話して」と言うと、実際に電話をかける画面がユーザー側には表示されるが、評価者側には電話をかけたという説明文しか見ることはできない。
 
-Please also assume that the phone successfully performs the action in a fully satisfying way.
+この場合も、評価するときには、スマートフォンがアクションを実行できたと仮定して評価を行う。
 
-Below are some additional examples of **Device Action** queries, along with the corresponding "action text" displayed in the rating task.
+以下は**デバイスアクション**クエリと評価タスクで表示される説明文の一例をまとめたもの。
 
-This is what the **user** sees on his or her phone for the **Device Action** query|This is what **you (the rater)** might see in the rating task
+<span style="color: burlywood">Device Action</span>クエリで、<span style="color: burlywood">ユーザー</span>に表示される画面|<span style="color: burlywood">評価者（あなた）</span>に表示される画面
 ---|---
 ![device action query example 1](../images/img255.jpg)
 |||
 ---|---
-The left side shows what the user sees on the phone for the query [set alarm for 30 mins], while the right side shows the "action text" that you (the rater) might see in the rating task.|The text on the right indicates that the user issued the query at 1:48 PM (13:48:00), and the device has set its alarm to go off 30 minutes later at 2:18 PM (14:18:00).
+左は［30分のタイマー設定］というクエリに対してユーザーに表示される画面で、右は評価タスクに表示される説明文である。|説明文から、ユーザーがクエリを実行したのが13時48分で、アラームがちょうど30分後の14時18分に設定されたことがわかる。
 ![device action query example 2](../images/img257.jpg)
 |||
 ---|---
-The left side shows what the user sees on the phone for the query [open facebook app]. In this case, the phone shows an "Opening app" message and then opens the app.|The right side shows the "action text" that you (the rater) might see in the rating task. The text indicates that the device responded by opening the Facebook app on the user’s phone.
+左は[Facebookアプリを開く]というクエリに対してユーザーに表示される画面。「アプリを開いています……」というメッセージが表示され、アプリが起動する。|右は評価タスクに表示される説明文。説明文から、ユーザーのスマートフォンでFacebookアプリが起動したことがわかる。
 ![device action query example 3](../images/img258.jpg)
 |||
 ---|---
-The left side shows what the user sees on the phone for the query [call dan], while the right side shows the "action text" that you (the rater) might see in the rating task.|The user wants to dial the number stored for the contact "Dan" on the device. This text indicates that the device responded by displaying the contact’s phone number and dialing the number.
+左は[ダンに電話]というクエリに対してユーザーに表示される画面で、右は評価タスクに表示される説明文である。|ユーザーの目的は「ダン」という連絡先に連絡することであり、説明文から、ユーザーのスマートフォンがダンの電話番号と、電話をかけるためのボタンを表示したことがわかる。
 ![device action query example 4](../images/img260.jpg)
 |||
 ---|---
-For some **Device Action** queries, the device displays a list of options to choose from before it can respond to the **Device Action** query. Here is an example for the query [call target]. The user is shown a list of Target stores in the area to choose from.|This example shows that the Device Action result taken by the device will be to call the desired Target store after the user makes his/her selection.
+一部の**デバイスアクション**クエリでは、**デバイスアクション**クエリに応答する前に選択するオプションのリストが表示される。 次に、[call target]というクエリの例を示す。 ユーザーは、選択すべき領域内のターゲットストアのリストを表示する。 |この例では、デバイスが実行したデバイスアクションの結果は、ユーザーが選択した後に目的のターゲットストアを呼び出すことになる。
 ![device action query example 5](../images/img261.jpg)
 |||
 ---|---
-Here is an example for the query [play adele]. The user is shown a "Play media" type of result. In this case, since the user wants to play music, the Device Action result shown is a "Play Music" button to click.|Clicking this button will play the specified song if the user has the song on his/her device. If not, clicking the result box will give the user options to hear the specified song online.
+以下は、[play adele]というクエリの例である。 ユーザーには、「メディアを再生」と結果が表示される。 この場合、ユーザーは音楽を再生したいので、表示されるデバイスアクションの結果は、クリックする「音楽を再生する」ボタンである。 |このボタンをクリックすると、ユーザーが自分のデバイスに曲を持っている場合、指定した曲が再生される。 そうでない場合は、結果ボックスをクリックすると、指定した曲をオンラインで聞くことができる。
 
-## Rating on Your Phone Issues
+## スマートフォンで評価を行う時の注意点
 
-We understand that raters using different phones, operating systems, and browsers may have different experiences. In general, do what you would do naturally, and rate based on your experience. Here are some additional points to keep in mind when you are rating on your phone:
+評価者自身が利用するスマートフォン・OS・ブラウザは各々異なるため、評価者ごとの利用体験が異なる点をGoogleは理解している。評価者は、いつもどおりに行動し、自身の体験に基づいて評価を行う。以下にスマートフォンでの評価を行う時の注意点を記載する。
 
-- If you see one of these messages when you open a landing page on your phone:
+- LPをスマートフォン上で開いた時に表示されるメッセージの対処法
 
-  - Asks whether you want to open the page in the browser or the website’s app: select and evaluate the webpage. However, if the result automatically opens an app by default based on your phone’s setting (e.g. some users have set all YouTube pages to automatically open the result in the YouTube app), you should rate your natural app experience—you do not have to change your phone’s default settings.
+  - 「Webページをブラウザで開くか、アプリで開くか」を選択するメッセージ：Webページを開いて評価を行う。ただし、端末側の設定が動でアプリに切り替わる（例：YouTubeの動画再生ではアプリを開く設定になっている）場合、アプリ体験に基づき評価を行う。スマートフォンの設定変更は不要。
 
-  - Asks whether you want to visit the mobile page or desktop page: it is fine to select the mobile page as long as the landing page is the same. Sometimes, the mobile option will bring you to the mobile homepage instead of the specific URL in the task. You may need to check that the mobile page is in fact the same URL as the desktop page.
+  - 「モバイルページを開くか、デスクトップページを開くか」を選択するメッセージ：両者のLPが同じ場合、モバイルページから開く。一部、バイルページを開くと選択したURLのLPではなくモバイルサイトのトップページに転送されることがある。モバイルページのURLがデスクトップページと同じURLか確認を行う。
 
-- Please open and look at PDF files. Your experience may be easier or harder than other users depending on your phone and browser, but you should still open the PDF file and look at it.
+- PDFファイルは開いて確認する。利用している端末によって、PDFが開きにくいものもあるが、必ず確認する。
 
-- Occasionally, you may be assigned some of these rating tasks on a desktop computer, but please rate from the perspective of a mobile user unless otherwise instructed.
+- 評価タスクをデスクトップで行うように指示されても、特記されていない限りはモバイルユーザー視点で評価を行う。
 
-- You should assume queries were issued on a smartphone. For some queries, there are results that are helpful for specific types of phones—for example, some apps will only work on an Android or iPhone. Please assume that queries with device-specific results were issued on an Android device, unless explicitly stated otherwise in the instructions.
+- 「アプリインストール」や「アプリダウンロード」等のデバイスアクションクエリ・デバイスアクションのRBの評価を行う時は、特記がなければAndroidユーザー視点で評価を行う。
