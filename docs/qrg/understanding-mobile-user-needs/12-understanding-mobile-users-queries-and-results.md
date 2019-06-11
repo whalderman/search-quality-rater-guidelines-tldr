@@ -22,29 +22,41 @@ In order to do mobile rating tasks, you must have experience using a mobile smar
 
 ## Important Rating Definitions and Ideas
 
-**Query:** This refers to the word(s) and/or number(s) that a user types or speaks into a mobile phone. In these guidelines, queries have square brackets around them. If a user says "navigate home," we display: [navigate home]. If a user types "iPhone" in the search box, we display: [iphone].
+**Query**
+:  This refers to the word(s) and/or number(s) that a user types or speaks into a mobile phone. In these guidelines, queries have square brackets around them. If a user says "navigate home," we display: [navigate home]. If a user types "iPhone" in the search box, we display: [iphone].<br><br>There are many different types of queries because users ask their phones to do many things, from opening an app to calling a friend to searching the web.
 
-There are many different types of queries because users ask their phones to do many things, from opening an app to calling a friend to searching the web.
+**User**
+:  The user is the person trying to accomplish something by typing or speaking into a mobile phone with a small screen (i.e., size of a smartphone, not a tablet).
 
-**User:** The user is the person trying to accomplish something by typing or speaking into a mobile phone with a small screen (i.e., size of a smartphone, not a tablet).
+**User Intent**
+:  When a user types or speaks a query, he or she is trying to accomplish something. We refer to this goal as the user intent.
 
-**User Intent:** When a user types or speaks a query, he or she is trying to accomplish something. We refer to this goal as the user intent.
+**Locale**
+:  All queries have a locale, which is the language and location for the task. Locales are represented by a two-letter country code. For a current list of country codes, [click here](https://guidelines.raterhub.com/images/RG1_1.2-1.jpg). We sometimes refer to the locale as the task location.
 
-**Locale:** All queries have a locale, which is the language and location for the task. Locales are represented by a two-letter country code. For a current list of country codes, [click here](https://guidelines.raterhub.com/images/RG1_1.2-1.jpg). We sometimes refer to the locale as the task location.
+**User Location**
+:  This tells us where the user is located, and should be inferred from the map provided.
 
-**User Location:** This tells us where the user is located, and should be inferred from the map provided.
+**Search Engine Results Page (SERP)**
+:  The page a search engine shows after a user enters a query in the search box. The SERP is made up of **result blocks**.
 
-**Search Engine Results Page (SERP):** The page a search engine shows after a user enters a query in the search box. The SERP is made up of **result blocks**.
+**Result**
+:  We will use the word **result** to refer to the result block _and_ the landing page.
 
-**Result:** We will use the word **result** to refer to the result block _and_ the landing page.
+  **Result Block**
+  :  This is an individual "block" that appears on the user’s phone in response to the query. The result block may display information in the block itself or contain links, or may do both.
 
-- **Result Block:** This is an individual "block" that appears on the user’s phone in response to the query. The result block may display information in the block itself or contain links, or may do both.
-- The **Landing Page ( LP )** is the page you see after you click a link in the result block.
+  **Landing Page (LP)**
+  :  The page you see after you click a link in the result block.
 
-**Device Actions:** Mobile phones and other devices can respond to voice commands to perform many actions, such as setting an alarm or opening an app. This is a specific type of query that we’ll refer to as a **Device Action** query.
+**Device Actions**
+:  Mobile phones and other devices can respond to voice commands to perform many actions, such as setting an alarm or opening an app. This is a specific type of query that we’ll refer to as a **Device Action** query.
 
-- **Device Action query:** Specific type of query where users ask their phone to perform an action. These are frequently spoken commands used to complete actions that would normally require interaction with the screen or the device's controls.
-- **Device Action result:** The phone may respond to a **Device Action** query by performing an action, suchas calling a phone number, etc.
+  **Device Action query**
+  :  Specific type of query where users ask their phone to perform an action. These are frequently spoken commands used to complete actions that would normally require interaction with the screen or the device's controls.
+
+  **Device Action result**
+  :  The phone may respond to a **Device Action** query by performing an action, such as calling a phone number, etc.
 
 ## Understanding the Query
 
@@ -71,7 +83,7 @@ Note: Examples in the following sections will include a User Location in the for
 
 ![UK and US football](../images/img206.jpg)
 
-For many or most queries, the user location does not change our understanding of the query and user intent. Here are some examples: `[facebook.com]`, `[pictures of kittens]`, `[distance between the earth and the moon]`, `[call mom]`. If the task does not display a user location, please evaluate it as a query where the location does not matter and use your judgment.
+For many or most queries, the user location does not change our understanding of the query and user intent. Here are some examples: `facebook.com`, `pictures of kittens`, `distance between the earth and the moon`, `call mom`. If the task does not display a user location, please evaluate it as a query where the location does not matter and use your judgment.
 
 When is the user location important in understanding query interpretation and user intent? Please use both web research and your personal judgment to answer this question. Ask yourself, "Would users in one city or country be looking for something different than users in another city or country?"
 
@@ -90,11 +102,14 @@ When there is an explicit location in the query, pay attention to it! Users use 
 
 Many queries have more than one meaning. For example, the query [apple] might refer to the computer brand or the fruit. We will call these possible meanings **query interpretations**.
 
-**Dominant Interpretation:** The _dominant interpretation_ of a query is what most users mean when they type the query. Not all queries have a dominant interpretation. The dominant interpretation should be clear to you, especially after doing a little web research.
+**Dominant Interpretation**
+:  The _dominant interpretation_ of a query is what most users mean when they type the query. Not all queries have a dominant interpretation. The dominant interpretation should be clear to you, especially after doing a little web research.
 
-**Common Interpretation:** A _common interpretation_ of a query is what many or some users mean when they type a query. A query can have multiple common interpretations.
+**Common Interpretation**
+:  A _common interpretation_ of a query is what many or some users mean when they type a query. A query can have multiple common interpretations.
 
-**Minor Interpretations:** Sometimes you will find less common interpretations. These are interpretations that few users have in mind. We will call these _minor interpretations_.
+**Minor Interpretations**
+:  Sometimes you will find less common interpretations. These are interpretations that few users have in mind. We will call these _minor interpretations_.
 
 **Query: [apple]**\
 **Locale: English (US)**
