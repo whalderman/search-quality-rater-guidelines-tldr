@@ -56,12 +56,12 @@ Some tasks include a query research link, which you should use if you don’t un
 
 Think about users in your locale typing or speaking the following queries into their phone.
 
-Query Likely|User Intent
+Query|Likely User Intent
 ---|---
-\[population of paris\], English (US)|Find the current population of Paris, France.
-\[starbucks near me\], English (US)|Find the nearest Starbucks location.
-\[weather\], English (US)|Find weather information in the user location right now.
-\[call mom\], English (US)|Call/dial the number stored for the contact "Mom" on the device.
+[population of paris], English (US)|Find the current population of Paris, France.
+[starbucks near me], English (US)|Find the nearest Starbucks location.
+[weather], English (US)|Find weather information in the user location right now.
+[call mom], English (US)|Call/dial the number stored for the contact "Mom" on the device.
 
 ## Locale and User Location
 
