@@ -21,7 +21,7 @@ PQ評価では「ホストとドメインの違い」等のURL構造について
 個人・企業・政府・その他組織によって作成され、公開されている。
 有名なものには、Facebook・Wikipedia・Yahoo・YouTube などがある。
 
-  > **注：** このガイドラインでは、「同一の個人・企業が所有し管理するページ群」（例：yahoo.com）をWebサイトとして扱うが、「あるWebサイト内の、独自の目的を持った部門」（例：[Yahoo!ファイナンス](http://finance.yahoo.com/)・[Yahoo!スポーツ](http://sports.yahoo.com/)・[Yahoo!メール](http://mail.yahoo.com/)など）もWebサイトとして扱うこともある。また、Yahoo!ファイナンスやYahoo!スポーツのページをYahoo!に属するページとして扱うこともある。
+  > **注:** このガイドラインでは、「同一の個人・企業が所有し管理するページ群」（例：yahoo.com）をWebサイトとして扱うが、「あるWebサイト内の、独自の目的を持った部門」（例：[Yahoo!ファイナンス](http://finance.yahoo.com/)・[Yahoo!スポーツ](http://sports.yahoo.com/)・[Yahoo!メール](http://mail.yahoo.com/)など）もWebサイトとして扱うこともある。また、Yahoo!ファイナンスやYahoo!スポーツのページをYahoo!に属するページとして扱うこともある。
 
 **ホームページ（トップページ）**
 :   Webサイトのメインのページであり、ユーザーがWebサイトを訪問した際にはじめに表示されるページ。Appleなら「[http://www.apple.com](http://www.apple.com)」が、Yahoo!なら「[http://www.yahoo.com](http://www.yahoo.com)」が、Yahoo!ファイナンスなら「[http://finance.yahoo.com](http://finance.yahoo.com)」がホームページである。
@@ -293,13 +293,13 @@ Customer reviews can be helpful for assessing the reputation of a store or busin
     - `ibm reviews -site:ibm.com` ibm.com以外でのIBMに関するレビューを検索
     - `"ibm.com" reviews -site:ibm.com`: ibm.com以外でのibm.comに関するレビューを検索
 
-    > **注：** 評判の情報を検索するときは、Webサイトまたは会社自身が作成または作成していないソースで探してみる。 例えば、IBMは会社の評判情報の独立した情報源とはみなされない。密接に維持されている公式のFacebookやTwitterのページを持っているかもしれない。独立した情報源の特定と利用に関するWikipediaの記事は[ここ](https://en.wikipedia.org/wiki/Wikipedia:Identifying_and_using_independent_sources)を見る。
+    > **注:** 評判の情報を検索するときは、Webサイトまたは会社自身が作成または作成していないソースで探してみる。 例えば、IBMは会社の評判情報の独立した情報源とはみなされない。密接に維持されている公式のFacebookやTwitterのページを持っているかもしれない。独立した情報源の特定と利用に関するWikipediaの記事は[ここ](https://en.wikipedia.org/wiki/Wikipedia:Identifying_and_using_independent_sources)を見る。
 
 3. Webサイトについて書いた記事、レビュー、フォーラム投稿、ディスカッションなどを探す。企業にとっては、評判情報やレビューには多くの情報源がある。 いくつかの例を出すと：[Yelp](https://guidelines.raterhub.com/images/PQ.ReputationResearchExampleWebsite1.jpg)、[Better Business Bureau](https://guidelines.raterhub.com/images/PQ.ReputationResearchExampleWebsite3.jpg)（ビジネスとチャリティーの信頼性に重点を置く非営利組織）、[Amazon](https://guidelines.raterhub.com/images/PQ.ReputationResearchExample4.jpg)、[Googleショッピング](https://guidelines.raterhub.com/images/PQ.ReputationResearchExample5.jpg)は 特定のサイトを検索してレビューを探すことができる。 例えば、`ibm site:bbb.org`または`"ibm.com" site：bbb.org`を試すことができる。
 
     For content creators, look for biographical data and other sources that are not written by the individual.
 
-    > **注：** Better Business Bureau（BBB）のWebサイトには高い評価が表示されることがある。ビジネスにはデータが少ないからである。ビジネスが肯定的な評判を持っていることにはならない。しかし、BBBの格付けが非常に低いのは、通常、複数の未解決の苦情の結果である。BBBサイトの非常に低い評価であった否定的な評判の証拠として扱っていく。
+    > **注:** Better Business Bureau（BBB）のWebサイトには高い評価が表示されることがある。ビジネスにはデータが少ないからである。ビジネスが肯定的な評判を持っていることにはならない。しかし、BBBの格付けが非常に低いのは、通常、複数の未解決の苦情の結果である。BBBサイトの非常に低い評価であった否定的な評判の証拠として扱っていく。
 
 4. 有名なニュースサイト、Wikipedia記事またはニュース記事を探す。Wikipediaは、企業や組織を知る良い情報源となる。`ibm site:en.wikipedia.org`または`"ibm.com" site:en.wikipedia.org`を試してみる。賞やその他の認定書や論争や問題など、評判に関する情報も含まれている。 一部のWikipediaの記事には、コンテンツの一部に意見の不一致がある、またはコンテンツが古くなっている可能性があることを警告するメッセージが表示される。 これについては追加の調査が必要であることを示唆している可能性がある。
 
@@ -307,7 +307,7 @@ Customer reviews can be helpful for assessing the reputation of a store or busin
 
 サイト|サイトの評判|説明
 ---|---|---
-[信用情報紹介サイト](https://guidelines.raterhub.com/images/PQ_AnnualCreditReport.jpg)|[site:検索結果 `annualcreditreport.com ‑site:annualcreditreport.com`](https://guidelines.raterhub.com/images/SearchResultsForannualcreditreport.comminussiteannualcreditreport.com.jpg)<br>[Wikipedia記事](https://guidelines.raterhub.com/images/PQ_AnnualCreditReport_Wikipedia.jpg)<br>[著名ニュースサイト関連記事](https://guidelines.raterhub.com/images/PQ_annualcreditreport_WSJ.jpg)|**良い評判**<br>米国のユーザーは、社会保険番号を提供され、Webサイトで無料の信用報告書を入手することができる。 Wikipediaの記事では、「同サイトは、無料で信用情報を取得できる、国家後任の唯一の情報源である」と述べている。<br>**注：** ほぼすべてのウェブサイトには顧客サービスに関する苦情があるので、評判調査のさまざまな情報源やレビューを見ていくのが重要である。
+[信用情報紹介サイト](https://guidelines.raterhub.com/images/PQ_AnnualCreditReport.jpg)|[site:検索結果 `annualcreditreport.com ‑site:annualcreditreport.com`](https://guidelines.raterhub.com/images/SearchResultsForannualcreditreport.comminussiteannualcreditreport.com.jpg)<br>[Wikipedia記事](https://guidelines.raterhub.com/images/PQ_AnnualCreditReport_Wikipedia.jpg)<br>[著名ニュースサイト関連記事](https://guidelines.raterhub.com/images/PQ_annualcreditreport_WSJ.jpg)|**良い評判**<br>米国のユーザーは、社会保険番号を提供され、Webサイトで無料の信用報告書を入手することができる。 Wikipediaの記事では、「同サイトは、無料で信用情報を取得できる、国家後任の唯一の情報源である」と述べている。<br>**注:** ほぼすべてのウェブサイトには顧客サービスに関する苦情があるので、評判調査のさまざまな情報源やレビューを見ていくのが重要である。
 [病院のサイト](https://guidelines.raterhub.com/images/PQ_Cleveland_Clinic.jpg)|[site:検索結果 `clevelandclinic.org`](https://guidelines.raterhub.com/images/SearchResultsforclevelandclinic.org.jpg)<br>[Wikipedia記事](https://guidelines.raterhub.com/images/PQ_ClevelandClinic_Wikipedia.jpg)<br>[メディア記事](https://guidelines.raterhub.com/images/PQ_ClevelandClinic_USNews.jpg)|**良い評判**<br>Wikipediaによると、このWebサイトを運営する病院はUS News＆World Reportにより「米国の4大病院の1つ」と評価されている。US News＆World Reportの記事にも米国最良の病院と記載がある。ユーザーはこのWebサイト上の医薬情報を信頼できる。
 [新聞社のサイト](https://guidelines.raterhub.com/images/PQ.3.5.8.jpg)|[site:検索結果 `csmonitor.com ‑site:csmonitor.com`](https://guidelines.raterhub.com/images/PQ.3.5.8.ReputationResearchQuery1.jpg)<br>[Wikipedia記事](https://guidelines.raterhub.com/images/RG3.3.5.8.1.jpg)|**良い評判**<br>The Christian Science Monitorの新聞についてのWikipedia記事のハイライト部分に注目すると、新聞がピューリッツァー賞の7つの賞を受賞したことを示している。 この情報から、csmonitor.comのウェブサイトは肯定的な評価を得ていると考えられる。
 [Linuxのレポジトリサイト](https://guidelines.raterhub.com/images/kerneldotorg.jpg)|[site:検索結果 `kernel.org ‑site:kernel.org`](https://guidelines.raterhub.com/images/PQ_Examples_site-kernel.org_Google_Search.jpg)<br>[Wikipedia article about kernel.org](https://guidelines.raterhub.com/images/kernel.org_wikipedia.jpg)|**良い評判**<br>Wikipediaの記事では、「Kernel.orgはLinuxカーネルのソースコードの、メインレポジトリである。同Webサイトからは全バージョンのソースコードをダウンロード可能で、Google、Androidなどの多くのプロジェクトもホストしている。Webサイトの目的はLinuxカーネルの開発者・維持者のためにレポジトリをホスティングする事である。」
