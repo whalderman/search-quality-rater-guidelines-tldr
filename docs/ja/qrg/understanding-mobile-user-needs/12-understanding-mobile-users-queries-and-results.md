@@ -231,16 +231,16 @@ And some queries could go either way. Some users may want nearby results and oth
 
 Here are some examples of queries with both visit-in-person and non-visit-in-person intent:
 
-- [hotels]
-- [post office]
-- [apple store]
-- [citibank]
-- [best buy]
-- [office depot]
-- [target]
-- [library]
-- [bank of america]
-- [the gap]
+- [`ホテル`](https://www.google.com/search?q=ホテル)
+- [`郵便局`](https://www.google.com/search?q=郵便局)
+- [`apple store`](https://www.google.com/search?q=apple+store)
+- [`みずほ`](https://www.google.com/search?q=みずほ)
+- [`東急ハンズ`](https://www.google.com/search?q=東急ハンズ)
+- [`LABI`](https://www.google.com/search?q=LABI)
+- [`Daiei`](https://www.google.com/search?q=Daiei)
+- [`図書館`](https://www.google.com/search?q=図書館)
+- [`三井住友`](https://www.google.com/search?q=三井住友)
+- [`starbucks`](https://www.google.com/search?q=starbucks)
 
 Sometimes, the user location can change our understanding of the query. For users close to Sunnyvale, California, the query [turmeric] could have two different interpretations: a popular restaurant named Turmeric or the spice turmeric.
 
