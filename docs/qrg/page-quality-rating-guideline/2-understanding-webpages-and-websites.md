@@ -164,7 +164,7 @@ Here's how to find the homepage of a website:
 
 - Examine the landing page of the URL in your PQ rating task.
 - Find and click on the link labeled "home" or "main page."
-- Having trouble finding it? Try using "Ctrl+F" ("⌘+F" on a Mac) to search the page for the text "home" or "main." You may also try clicking on the website logo, which is usually at the top of the page.
+- Having trouble finding it? Try using <kbd>Ctrl</kbd>+<kbd>F</kbd> (<kbd>⌘</kbd>+<kbd>F</kbd> on a Mac) to search the page for the text "home" or "main." You may also try clicking on the website logo, which is usually at the top of the page.
 
 Sometimes, you may be given a webpage or website that appears to have no navigation links, no homepage link, and no logo or other means to find the homepage. Even some **High** or **Highest** quality pages lack a way to navigate to the homepage. If you can't find a link to the homepage, modify the URL by removing everything to the right of ".com," ".org," ".net," ".info," etc. and refresh the page.
 
