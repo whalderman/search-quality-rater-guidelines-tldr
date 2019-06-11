@@ -4,25 +4,25 @@ module.exports = {
 		// The key is the path for the locale to be nested under.
 		// As a special case, the default locale can use '/' as its path.
 		'/': {
-			lang: 'en', // html lang property
-			title: 'Search Quality Rater Guidelines', // title tag suffix
-			description: 'Learn what Google looks for in high-quality web pages.', // site description
+			lang: 'en' // html lang property
+			// title: 'Search Quality Rater Guidelines', // title tag suffix, highly duplicative
+			// description: 'Learn what Google looks for in high-quality web pages.', // site description
 		},
 		'/ja/': {
-			lang: 'ja',
-			title: '品質評価ガイドライン',
-			description: 'Googleが高品質のWebページで何を求めているのかを学びます。',
+			lang: 'ja'
+			// title: '品質評価ガイドライン',
+			// description: 'Googleが高品質のWebページで何を求めているのかを学びます。',
 		}
 	},
 	head: [
-		['link', { rel: 'icon', href: `/public/img/BCJロゴ.png` }],
+		['link', { rel: 'icon', href: `/img/BCJロゴ.png` }],
 		// ['link', { rel: 'manifest', href: '/manifest.json' }],
 		['meta', { name: 'theme-color', content: '#0071ba' }],
 		['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
 		['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'default' }],
-		// ['link', { rel: 'apple-touch-icon', href: `/icons/apple-touch-icon-152x152.png` }],
-		// ['link', { rel: 'mask-icon', href: '/icons/safari-pinned-tab.svg', color: '#0071ba' }],
-		// ['meta', { name: 'msapplication-TileImage', content: '/icons/msapplication-icon-144x144.png' }],
+		['link', { rel: 'apple-touch-icon', href: `/img/BCJロゴ.png` }],
+		['link', { rel: 'mask-icon', href: '/img/BCJロゴ.svg', color: '#0071ba' }],
+		['meta', { name: 'msapplication-TileImage', content: '/img/BCJロゴ.png' }],
 		['meta', { name: 'msapplication-TileColor', content: '#0071ba' }]
 	],
 	plugins: [
