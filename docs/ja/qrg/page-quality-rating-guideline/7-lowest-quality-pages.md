@@ -158,7 +158,7 @@ Malicious pages are created with harmful intent or created to benefit the websit
 
 If you suspect a link is malicious, please do not click on it. You do not need to personally experience a malicious download in order to confirm that a website is harmful. Likewise, if you feel strongly that a website is a scam, you do not need to engage with it to get proof.
 
-Use the **Lowest** rating if you suspect a page is malicious, even if you’re not able to completely confirm that the page is harmful. Please exercise caution and practice good Internet safety skills.
+Use the **Lowest** rating if you suspect a page is malicious, even if you're not able to completely confirm that the page is harmful. Please exercise caution and practice good Internet safety skills.
 
 ### Negative or Malicious Reputation
 
@@ -166,7 +166,7 @@ Use the **Lowest** rating if the website and the creators of the MC have a negat
 
 Website|Description
 |---|---|
-[Site selling children’s jungle gym](https://guidelines.raterhub.com/images/domeclimber.com.jpg)|**Negative reputation information:** This business has a [BBB rating](https://guidelines.raterhub.com/images/DomeClimberBBBReview.jpg) of F. There is a news article about financial fraud. There are many reviews on websites describing how users sent money and did not receive anything in return.
+[Site selling children's jungle gym](https://guidelines.raterhub.com/images/domeclimber.com.jpg)|**Negative reputation information:** This business has a [BBB rating](https://guidelines.raterhub.com/images/DomeClimberBBBReview.jpg) of F. There is a news article about financial fraud. There are many reviews on websites describing how users sent money and did not receive anything in return.
 [Site selling products related to eyewear](https://guidelines.raterhub.com/images/RG3_3.5-40.jpg)|**Negative/malicious reputation information:** This website engaged in criminal behavior such as physically threatening users.
 [Organization serving the hospitalized veteran community](https://guidelines.raterhub.com/images/PQ.3.5.10.jpg)|**Negative reputation information:** There are many detailed negative articles on news sites and charity watchdog sites describing fraud and financial mishandling about this organization.
 
@@ -212,9 +212,9 @@ Some pages are deliberately created to deceive users, for example:
 - A webpage with a misleading title or a title that has nothing to do with the content on the page. Users who come to the page expecting content related to the title will feel tricked or deceived.
 - A webpage or website with deceptive website information. For example, the website may misrepresent who owns the site, what the website purpose really is, how the content was created, how to contact the site, etc.
 
-Any page or website that may deceive or trick users should be rated **Lowest**, regardless of intent. Use the **Lowest** rating even if you cannot see a reason for the deception or even if you think most users wouldn’t "fall" for the trick.
+Any page or website that may deceive or trick users should be rated **Lowest**, regardless of intent. Use the **Lowest** rating even if you cannot see a reason for the deception or even if you think most users wouldn't "fall" for the trick.
 
-You should also use the **Lowest** rating if you suspect a page is deceptive, even if you’re not able to completely confirm it. Please exercise caution and practice good Internet safety skills since deceptive pages may be malicious.
+You should also use the **Lowest** rating if you suspect a page is deceptive, even if you're not able to completely confirm it. Please exercise caution and practice good Internet safety skills since deceptive pages may be malicious.
 
 ### 欺瞞的なページ設計
 

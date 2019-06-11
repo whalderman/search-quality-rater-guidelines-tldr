@@ -1,6 +1,6 @@
 # Rating Queries with Multiple Interpretations and Intents
 
-Some queries really only have one meaning. Consider the query [iphone], English (US). There may be different user intents for this query (research iPhones, buy an iPhone, go to the iPhone page on Apple’s website), but all users are basically referring to the same thing: the phone made by Apple, Inc.
+Some queries really only have one meaning. Consider the query [iphone], English (US). There may be different user intents for this query (research iPhones, buy an iPhone, go to the iPhone page on Apple's website), but all users are basically referring to the same thing: the phone made by Apple, Inc.
 
 Some queries truly have different possible meanings. Consider the query [apple], English (US). Some users may want to find more information on the computer brand or the fruit. We refer to these different meanings as query interpretations.
 

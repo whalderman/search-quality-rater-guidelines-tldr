@@ -4,7 +4,7 @@ What do you do on your mobile smartphone?
 
 ![what do mobile users want to do...](../images/img201.jpg)
 
-People rely on their phones for many different tasks in different environments. Users may want to search the web or may want to tell the phone to do something specific. Keep in mind that tasks can be simple or complex, and may take multiple steps to complete. For example, a simple task may be to find the director of a movie. A complex task may be to find a movie’s showtimes nearby, purchase tickets, get directions, and then use the phone’s navigation to go to the theater.
+People rely on their phones for many different tasks in different environments. Users may want to search the web or may want to tell the phone to do something specific. Keep in mind that tasks can be simple or complex, and may take multiple steps to complete. For example, a simple task may be to find the director of a movie. A complex task may be to find a movie's showtimes nearby, purchase tickets, get directions, and then use the phone's navigation to go to the theater.
 
 We expect our phones to do a lot. At the same time, phones can be challenging to use, especially compared to a desktop computer or laptop:
 
@@ -15,7 +15,7 @@ We expect our phones to do a lot. At the same time, phones can be challenging to
 
 **Important: Mobile smartphones should make tasks easy, even for mobile users with a small screen device (i.e., size of smartphone, not a tablet).** Users want results right away, at that moment, and may not be able to spend a lot of time to find what they are looking for.
 
-In order to do mobile rating tasks, you must have experience using a mobile smartphone, which we’ll also refer to as a mobile phone in these guidelines. If you are not familiar with voice commands, device actions, or phone features, please take some time to experiment on a mobile smartphone. For example, you can try some of these voice commands:
+In order to do mobile rating tasks, you must have experience using a mobile smartphone, which we'll also refer to as a mobile phone in these guidelines. If you are not familiar with voice commands, device actions, or phone features, please take some time to experiment on a mobile smartphone. For example, you can try some of these voice commands:
 
 - [iPhone Siri voice commands](https://www.apple.com/ios/siri/)
 - [Android voice commands](https://support.google.com/websearch/answer/2940021?hl=en), or say "OK Google" and then "Help" on an Android device
@@ -44,13 +44,13 @@ In order to do mobile rating tasks, you must have experience using a mobile smar
 :  We will use the word **result** to refer to the result block _and_ the landing page.
 
   **Result Block**
-  :  This is an individual "block" that appears on the user’s phone in response to the query. The result block may display information in the block itself or contain links, or may do both.
+  :  This is an individual "block" that appears on the user's phone in response to the query. The result block may display information in the block itself or contain links, or may do both.
 
   **Landing Page (LP)**
   :  The page you see after you click a link in the result block.
 
 **Device Actions**
-:  Mobile phones and other devices can respond to voice commands to perform many actions, such as setting an alarm or opening an app. This is a specific type of query that we’ll refer to as a **Device Action** query.
+:  Mobile phones and other devices can respond to voice commands to perform many actions, such as setting an alarm or opening an app. This is a specific type of query that we'll refer to as a **Device Action** query.
 
   **Device Action query**
   :  Specific type of query where users ask their phone to perform an action. These are frequently spoken commands used to complete actions that would normally require interaction with the screen or the device's controls.
@@ -62,9 +62,9 @@ In order to do mobile rating tasks, you must have experience using a mobile smar
 
 Understanding the query is the first step in evaluating the task. Remember, a query is what a user types or speaks into a mobile phone.
 
-Some tasks include a query research link, which you should use if you don’t understand the query or user intent. Otherwise, please do web research using Google or an online dictionary or encyclopedia. If you still don’t understand the query or user intent, please release the task.
+Some tasks include a query research link, which you should use if you don't understand the query or user intent. Otherwise, please do web research using Google or an online dictionary or encyclopedia. If you still don't understand the query or user intent, please release the task.
 
-**Important:** If you research the query on Google, please do not rely on the top results on the SERP. A query may have other meanings not represented on Google’s search results pages. Do not assign a high rating to a webpage just because it appears at the top of a list of search results on Google.
+**Important:** If you research the query on Google, please do not rely on the top results on the SERP. A query may have other meanings not represented on Google's search results pages. Do not assign a high rating to a webpage just because it appears at the top of a list of search results on Google.
 
 Think about users in your locale typing or speaking the following queries into their phone.
 
@@ -160,7 +160,7 @@ Know Simple Query|Know Query|Explanation
 [barack obama height]<br>[how tall is obama]|[barack obama]|The **Know** query is a broad information query and different users may be looking for different things (e.g., biography, books, social media posts, etc.).
 [new york city population 2013]|[new york city]|The **Know** query is a broad information query and different users may be looking for different things (e.g., tourist and trip planning information, facts, photographs, history).
 [who is graves disease named after]|[graves disease]|The **Know** query is a broad query for medical information and different users may have different needs. There is no single "answer" for this query.
-[macy’s store hours]|[macy’s gift wrap options]|The **Know** query is a broad query for a particular service offered by a department store, and does not have a short answer.
+[macy's store hours]|[macy's gift wrap options]|The **Know** query is a broad query for a particular service offered by a department store, and does not have a short answer.
 [what is the symbol for the element nickel]|[what nickel is used for]|The **Know** query is a broad query and there is no short, complete answer.
 [who won the 2014 bcs national championship game]|[who is going to win the bcs national championship game]|The **Know** query asks for an opinion and there is no definitive answer.
 [what is starbucks stock price]|[should i invest in starbucks stock]|Even though the **Know** query is theoretically a yes/no question, there is not a single answer that everyone would agree on.
@@ -183,7 +183,7 @@ Query|Likely User Intent
 [what is my bmi?]|Calculate BMI (body mass index).
 [buy citizen kane dvd]|Purchase this DVD.
 
-**Device Action** queries are a special kind of **Do** query. Users are asking their phone to do something for them. Users giving **Device Action** queries may be using phones in the hands-free mode, for example, while in a car. It’s very important for mobile phones to accommodate **Device Action** queries, and we have a high standard for rating these results.
+**Device Action** queries are a special kind of **Do** query. Users are asking their phone to do something for them. Users giving **Device Action** queries may be using phones in the hands-free mode, for example, while in a car. It's very important for mobile phones to accommodate **Device Action** queries, and we have a high standard for rating these results.
 
 A **Device Action** query usually has a clear action word and intent. The verb or action word is often at the beginning of the query, but a query might start with "OK Google" or "Google" or "Siri" or "I want to." Use your judgment.
 
@@ -191,7 +191,7 @@ Here are some examples of **Device Action** queries.
 
 Type of Action|Device Action Query Examples (verb or action shown in bold)
 ---|---
-Call someone|[**call** mom’s mobile phone], [place a **call** to anne jones], [ok google, could you please call my mom]
+Call someone|[**call** mom's mobile phone], [place a **call** to anne jones], [ok google, could you please call my mom]
 Send a message|[**send** a text to john smith], [**text** john smith], [**sms** john smith]
 Get map information (e.g., directions, traffic, etc.)|[**navigate** to central park], [**show** me traffic], [**show** me a map]
 Open an app or webpage, or install an app|[**go** to amazon.com], [**open** facebook app], [**open** facebook.com], [**open** the business section of the new york times], [siri, would you **open** facebook for me], [**get** candy crush app]
@@ -203,7 +203,7 @@ Here are some examples of queries that are **not Device Action** queries.
 
 Query|Query is NOT a Device Action Query: Explanation
 ---|---
-[phone number empire state building]|There is no action word. The user may be looking for the phone number without the intention of calling the number. We’ll consider this a **Know Simple** query.
+[phone number empire state building]|There is no action word. The user may be looking for the phone number without the intention of calling the number. We'll consider this a **Know Simple** query.
 [facebook.com]|There is no action word, such as "open." We will consider this a **Website** query.
 [amazon.com]|There is no action word, such as "open." We will consider this a **Website** query.
 [anne jones]|There is no action word, such as "call" or "text." We will consider this a **Know** query for information.
@@ -301,7 +301,7 @@ Because mobile phones can be difficult to use, SCRBs can help mobile phone users
 **Important:** Please assume that any interactive features work and function properly. Some notes:
 
 - All result blocks are "screenshots" or images of search results with prominent links enabled. Unfortunately, a screenshot or image of an interactive result block will not function as it would for a real user. **For the purpose of rating, please assume that interactive result blocks do function as intended.** Try to interact with the result block as some links, buttons, or other features may work.
-- There may be a delay between when the rating task is created and when you actually rate the block, causing some information in special content result blocks to be a few hours or even days out of date. Stock price or weather informational blocks are designed to give users extremely current and timely information. However, due to a delay in rating time, the information may no longer be accurate.Don’t penalize a special content result block for being out of date. **Assume that the blocks show current information for users, unless instructed otherwise.**
+- There may be a delay between when the rating task is created and when you actually rate the block, causing some information in special content result blocks to be a few hours or even days out of date. Stock price or weather informational blocks are designed to give users extremely current and timely information. However, due to a delay in rating time, the information may no longer be accurate.Don't penalize a special content result block for being out of date. **Assume that the blocks show current information for users, unless instructed otherwise.**
 
 Query, User Location, User Intent|Special Content Result Block
 ---|---
@@ -320,13 +320,13 @@ Query, User Location, User Intent, Result|Device Action Result Block
 ---|---
 **Query:** [open angry birds]<br><br>**User Location:** Little Rock, Arkansas<br><br>**User Intent:** This is a **Device Action** query. The user wants the device to open the Angry Birds app so he/she can play the game.<br><br>**Result:** In this result block, users can click the link to open the app.|![device action result block](../images/img248.jpg)
 **Query:** [go to amazon.com]<br><br>**User Location:** Glendale California<br><br>**User Intent:** This is a **Device Action** query. The user wants to go to amazon.com to interact with the website.<br><br>**Result:** In this result block, users can click the links to go directly to the website.|![device action result block](../images/img250.jpg)
-**Query:** [set alarm for 5 o’clock am]<br><br>**User Location:** Tacoma, Washington<br><br>**User Intent:** This is a **Device Action** query. The user wants to set the device’s alarm to go off at 5:00 AM.<br><br>**Result:** In this result block, the query has initiated the alarm on the phone to be set for 5:00 AM.|![device action result block](../images/img251.jpg)
+**Query:** [set alarm for 5 o'clock am]<br><br>**User Location:** Tacoma, Washington<br><br>**User Intent:** This is a **Device Action** query. The user wants to set the device's alarm to go off at 5:00 AM.<br><br>**Result:** In this result block, the query has initiated the alarm on the phone to be set for 5:00 AM.|![device action result block](../images/img251.jpg)
 **Query:** [send text to mom]<br><br>**User Location:** Tacoma, Washington<br><br>**User Intent:** This is a **Device Action** query. The user wants to send a text message to a contact nicknamed "Mom."<br><br>**Result:** In this Device Action Result Block, the query has initiated a text to the contact nicknamed "Mom," with an option to text either the work or mobile number.|![device action result block](../images/img252.jpg)
 **Query:** [call best buy]<br><br>**User Location:** Mountain View, California<br><br>**User Intent:** This is a **Device Action** query. The user wants to call the nearest Best Buy store.<br><br>**Result:** In this Device Action Result Block, the query has initiated a call to the nearest Best Buy location.|![device action result block](../images/img254.jpg)
 
 ### How Device Action Results are Displayed in Rating Tasks
 
-**Important note:** Users issuing queries actually experience the phone’s response to the query, while raters are given a description of it. If an iPhone user says "Siri, call Mom," the iPhone displays a visual prompt to show that it’s dialing a phone number. In these rating tasks, you will see a description of this action.
+**Important note:** Users issuing queries actually experience the phone's response to the query, while raters are given a description of it. If an iPhone user says "Siri, call Mom," the iPhone displays a visual prompt to show that it's dialing a phone number. In these rating tasks, you will see a description of this action.
 
 Please also assume that the phone successfully performs the action in a fully satisfying way.
 
@@ -341,11 +341,11 @@ The left side shows what the user sees on the phone for the query [set alarm for
 ![device action query example 2](../images/img257.jpg)
 |||
 ---|---
-The left side shows what the user sees on the phone for the query [open facebook app]. In this case, the phone shows an "Opening app" message and then opens the app.|The right side shows the "action text" that you (the rater) might see in the rating task. The text indicates that the device responded by opening the Facebook app on the user’s phone.
+The left side shows what the user sees on the phone for the query [open facebook app]. In this case, the phone shows an "Opening app" message and then opens the app.|The right side shows the "action text" that you (the rater) might see in the rating task. The text indicates that the device responded by opening the Facebook app on the user's phone.
 ![device action query example 3](../images/img258.jpg)
 |||
 ---|---
-The left side shows what the user sees on the phone for the query [call dan], while the right side shows the "action text" that you (the rater) might see in the rating task.|The user wants to dial the number stored for the contact "Dan" on the device. This text indicates that the device responded by displaying the contact’s phone number and dialing the number.
+The left side shows what the user sees on the phone for the query [call dan], while the right side shows the "action text" that you (the rater) might see in the rating task.|The user wants to dial the number stored for the contact "Dan" on the device. This text indicates that the device responded by displaying the contact's phone number and dialing the number.
 ![device action query example 4](../images/img260.jpg)
 |||
 ---|---
@@ -361,7 +361,7 @@ We understand that raters using different phones, operating systems, and browser
 
 - If you see one of these messages when you open a landing page on your phone:
 
-  - Asks whether you want to open the page in the browser or the website’s app: select and evaluate the webpage. However, if the result automatically opens an app by default based on your phone’s setting (e.g. some users have set all YouTube pages to automatically open the result in the YouTube app), you should rate your natural app experience—you do not have to change your phone’s default settings.
+  - Asks whether you want to open the page in the browser or the website's app: select and evaluate the webpage. However, if the result automatically opens an app by default based on your phone's setting (e.g. some users have set all YouTube pages to automatically open the result in the YouTube app), you should rate your natural app experience—you do not have to change your phone's default settings.
 
   - Asks whether you want to visit the mobile page or desktop page: it is fine to select the mobile page as long as the landing page is the same. Sometimes, the mobile option will bring you to the mobile homepage instead of the specific URL in the task. You may need to check that the mobile page is in fact the same URL as the desktop page.
 

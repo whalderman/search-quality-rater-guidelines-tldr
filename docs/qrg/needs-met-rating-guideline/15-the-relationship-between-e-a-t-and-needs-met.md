@@ -8,7 +8,7 @@ The E-A-T rating slider does _not_ depend on the query. Do not think about the q
 
 ![](../images/eat-na.jpg)
 
-Some results don’t have a E-A-T slider. If a result block has no E-A-T rating slider, you do not have to give a E-A-T rating. If there is a E-A-T slider, please assign a E-A-T rating based on the landing page. If you are unable to evaluate the E-A-T rating of a **Foreign Language** or **Did Not Load** result, you should assign a **Medium** rating.
+Some results don't have a E-A-T slider. If a result block has no E-A-T rating slider, you do not have to give a E-A-T rating. If there is a E-A-T slider, please assign a E-A-T rating based on the landing page. If you are unable to evaluate the E-A-T rating of a **Foreign Language** or **Did Not Load** result, you should assign a **Medium** rating.
 
 Here is some guidance about assigning Needs Met and E-A-T ratings:
 
@@ -22,7 +22,7 @@ Here is some guidance about assigning Needs Met and E-A-T ratings:
 
 - SM is often an appropriate rating for low quality but on-topic pages. However, a page can have such low Page Quality that it is useless for nearly all queries. Gibberish pages are a good example of pages with low Page Quality that should be rated FailsM. An exception to this is queries with clear website intent, where the target website should be rated FullyM even if the page has low Page Quality.
 
-- Remember that if a page lacks a beneficial purpose, it should always be rated Lowest Page Quality ­ regardless of the page’s Needs Met rating or how well­-designed the page may be. Please review [Lowest Quality Pages](../page-quality-rating-guideline/7-lowest-quality-pages) for a summary of other types of Lowest Page Quality pages.
+- Remember that if a page lacks a beneficial purpose, it should always be rated Lowest Page Quality ­ regardless of the page's Needs Met rating or how well­-designed the page may be. Please review [Lowest Quality Pages](../page-quality-rating-guideline/7-lowest-quality-pages) for a summary of other types of Lowest Page Quality pages.
 
 Query and User Intent|Result Block and LP, Needs Met Rating, E-A-T Rating|Explanation
 ---|---|---

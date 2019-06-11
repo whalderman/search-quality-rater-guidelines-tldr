@@ -4,7 +4,7 @@
 
 Your ratings will be used to evaluate search engine quality around the world. Good search engines give results that are helpful for users in their specific language and locale.
 
-It is important that you are familiar with and comfortable using a search engine. We encourage you to be an expert in Google search! For example, experiment with using operators (e.g., quotes or a dash) in your searches or try using Google’s advanced search option.
+It is important that you are familiar with and comfortable using a search engine. We encourage you to be an expert in Google search! For example, experiment with using operators (e.g., quotes or a dash) in your searches or try using Google's advanced search option.
 
 ## Raters Must Represent the User
 

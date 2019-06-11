@@ -30,4 +30,4 @@ Query and User Intent|Result Block and LP, Needs Met Rating, Page Quality Rating
 **Query:** `when was franklin d roosevelt born`
 **User Location:** Chicago, Illinois
 **User Intent:** Users want to find this well understood fact.|![](../images/img746.jpg)<br>![](../images/hm.jpg)![](../images/medium-wide.jpg)|This LP has the information users are looking for.
-*(Same as above.)*|We couldn’t find a stale page for this query.|N/A
+*(Same as above.)*|We couldn't find a stale page for this query.|N/A

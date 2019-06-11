@@ -4,7 +4,7 @@ Raters sometimes ask the question, "For a well-formed working URL query, are the
 
 Some users issue URL queries to find information about a website, such as reviews or recent news. We recommended this to you as one method of reputation research in the PQ guidelines. Real users do this too. Results that give reviews and reputation information can be very helpful for a URL query.
 
-However, websites that offer usage statistics about a website are not usually helpful results for URL queries. Most users aren’t interested in this kind of information.
+However, websites that offer usage statistics about a website are not usually helpful results for URL queries. Most users aren't interested in this kind of information.
 
 Query and User Intent|Result Block and LP, Needs Met Rating, E-A-T Rating|Explanation
 ---|---|---

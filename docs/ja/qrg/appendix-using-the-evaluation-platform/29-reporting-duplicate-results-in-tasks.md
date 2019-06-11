@@ -43,7 +43,7 @@ You can then check results that are duplicates of the current result, and the ch
 
 ![](../images/img869.jpg)
 
-The duplicate results that you checked will be annotated by "**Dupe of**..." text at the top of the block. After selecting all dupes, click on the **finish selecting dupes** link to return to the normal rating mode. The link’s name will change back to **Select Dupes**, and you will be able to report other sets of dupes, if there are any. If you change your mind, you can always uncheck a result.
+The duplicate results that you checked will be annotated by "**Dupe of**..." text at the top of the block. After selecting all dupes, click on the **finish selecting dupes** link to return to the normal rating mode. The link's name will change back to **Select Dupes**, and you will be able to report other sets of dupes, if there are any. If you change your mind, you can always uncheck a result.
 
 <span style="color: red">**Dupes**</span>
 

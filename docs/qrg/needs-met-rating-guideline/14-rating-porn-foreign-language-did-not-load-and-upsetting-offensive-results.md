@@ -16,7 +16,7 @@ Please assign the **Porn** flag to all porn pages, whether the query is porn-see
 
 This flag should be used if the content inside the result block, or the content on the LP, is pornographic, including porn images, links, text, pop-ups, and/or prominent porn ads. An image may be considered porn in one culture or country, but not another. Please use your judgment and knowledge of your locale.
 
-**Remember:** The **Porn** flag is used to indicate that the result is porn. It doesn’t matter whether the query "asks for porn".
+**Remember:** The **Porn** flag is used to indicate that the result is porn. It doesn't matter whether the query "asks for porn".
 
 ## Needs Met Rating for Porn Results
 
@@ -77,7 +77,7 @@ Even if the pornographic image depicts children in a literary (think of the famo
 
 Depiction of the genitals does not require the genitals to be uncovered. Thus, for example, a video of underage teenage girls dancing erotically, with multiple close-up shots of their covered genitals, or images of children with opaque underwear that focus on the genitalia could be considered child pornography.
 
-An image of a naked child (e.g., in the bathtub or at a nudist colony) is not considered child pornography as long as the child is not engaging in sexually explicit conduct, or the focus is not on the child’s genitalia. Visual depictions of adults who look like children (e.g., a 35-year-old man play-acting in diapers, or an obvious woman dressed as a school girl) are not child pornography. If you don't think it's a minor, it probably isn’t child pornography. However, if you cannot tell that the person in the image is over 18 (e.g., an under-developed 18-year-old whose body hair has been waxed), that is child pornography.
+An image of a naked child (e.g., in the bathtub or at a nudist colony) is not considered child pornography as long as the child is not engaging in sexually explicit conduct, or the focus is not on the child's genitalia. Visual depictions of adults who look like children (e.g., a 35-year-old man play-acting in diapers, or an obvious woman dressed as a school girl) are not child pornography. If you don't think it's a minor, it probably isn't child pornography. However, if you cannot tell that the person in the image is over 18 (e.g., an under-developed 18-year-old whose body hair has been waxed), that is child pornography.
 
 <u>**Reporting Instructions**</u>
 
@@ -107,13 +107,13 @@ Query and User Intent|Result Block and LP, Flag, Needs Met Rating|Explanation
 - Please assign the **Foreign Language** flag based on the language of the landing page, not the appearance of the result block.
 - Please remember to flag all foreign pages with the **Foreign Language** flag, even if most users in your locale would expect or want a foreign language page for the query.
 - Sometimes it is difficult to determine what language the landing page is in. The LP may have multiple languages or no words at all. In these cases, try to represent users in your locale. Does it feel like a foreign language page?
-When in doubt, don’t use the **Foreign Language** flag.
+When in doubt, don't use the **Foreign Language** flag.
 
 ### Needs Met Rating for Foreign Language Results
 
 You must assign a Needs Met rating for all result blocks in your task, even if the result blocks have a foreign language landing page.
 
-In most cases, pages you flag as **Foreign Language** should be rated **FailsM**, because they cannot be understood by most users in your locale and are therefore useless. Remember that if users in your locale can read the language, then you shouldn’t be using the **Foreign Language** flag. Occasionally, you will encounter helpful **Foreign Language** pages.
+In most cases, pages you flag as **Foreign Language** should be rated **FailsM**, because they cannot be understood by most users in your locale and are therefore useless. Remember that if users in your locale can read the language, then you shouldn't be using the **Foreign Language** flag. Occasionally, you will encounter helpful **Foreign Language** pages.
 
 If the query clearly indicates that most users would expect or want a foreign language result, then the Needs Met rating of the foreign language page should _not_ be **FailsM**. For example, please assign the **FullyM** rating and **Foreign Language** flag for baidu.com if the query is [baidu.com], English (US).
 
@@ -123,8 +123,8 @@ If the video is someone talking about the song, band, film, or event, the result
 
 Query and User Intent|Result Block and LP, Needs Met Rating|Explanation
 ---|---|---
-**Query:** [video of celine dion singing s’il suffisait d’aimer]<br><br>**Locale:** English (US)<br><br>**User Location:** Lansing, Michigan<br><br>**User Intent:** Watch a video of Celine Dion singing this song.|![example of unnecessary foreign language flag](../images/img575.jpg)<br>![](../images/hm.jpg)|This video is just what English (US) users are looking for, even though the video is not in English. The language of the LP is mostly English (even though the video is in French), so the **Foreign Language** flag is not needed.
-**Query:** [alex c]<br><br>**Locale:** English (US)<br><br>**User Location:** Davenport, Iowa<br><br>**User Intent:** Watch a video or listen to a song by this German composer or find information about him.|![example of unnecessary foreign language flag](../images/img577.jpg)<br>![](../images/mm-narrow.jpg)|The query is for the German composer, Alex C. The landing page has a video with one of his songs sung by Y-ass (misspelled as "Yass" in the YouTube title) in German. It would be helpful for some or many English (US) users who type the query, even though it is not in English. The language of the landing page isn’t clear. Use your judgment when deciding whether to assign the **Foreign Language** flag.
+**Query:** [video of celine dion singing s'il suffisait d'aimer]<br><br>**Locale:** English (US)<br><br>**User Location:** Lansing, Michigan<br><br>**User Intent:** Watch a video of Celine Dion singing this song.|![example of unnecessary foreign language flag](../images/img575.jpg)<br>![](../images/hm.jpg)|This video is just what English (US) users are looking for, even though the video is not in English. The language of the LP is mostly English (even though the video is in French), so the **Foreign Language** flag is not needed.
+**Query:** [alex c]<br><br>**Locale:** English (US)<br><br>**User Location:** Davenport, Iowa<br><br>**User Intent:** Watch a video or listen to a song by this German composer or find information about him.|![example of unnecessary foreign language flag](../images/img577.jpg)<br>![](../images/mm-narrow.jpg)|The query is for the German composer, Alex C. The landing page has a video with one of his songs sung by Y-ass (misspelled as "Yass" in the YouTube title) in German. It would be helpful for some or many English (US) users who type the query, even though it is not in English. The language of the landing page isn't clear. Use your judgment when deciding whether to assign the **Foreign Language** flag.
 **Query:** [kasal, kasali, kasalo]<br><br>**Locale:** English (US)<br><br>**User Location:** Daly City, California<br><br>**User Intent:** Watch a trailer of this Filipino film or find information about it.|![example of unnecessary foreign language flag](../images/img579.jpg)<br>![](../images/mm-narrow.jpg)|The query is for "Kasal, Kasali, Kasalo," a Filipino film. The LP is a clip from the movie in Filipino (Tagalog), the language spoken in the Philippines. It would be helpful for many English (US) users who type the query, even though it is not in English. Use your judgment when deciding whether to assign the **Foreign Language** flag.
 
 ## Did Not Load Flag
@@ -140,7 +140,7 @@ Use the **Did Not Load** flag when:
 
 Assign the **Did Not Load** flag based on the landing page, not the result block.
 
-Here is an example of a **Did Not Load** landing page. You cannot tell that the landing page doesn’t load by looking at the result block.
+Here is an example of a **Did Not Load** landing page. You cannot tell that the landing page doesn't load by looking at the result block.
 
 Query and User Intent|Result Block and LP, Flag, Needs Met Rating|Explanation
 ---|---|---
@@ -163,13 +163,13 @@ Here is an example of a certificate acceptance request:
 
 ### Needs Met Rating for Did Not Load Results
 
-All result blocks must be given a Needs Met rating. If the landing page truly doesn’t load, assign the **Did Not Load** flag and rate the page **FailsM**. True **Did Not Load** pages are useless.
+All result blocks must be given a Needs Met rating. If the landing page truly doesn't load, assign the **Did Not Load** flag and rate the page **FailsM**. True **Did Not Load** pages are useless.
 
 Sometimes the page partially loads or has an error message. Give Needs Met ratings based on how helpful the result is for the query. Error messages can be customized by the webmaster and are part of a well-functioning website. Sometimes these pages are helpful for the query.
 
 Query and User Intent|Result Block and LP, Needs Met Rating|Explanation
 ---|---|---
-**Query:** [boys pink snow shoes]<br><br>**User Location:** South Bend, Indiana<br><br>**User Intent:** Find information about or purchase boys’ snow shoes.|![search result for boys pink snow shoes](../images/img588.jpg)<br>![](../images/failsm.jpg)|The MC has an error message, but the LP has a lot of SC. However, the page has no information about boys pink snow shoes and is unhelpful for the query.<br><br>Do not assign the **Did Not Load** flag.
+**Query:** [boys pink snow shoes]<br><br>**User Location:** South Bend, Indiana<br><br>**User Intent:** Find information about or purchase boys' snow shoes.|![search result for boys pink snow shoes](../images/img588.jpg)<br>![](../images/failsm.jpg)|The MC has an error message, but the LP has a lot of SC. However, the page has no information about boys pink snow shoes and is unhelpful for the query.<br><br>Do not assign the **Did Not Load** flag.
 **Query:** [bible passages]<br><br>**User Location:** South Bend, Indiana<br><br>**User Intent:** Find specific passages in the bible.|![search result for bible passages](../images/img590.jpg)<br>![](../images/hm.jpg)|In spite of the customized "No results found" message on the LP, it has links to all passages in the bible, organized by book. It would be very helpful for most users.<br><br>Do not assign the **Did Not Load** flag.
 
 ## Upsetting-Offensive Flag
