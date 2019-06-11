@@ -1,15 +1,16 @@
 module.exports = {
+	// base: '/test/warren/',
 	locales: {
 		// The key is the path for the locale to be nested under.
 		// As a special case, the default locale can use '/' as its path.
 		'/': {
 			lang: 'en', // html lang property
-			title: 'Google\'s Quality Rater Guidelines', // title tag suffix
+			title: 'Search Quality Rater Guidelines', // title tag suffix
 			description: 'Learn what Google looks for in high-quality web pages.', // site description
 		},
 		'/ja/': {
 			lang: 'ja',
-			title: 'Googleの品質評価ガイドライン',
+			title: '品質評価ガイドライン',
 			description: 'Googleが高品質のWebページで何を求めているのかを学びます。',
 		}
 	},
@@ -27,6 +28,9 @@ module.exports = {
 	plugins: [
 		['@vuepress/google-analytics', {
 			ga: undefined
+		}],
+		['copyright', {
+			
 		}],
 		['@vuepress/last-updated', {
 			transformer: (timestamp, lang) => {
