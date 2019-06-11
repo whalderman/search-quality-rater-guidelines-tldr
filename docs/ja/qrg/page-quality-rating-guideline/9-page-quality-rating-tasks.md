@@ -1,41 +1,40 @@
-# Page Quality Rating Tasks
+# Page Quality評価の要点
 
-At first, PQ rating may seem difficult. There are several aspects of the page and the website to look at and think about. This type of rating takes practice. Rereading sections of these guidelines and thinking about the examples may help when you encounter difficult rating tasks.
+最初は、PQ評価が難しいように見えるかもしれない。 ページとWebサイトのいくつかの側面を見て、考える必要がある。このような評価は練習をしていく必要がある。また、このガイドラインの各セクションを読み直して、難しい評価を行うときに、例を考え確認してみると良い。
 
-**Important:** Do not struggle with each PQ rating. Please give your best rating and move on. If you are having trouble deciding between two ratings, use the lower rating. If you are torn between three ratings, choose the one in the middle.
+**重要：** 各PQの格付けで難しく考えすぎない。 あなたが考える最適な格付けを行う。 2つの評価の間で決定することに問題がある場合は、低い評価を使用する。 3つの評価の間で迷った場合は、中央の評価を選択する。
 
-Do not consider the country or location of the page or website for PQ rating. For example, English (US) raters should use the same PQ standards when rating pages from other English language websites (UK websites, Canadian websites, etc.)
-as they use when rating pages from U.S. websites. In other words, English (US) raters should not lower the PQ rating because the page location (UK, Canada) does not match the task location.
+PQ評価のためのページまたはWebサイトの国または場所を考慮しない。 たとえば、米国の評価者は、他の英語のWebサイト（英国のWebサイト、カナダのWebサイトなど）のページを評価するときに、同じPQ評価を使用する必要がある。 つまり、ページの場所（英国、カナダ）がタスクの場所と一致しないからといって、英語（米国）の評価者はPQ評価を下げるべきではない。
 
-These guidelines are specific to "regular" webpages. Occasionally, you may be asked to rate a landing page that is not a webpage. For example, you may be asked to rate a PDF file, a PNG or JPEG image file, etc. When the landing page of the URL is not a webpage, some of the criteria in these guidelines may not apply. In this case, please use your judgment.
+このガイドラインは、「通常の」Webページにおいてである。 場合によっては、WebページではないLPの評価を求めることがある。 たとえば、PDFファイル、PNGまたはJPEG画像ファイルなどを評価するよう求められる場合がある。URLのLPがWebページでない場合、このガイドラインの基準の一部が適用しない場合があるが、その場合、評価者自身で判断を行う。
 
-Finally, this Page Quality Rating Guideline does not completely cover every aspect of page quality. If you find pages that you truly believe to be **High** or **Low** quality, please rate them as such, even if the reason is based on something not covered in this document. Please use the comment section to explain your reasoning. As always, use your judgment.
+最後に、このページ品質評価ガイドラインは、ページ品質のあらゆる面を完全に網羅しているわけではない。 本書に記載されていない内容に基づいた**High**品質か**Low**品質かを判断するページが見つかった場合でも評価する。 その際、あなたの推論を説明するためにコメント欄を使用する。 いつものように、あなたの判断を行う。
 
-## Instructions for Rating Page Quality Tasks
+## Page Quality評価タスクの手順
 
-**The Page Quality task page is broken up into several parts:**
+**PQ評価は、いくつかの以下のパーツに分かれている：**
 
-1. Some initial questions about the task landing page.
-2. A "PQ grid" to record your observations about PQ characteristics of the landing page.
-3. The Overall PQ rating slider which records your Overall PQ rating.
-4. A comment box to explain your rating.
+1. タスクのLPに関する初期の質問
+2. LPのPQ特性に関する観測結果を記録する「PQグリッド」
+3. あなたの全体的なPQ評価を記録する全体的なPQ評価スライダー
+4. 評価の理由を説明するコメント欄
 
-Some results to the initial questions will end the task early. If the page is Porn, Foreign Language, or Did Not Load, you will not fill in the PQ grid or assign an overall rating.
+最初の質問に対する答えによって、タスクを早期に終了することもある。 ページが「ポルノ」「外国語」「読み込まない」場合は、PQグリッドに記入したり、総合格付けを割り当てたりしない。
 
-- Foreign Language should be used when the language on the landing page is NOT the task language, a language that is commonly used by a significant percentage of the population in the task location, or English.
-- Did Not Load should be used for pages where there is absolutely no content on the page created by the website. There is no MC, SC, or Ads on the page. See this [Wikipedia article](http://en.wikipedia.org/wiki/List_of_HTTP_status_codes) for descriptions of different types of error messages.
+- LPの言語がタスク言語でない場合（タスク・ロケーションの人口のかなりの割合で一般的に使用されている言語でない場合）は、「外国語」にする必要がある。
+- ロードしなかった場合は、Webサイトによって作成されたページにコンテンツがまったくない場合で、ページにはMC、SC、または広告全て存在しないページがある。さまざまなタイプのエラーメッセージの説明については、[このWikipediaの記事](http://en.wikipedia.org/wiki/List_of_HTTP_status_codes)を参照する。
 
-Similarly, if you respond that the page is malicious, harmful, deceptive, or lacking in purpose, you will also not fill in the PQ grid or assign an overall rating.
+同様に、ページが悪意のある、有害である、欺瞞的である、または目的に欠けると判断さいた場合は、PQグリッドに記入したり、評価したりする必要はない。
 
-The PQ grid is designed to be your "note pad." It allows you to record your observations about the landing page and the website it belongs to.
+PQグリッドはあなたの「メモ帳」となるよう設計されている。 LPと属するWebサイトについての観測情報を記録することができる。
 
-### Rating on Your Phone
+### スマートフォンでの評価
 
-You should open the task landing page on your phone using the standard Send to Device feature, unless otherwise instructed. However, more intensive analysis on the website can be done on your computer. For example, you should open and explore the links that are provided to help you do research on website information and reputation on your computer.
+指示がない限り、作業は「Send to Device機能」を使用して、スマートフォンでページを開く。 しかし、より集中的な分析を行うには、あなたのコンピューターでWebサイトの情報や評判に関する調査を行うのに役立つリンクを開いて調べる必要がある。
 
-**Important:** Clicking on the task URL may bring up an interstitial page. You can ignore this page in your rating criteria if you can easily get to the MC. However, if the interstitial page makes it extremely hard (or impossible) to get to the MC, that should factor into your Page Quality rating.
+**重要：** タスクURLをクリックすると、インタースティシャルページが表示されることがある。 MCに簡単にアクセスできる場合は、評価基準でこのページを評価対象に含めなくて良い。 ただし、インタースティシャルページでMCに到達するのが非常に難しい（または不可能な）場合は、ページ品質評価を考慮する必要がある。
 
-## Reputation and E-A-T: Website or the Creators of the Main Content?
+## EAT評価はページか？Webか？
 
 You must consider the reputation and E-A-T of both the website and the creators of the MC in order to assign a Page Quality rating.
 
