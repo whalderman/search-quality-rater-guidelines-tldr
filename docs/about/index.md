@@ -15,3 +15,7 @@ If you're looking for an office targeting a different market, simply use the lin
 ## Open Source
 
 This project would not have been created without the open source software provided by the [vuejs](https://github.com/vuejs), [VuePress](https://github.com/vuepress) and [Markdown it!](https://github.com/markdown-it) developers (along with [many other repositories and developers](https://github.com/thewarrman/qrg-bci/network/dependencies) supporting those projects).
+
+## Translations
+
+Small portions of this site's Quality Rater Guidelines translation are sourced from Mr. [Hirōka Ryo](https://www.suzukikenichi.com/blog/)'s older translation of the same document.

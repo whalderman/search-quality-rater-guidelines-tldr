@@ -1,32 +1,32 @@
-# The Relationship between Page Quality and Needs Met
+# Page QualityとNeedsMet評価の関係
 
-The Needs Met rating is based on _both_ the query and the result. You must carefully think about the query and user intent when assigning a Needs Met rating.
+Needs Met評価は、クエリと結果の両方に基づいている。Needs Met評価を割り当てるときは、クエリとユーザーの意図について注意深く考える必要がある。
 
-![](../images/needs-met-na.jpg)
+![needs met scale - not applicable](../images/needs-met-na.jpg)
 
-The Page Quality rating slider does _not_ depend on the query. Do not think about the query when assigning a Page Quality rating to the LP.
+Page Quality評価スライダーはクエリに依存しない。LPにPage Quality評価を割り当てる際には、クエリについて考えない。
 
-![](../images/eat-na.jpg)
+![page quality scale - not applicable](../images/eat-na.jpg)
 
-Some results don't have a Page Quality slider. If a result block has no Page Quality rating slider, you do not have to give a Page Quality rating. If there is a Page Quality slider, please assign a Page Quality rating based on the landing page. If you are unable to evaluate the Page Quality rating of a **Foreign Language** or **Did Not Load** result, you should assign a **Medium** rating.
+一部の結果にはPage Qualityスライダーがない。RBにPage Quality評価スライダーがない場合、Page Quality評価を与える必要はない。Page Qualityスライダーがある場合は、リンク先ページに基づいてPage Qualityの評価を割り当てる。「**外国語**」のPage Quality評価をできない場合や「**読み込めない**」のPage Quality評価をできない場合、**Medium**評価にする。
 
-Here is some guidance about assigning Needs Met and Page Quality ratings:
+Needs Met評価とページ品質評価の割り当てに関するガイダンス。
 
-- Useless results should always be rated **FailsM**, even if the landing page has a high Page Quality rating. Useless is useless.
+- 役に立たない検索結果は、E-A-T評価が高くてもFailsM評価です。役に立たないものは役に立ちません。
 
-- On-topic, helpful, but low Page Quality results should get lower Needs Met ratings than on-topic, helpful, and high Page Quality results. The Needs Met scale encompasses all aspects of "helpfulness," and many users find low Page Quality results less helpful than high Page Quality results. Your ratings should reflect this.
+- 「トピックに合致し、役にも立つがE-A-T評価が低い」検索結果には、「トピックに合致し、役にも立つしE-A-T評価も高い」検索結果よりも低いNeeds Met評価を付けてください。ユーザーはE-A-Tの低い検索結果よりは高いものの方が役に立つと思うはずですし、Needs Met評価が「有用性に影響する全ての要素」を反映するものである以上、皆さんのE-A-T評価にもその点が反映されているべきです。
 
-- The **HM** rating should be given to helpful, high Page Quality pages that are a good fit for the query. The **HM** rating may also be used for results that are very helpful, medium quality, and have other very desirable characteristics, such as very recent information.
+- HM評価は「トピックに合致し、役に立つしE-A-T評価も高い」検索結果や、「トピックに合致し、とても役に立つうえに『情報が新鮮』などの他のプラス要素もあるが、品質は普通」の検索結果に適用できます。
 
-- The **HM** rating may not be appropriate if a page has low Page Quality or has any other undesirable characteristic, such as outdated or inaccurate information, or if it is a poor fit for the query. We have very high standards for the **HM** rating.
+- HM評価は「E-A-T評価が低い」検索結果や、「『情報が古すぎる』などのマイナス要素がある」検索結果には適用しないようにしてください。HM評価を受けるための基準は、高いものです。
 
-- SM is often an appropriate rating for low quality but on-topic pages. However, a page can have such low Page Quality that it is useless for nearly all queries. Gibberish pages are a good example of pages with low Page Quality that should be rated FailsM. An exception to this is queries with clear website intent, where the target website should be rated FullyM even if the page has low Page Quality.
+- 「トピックに合致するが、品質が低い」検索結果には、基本的にはSM評価が適切です。しかし、E-A-Tが低すぎてどんなクエリに対しても役に立たないページもあります。意味不明なページはその代表例です。FailsM評価にしましょう。
 
-- Remember that if a page lacks a beneficial purpose, it should always be rated Lowest Page Quality ­ regardless of the page's Needs Met rating or how well­-designed the page may be. Please review [Lowest Quality Pages](../page-quality-rating-guideline/7-lowest-quality-pages) for a summary of other types of Lowest Page Quality pages.
+- ページに有益な目的がない場合は、ページのニーズメット評価やページのデザインに関係なく、常に最低のページ品質と評価する必要があります。 他の種類の最低ページ品質ページの概要については、「[Lowest評価のページ](../page-quality-rating-guideline/7-lowest-quality-pages)」をご覧ください。
 
-Query and User Intent|Result Block and LP, Needs Met Rating, Page Quality Rating|Explanation
+クエリ・ユーザー所在地・ユーザーの意図|リザルトブロック・LP・E-A-T評価・Needs Met評価|説明
 ---|---|---
-**Query:** [how do electric cars work]<br><br>**User Location:** Dallas, Texas<br><br>**User Intent:** Find information about how electric cars work.|![](../images/img628.jpg)<br>![](../images/sm.jpg)![](../images/low.jpg)|**Page Quality:** Read this content out loud. The article on the LP is shallow and unintentionally humorous. There are four paragraphs of text, but it basically says that electric cars use electricity and have to be charged.<br><br>**Needs Met:** This page would be helpful for few users.
-*(Same as above.)*|![](../images/img631.jpg)<br>![](../images/failsm.jpg)![](../images/medium+narrow.jpg)|**Page Quality:** There is a lot of helpful MC on the landing page on Wikipedia.org.<br><br>**Needs Met:** The query asks how electric cars work, but the article on the LP is about mobility scooters.
-**Query:** [symptoms of dehydration]<br><br>**User Location:** Memphis, Tennessee<br><br>**User Intent:** Find information about the symptoms of dehydration.|![](../images/img634.jpg)<br>![](../images/failsm-narrow.jpg)![](../images/lowest-narrow.jpg)|**Page Quality:** This is a YMYL topic. This page has no evidence of medical expertise/authority and is not trustworthy.<br><br>**Needs Met:** Even though the article is topical, the information is not reliable and potentially misleading or dangerous.
-*(Same as above.)*|![](../images/img637.jpg)<br>![](../images/hm.jpg)![](../images/high+narrow.jpg)|**Page Quality:** This is a YMYL topic. This page is on a highly authoritative medical website and has a lot of reliable and accurate MC. This page is very trustworthy.<br><br>**Needs Met:** This result would be very helpful for most users.
+**クエリ：** [how do electric cars work]<br><br>**ユーザーの所在地：** テキサス州ダラス<br><br>**ユーザーの意図：** 電気自動車の仕組みを知る|![](../images/img628.jpg)<br>![needs met scale - slightly meets](../images/sm.jpg)![page quality scale - low](../images/low.jpg)|**Page Quality評価：** この内容を声に出して読んでみる。LP上の記事は浅く、意図せずユーモラス。4つの段落があるが、基本的に電気自動車は電気を使用して充電する必要があるのみ。<br><br>**Needs Met評価：** ほとんどのユーザーの役に立たない。
+*(Same as above.)*|![](../images/img631.jpg)<br>![needs met scale - fails to meet](../images/failsm.jpg)![](../images/medium+narrow.jpg)|**Page Quality評価：** Wikipedia.orgのLPには多くの有益なMCがある。<br><br>**Needs Met評価：** この質問は電気自動車の仕組みを尋ねるが、LPの記事はモビリティスクーターに関するもの。
+**クエリ：** [symptoms of dehydration]<br><br>**ユーザーの所在地：** テネシー州メンフィス<br><br>**ユーザーの意図：** 脱水症状について知る|![](../images/img634.jpg)<br>![](../images/failsm-narrow.jpg)![page quality scale - lowest - narrow range](../images/lowest-narrow.jpg)|**Page Quality評価：** YMYLの話題。このページには質の低いサイトの特徴が多くあり信頼できない。誰がそのコンテンツを書いたか分からず、専門家の権限や証拠がない。MCから気を散らす広告がある。<br><br>**Needs Met評価：** 例え記事が話題になっていても情報は信頼できず、潜在的に誤解を招くため危険。
+*(Same as above.)*|![](../images/img637.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)![page quality scale - high+ - narrow range](../images/high+narrow.jpg)|**Page Quality評価：** YMYLの話題。非常に権威のある医学Webサイトで信頼性が高く正確なMCを持っている。<br><br>**Needs Met評価：** この結果は、ほとんどのユーザーにとって非常に役立つ。

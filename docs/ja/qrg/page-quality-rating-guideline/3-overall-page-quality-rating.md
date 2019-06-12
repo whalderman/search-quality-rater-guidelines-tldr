@@ -25,17 +25,17 @@ Page Quality評価を考える上では、特に以下の要素が重要とな�
 
 > **注:** 「ページの確認はモバイル端末で行い、サイト管理者の情報やサイトの評判等の調査はデスクトップで行う」タスクもあれば、「すべての作業をデスクトップで行う」タスクもある。その時々でタスクごとの指示に従って調査をする。
 
-## 専門性・権威性・信頼性（E-A-T）の詳細
+## 専門性・権威性・信頼性（E‑A‑T）の詳細
 
 Remember that the first step of PQ rating is to understand the true purpose of the page. Websites or pages without some sort of beneficial purpose, including pages that are created with no attempt to help users, or pages that potentially spread hate, cause harm, or misinform or deceive users, should receive the **Lowest** rating.
 
-For all other pages that have a beneficial purpose, the amount of expertise, authoritativeness, and trustworthiness (E-A-T) is very important. Please consider:
+For all other pages that have a beneficial purpose, the amount of expertise, authoritativeness, and trustworthiness (E‑A‑T) is very important. Please consider:
 
 - The expertise of the creator of the MC.
 - The authoritativeness of the creator of the MC, the MC itself, and the website.
 - The trustworthiness of the creator of the MC, the MC itself, and the website.
 
-どのようなタイプであっても、「E-A-Tの高い」Webサイトは存在する。ゴシップ情報に関するサイト、ファッション情報を集めたサイト、その他ユーモア、フォーラム、Q＆A等のサイトであっても例外ではない。情報源がフォーラムやディスカッションのサイト以外に存在しない場合は、専門家によるコミュニティが特定の情報に対し価値の高い見解を示してくれることもある。
+どのようなタイプであっても、「E‑A‑Tの高い」Webサイトは存在する。ゴシップ情報に関するサイト、ファッション情報を集めたサイト、その他ユーモア、フォーラム、Q＆A等のサイトであっても例外ではない。情報源がフォーラムやディスカッションのサイト以外に存在しない場合は、専門家によるコミュニティが特定の情報に対し価値の高い見解を示してくれることもある。
 
 - 医学的助言は、十分な専門知識、または資格をもつ個人や組織から提供されるものほど質が高くなる。その医学的助言や情報が、専門家によって記載・作成され、編集・校閲され、尚且つ定期的に更新されているものかを確認する。
 - ニュース記事は、事実に基づいた正確な内容であるのはもちろんのこと、ユーザーにとって分かりやすい手法をとることで、その出来事に対するユーザーの理解をより深めることができるものの質が高いとされる。編集手法と校閲過程を確立するためには、一般に高い質の情報源が必要となる。([例1](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/news-editorial-policy1.jpg), [例2](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/news-editorial-policy2.jpg))
@@ -51,4 +51,4 @@ YMYLに関するトピックであっても、日々の経験から専門性を�
 ここで、ページのトピックについて考えてみる。ページの目的を十分に達成させるためには、どのような専門知識が必要になるのだろうか。その基準は、トピックによって異なる。
 
 *[MC]: メインコンテンツ
-*[E-A-T]: 専門性、権威性、信頼性
+*[E‑A‑T]: 専門性、権威性、信頼性

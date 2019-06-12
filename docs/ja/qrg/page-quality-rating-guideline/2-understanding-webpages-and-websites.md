@@ -144,7 +144,7 @@ UXの向上にAdsは役立つ可能性がある。広告・マネタイズ要素
 以下にまとめを記す。
 
 **MC (主要となるコンテンツ)**
-:   ページの目的を達成するために直接役立つページの一部である。 MCはページが存在する理由。 MCの品質は、ウェブページのページ品質評価において非常に大きな役割を果たす。
+:   ページの目的を達成するために直接役立つページの一部である。 MCはページが存在する理由。 MCの品質は、ウェブページのPage Quality評価において非常に大きな役割を果たす。
 
 **SC (補足コンテンツ)**
 :   重要な一部分である。ページの目的をより良く達成するのに役立つ。また、その逆の全体的な経験を損なう可能性がある。
@@ -194,9 +194,9 @@ Webサイトのホームページには、普通サイト内の重要ページ�
 
 評価対象のページURL|ホームページのURL|ホームページへの誘導の画像
 ---|---|---
-[http://www.williams-sonoma.com<wbr>/products/shun-premier-7-<wbr>piece-knife-block-set](http://www.williams-sonoma.com/products/shun-premier-7-piece-knife-block-set)|[http://www.williams-sonoma.com](http://www.williams-sonoma.com)|[Williams-Sonoma Homepage](http://www.williams-sonoma.com)<br><br>![Williams Sonoma Logo](../images/img17.jpg)<br><br>This "WILLIAMS-SONOMA" logo shown in the upper center of the page is clickable and takes users to the homepage of the website.
-[http://answers.yahoo.com<wbr>/question/index;_ylt=<wbr>AnAYEU1fED6ncg1jRCFy30kk5XNG;<wbr>_ylv=3?qid=20091214193523AAQqHQS](http://answers.yahoo.com/question/index;_ylt=AnAYEU1fED6ncg1jRCFy30kk5XNG;_ylv=3?qid=20091214193523AAQqHQS)|[http://answers.yahoo.com](http://answers.yahoo.com)<br><br>この場合のホームページは[http://answers.yahoo.com](http://answers.yahoo.com)を選択する。[http://www.yahoo.com](http://www.yahoo.com)ではない。理由として、ロゴからは[http://answers.yahoo.com](http://answers.yahoo.com)へ転送される。Yahoo!Answerに関する情報量は[http://answers.yahoo.com](http://answers.yahoo.com)に多いため。|[Specific Yahoo Answers Page](https://guidelines.raterhub.com/images/PQexamples.3.1.5.jpg)<br><br>![Yahoo! Answers Logo](../images/img18.jpg)<br><br>This "YAHOO ANSWERS" logo in the upper left part of the page is clickable and takes users to the homepage of the website.
-[http://hms.harvard.edu/about-hms/facts-figures](http://hms.harvard.edu/about-hms/facts-figures)|[http://hms.harvard.edu](http://hms.harvard.edu)<br><br>この場合ホームページは[http://hms.harvard.edu](http://hms.harvard.edu)を選択する。[http://www.harvard.edu](http://www.harvard.edu)ではない。理由として、ロゴからは[http://hms.harvard.edu](http://hms.harvard.edu)に転送される。|[Harvard Medical School Facts and Figures Page](https://guidelines.raterhub.com/images/HMS.jpg)<br><br>![Harvard Medical School Logo](../images/img19.jpg)<br><br>This "Harvard Medical School" logo in the upper left part of the page is clickable and takes users to the homepage of the Harvard Medical School website.
+[http://www.williams-sonoma.com<wbr>/products/shun-premier-7-<wbr>piece-knife-block-set](http://www.williams-sonoma.com/products/shun-premier-7-piece-knife-block-set)|[http://www.williams-sonoma.com](http://www.williams-sonoma.com)|[Williams-Sonoma Homepage](http://www.williams-sonoma.com)<br><br>![Williams Sonoma Logo](../images/img17.jpg)<br><br>LP左上のロゴをクリックすると、ホームページに遷移
+[http://answers.yahoo.com<wbr>/question/index;_ylt=<wbr>AnAYEU1fED6ncg1jRCFy30kk5XNG;<wbr>_ylv=3?qid=20091214193523AAQqHQS](http://answers.yahoo.com/question/index;_ylt=AnAYEU1fED6ncg1jRCFy30kk5XNG;_ylv=3?qid=20091214193523AAQqHQS)|[http://answers.yahoo.com](http://answers.yahoo.com)<br><br>この場合のホームページは[http://answers.yahoo.com](http://answers.yahoo.com)を選択する。[http://www.yahoo.com](http://www.yahoo.com)ではない。理由として、ロゴからは[http://answers.yahoo.com](http://answers.yahoo.com)へ転送される。Yahoo!Answerに関する情報量は[http://answers.yahoo.com](http://answers.yahoo.com)に多いため。|[Specific Yahoo Answers Page](https://guidelines.raterhub.com/images/PQexamples.3.1.5.jpg)<br><br>![Yahoo! Answers Logo](../images/img18.jpg)<br><br>LP左上のロゴをクリックすると、ホームページに遷移
+[http://hms.harvard.edu/about-hms/facts-figures](http://hms.harvard.edu/about-hms/facts-figures)|[http://hms.harvard.edu](http://hms.harvard.edu)<br><br>この場合ホームページは[http://hms.harvard.edu](http://hms.harvard.edu)を選択する。[http://www.harvard.edu](http://www.harvard.edu)ではない。理由として、ロゴからは[http://hms.harvard.edu](http://hms.harvard.edu)に転送される。|[Harvard Medical School Facts and Figures Page](https://guidelines.raterhub.com/images/HMS.jpg)<br><br>![Harvard Medical School Logo](../images/img19.jpg)<br><br>LP左上のロゴをクリックすると、ホームページに遷移
 
 ### 「Webサイトの責任者」と「コンテンツ作成者」の見つけ方
 
@@ -252,7 +252,7 @@ Webサイトの評判は、Webサイトが何で最も知られているかを�
 
 多くのWebサイトは、ユーザーに自分自身の価値の発信を活発にしている。 一部のウェブマスターはこれらの評価ガイドラインを読んで、さまざまなレビューWebサイトに「レビュー」を書いている。 しかし、PQ評価では、Webサイトに関する外部の独立した評判情報も検索する必要がある。 Webサイトがそれ自体についての1つのことを言うが、その他の評判の良い外部の情報ではWebサイトの記載に同意しない場合、外部の情報源を信頼する。
 
-評価者としての仕事は、Webサイトの1ページまたは2ページの情報を盲目的にただ受け入れるだけでなく、サイトのページ品質を真に評価することである。 Webサイトが作る主張を懐疑する視点をもつ。
+評価者としての仕事は、Webサイトの1ページまたは2ページの情報を盲目的にただ受け入れるだけでなく、サイトのPage Qualityを真に評価することである。 Webサイトが作る主張を懐疑する視点をもつ。
 
 ### Webサイトの評判調査
 
@@ -319,4 +319,4 @@ Customer reviews can be helpful for assessing the reputation of a store or busin
 
 大企業の情報や大きな規模のWebサイトの情報は評判情報を期待できる。
 
-小規模な組織のWebサイトの評判についての情報は、ほとんど見つからない。 これは肯定的または否定的な評判を示すものではない。 多くの小規模な地方の企業やコミュニティ組織は、小規模な「Webの存在」のため、Web上のレビューではなく、口コミに依存している。 これらの小規模な企業や組織にとって、評判がないということはページ品質の低下を示すものではない。
+小規模な組織のWebサイトの評判についての情報は、ほとんど見つからない。 これは肯定的または否定的な評判を示すものではない。 多くの小規模な地方の企業やコミュニティ組織は、小規模な「Webの存在」のため、Web上のレビューではなく、口コミに依存している。 これらの小規模な企業や組織にとって、評判がないということはPage Qualityの低下を示すものではない。

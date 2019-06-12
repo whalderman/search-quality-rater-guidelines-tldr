@@ -35,10 +35,10 @@ You should open the task landing page on your phone using the standard Send to D
 
 **Important:** Clicking on the task URL may bring up an interstitial page. You can ignore this page in your rating criteria if you can easily get to the MC. However, if the interstitial page makes it extremely hard (or impossible) to get to the MC, that should factor into your Page Quality rating.
 
-## Reputation and E-A-T: Website or the Creators of the Main Content?
+## Reputation and E‑A‑T: Website or the Creators of the Main Content?
 
-You must consider the reputation and E-A-T of both the website and the creators of the MC in order to assign a Page Quality rating.
+You must consider the reputation and E‑A‑T of both the website and the creators of the MC in order to assign a Page Quality rating.
 
-The reputation and E-A-T of the creators of the MC is extremely important when a website has different authors or content creators on different pages. This is true of forum and Q&A pages, news websites, or websites that have user-generated content, such as YouTube, Twitter, etc. The reputation and E-A-T assessment for pages on these types of websites may differ drastically depending on what page you are evaluating. There are **Highest** quality YouTube videos created by highly reputable and expert content creators, as well as **Lowest** quality YouTube videos created with a dangerous lack of E-A-T on YMYL topics.
+The reputation and E‑A‑T of the creators of the MC is extremely important when a website has different authors or content creators on different pages. This is true of forum and Q&A pages, news websites, or websites that have user-generated content, such as YouTube, Twitter, etc. The reputation and E‑A‑T assessment for pages on these types of websites may differ drastically depending on what page you are evaluating. There are **Highest** quality YouTube videos created by highly reputable and expert content creators, as well as **Lowest** quality YouTube videos created with a dangerous lack of E‑A‑T on YMYL topics.
 
-**Important:** Research the reputation and E-A-T of both the website and the creators of the MC. If either are lacking for the purpose of the page, the **Low** or **Lowest** rating is appropriate.
+**Important:** Research the reputation and E‑A‑T of both the website and the creators of the MC. If either are lacking for the purpose of the page, the **Low** or **Lowest** rating is appropriate.

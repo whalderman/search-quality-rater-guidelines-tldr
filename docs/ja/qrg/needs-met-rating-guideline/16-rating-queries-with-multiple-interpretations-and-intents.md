@@ -1,30 +1,30 @@
-# Rating Queries with Multiple Interpretations and Intents
+# 複数の解釈・意図があるクエリの評価
 
-Some queries really only have one meaning. Consider the query [iphone], English (US). There may be different user intents for this query (research iPhones, buy an iPhone, go to the iPhone page on Apple's website), but all users are basically referring to the same thing: the phone made by Apple, Inc.
+クエリの意味が1つしかないクエリがあります。例えば、「iphone」（英語・アメリカ）というクエリを考えてみましょう。ユーザーの意図は「iPhoneについて調べる」「iPhoneを買う」「Apple公式サイトのiPhoneのページに行く」等色々あるでしょうが、基本的に全てのユーザーが「Apple社のスマートフォン」を意味しています。
 
-Some queries truly have different possible meanings. Consider the query [apple], English (US). Some users may want to find more information on the computer brand or the fruit. We refer to these different meanings as query interpretations.
+一方、複数の意味があるクエリもあります。例えば、「apple」（英語・アメリカ）というクエリを考えてみましょう。「コンピューターのApple社」の情報を探すユーザーもいるし、「果物のapple」の情報を探す人もいます。このように異なる意味のことを「クエリの解釈」といいます。
 
-When giving Needs Met ratings for results involving different query interpretations, think about how likely the query interpretation is and how helpful the result is.
+複数の「クエリの解釈」が成立する場合、それぞれの解釈の蓋然性を考え、さらにその解釈に対して検索結果がどの程度役立つかを考えてNeeds Met評価をしてください。
 
-- A very helpful result for a **dominant interpretation** should be rated **Highly Meets**, because it is very helpful for many or most users. Some queries with a **dominant interpretation** have a **FullyM** result.
-- A very helpful result for a **common interpretation** may be **Highly Meets** or **Moderately Meets**, depending on how likely the interpretation is.
-- A very helpful result for a very **minor interpretation** may be **Slightly Meets** or lower because few users may be interested in that interpretation.
-- There are some interpretations that are so unlikely that results should be rated **FailsM**. We call these "no chance" interpretations.
+- **支配的解釈**に対して大変役に立つ検索結果は、ユーザーの大半にとっても役に立つので**Highly Meets**評価にしましょう。最も優位性のある解釈のあるクエリの場合、**FullyM**評価が適用できることもあります。
+- **一般的解釈**に対して大変役に立つ検索結果は、その解釈の蓋然性に応じて**Highly Meets**評価または**Moderately Meets**評価にしましょう。
+- **極めて少数派の解釈**に対して大変役に立つ検索結果は、大半のユーザーには不要なので**Slightly Meets**以下の評価にしましょう。
+- 「ほぼありえない解釈である」という理由で**FailsM**評価を付けることもあります。こうした解釈を「ありえない解釈」といいます。
 
-## Rating Queries with Both Website and Visit-in-Person Intent
+## 「Website」と「Visit-in-Person」の意図が混在するクエリの評価
 
-Some queries have two possible strong intents:
+以下の意図が両方とも強いクエリがあります。
 
-1. **Go to the website** intent: in order to, for example, find out information, buy something online, make a reservation, chedule an appointment, interact with customer support, or fulfill some other need that can be satisfied online
-2. **Visit-in-person** intent: user wants to visit the store, business, etc. in person
+1. **Webサイトを訪問：** 「情報を探す」「Webで買い物する」「予約する」「アポを入れる」「お客様窓口に連絡」などのオンラインで達成できることをする目的です。
+2. **Visit-in-Person：** 実際に店舗・会社などを訪問する目的です。
 
-We know the user intent is to accomplish one or the other, but it is unclear which one the user wants. For these queries, result blocks that only satisfy one intent should NOT get a **Fully Meets** rating.
+ユーザーが「上記のどちらかが目的」であることはわかりますが、「どちらが目的」なのかは判断できません。このようなクエリに対して、片方の意図だけを満たす検索結果は**Fully Meets**評価にできません。
 
-Query and User Intent|Result Block and LP|Needs Met Rating and Explanation
+クエリ・ユーザー所在地・ユーザーの意図|リザルトブロック・LP|Needs Met評価と説明
 ---|---|---
-**Query:** `target`<br><br>**User Location:** Jacksonville, Florida<br><br>**User Intent:** There are two possible strong user intents: most users probably want to visit a nearby Target location or go to the website to shop online, research products, find prices, etc.|![](../images/img641.jpg)|![](../images/hm+.jpg)<br><br>The result block shows three popular Target locations in Jacksonville, with information that is especially helpful for users who want to visit the store. This fulfills the user intent to find a nearby Target location.
-*(Same as above.)*|![](../images/img643.jpg)|![](../images/hm+.jpg)<br><br>The result is very satisfying and fulfills the user intent to shop online or otherwise use the website.
-**Query:** `dmv`<br><br>**User Location:** Belmont, California<br><br>**User Intent:** There are two possible strong user intents: most users probably want to visit a nearby DMV location or go to the DMV website to renew a license, pay a fee, find some information, etc.|![](../images/img646.jpg)|![](../images/hm+.jpg)<br><br>The result block shows two nearby DMV locations, with information that is especially helpful for users who want to visit the locations. This fulfills the user intent to find a nearby DMV location.
-*(Same as above.)*|![](../images/img648.jpg)|![](../images/hm+.jpg)<br><br>The result is very satisfying and fulfills the user intent to find information or otherwise use the website (e.g., to review a license, pay a fee).
-**Query:** `citibank`<br><br>**User Location:** Palo Alto, California<br><br>**User Intent:** There are two possible strong user intents: most users probably want to visit a nearby Citibank location or go to the website to bank online.|![](../images/img650.jpg)|![](../images/hm+.jpg)<br><br>The result block shows three nearby Citibank locations in the user location of Palo Alto. The information is especially helpful for users who want to visit the bank. This fulfills the user intent to find a nearby Citibank location.
-*(Same as above.)*|![](../images/img652.jpg)|![](../images/hm+.jpg)<br><br>The result is very satisfying and fulfills the user intent to do online banking or otherwise use the website.
+**クエリ：**<br>`target`<br><br>**ユーザーの所在地：**<br>フロリダ州ジャクソンビル<br><br>**ユーザーの意図：**<br>「近所のTarget店舗に行く」「TargetのWebサイトで買い物する・商品を調べる・価格を知るなど」のいずれか|![](../images/img641.jpg)|![](../images/hm+.jpg)<br><br>RBにはジャクソンビルの3つのtargetが表示される。この情報は店を訪れるユーザーにとって特に役立つ。これはユーザーが近くのtargetを見つけるという意図を満たす。
+*(Same as above.)*|![](../images/img643.jpg)|![](../images/hm+.jpg)<br><br>オンラインで買い物をしたなどの理由でWebサイトを利用しようとしているユーザーの意図を満たしており、結果に非常に満足している。
+**クエリ：**<br>`dmv`<br><br>**ユーザーの所在地：**<br>カリフォルニア州ベルモント<br><br>**ユーザーの意図：**<br>「近所のDMVに行く」「DMVのWebサイトで免許更新手続きをする・手数料を支払う・情報を知るなど」のどちらか|![](../images/img646.jpg)|![](../images/hm+.jpg)<br><br>RBには、近くの２つのDMVが表示される。この情報は店を訪れるユーザーにとって特に役立つ。これはユーザーが近くのDMVを見つけるという意図を満たす。
+*(Same as above.)*|![](../images/img648.jpg)|![](../images/hm+.jpg)<br><br>ユーザーが情報を見つけたり、Webサイトを使用したいという意図を満たしている。
+**クエリ：**<br>`citibank`<br><br>**ユーザーの所在地：**<br>カリフォルニア州パロアルト<br><br>**ユーザーの意図：**<br>「近所のシティバンク支店に行く」「シティバンクのWebサイトでオンライン取引をする」のどちらか|![](../images/img650.jpg)|![](../images/hm+.jpg)<br><br>RBには、近くの２つのCitibankが表示される。この情報は店を訪れるユーザーにとって特に役立つ。これはユーザーが近くのCitibankを見つけるという意図を満たす。
+*(Same as above.)*|![](../images/img652.jpg)|![](../images/hm+.jpg)<br><br>オンライン銀行を使う、またはWebサイトを使用するというユーザーの意図を満たし、結果に非常に満足している。

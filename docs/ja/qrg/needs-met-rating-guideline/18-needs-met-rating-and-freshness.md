@@ -1,33 +1,31 @@
-# Needs Met Rating and Freshness
+# 情報の鮮度とNeeds Met評価
 
-Some queries demand very recent or "fresh" information. Users may be looking for "breaking news," such as an important event or natural disaster happening right now. Here are different types of queries demanding current/recent results.
+クエリによっては、ごく最近の情報や「新鮮な」情報を強く求めていることがあります。ユーザーが現在進行中の重要イベントや自然災害などの「最新のニュース」を求めていることもあります。以下は、現在・ごく最近の情報を強く求めるクエリの一例です。
 
-Type of Query|Example Queries|Explanation
+クエリのタイプ|クエリの例|説明
 ---|---|---
-"Breaking news" queries|`tornado`, `tsunami`|Assume users need the information right away.<br><br>Imagine someone who needs immediate weather information because a big storm is coming. Information about last year's weather would not be helpful.
-Recurring event queries, such as elections, sports events, TV shows, conferences, etc.|`olympics`, `american idol`, `redsox schedule`, `tax forms`, `elections`|Assume users are looking for the most recent or current information about the event.<br><br>For example, if the Olympics are happening right now, users searching `olympics` want information about the current Olympics, not results from years ago. If the next Olympics are a few months away, users are probably interested in the upcoming Olympics.
-Current information queries|`population of paris`, `amount of u.s. debt`, `airfare from ny to sfo`, `next federal holiday`|Assume users are looking for the most current information, such as prices or airfare.
-Product queries|`iphone`, `toyota camry`, `windows operating system`|Assume users are looking for information about the most recent model/version for these product queries.
+ニュース速報”のクエリ|［トルネード］［津波］|ユーザーはすぐに情報が必要だと推測すべきだ。嵐が近いから現在の天気の情報が欲しいユーザーを想像しなさい。去年の天気についての情報は役に立たないだろう。
+選挙、スポーツイベント、TV、会議のように繰り返されるイベントのクエリ|［オリンピック］［アメリカン・アイドル］［レッドソックス　日程］［納税申告用］［選挙］|ユーザーは現在のイベントの情報を探していると推測すべきだ。例えば、もしオリンピックがすぐに開催されるなら、ユーザーは現在のオリンピックの情報が欲しいのであって数年前の情報が欲しいわけではない。もし次のオリンピックが数ヶ月後なら今度のオリンピックに興味があるだろう。
+現在の情報のクエリ|［パリの人口］［アメリカの負債総額］［ニューヨークからサンフランシスコまでの飛行機代］［次の祝日］|ユーザーは航空運賃や値段のような現在の情報を探していると推測すべき。
+商品名のクエリ|［iPhone］［トヨタ　カムリ］［Windows　OS］|ユーザーはこれらのクエリの最新のモデル/バージョンについての情報を探していると推測すべきである。
 
-When a query demands recent content, only pages with current, recent, or updated content should get high Needs Met ratings. For these queries, pages about past events, old product models and prices, outdated information, etc. are not helpful. They should be considered "stale" and given low Needs Met ratings. In some cases, stale results are useless and should be rated **FailsM**.
+クエリが最近の情報を要求するとき、現在、最近、アップデートされたページがあるコンテンツが高いNM評価を得るべきである。これらのクエリにとって、過去のイベント、古いモデルや価格、時代遅れな情報などについてのページは役に立たない。それらは「古い」と見なされるべきであり、低いNM評価を与えられるべきだ。いくつかのケースでは、古い結果は無益であり**FailsM**評価になるべきだ。
 
-For some queries, there may be "newsy" or recent information user intent, as well as more "timeless" information user intent. Users issuing queries for celebrities or politicians may be interested in biographical information, or users may be looking for the latest news or gossip.
+いくつかのクエリには、「ニュース」または最近の情報のユーザーの意図、さらに「時代を超越した」情報のユーザーの意図が存在する可能性がある。有名人や政治家についてのクエリを出すユーザーは経歴に興味があるのかもしれないし、最新のニュースやゴシップに興味があるのかもしれない。
 
-Freshness is generally less of a concern for Page Quality rating. "Stale" pages can have high Page Quality ratings. For example, some highly reputable news websites maintain "archival" content. However, unmaintained/abandoned "old" websites or unmaintained and inaccurate/misleading content is a reason for a low Page Quality rating.
+新鮮さは一般的にページ品質とは関係性が少ない。「古い」ページは高いEAT評価を持つことができる。例えば、高い評価のWebサイトはアーカイブコンテンツを維持しているものもある。しかしながら、維持されてない/捨てられた「古い」Webサイトか維持されてなく、不正確/誤解させるコンテンツはEAT評価が低い理由とある。
 
-**Note:** The date the page was created may be different from when the content was last updated or modified. When content is updated, the page will sometimes show the date of the update, not the date the page was created. Some websites always show the current date, regardless of when the content was last updated. If you are curious about the content of a page, see [here](http://archive.org/web/web.php) to try the "Wayback Machine" on the Internet Archive. Not all pages are available, but this tool may help you understand how some pages were created and how their content has changed over time.
+**注：** コンテンツが最新にアップデートされた時か修正されたとき、そのページが作られた日は違うかもしれない。コンテンツがアップデートされたとき、ページは時々アップデートされた日を示すがページが作られた日は示されない。コンテンツの最新アップデートの日に関わらず、現在の日時を示すWebサイトもある。もしインターネットのページについて興味があるなら、[ここ](http://archive.org/web/web.php)をクリックしてインターネットアーカイブの"Wayback Machine"を見なさい。すべてのページを使えるわけではないが、このツールはページの作り方とコンテンツを時間の経過とともにコンテンツがどのように変化したかを理解するのに役立つかもしれない。
 
-Query and User Intent|Result Block and LP, Needs Met Rating, Page Quality Rating|Explanation
+クエリ・ユーザー所在地・ユーザーの意図|RB・LP・Page Quality評価・Needs Met評価|説明
 ---|---|---
-**Query:** `nasa mars landing`<br><br>**User Location:** San Francisco, California<br><br>**User Intent:** On the date this example was written, NASA had just landed the "Curiosity" rover on Mars. Most users are probably looking for breaking news and pictures about the event.|![](../images/img721.jpg)<br>![](../images/hm.jpg)![](../images/high-narrow.jpg)|This LP has an article about the "Curiosity" rover landing, published on the same day as the landing, which is the day this example was written.
-*(Same as above.)*|![](../images/img724.jpg)<br>![](../images/failsm-narrow.jpg)![](../images/high-narrow.jpg)|This LP has an article about the launching of the "Curiosity" rover, published nine months before its landing on Mars. The content on this page would be considered stale for the query.
-**Query:** `los angeles traffic`<br><br>**User Location:** Los Angeles, California<br><br>**User Intent:** Users are looking for **current** information about traffic conditions in Los Angeles. Even pages about traffic conditions the day before would be considered stale for the query.|![](../images/img727.jpg)<br>![](../images/hm.jpg)![](../images/high-narrow.jpg)|This LP shows traffic conditions in Los Angeles on August 7, 2012, which is the day this example was written.
-*(Same as above.)*|![](../images/img730.jpg)<br>![](../images/failsm.jpg)![](../images/high-narrow.jpg)|This LP shows traffic conditions in Los Angeles on August 6, 2012. It is stale and useless for the query even though it is only one day old.
-**Query:** `nobel peace prize winner`<br><br>**User Location:** San Diego, California<br><br>**User Intent:** Find the name of the most recent winner of this prize. This is a **Know Simple** query. At the time this example was originally written, 2011 was the most recent year that the Nobel Peace Prize was awarded.|![](../images/img733.jpg)<br>![](../images/hm.jpg)![](../images/high-narrow.jpg)|This LP on the New York Times website has information about the most recent winner of this prize, based on the date when this example was written.
-*(Same as above.)*|![](../images/img736.jpg)<br>![](../images/failsm-wide.jpg)![](../images/high-narrow.jpg)|This LP on the BBC website has information about the 2006 winner of this prize. This page is stale for the query.
-**Query:** `arthritis`<br><br>**User Location:** Philadelphia, Pennsylvania<br><br>**User Intent:** Users are looking for information about this disease. Because there is ongoing research done on treatments and cures for most diseases, users are probably looking for authoritative, up-to-date information on arthritis.|![](../images/img740.jpg)<br>![](../images/hm.jpg)![](../images/high-wide.jpg)|Medline Plus is an authoritative website that regularly updates its content.
-*(Same as above.)*|![](../images/img743.jpg)<br>![](../images/sm.jpg)![](../images/medium-narrow.jpg)|This 2006 article would be considered stale for this medical query.
-**Query:** `when was franklin d roosevelt born`
-**User Location:** Chicago, Illinois
-**User Intent:** Users want to find this well understood fact.|![](../images/img746.jpg)<br>![](../images/hm.jpg)![](../images/medium-wide.jpg)|This LP has the information users are looking for.
-*(Same as above.)*|We couldn't find a stale page for this query.|N/A
+**クエリ：**<br>`nasa mars landing`<br><br>**ユーザーの所在地：**<br>カリフォルニア州サンフランシスコ<br><br>**ユーザーの意図：**<br>NASAがランドローバー「キュリオシティ」の火星着陸に成功した直後の例。ユーザーの大半はこの件についての最新のニュース・画像を求めている。|![](../images/img721.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)![page quality scale - high - narrow range](../images/high-narrow.jpg)|このLPにはローバー（Curiosity）着陸についての記事があり、この例が書かれた日である着陸と同じ日に出版された。
+〃|![](../images/img724.jpg)<br>![](../images/failsm-narrow.jpg)![page quality scale - high - narrow range](../images/high-narrow.jpg)|このLPには、火星に着陸する9ヶ月前に公開されたローバー（Curiosity）の打ち上げに関する記事がある。このページのコンテンツは、クエリでは古いとみなされる。
+**クエリ：**<br>`los angeles traffic`<br><br>**ユーザーの所在地：**<br>カルフォルニア州ロサンゼルス<br><br>**ユーザーの意図：**<br>ユーサーは**現在の**ロサンゼルスの交通情報を求めている。「昨日の」交通情報であったとしても、このクエリに対しては陳腐とみなされる。|![](../images/img727.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)![page quality scale - high - narrow range](../images/high-narrow.jpg)|LPには、この例を作成した**当日**である、2012年8月7日のロサンゼルスの交通情報が表示されている。
+〃|![](../images/img730.jpg)<br>![needs met scale - fails to meet](../images/failsm.jpg)![page quality scale - high - narrow range](../images/high-narrow.jpg)|LPには、この例を作成した**前日**である、2012年8月6日のロサンゼルスの交通情報が表示されている。1日古いだけだが、このクエリに対しては陳腐であり全く役に立たない。
+**クエリ：**<br>`nobel peace prize winner`<br><br>**ユーザーの所在地：**<br>カリフォルニア州サンディエゴ<br><br>**ユーザーの意図：**<br>最近の受賞者の名前を知りたい**Know Simple**クエリ。この例を作成した時点では、2011年度ノーベル賞が一番近い。|![](../images/img733.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)![page quality scale - high - narrow range](../images/high-narrow.jpg)|The New York TimesのWebサイト内のページで、この例を作成した時点では一番近い年の受賞者一覧。
+〃|![](../images/img736.jpg)<br>![](../images/failsm-wide.jpg)![page quality scale - high - narrow range](../images/high-narrow.jpg)|BBCのWebサイト内のページで、2006年度の受賞者一覧。このクエリに対しては陳腐すぎる。
+**クエリ：**<br>`arthritis`<br><br>**ユーザーの所在地：**<br>ペンシルヴァニア州フィラデルフィア<br><br>**ユーザーの意図：**<br>この病気に関する情報を求めている。現代においては大半の病気が研究されており、治療法・対処法も確立されているため、ユーザーが求めているのは「権威性のある、最新の情報である。|![](../images/img740.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)![page quality scale - high - wide range](../images/high-wide.jpg)|Medline Plusは権威性のあるWebサイトで、定期的にコンテンツを更新している。
+〃|![](../images/img743.jpg)<br>![needs met scale - slightly meets](../images/sm.jpg)![](../images/medium-narrow.jpg)|この記事は2006年のもので、医薬に関するクエリに対しては古すぎる。
+**クエリ：**<br>`when was franklin d roosevelt born`<br><br>**ユーザーの所在地：**<br>イリノイ州シカゴ<br><br>**ユーザーの意図：**<br>上記の一般的な事実を知りたい。|![](../images/img746.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)![page quality scale - medium- wide range](../images/medium-wide.jpg)|LPには、ユーザーが求めている情報がある。
+〃|このクエリに対して、「陳腐」なページは見つかりませんでした。|N/A

@@ -8,7 +8,7 @@ PQ評価のためのページまたはWebサイトの国または場所を考慮
 
 このガイドラインは、「通常の」Webページにおいてである。 場合によっては、WebページではないLPの評価を求めることがある。 たとえば、PDFファイル、PNGまたはJPEG画像ファイルなどを評価するよう求められる場合がある。URLのLPがWebページでない場合、このガイドラインの基準の一部が適用しない場合があるが、その場合、評価者自身で判断を行う。
 
-最後に、このページ品質評価ガイドラインは、ページ品質のあらゆる面を完全に網羅しているわけではない。 本書に記載されていない内容に基づいた**High**品質か**Low**品質かを判断するページが見つかった場合でも評価する。 その際、あなたの推論を説明するためにコメント欄を使用する。 いつものように、あなたの判断を行う。
+最後に、このPage Qualityガイドラインは、Page Qualityのあらゆる面を完全に網羅しているわけではない。 本書に記載されていない内容に基づいた**High**品質か**Low**品質かを判断するページが見つかった場合でも評価する。 その際、あなたの推論を説明するためにコメント欄を使用する。 いつものように、あなたの判断を行う。
 
 ## Page Quality評価タスクの手順
 
@@ -32,12 +32,12 @@ PQグリッドはあなたの「メモ帳」となるよう設計されている
 
 指示がない限り、作業は「Send to Device機能」を使用して、スマートフォンでページを開く。 しかし、より集中的な分析を行うには、あなたのコンピューターでWebサイトの情報や評判に関する調査を行うのに役立つリンクを開いて調べる必要がある。
 
-**重要：** タスクURLをクリックすると、インタースティシャルページが表示されることがある。 MCに簡単にアクセスできる場合は、評価基準でこのページを評価対象に含めなくて良い。 ただし、インタースティシャルページでMCに到達するのが非常に難しい（または不可能な）場合は、ページ品質評価を考慮する必要がある。
+**重要：** タスクURLをクリックすると、インタースティシャルページが表示されることがある。 MCに簡単にアクセスできる場合は、評価基準でこのページを評価対象に含めなくて良い。 ただし、インタースティシャルページでMCに到達するのが非常に難しい（または不可能な）場合は、Page Qualityを考慮する必要がある。
 
 ## EAT評価はページか？Webか？
 
-You must consider the reputation and E-A-T of both the website and the creators of the MC in order to assign a Page Quality rating.
+You must consider the reputation and E‑A‑T of both the website and the creators of the MC in order to assign a Page Quality rating.
 
-The reputation and E-A-T of the creators of the MC is extremely important when a website has different authors or content creators on different pages. This is true of forum and Q&A pages, news websites, or websites that have user-generated content, such as YouTube, Twitter, etc. The reputation and E-A-T assessment for pages on these types of websites may differ drastically depending on what page you are evaluating. There are **Highest** quality YouTube videos created by highly reputable and expert content creators, as well as **Lowest** quality YouTube videos created with a dangerous lack of E-A-T on YMYL topics.
+The reputation and E‑A‑T of the creators of the MC is extremely important when a website has different authors or content creators on different pages. This is true of forum and Q&A pages, news websites, or websites that have user-generated content, such as YouTube, Twitter, etc. The reputation and E‑A‑T assessment for pages on these types of websites may differ drastically depending on what page you are evaluating. There are **Highest** quality YouTube videos created by highly reputable and expert content creators, as well as **Lowest** quality YouTube videos created with a dangerous lack of E‑A‑T on YMYL topics.
 
-**Important:** Research the reputation and E-A-T of both the website and the creators of the MC. If either are lacking for the purpose of the page, the **Low** or **Lowest** rating is appropriate.
+**Important:** Research the reputation and E‑A‑T of both the website and the creators of the MC. If either are lacking for the purpose of the page, the **Low** or **Lowest** rating is appropriate.

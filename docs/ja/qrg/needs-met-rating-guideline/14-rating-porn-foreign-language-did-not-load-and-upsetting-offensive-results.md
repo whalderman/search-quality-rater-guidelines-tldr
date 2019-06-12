@@ -1,242 +1,241 @@
-# Rating Porn, Foreign Language, Did Not Load, and Upsetting-Offensive Results
+# 「ポルノ」「外国語」「読み込めない」「使いにくい」検索結果
 
-You will assign **Porn**, **Foreign Language**, **Did Not Load**, and **Upsetting-Offensive** flags to result blocks when appropriate. Some rating tasks may ask you to identify **Not-for-Everyone** results. All flags are query-independent, meaning that they do not depend on the query. Here is a screenshot of the flags:
+「**ポルノ**」「**外国語**」「**読み込めない**」「**使いにくい**」のいずれかに該当する検索結果には、フラグを立ててください。Some rating tasks may ask you to identify **Not‑for‑Everyone** results. フラグはクエリに依存しません。つまり、フラグはクエリに関係なく立てるようにしてください。下記がフラグのスクリーンショットです。
 
 ![rating flags](../images/img564.jpg)
 
-Click on the flag name to select it. The flag block will turn red and change the "No" to "Yes." For example, here is a result that shows when the **Porn** flag should be used.
+フラグ名をクリックすると、フラグブロックは赤色に変わり、いいえからはいに変わる。例えば、**ポルノ**フラグを使用する必要がある場合は以下のようになる。
 
-Query and User Intent|Result Block, Flag, Needs Met Rating|Explanation
----|---|---
-**Query:** [freeones], English (US)<br><br>**User Location:** Mountain View, California<br><br>**User Intent:** Go to the Freeones website.|![](../images/img565.jpg)<br>![](../images/img566.jpg)<br>![](../images/fullym.jpg)|This LP is the homepage of the Freeones website, a porn site.<br><br>This result merits a FullyM rating and the Porn flag.
+クエリとユーザーの目的|RB、フラグ、NM評価|説明
+---|:---:|---
+**クエリ：**<br>[freeones]、英語（アメリカ）<br><br>**ユーザーの所在地：**<br>カリフォルニア州マウンテンビュー<br><br>**ユーザーの意図：**<br>FreeonesのWebサイトを訪問|![](../images/img565.jpg)<br>![](../images/img566.jpg)<br>![needs met scale - fully meets](../images/fullym.jpg)|LPはポルノサイト「Freeones」のホームページ。<br><br>結果はFullyM評価だがポルノフラグに値する。
 
-## Porn Flag
+## ポルノフラグ
 
-Please assign the **Porn** flag to all porn pages, whether the query is porn-seeking or not. The **Porn** flag does not depend on the query or user intent.
+クエリにポルノを探す意図があってもなくても、ポルノページには「**ポルノ**」フラグを立ててください。「**ポルノ**」フラグはクエリやユーザーの意図とは無関係です。
 
-This flag should be used if the content inside the result block, or the content on the LP, is pornographic, including porn images, links, text, pop-ups, and/or prominent porn ads. An image may be considered porn in one culture or country, but not another. Please use your judgment and knowledge of your locale.
+ポルノページとは、ポルノに該当する画像・リンク・文章・ポップアップ・目立つ広告等のコンテンツがあるページのことです。ある文化圏やある国ではポルノと判断される画像も、他の文化圏・国ではポルノでないと判断されることもあります。評価者自身の判断と、現地についての知識に基づいて判断しましょう。
 
-**Remember:** The **Porn** flag is used to indicate that the result is porn. It doesn't matter whether the query "asks for porn".
+**注：** 「**ポルノ**」フラグは結果がポルノであることを示すために使用され、クエリがポルノを探しているかどうかは関係ない。
 
-## Needs Met Rating for Porn Results
+## ポルノに該当する検索結果の評価
 
-### Needs Met Rating for Clear Non-Porn Intent Queries
+### ポルノを求める意図が全くないクエリのNeeds Met評価
 
-If the user intent is clearly **not** porn-seeking, a landing page that has porn for its MC should be rated **Fails to Meet**.
+ユーザーがポルノを**求めていない**のが明白な場合、MCがポルノのLPには**FailsM**評価が下される。
 
-- When the user intent is clearly not porn, a porn result should be considered unhelpful or useless.
-- Uninvited porn is a very bad experience for many users.
+- ユーザーの意図が明確にポルノではない場合、結果は役に立たないとみなされる。
+- ポルノに関心のない多くのユーザーにとって非常に悪い経験となる。
 
-The following queries should be considered non-porn intent queries: [girls], [wives], [mature women], [gay people], [people kissing], [boy speedos], [moms and sons], [pictures of girls], [pictures of women], [mothers and daughters], [cheerleaders], etc.
+次のクエリはポルノの意図がないクエリとみなすべき。［女の子］、［妻］、［成女（mature women）］、［女の子の写真］、［女性の写真］、［母と娘］、［チアリーダー］等。
 
-Remember to assign the **Porn** flag for all porn pages. Use your judgment and represent users in your locale.
+評価者の判断とロケールで全てのポルノページに**ポルノ**フラグをつけることを忘れない。
 
-Query|User Intent|Landing Page|Rating|Porn Flag?
+クエリ|ユーザーの意図|LP|評価|ポルノフラグの有無
 ---|---|---|---|---
-[toys], English (US)|Find toys to buy.|[Example](https://guidelines.raterhub.com/images/RG1_6.2-1.jpg)<br><span style="color: red;">Warning – this page is porn.</span>|**FailsM**|Yes
-[how tall is a camel], English (US)|Find the answer to this question about camels.|[Example](https://guidelines.raterhub.com/images/RG1_6.2-2.jpg)<br><span style="color: red;">Warning – this page is porn.</span>|**FailsM**|Yes
-[car pictures], English (US)|Find pictures of cars.|[Example](https://guidelines.raterhub.com/images/RG1_6.2-3.jpg)<br><span style="color: red;">Warning – this page is porn.</span>|**FailsM**|Yes
+[おもちゃ]、English (US)|購入するおもちゃを見つける|[LP例](https://guidelines.raterhub.com/images/RG1_6.2-1.jpg)<br><span style="color: red;">警告－ポルノページ</span>|**FailsM**|有
+[ラクダの高さは]<br>（英語）|質問の答えを知る|[LP例](https://guidelines.raterhub.com/images/RG1_6.2-2.jpg)<br><span style="color: red;">警告－ポルノページ</span>|**FailsM**|有
+[車　写真]<br>（英語）|車の写真を見つける|[LP例](https://guidelines.raterhub.com/images/RG1_6.2-3.jpg)<br><span style="color: red;">警告－ポルノページ</span>|**FailsM**|有
 
-### Needs Met Rating for Possible Porn Intent Queries
+### ポルノを求めている可能性があるクエリのNeeds Met評価
 
-Some queries have both non-porn and porn interpretations. For example, the following English (US) queries have both a non-porn and an erotic or porn interpretation: [breast], [sex]. We will call these queries "possible porn intent" queries.
+クエリにはポルノとポルノでないものの、どちらともとれるクエリがある。例えば、［胸］、［セックス］などのクエリはどちらの意図もありうる。これらのクエリを「ポルノ目的の可能性のある」クエリという。
 
-For "possible porn intent" queries, please rate as if the non-porn interpretation were dominant, even though some or many users may be looking for porn. For example, please rate the English (US) query [breast] assuming a dominant health or anatomy information intent.
+こうしたクエリについては、評価者の皆さんが「ユーザーはポルノを求めているはず」と思っても、ポルノでない解 釈が支配的解釈だとみなして評価してください。例えば「ビキニ」(英語・アメリカ)の意図は「水着を買うこと」です。 「ユーザーの大半はポルノを求めているはず」と思っても、ポルノ目的の解釈は少数派だと見なして評価しましょう。
 
-Query|User Intent|Landing Page|Rating|Porn flag?
+クエリ・ロケール|ユーザーの意図|LP|評価|「ポルノ」フラグは必要?
 ---|---|---|---|---
-[breasts], English (US)|Find anatomy or health information about breasts.|[Example](https://guidelines.raterhub.com/images/RG1_6.2-6.jpg)|**HM**|No
-[breasts], English (US)|Find anatomy or health information about breasts.|[Example](https://guidelines.raterhub.com/images/RG1_6.2-7.jpg) <span style="color: red;">Warning – this page is porn.</span>|**FailsM**|Yes
+「胸」<br>（英語）|胸について、解剖学的な情報や健康に関する情報を知る。|[LP例](https://guidelines.raterhub.com/images/RG1_6.2-6.jpg)|**HM**|No
+「胸」<br>（英語）|胸について、解剖学的な情報や健康に関する情報を知る。|[LP例](https://guidelines.raterhub.com/images/RG1_6.2-7.jpg) <span style="color: red;">警告－ポルノページ</span>|**FailsM**|Yes
 
-### Needs Met Rating for Clear Porn Intent Queries
+### 明らかにポルノを求めているクエリのNeeds Met評価
 
-For very clear porn intent queries, assign a rating to the porn landing page based on how helpful it is for the user. Even though there is porn intent, the page should still be assigned a **Porn** flag.
+非常に明確にポルノ目的クエリの場合、ポルノのLPがユーザーにとってどれだけ有益であるかに基づいて評価をする。ポルノの意図があるページにも**ポルノ**フラグを割り当てる。
 
-Do not simply rate all porn pages for porn queries as **MM** or **HM**. Even though the query is porn and the result is porn, the page must fit the query and be helpful to get a high Needs Met rating.
+クエリがポルノで、その結果がポルノだからといって**HM**や**MM**の評価を下さない。ページがクエリに適合し役に立たなければ、高いNeeds Met評価を得られない。
 
-Pages that provide a poor user experience, such as pages that try to download malicious software, should also receive low ratings, even if they have some images appropriate for the query.
+悪意のあるソフトウェアをダウンロードさせようとするページなどのUXの悪いページは、クエリに適した画像がいくつかあるとしても、低い評価を受けなければならない。
 
-Query|User Intent|Landing Page|Rating|Porn Flag?
+クエリ|ユーザーの意図|LP|評価|ポルノフラグの有無
 ---|---|---|---|---
-[freeones], English (US)|Navigate to the Freeones homepage.|[Example: http://www.freeones.com](https://guidelines.raterhub.com/images/RG1_6.2-10.jpg) <span style="color: red;">Warning – this page is porn.</span>|**FullyM**|Yes
-[freeones], English (US)|Navigate to the Freeones homepage.|[Example: http://www.baberoad.com](https://guidelines.raterhub.com/images/RG1_6.2-11.jpg) <span style="color: red;">Warning – this page is porn.</span>|**FailsM**|Yes
-[anime sex pictures], English (US)|Find anime sex pictures.|[Example](https://guidelines.raterhub.com/images/RG1_6.2-14.jpg) <span style="color: red;">Warning – this page is porn.</span>| **MM to HM**|Yes
-[cheerleader porn], English (US)|Find porn pictures of cheerleaders.|[Example](https://guidelines.raterhub.com/images/RG1_6.2-15.jpg) <span style="color: red;">Warning – this page is porn.</span>|**MM to HM**|Yes
+[freeones]<br>（英語）|Freeonesのトップページを訪問|[Example: http://www.freeones.com](https://guidelines.raterhub.com/images/RG1_6.2-10.jpg) <span style="color: red;">警告－ポルノページ</span>|**FullyM**|有
+[freeones]<br>（英語）|Freeonesのトップページを訪問|[Example: http://www.baberoad.com](https://guidelines.raterhub.com/images/RG1_6.2-11.jpg) <span style="color: red;">警告－ポルノページ</span>|**FailsM**|有
+[anime sex pictures]<br>（英語）|アニメのセックス画像を見つける|[Example](https://guidelines.raterhub.com/images/RG1_6.2-14.jpg) <span style="color: red;">警告－ポルノページ</span>| **MM to HM**|有
+[cheerleader porn]<br>（英語）|チアリーダーのポルノ画像を見つける|[Example](https://guidelines.raterhub.com/images/RG1_6.2-15.jpg) <span style="color: red;">警告－ポルノページ</span>|**MM to HM**|有
 
-## Reporting Illegal Images
+## 違法画像の報告
 
-**Child Pornography**
+### 児童ポルノ
 
-<span style="color: red;">**Note:** When working on rating projects in any task location or locale, you must follow United States federal law, which considers child pornography to be illegal.</span>
+<span style="color: red;">**注：** 評価をするときは働く場所、ロケールに関わらず、児童ポルノを違法とみなす米国連邦法に従わなければならない。</span>
 
-<u>**Definition of Child Pornography**</u>
+#### 児童ポルノの定義
 
-An image is child pornography if it is a visual depiction of someone who appears to be a minor (i.e., under 18 years old) engaged in sexually explicit conduct (e.g., vaginal or anal intercourse, oral sex, bestiality or masturbation as well as lascivious depictions of the genitals), or sadistic or masochistic abuse. The image of sexually explicit conduct can involve a real child; a computer-generated, morphed, composite or otherwise altered image that appears to be a child (think of images that have been altered using "Photoshop"); or an adult who appears to be a child; and the image can be non-photographic (e.g., drawings, cartoons, anime, paintings, or sculptures) so long as the subject is engaging in sexually explicit conduct that is obscene. If it is indistinguishable from child pornography, it is child pornography.
+性的に明示的な行為（例えば、膣や肛門性交、オーラルセックス、獣姦、マスターベーション、性器のみだらな描写など）またはSMに関与している未成年者（18歳未満）の画像。性的に明示的な行為の画像には、実際の子ども、子どものように見えるコンピューターで生成、加工、編集された画像（「Photoshop」を使用して編集された画像）、子どものように見える大人も児童ポルノ。被写体がわいせつな性的行為に表現される限り非写真的（絵画、漫画、アニメ、彫刻）も児童ポルノに含まれる。どちらか区別が付かない場合は児童ポルノ。
 
-Even if the pornographic image depicts children in a literary (think of the famous book "Lolita"), political (think of political cartoons), artistic, or scientific context, please send the link to your employer/company as instructed below.
+画像が文学（有名な本「Lolita」、政治（政治マンガ）、芸術的、科学的な文脈でも、下記の指示に従ってベンダーにリンクを送る。
 
-Depiction of the genitals does not require the genitals to be uncovered. Thus, for example, a video of underage teenage girls dancing erotically, with multiple close-up shots of their covered genitals, or images of children with opaque underwear that focus on the genitalia could be considered child pornography.
+陰部が隠れていても陰部の描写とみなされることがある。例えば未成年の十代の女の子がエロティックに踊っている陰部を接写した動画や、子どもが陰部をフォーカスした下着を着用した画像を児童ポルノとみなすことがある。
 
-An image of a naked child (e.g., in the bathtub or at a nudist colony) is not considered child pornography as long as the child is not engaging in sexually explicit conduct, or the focus is not on the child's genitalia. Visual depictions of adults who look like children (e.g., a 35-year-old man play-acting in diapers, or an obvious woman dressed as a school girl) are not child pornography. If you don't think it's a minor, it probably isn't child pornography. However, if you cannot tell that the person in the image is over 18 (e.g., an under-developed 18-year-old whose body hair has been waxed), that is child pornography.
+裸の子ども（入浴やヌードコロニーなど）の画像は、子どもが性的に露骨な行為をしていないか、子どもの生殖器にフォーカスしていない限り児童ポルノとはみなされない。子どものように見える大人（オムツを履いている35歳の男性、学生服を着た成人女性）も児童ポルノではない。それらを未成年だと思わないなら、おそらく児童ポルノではない。しかしながら、画像内の人物が18歳を超えていることが分からない場合（例えば、脱毛している未発達な18歳）などは、児童ポルノとみなされる。
 
-<u>**Reporting Instructions**</u>
+#### 報告の手順
 
-Please report images containing child pornography (URLs only) as instructed by your employer/company.
+ベンダーの指示に従って、児童ポルノを含む画像（URLのみ）を報告する。
 
-## Foreign Language Flag
+## 「外国語」フラグ
 
-### Using the Foreign Language Flag
+### 「外国語」フラグの使用
 
-Please assign the **Foreign Language** flag when the language on the landing page is NOT one of the following:
+LPの言語が次のいずれかに該当しない場合は、「**外国語**」フラグを割り当てる。
 
-- The task language
-- A language that is commonly used by a significant percentage of the population in the task location
-- English
+- タスク言語
+- タスクの場所でかなりの割合で一般的に使用される言語
+- 英語
 
-For example, most Catalan-speaking users in Spain also speak Spanish. Therefore, for rating tasks in Catalan (ES), the Foreign Language flag should NOT be assigned to landing pages in Catalan, Spanish, or English.
+例えば、カタルーニャ語ユーザーのほとんどはスペイン語も話す。したがって、カタルーニャ語の評価タスクではカタルーニャ語、スペイン語、または英語のLPに外国語のフラグを割り当てない。
 
-Here is a screenshot of a result block that shows when the **Foreign Language** flag would be used.
+以下は外国語フラグが使用されるRBのスクリーンショット。
 
-Query and User Intent|Result Block and LP, Flag, Needs Met Rating|Explanation
+クエリ・ユーザーの所在地・ユーザーの意図|RB<br>LP<br>フラグ<br>Needs Met評価|説明
 ---|---|---
-**Query:** [baidu]<br><br>**Locale:** English (US)<br><br>**User Location:** Anchorage, Alaska<br><br>**User Intent:** Go to the Baidu website.|![](../images/img571.jpg)<br>![](../images/img572.jpg)<br>![](../images/fullym.jpg)|This LP is the homepage of the Baidu website. The result is the target page of the query, but is in a foreign language (Chinese).<br><br>This result merits a **FullyM** rating and the **Foreign Language** flag.
+**クエリ：**<br>[baidu]<br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>アラスカ州アンカレッジ<br><br>**ユーザーの意図：**<br>BaiduのWebサイトを訪問|![search result for the baidu home page](../images/img571.jpg)<br>![foreign language flag enabled](../images/img572.jpg)<br>![needs met scale - fully meets](../images/fullym.jpg)|LPはBaiduのWebサイト。結果はクエリのターゲットページだが外国語（中国語）この結果は**FullyM**評価と外国語フラグに値する。
 
-**Important:**
+**重要：**
 
-- Please assign the **Foreign Language** flag even if you personally understand the language, but most users in your locale do not.
-- Please assign the **Foreign Language** flag based on the language of the landing page, not the appearance of the result block.
-- Please remember to flag all foreign pages with the **Foreign Language** flag, even if most users in your locale would expect or want a foreign language page for the query.
-- Sometimes it is difficult to determine what language the landing page is in. The LP may have multiple languages or no words at all. In these cases, try to represent users in your locale. Does it feel like a foreign language page?
-When in doubt, don't use the **Foreign Language** flag.
+- 評価者が個人的に言語を理解していても自身のロケールのほとんどのユーザーが理解できなければ外国語フラグを割り当てる。
+- RBの見た目だけではなく、LPの言語に基づいて外国語フラグを割り当てる。
+- ロケール内のほとんどのユーザーがクエリの外国語ページを期待している場合でも、外国語フラグを全ての外国語ページにつける。
+- LPがどの言語に当たるか判断することは難しい。LPには複数の言語が含まれている場合もあれば、全くない場合もある。このような場合はロケールのユーザーになって考える。外国語のページのように感じるか。不確かな場合は、外国語フラグを使用しない。
 
-### Needs Met Rating for Foreign Language Results
+### 「外国語」の検索結果のNeeds Met評価
 
-You must assign a Needs Met rating for all result blocks in your task, even if the result blocks have a foreign language landing page.
+RBに**外国語**のLPがある場合でもタスクの全てのRBにNeeds Met評価を割り当てる必要がある。
 
-In most cases, pages you flag as **Foreign Language** should be rated **FailsM**, because they cannot be understood by most users in your locale and are therefore useless. Remember that if users in your locale can read the language, then you shouldn't be using the **Foreign Language** flag. Occasionally, you will encounter helpful **Foreign Language** pages.
+ほとんどの場合、**外国語**としてのフラグを立てるページは、ロケールのほとんどのユーザーが理解できず役に立たないため**FailsM**評価になる。ロケールのユーザーが読み取ることのできる言語には、**外国語**フラグを使用しない。場合によっては役に立つ**外国語**のページに出会うこともある。
 
-If the query clearly indicates that most users would expect or want a foreign language result, then the Needs Met rating of the foreign language page should _not_ be **FailsM**. For example, please assign the **FullyM** rating and **Foreign Language** flag for baidu.com if the query is [baidu.com], English (US).
+ほとんどのユーザーが**外国語**の結果を期待または望んでいる場合は**外国語**ページに**FailsM**評価をしてはならない。例えば、クエリが［baidu.com］（英語）の場合、baidu.comに**FullyM**評価と**外国語**フラグを割り当てる。
 
-Videos are often an example where foreign language pages are helpful and desired. Think about user intent and what pages are good for users. If the query "asks" for a foreign language song, band, film, sporting event, etc., then a video of the song, band, film, sporting event, etc. is helpful since it can probably be understood or enjoyed even though it is in a foreign language. For these types of queries, foreign language results are often expected.
+動画は**外国語**のページが有用で望ましいものであることが多い。ユーザーの意図と、ユーザーに適したページを考える。クエリで**外国語**の歌、バンド、映画、スポーツイベントなどを望んでいるとするとそれらの動画はおそらく理解され楽しむことができるので有用である。これらのタイプのクエリでは、**外国語**の結果がしばしば期待される。
 
-If the video is someone talking about the song, band, film, or event, the result probably cannot be understood or enjoyed and should be assigned a **FailsM** rating and the **Foreign Language** flag.
+動画が**外国語**の歌、バンド、映画、またはイベントについて話しているものの場合、その結果はおそらく理解できず、楽しむことができないので**FailsM**評価と**外国語**フラグを割り当てる。
 
-Query and User Intent|Result Block and LP, Needs Met Rating|Explanation
+クエリ・ユーザーの所在地・ユーザーの意図|RB<br>LP<br>Needs Met評価|説明
 ---|---|---
-**Query:** [video of celine dion singing s'il suffisait d'aimer]<br><br>**Locale:** English (US)<br><br>**User Location:** Lansing, Michigan<br><br>**User Intent:** Watch a video of Celine Dion singing this song.|![example of unnecessary foreign language flag](../images/img575.jpg)<br>![](../images/hm.jpg)|This video is just what English (US) users are looking for, even though the video is not in English. The language of the LP is mostly English (even though the video is in French), so the **Foreign Language** flag is not needed.
-**Query:** [alex c]<br><br>**Locale:** English (US)<br><br>**User Location:** Davenport, Iowa<br><br>**User Intent:** Watch a video or listen to a song by this German composer or find information about him.|![example of unnecessary foreign language flag](../images/img577.jpg)<br>![](../images/mm-narrow.jpg)|The query is for the German composer, Alex C. The landing page has a video with one of his songs sung by Y-ass (misspelled as "Yass" in the YouTube title) in German. It would be helpful for some or many English (US) users who type the query, even though it is not in English. The language of the landing page isn't clear. Use your judgment when deciding whether to assign the **Foreign Language** flag.
-**Query:** [kasal, kasali, kasalo]<br><br>**Locale:** English (US)<br><br>**User Location:** Daly City, California<br><br>**User Intent:** Watch a trailer of this Filipino film or find information about it.|![example of unnecessary foreign language flag](../images/img579.jpg)<br>![](../images/mm-narrow.jpg)|The query is for "Kasal, Kasali, Kasalo," a Filipino film. The LP is a clip from the movie in Filipino (Tagalog), the language spoken in the Philippines. It would be helpful for many English (US) users who type the query, even though it is not in English. Use your judgment when deciding whether to assign the **Foreign Language** flag.
+**クエリ：**<br>[video of celine dion singing s'il suffisait d'aimer]<br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>ミシガン州ランシング<br><br>**ユーザーの意図：**<br>この局を歌っているセリーヌディオンを見る|![example of unnecessary foreign language flag](../images/img575.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)|このビデオは英語ではないにもかかわらずアメリカのユーザーが探しているもの。ビデオはフランス語でもLPの言語はほとんどが英語なので**外国語**のフラグは不要。
+**クエリ：**<br>[alex c]<br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>アイオワ州ダベンポート<br><br>**ユーザーの意図：**<br>このドイツの作曲家の動画を見たり、曲を聴いたり、彼についての情報を見つけたりする。|![example of unnecessary foreign language flag](../images/img577.jpg)<br>![needs met scale - moderately to moderately+](../images/mm-narrow.jpg)|このクエリは、ドイツの作曲家Alex Cのもの。LPにはY‑ass（YouTubeには「Yass」とスペルミス）にドイツ語で歌われた曲が含まれている。英語ではないにもかかわらず英語ユーザーの多くにとって役立つ。LPの言語は明確でないので、**外国語**フラグを割り当てるかどうかを決定するときは評価者の判断。
+**クエリ：**<br>[kasal, kasali, kasalo]<br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>カリフォルニア州ダリシティ<br><br>**ユーザーの意図：**<br>このフィリピンの映画の予告編を見るか、それに関する情報を見る|![example of unnecessary foreign language flag](../images/img579.jpg)<br>![needs met scale - moderately to moderately+](../images/mm-narrow.jpg)|クエリはフィリピンの映画のKasal、Kasali、Kasalo。LPはフィリピンの言語であるタガログ語の動画。英語ではないにもかかわらず、クエリを英語ユーザーの多くにとって役立つ。**外国語**フラグを割り当てるかどうかを決定するときは評価者の判断。
 
-## Did Not Load Flag
+## 「読み込めない」フラグ
 
-### Using the Did Not Load Flag
+### 「読み込めない」フラグの使用
 
-**Did Not Load** is used to indicate technical problems that prevent you from viewing any LP content.
+「**読み込めない**」はLPコンテンツを表示できないような技術的問題を示すために使用される。
 
-Use the **Did Not Load** flag when:
+「**読み込めない**」フラグは次の場合使用する。
 
-- The MC of the landing page is a web server or web application error message and there is no other content on the page: no navigation links, no home link, no SC, and no Ads. See [here](http://en.wikipedia.org/wiki/List_of_HTTP_status_codes) for a Wikipedia page on different types of error messages.
-- The landing page is completely blank: no MC, no SC, and no Ads.
+- リンク先のMCはWebサーバー、Webアプリケーションのエラーメッセージで、ページにはナビゲーションリンク、SC、ホームリンク、及び広告もない。さまざまな種類のエラーメッセージに関するWikipediaのページについては[ここ](http://en.wikipedia.org/wiki/List_of_HTTP_status_codes)を参照。
+- LPが完全に空白。（MCなし、SCなし、広告なし）
 
-Assign the **Did Not Load** flag based on the landing page, not the result block.
+RBではなくLPに基づいて「**読み込めない**」フラグを割り当てる。
 
-Here is an example of a **Did Not Load** landing page. You cannot tell that the landing page doesn't load by looking at the result block.
+「**読み込めない**」LPの例。RBだけを見てLPが読み込まれないことは分からない。
 
-Query and User Intent|Result Block and LP, Flag, Needs Met Rating|Explanation
+クエリ・ユーザーの所在地・ユーザーの意図|RB<br>LP<br>フラグ<br>Needs Met評価|説明
 ---|---|---
-**Query:** [douglas instruments]<br><br>**User Location:** South Bend, Indiana<br><br>**User Intent:** Navigate to the homepage of this website.|![search result for douglas instruments](../images/img582.jpg)<br>![did not load button selected](../images/img583.jpg)<br>![](../images/failsm.jpg)|This page displays a generic 404 message. There is no MC, SC, or Ads on the page.<br><br>This result merits a **FailsM** rating and the **Did Not Load** flag.
+**クエリ：**<br>[douglas instruments]<br><br>**ユーザーの所在地：**<br>インディアナ州サウスベンド<br><br>**ユーザーの意図：**<br>このWebサイトを訪問|![search result for douglas instruments](../images/img582.jpg)<br>![did not load button selected](../images/img583.jpg)<br>![needs met scale - fails to meet](../images/failsm.jpg)|このページは、一般的な404メッセージが表示され、ページにはMC、SC、広告がない。<br><br>この結果**FailsM**評価と「**読み込めない**」フラグを割り当てる。
 
-Here are screenshots of other types of landing pages that should be assigned the **Did Not Load** flag: [D1](https://guidelines.raterhub.com/images/RG1_4.6-5.jpg), [D2](https://guidelines.raterhub.com/images/RG1_4.6-6.jpg), [D3](https://guidelines.raterhub.com/images/RG1_4.6-7.jpg).
+「**読み込めない**」フラグに該当するLPの例です。 [例①](https://guidelines.raterhub.com/images/RG1_4.6-5.jpg)　[例②](https://guidelines.raterhub.com/images/RG1_4.6-6.jpg)　[例③](https://guidelines.raterhub.com/images/RG1_4.6-7.jpg)
 
-Additionally, use the **Did Not Load** flag for
+加えて、このような場合も「読み込めない」フラグを立てる
 
-- Malware warnings, such as "Warning – visiting this web site may harm your computer!"
-- Pages that solicit certificate acceptance requests.
+- マルウェアの警告（「警告-このWebサイトにアクセスするとコンピューターに損害を与える可能性があります」など）
+- 証明書受諾要求を求めるページ
 
-Here is an example of a malware warning:
+マルウェアの例
 
 ![example malware warning](../images/img585.jpg)
 
-Here is an example of a certificate acceptance request:
+次に証明書受諾要求の例
 
 ![example certificate acceptance request](../images/img587.jpg)
 
-### Needs Met Rating for Did Not Load Results
+### 「読み込めない」検索結果のNeeds Met評価
 
-All result blocks must be given a Needs Met rating. If the landing page truly doesn't load, assign the **Did Not Load** flag and rate the page **FailsM**. True **Did Not Load** pages are useless.
+どのようなリザルトブロックにも評価を割り振る必要があります。LPが全く読み込めない場合、「**読み込めない**」フラグを立てて**FailsM**評価にしましょう。全く読み込めないページは、全く役に立ちません。
 
-Sometimes the page partially loads or has an error message. Give Needs Met ratings based on how helpful the result is for the query. Error messages can be customized by the webmaster and are part of a well-functioning website. Sometimes these pages are helpful for the query.
+ページの一部が読み込めたり、完全に読み込めるページにエラーメッセージが表示されていたりすることがあります。「クエリに対して、その検索結果がどの程度役に立つか」という視点からNeeds Met評価を付けましょう。ウェブマスターがエラーメッセージをカスタマイズすることもできますし、エラーメッセージがしっかり機能しているWebサイトの一部であることもあります。そして、そうしたページがクエリに対して役立つこともあります。
 
-Query and User Intent|Result Block and LP, Needs Met Rating|Explanation
+クエリ・ユーザーの所在地・ユーザーの意図|リザルトブロック・LP・Needs Met評価|説明
 ---|---|---
-**Query:** [boys pink snow shoes]<br><br>**User Location:** South Bend, Indiana<br><br>**User Intent:** Find information about or purchase boys' snow shoes.|![search result for boys pink snow shoes](../images/img588.jpg)<br>![](../images/failsm.jpg)|The MC has an error message, but the LP has a lot of SC. However, the page has no information about boys pink snow shoes and is unhelpful for the query.<br><br>Do not assign the **Did Not Load** flag.
-**Query:** [bible passages]<br><br>**User Location:** South Bend, Indiana<br><br>**User Intent:** Find specific passages in the bible.|![search result for bible passages](../images/img590.jpg)<br>![](../images/hm.jpg)|In spite of the customized "No results found" message on the LP, it has links to all passages in the bible, organized by book. It would be very helpful for most users.<br><br>Do not assign the **Did Not Load** flag.
+**クエリ：**<br>[男の子 ピンク スノーシューズ]<br><br>**ユーザーの所在地：**<br>インディアナ州サウスベンド<br><br>**ユーザーの意図：**<br>男の子のスノーシューズについての情報や、購入をしたい|![search result for boys pink snow shoes](../images/img588.jpg)<br>![needs met scale - fails to meet](../images/failsm.jpg)|MCにはエラーメッセージが表示されますが、多くのSCもある。しかしながら、このページには男の子のピンクのスノーシューズに関する情報はないため、このクエリは役に立たない。
+**クエリ：**<br>[聖書 節]<br><br>**ユーザーの所在地：**<br>インディアナ州サウスベンド<br><br>**ユーザーの意図：**<br>聖書の中の特定の場所を探す|![search result for bible passages](../images/img590.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)|LP上にカスタマイズされた「結果が見つかりません」というメッセージがあるのにもかかわらず、聖書のすべての節へのリンクがある。これは、ほとんどのユーザーにとって非常に役に立つ。
 
-## Upsetting-Offensive Flag
+## Upsetting-­Offensiveフラグ
 
-The Internet contains all sorts of content, including content that many users find offensive or upsetting. Additionally, users of all ages, genders, races, and religions use the Internet to understand the world and other people's points of view. Users may issue queries on sensitive topics to understand why people believe, say, or do upsetting or offensive things. Search engines exist to allow users to find the information they are looking for.
+インターネットには、多くのユーザを不快にしたり動揺させたりするものも含め、あらゆる種類のコンテンツが含まれている。さらに、年齢、性別、人種、宗教に関わらず、すべてのユーザーは、世界や他の人々の視点を理解する為にインターネットを使っている。ユーザーは敏感なトピックに対するクエリを発行することで、人々が信じる理由、発言する理由、動揺するまたは不快なことをする理由を理解することができる。検索エンジンは、ユーザーが探している情報を見つけられるようにするために存在している。
 
-Please assign the **Upsetting-Offensive** flag to all results that contain upsetting or offensive content from the perspective of users in your locale, even if the result satisfies the user intent.
+たとえ検索結果がユーザーの意図に沿うものであったとしても、ロケール内のユーザーの考え方を考慮し、動揺させたり不快にさせたりするコンテンツを含む全てのWeb結果に**Upsetting-­Offensive**フラグを割り当てる。
 
-In addition, some rating tasks may ask you to identify **Not-for-Everyone** results in order to flag content that you feel may be uncomfortable for some users.
+In addition, some rating tasks may ask you to identify **Not‑for‑Everyone** results in order to flag content that you feel may be uncomfortable for some users.
 
-### Using the Upsetting-Offensive Flag
+### Upsetting-­Offensiveフラグの使用
 
-Assign the **Upsetting-Offensive** flag to results that contain upsetting or offensive content, whether the content is inside the result block or on the LP. Please represent users in your locale and use your judgment to determine what constitutes upsetting or offensive content. As a general rule of thumb, **Upsetting-Offensive** results contain content that is so upsetting or offensive that it should only be shown if the query is explicitly seeking this type of content.
+動揺させたり不快にさせたりするコンテンツを含むWeb結果にUpsetting-­Offensiveフラグを割り当てる。ロケール内のユーザーを代表し、ユーザーを動揺させるまたは不快にさせるコンテンツを構成するものを判断すること。大まかに言えば、不快感を伴う検索結果には、ユーザーを非常に動揺させたり不快にさせたりするコンテンツが含まれている。クエリがはっきりとこの種のコンテンツを探している場合のみ、それらは表示されるべきである。
 
-**Upsetting-Offensive** content typically includes the following:
+動揺させるまたは不快にさせるコンテンツは一般的に以下のものを含む：
 
-- Content that promotes hate or violence against a group of people based on criteria including (but not limited to) race or ethnicity, religion, gender, nationality or citizenship, disability, age, sexual orientation, or veteran status.
-- Content with racial slurs or extremely offensive terminology without context or beneficial purpose.
-- Depiction of graphic violence without context or beneficial purpose.
-- Explicit how-to information about harmful activities (e.g., how-tos on human trafficking or violent assault).
-- Other types of content that users in your locale would find extremely upsetting or offensive.
+- 人種、民族性、宗教、性別、国籍または市民権、身体障害、年齢、性的嗜好、退役軍人の地位を含む（これに限定はされないが）基準に基づいた人々の集団に対して憎悪や暴力を促進するコンテンツ
+- 人種差別や極めて不快な用語を含むコンテンツ
+- 動物虐待や児童虐待を含む生々しい暴力
+- 有害な活動に関する明示的なハウツー情報（人身売買や暴行に関するハウツーなど）
+- ロケール内のユーザーが非常に動揺または不快な思いをする他の種類のコンテンツ
 
-**Important:** Please think about the purpose of the page and how the content is presented when determining whether to assign the **Upsetting-Offensive** flag. There are many results around the web that focus on sensitive topics such as child abuse, violence, or racism; however, you should assign the **Upsetting-Offensive** flag based on the _purpose, type, and/or presentation of the content on the page_ —not because the topic itself is sensitive or potentially upsetting.
+**重要：** Upsetting-­Offensiveフラグを割り当てるかどうかを決定する際は、ページの目的とコンテンツの表示方法について考える。Web上には児童虐待、暴力、人種差別のような敏感なトピックに焦点を当てた結果が数多くあるが、評価者はページ内コンテンツの目的や種類、および／または表示方法に基づいてUpsetting-­Offensiveフラグを割り当てなければならない。だからといってトピックそのものが敏感である、または潜在的に動揺させるものであるとは限らない。
 
-For example, a result with content that encourages child abuse should be flagged as **Upsetting-Offensive**. However, an accurate informational page about child abuse (such as child abuse statistics, prevention, how to recognize signs of abuse, etc.) should not be flagged, even though child abuse itself is a sensitive topic that users may find upsetting.
+例えば、児童虐待を推奨したり、生々しく描いていたりするコンテンツの検索結果は、不快感を伴うものとしてフラグを立てるべきである。児童虐待自体がユーザーを動揺させる敏感なトピックであるが、児童虐待に関する正確な情報ページ（児童虐待の統計や防止など）にはフラグを立ててはならない。
 
-Query and User Intent|Result Block and LP, Flags|Explanation
+クエリ・ユーザーの所在地・ユーザーの意図|RB・LP・フラグ|説明
 ---|---|---
-**Query:** [holocaust history]<br><br>**Locale:** English (US)<br><br>**User Location:** New York, NY<br><br>**User Intent:** Find historical information about the Holocaust.|![](../images/img593.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)|This result is a discussion of how to convince others that the Holocaust never happened. Because of the direct relationship between Holocaust denial and anti-Semitism, many people would consider it offensive.<br><br>This result should receive the **Upsetting-Offensive** flag, regardless of what the query was.
-*(Same as above.)*|![](../images/img593.jpg)<br>![not upsetting-offensive](../images/no-flag.jpg)|While the Holocaust itself is a potentially upsetting topic for some, this result is a factually accurate source of historical information. Furthermore, the page does not exist to promote hate or violence against a group of people, contain racial slurs, or depict graphic violence.<br><br>Do NOT assign the **Upsetting-Offensive** flag, regardless of what the query was.
-**Query:** [racism against blacks]<br><br>**Locale:** English (US)<br><br>**User Location:** New York, New York<br><br>**User Intent:** Find information, news, or other resources about racism against Black people.|![](../images/img598.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)|The purpose of this page is to argue that black people are inferior. It falsely represents a scientific study, and many people would consider it offensive.<br><br>This result should receive the **Upsetting-Offensive** flag, regardless of what the query was.
-*(Same as above.)*|![](../images/img600.jpg)<br>![not upsetting-offensive](../images/no-flag.jpg)|This Wikipedia page provides a well-informed and historically accurate overview of racism and ethnic discrimination in the U.S.<br><br>Do NOT assign the **Upsetting-Offensive** flag, regardless of what the query was.
-**Query:** [islam]<br><br>**Locale:** English (US)<br><br>**User Location:** New York, New York<br><br>**User Intent:** Find information about the religion of Islam.|![](../images/img602.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)|The purpose of this page is to explain the author's belief that Islam is evil. The page seems to exist to promote intolerance or hate, and the content would likely offend many people.<br><br>This result should receive the **Upsetting-Offensive** flag, regardless of what the query was.
-*(Same as above.)*|![](../images/img604.jpg)<br>![not upsetting-offensive](../images/no-flag.jpg)|This is a high-quality article on a reputable site, with an accurate summary of the major beliefs and practices of Islam.<br><br>Do NOT assign the **Upsetting-Offensive** flag, regardless of what the query was.
+**クエリ：**<br>[holocaust history]<br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>ニューヨーク州ニューヨーク<br><br>**ユーザーの意図：**<br>ホロコーストに関する歴史的情報を知りたい|![](../images/img593.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)|ホロコーストは決して起こっていないと他者を説得する方法の議論である。ホロコーストの否定と反ユダヤ主義の直接的な関係のため、多くの人々はこの結果を不快であると感じる。<br><br>この結果にはUpsetting­-Offensiveフラグを割り当てなければならない。
+*(Same as above.)*|![](../images/img593.jpg)<br>![not upsetting‑offensive](../images/no-flag.jpg)|ホロコースト自体が一部の人々にとっては潜在的に動揺するトピックであるが、この結果は事実上正確な歴史的情報源である。加えてこのページは人々に対して憎悪や暴力を促進したり、人種差別を含んだり、生々しい暴力を描写したりすることの為に存在していない。Upsetting­-Offensiveフラグを割り当ててはならない。
+**クエリ：**<br>[黒人に対する人種差別]<br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>ニューヨーク州ニューヨーク<br><br>**ユーザーの意図：**<br>黒人への人種差別に関する情報やニュース、他の情報源を探している|![](../images/img598.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)|このページの目的は、黒人が劣っていると主張することである。誤った科学的研究を示しており、多くの人々がそれを不快であると感じている。この結果にはUpsetting-­Offensiveフラグを割り当てなければならない。
+*(Same as above.)*|![](../images/img600.jpg)<br>![not upsetting‑offensive](../images/no-flag.jpg)|このWikipediaのページは、米国における人種差別や民族差別について、よく知られた歴史的に正確な概要を示している。Upsetting-­Offensiveフラグを割り当ててはならない。
+**クエリ：**<br>[islam]<br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>ニューヨーク州ニューヨーク<br><br>**ユーザーの意図：**<br>イスラムの宗教に関する情報が知りたい|![](../images/img602.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)|このページの目的は、イスラム教を悪だとする著者の信念を説明すること。不寛容や憎悪を促進するために存在しているように見え、多くの人を不快にする可能性がある。<br><br>この結果にはUpsetting-­Offensiveフラグを割り当てなければならない。
+*(Same as above.)*|![](../images/img604.jpg)<br>![not upsetting‑offensive](../images/no-flag.jpg)|これは評判の良いサイト上の高クオリティな記事。イスラム教の主要な信仰と慣習を正確にまとめたものである。<br><br>Upsetting­-Offensiveフラグを割り当ててはならない。
 
-### Needs Met Rating for Upsetting-Offensive Tolerant Queries
+### 使いにくい耐性のあるクエリの設定に必要な評価
 
-Remember that users of all ages, genders, races, and religions use search engines for a variety of needs. One especially important user need is exploring subjects that may be difficult to discuss in person. For example, some people may hesitate to ask what racial slurs mean. People may also want to understand why certain racially offensive statements are made. Giving users access to resources that help them understand racism, hatred, and other sensitive topics is beneficial to society.
+すべての年齢、性別、人種、宗教のユーザーは、さまざまなニーズに応じて検索エンジンを使用することに注意する。 特に重要なユーザニーズの1つは、直接対話することが困難な可能性のあるテーマを探索することである。 例えば、人種差別が何を意味するのか躊躇する人もいる。 人々はまた、なぜ人種的に攻撃的な発言がなされたのか理解したいかもしれない。 人種差別、憎しみ、およびその他の敏感なトピックを理解するのに役立つリソースにユーザーがアクセスできるようにすることは、社会にとって有益である。
 
-When the user's query seems to either ask for or tolerate potentially upsetting or offensive content, we will call the query a "Upsetting-Offensive tolerant query". For the purpose of Needs Met rating, please assume that users have a dominant educational/informational intent for Upsetting-Offensive tolerant queries. All results should be rated on the Needs Met rating scale assuming a genuine educational/informational intent.
+ユーザーのクエリが潜在的に怒っている、攻撃的な、または敏感なコンテンツを求めているか許容しているように見える場合、我々はそのクエリを「Upsetting¬Offensive tolerant query」と呼ぶ。 Needs Met評価の目的のために、ユーザーがUpsetting-Offensiveトレンドトレンドの教育的/情報的な目的を持っていると仮定する。 すべての結果は、本物の教育的/情報的な意図を前提として、ニーズ対応評価スケールで評価されるべきである。
 
-In particular, to receive a **Highly Meets** rating, informational results about Upsetting-Offensive topics must:
+特に、**Highly Meets**の評価を受けるには、Upsetting-Offensiveトピックに関する情報の結果が必要である。
 
-1. Be found on highly trustworthy, factually accurate, and credible sources, unless the query clearly indicates the ser is seeking an alternative viewpoint.
-2. Address the specific topic of the query so that users can understand why it is upsetting or offensive and what the ensitivities involved are.
+1. ユーザーが別の視点を求めていることをクエリが明確に示していない限り、信頼性が高く、実際に正確で信頼性の高い情報源にあること。
+2. 質問の特定のトピックに対処して、ユーザーが怒っているか不快であるのか、それにどのような感受性があるのかを理解できるようにすること。
 
-**Important:**
+**重要：**
 
-- Do not assume that Upsetting-Offensive tolerant queries "deserve" offensive results.
-- Do not assume Upsetting-Offensive tolerant queries are issued by people who hold upsetting or offensive views.
-- Do not assume users are merely seeking to validate an offensive or upsetting perspective.
+- Upsetting¬Offensive tolerant queriesが攻撃的な結果に「ふさわしい」と思ってはいけない。
+- Upsetting¬Offensive tolerant queriesは、不快な意見や不快な意見を持っている人によって考えられていると仮定しない。
+- ユーザーが単に攻撃的または怒っている視点を検証しようとしていると仮定しない。
 
-Here are some examples of how to interpret user intent for queries about possibly Upsetting-Offensive topics.
+以下に、不安定な話題の話題に関するユーザーの意図を解釈する方法の例をいくつか紹介する。
 
-Query|User Intent and Explanation
+クエリ|ユーザーの意図と説明
 ---|---
-[are women evil], English (US)|Users may want to understand why there is discrimination against women or why peoplemay say "women are evil".
-[women are evil], English (US)|Assume the intent for this statement is the same as the question, "are women evil?"Users may want to understand why people would say "women are evil".
-[did the holocaust happen?], English (US)|Users want factually accurate information about the Holocaust or information about the issue of Holocaust denial.
-[christians worship the devil], English (US)|Users are looking for information about how Christians and the Christian church view the devil and whether Christians worship the devil.
-[racist whites], [racist blacks], (etc.), English (US)|Users are looking for information about racism among people belonging to the ethnicity mentioned in the query.
+[are  women  evil<br>英語（アメリカ）|ユーザーはなぜ女性に対する差別があるのか、なぜ「女性は悪い」と言われるのかを理解したい可能性がある。
+[women  are  evil<br>英語 （アメリカ）|このステートメントの意図は、「女性は悪いのですか？」という質問と同じであると仮定する。ユーザーは、なぜ人々が「女性は悪い」と言うのか理解したいかもしれない。
+[did  the  holocaust  happen?<br>英語  （アメリカ）|ユーザーは、ホロコーストに関する事実上の正確な情報またはホロコースト拒否の問題に関する情報を必要としている。
+[christians  worship  the  devil<br>英語  （アメリカ）|ユーザーは、キリスト教徒とキリスト教徒の教会が悪魔をどのように見ているか、そしてキリスト教徒が悪魔を崇拝しているかどうかについての情報を探している。
+[racist  whites],  [racist  blacks], (etc.)<br>英語  （アメリカ）|ユーザーは、クエリで言及された民族に属する人々の人種差別に関する情報を探している。
 
-Here are some full rating examples. Remember that you should assign the Upsetting-Offensive flag to all upsetting/offensive results, even if they satisfy the user intent.
+ここにいくつかのUpsetting-Offensive tolerant queriesの評価例がある。あなたがユーザーの意図を満たしていても、all upsetting/offensiveな結果にUpsetting-Offensiveフラグを割り当てる必要があることに注意する。
 
-Query and User Intent|Result Block and LP, Needs Met Rating, E-A-T Rating, Flags
+クエリとユーザーの意図|結果ブロックとLP、Needs  Met評価、E-A-T評価、フラグ
 ---|---
-**Query:** [holocaust history]<br><br>**Locale:** English (US)<br><br>**User Location:** Seattle, Washington<br><br>**User Intent:** Find historical information about the Holocaust.<br><br>**Important:** Though there are some upsetting/offensive results on the topic of this query, the query [holocaust history] should not be considered an Upsetting-Offensive tolerant query.|![](../images/img608.jpg)<br>![](../images/failsm.jpg)![](../images/lowest-narrow.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)
-*(Same as above.)*|![](../images/img612.jpg)<br>![](../images/hm.jpg)![](../images/high-narrow.jpg)<br>![not upsetting-offensive](../images/no-flag.jpg)
-**Query:** [stormfront.org]<br><br>**Locale:** English (US)<br><br>**User Location:** New York, New York<br><br>**User Intent:** Go to the homepage of the website Stormfront.org.|![](../images/img616.jpg)<br>![](../images/fullym.jpg)![](../images/lowest-narrow.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)
-*(Same as above.)*|![](../images/img620.jpg)<br>![](../images/failsm.jpg)![](../images/medium-narrow.jpg)<br>![not upsetting-offensive](../images/no-flag.jpg)
+**クエリ：**<br>[holocaust history]<br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>ワシントン州シアトル<br><br>**ユーザーの意図：**<br>ホロコーストに関する歴史的な情報を探す<br><br>**Important:** Though there are some upsetting/offensive results on the topic of this query, the query [holocaust history] should not be considered an Upsetting‑Offensive tolerant query.|![](../images/img608.jpg)<br>![needs met scale - fails to meet](../images/failsm.jpg)![page quality scale - lowest - narrow range](../images/lowest-narrow.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)
+*(Same as above.)*|![](../images/img612.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)![page quality scale - high - narrow range](../images/high-narrow.jpg)<br>![not upsetting‑offensive](../images/no-flag.jpg)
+**クエリ：**<br>[stormfront.org]<br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>ニューヨーク州ニューヨーク<br><br>**ユーザーの意図：**<br>Stormfront.orgのホームページにアクセスしたい|![](../images/img616.jpg)<br>![needs met scale - fully meets](../images/fullym.jpg)![page quality scale - lowest - narrow range](../images/lowest-narrow.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)
+*(Same as above.)*|![](../images/img620.jpg)<br>![needs met scale - fails to meet](../images/failsm.jpg)![](../images/medium-narrow.jpg)<br>![not upsetting‑offensive](../images/no-flag.jpg)
