@@ -1,6 +1,6 @@
 module.exports = [
 	{
-		text: '🔰TL;DR', link: '/ja/'
+		text: '🔰 TL;DR', link: '/ja/'
 	},
 	{
 		text: '〇〇の専門用語を使って要約して', items: [
