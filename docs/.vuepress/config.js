@@ -29,9 +29,6 @@ module.exports = {
 		['@vuepress/google-analytics', {
 			ga: undefined
 		}],
-		['copyright', {
-			
-		}],
 		['@vuepress/last-updated', {
 			transformer: (timestamp, lang) => {
 				const moment = require('moment');
@@ -55,14 +52,14 @@ module.exports = {
 	themeConfig: {
 		logo: '/img/BCJワイドロゴ.svg',
 		repo: 'thewarrman/qrg-bci',
-		editLinks: true,
+		editLinks: false,
 		docsDir: 'docs',
 		locales: {
 			'/': {
 				label: 'English', // label for this locale in the language dropdown
 				selectText: '🌐Languages', // text for the language dropdown
 				editLinkText: 'Edit on GitHub', // text for the edit-on-github link
-				lastUpdated: 'Updated',
+				lastUpdated: 'Last Updated',
 				serviceWorker: { // config for Service Worker
 					updatePopup: {
 						message: "New content is available.",
@@ -77,7 +74,7 @@ module.exports = {
 				label: '日本語',
 				selectText: '🌐言語',
 				editLinkText: 'GitHubで編集',
-				lastUpdated: '更新日',
+				lastUpdated: '前回更新',
 				serviceWorker: {
 					updatePopup: {
 						message: "新しいコンテンツが利用可能です。",
