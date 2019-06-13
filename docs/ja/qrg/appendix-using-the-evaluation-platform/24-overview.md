@@ -1,7 +1,7 @@
-# Overview
+# 概要
 
-The Evaluation Platform is the system you will use to acquire and rate tasks. You can access the Evaluation Platform by going to this link: [http://www.raterhub.com/evaluation/rater](http://www.raterhub.com/evaluation/rater)
+Evaluation Platformはタスクを取得して評価するために使うシステムだ。あなたはこのリンク：「[http://www.raterhub.com/evaluation/rater](http://www.raterhub.com/evaluation/rater)」によってEvaluation Platformにアクセスできる。
 
-As a Search Quality Rater, you will work on many different types of rating tasks. This section provides guidance on how to use certain features of the Evaluation Platform that you will encounter frequently in Page Quality (PQ) and Needs Met (NM) rating tasks. Some of these concepts may apply to other types of rating tasks as well.
+検索品質評価者として、多くの異なるタイプの評価タスクがあるだろう。このセクションではPQ評価とNM評価のタスクであなたがしばしば出会うであろうEvaluation Platformの特徴と使い方の手引を供給する。これらのコンセプトでは他のタイプの評価タスクも同様に適用する。
 
-**Important:** Many tasks that you receive will display project-specific instructions on the task page. You should always follow these project-specific instructions when they are provided.
+**重要：** 多くのタスクであなたはタスクページにプロジェクト固有の指示が表示される。供給する時、いつもこれらのプロジェクト固有の指示に従うべきである。

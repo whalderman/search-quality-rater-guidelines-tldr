@@ -1,27 +1,27 @@
-# Misspelled and Mistyped Queries and Results
+# 誤字・タイプミスのあるクエリと検索結果
 
-## Misspelled and Mistyped Queries
+## 誤字・タイプミスのあるクエリ
 
-You will notice that some queries are misspelled or mistyped. Here are some examples of queries that are obviously misspelled:
+クエリに誤字やタイプミスがあることがあります。以下は、誤字であることが明らかなクエリの例です。
 
-Misspelled Query|Query Interpretation
+タイプミスのクエリ|クエリの判断
 ---|---
-`federal expres`, English (US)|The only reasonable query interpretation is the company named Federal Express.
-`new england patroits`, English (US)|The only reasonable interpretation is the NFL football team.
-`byonce knowles`, English (US)|The only reasonable interpretation is the famous singer/actress, Beyonce Knowles.
+<code>federal <span style="color:red">expres</span></code><br>英語（US）|合理的なクエリの解釈は企業名「federal **express**」しかない。
+<code>new england <span style="color:red">patroits</span></code><br>英語（US）|合理的なクエリの解釈はNFLのチーム「new England **patriots**」しかない。
+<code><span style="color:red">byonce</span> knowles</code><br>英語（US）|合理的なクエリの解釈は女優・歌手の「**beyonce** knowles」しかない。
 
-Some misspelled or mistyped queries are more difficult to interpret. Use your judgment and do query research.
+誤字やタイプミスがあるクエリの中には、上記の例よりも解釈が難しいものもあります。クエリについて調査し、自身で判断しましょう。
 
-For **obviously** misspelled or mistyped queries, you should base your rating on user intent, not necessarily on exactly how the query has been spelled or typed by the user.
+誤字・タイプミスであることが明白なクエリの場合、ユーザーの意図に基づいて評価しましょう。ユーザーが入力したクエリと完全一致している必要はありません。
 
-For queries that are **not** obviously misspelled or mistyped, you should **respect the query as written,** and assume users are looking for results for the query as it is spelled.
+誤字・タイプミスであることが明白ではないクエリの場合、ユーザーが入力した通りのクエリを尊重し、ユーザーは入力した通りのクエリに関する検索結果を求めていると推定します。
 
-## Name Queries
+## 名前のクエリ
 
-Consider the query `john stuart`, English (US). There is a very famous Jon Stewart, the comedian and former host of a popular U.S. television show. However, we should not assume that the query `john stuart` has been misspelled. There are many people named John Stuart. We will respect the query as written and assume the user is looking for someone named "John Stuart."
+「john stuart」（英語・アメリカ）というクエリについて考える。有名なコメディアンで、以前アメリカの人気テレビ番組の司会だった「Jon Stewart」がいる。私たちは、「john stuart」がスペルミスであると推測してはいけない。「john stuart」という名前は多いので、クエリを尊重してユーザーは「john stuart」を探していると推測すべきだ。
 
-Query and Possible User Intents|Result Block and LP, Needs Met Rating, E‑A‑T Rating|Explanation
+クエリ・ユーザー所在地・ユーザーの意図|RB・LP・PQ評価・Needs Met評価|説明
 ---|---|---
-**Query:** <code>mich<span style="color: red">ea</span>l jordan</code>, English (US)<br><br>**User Location:** San Francisco, California<br><br>**User Intent:** There are many people named "Micheal Jordan."|![](../images/img750.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)![](../images/medium-narrow.jpg)|The page lists all members of the LinkedIn site named "Micheal Jordan." LinkedIn is a very popular social networking website for professionals in the U.S. This result would be very helpful for many or most users trying to find information about someone named "Micheal Jordan."
-*(Same as above.)*<br><br>Helpful results for more prominent people named Micheal Jordan should receive higher ratings than helpful results for less prominent people named Micheal Jordan.|![](../images/img753.jpg)<br>![needs met scale - moderately meets](../images/mm.jpg)![page quality scale - medium](../images/medium.jpg)|LinkedIn page for Mich<span style="color: red">ea</span>l Jordan, a facilities services professional in Atlanta, Georgia.
-*(Same as above.)*<br><br>Because Michael Jordan is such a famous athlete/celebrity, we will consider Michael Jordan to be a minor interpretation.|![](../images/img756.jpg)<br>![](../images/failsm+narrow.jpg)![page quality scale - high - wide range](../images/high-wide.jpg)|Michael Jordan's player profile page on the NBA basketball website.
+**クエリ：**<br><code>mich<span style="color: red">ea</span>l jordan</code><br>（英語・アメリカ）<br><br>**ユーザーの所在地：**<br>カリフォルニア州サンフランシスコ<br><br>**ユーザーの意図：**<br>「Micheal Jordan」という名前の人はたくさんいる。|![](../images/img750.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)![page quality scale - medium - narrow range](../images/medium-narrow.jpg)|このページには、LinkedInというサイトの“Micheal Jordan”という名前のすべてのメンバーが掲載されている。LinkedInは、アメリカの専門家向けの非常に人気のあるSNSである。この結果は、「Micheal Jordan」という名前の情報を見つけようとする多くのユーザーにとって非常に役に立つ。 "
+〃<br><br>**ユーザーの意図の続き：**<br>その中でも、有名な「Micheal Jordan」に関する、役に立つ検索結果には、比較的有名ではない「Micheal Jordan」に関するものよりも高い評価を付けること。|![](../images/img753.jpg)<br>![needs met scale - moderately meets](../images/mm.jpg)![page quality scale - medium](../images/medium.jpg)|ジョージア州アトランタの施設サービス専門家、マイケル・ジョーダンのLinkedIn　のページ。
+〃<br><br>**ユーザーの意図の続き：**<br>なぜなら、「Michael Jordan」は有名な選手/有名人であるため、「Michael Jordan」はマイナーな解釈と見なされる。|![](../images/img756.jpg)<br>![](../images/failsm+narrow.jpg)![page quality scale - high - wide range](../images/high-wide.jpg)|NBAバスケットボウルのWebサイトのマイケル・ジョーダンの選手プロフィールページだ。

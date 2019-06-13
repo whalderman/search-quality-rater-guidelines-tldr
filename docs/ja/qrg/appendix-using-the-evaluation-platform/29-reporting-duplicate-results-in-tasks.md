@@ -1,76 +1,76 @@
-# Reporting Duplicate Results in Tasks
+# 重複するLPの報告
 
-In some rating tasks, you may be asked to determine whether any results are Duplicates (dupes). This section provides guidance and examples of how to report duplicate results In Needs Met (NM) rating tasks.
+いくつかの評価タスクでは、結果が重複であるかどうかを判断するよう求められる。このセクションでは、Needs Met評価タスクで重複結果を報告する方法のガイダンスと例を示す。
 
-## Pre-Identified Duplicates
+## 検出済みの重複ページ
 
-Some duplicate results are automatically detected and will be pre-identified for you. They will be annotated by the text
-"**Same as**..." right below the slider and above the result block.
+一部の重複した結果が自動的に検出され、事前に特定される。それらは、スライダーの真下で、RB上に、テキスト「**Same as**...」で注釈が付けられる。
 
-This is what these pre-identified dupes look like:
+これは以前に確認された重複。
 
-Left Side|Right Side
+左側|右側
 ---|---
 ![](../images/img862.jpg)|![](../images/img863.jpg)
 
-**Please note:** You cannot unselect dupes that have been automatically detected and pre-identified.
+**注：** 自動的に検出され、事前に識別されたdupesを選択することはできない。
 
-## Rater-Identified Duplicates
+## 評価者が確認した重複
 
-You are also asked to help identify duplicate results that have not been automatically detected. Please mark two results as dupes if they have essentially the same content on the main landing page AND you would not want a search engine to return both results for the query.
+評価者の皆さんも、自動検出されていない重複した検索結果を発見してください。LPのコンテンツが本質的に同一で、「1つのクエリに対して、検索エンジンがこれらのページを両方とも表示する必要はない」と思う場合は、両者が重複であることを報告してください。
 
-Please note that in Needs Met rating and other query-based tasks, dupe identification is **query-dependent**.
+本プロジェクトにおいて、重複の検出は**クエリに依存する**点に注意しましょう。
 
-- **Specific queries:** For queries where the user is looking for a specific piece of content (such as queries looking for song lyrics, queries looking for a specific article, etc.), obtaining that piece of content from **different sites** could be helpful for users to verify the information, so they should not be rated as dupes.
+- **特定のクエリ：** ユーザーが「歌詞」「特定の記事」等の特定のコンテンツを求めている場合、そうしたコンテンツを複数のWebサイトから入手することは情報検証に役立つので、**重複だとは判定しない**でください。
 
-- **Broad queries:** If the query is broad, then returning the same piece of content is not what the user is looking for, and hence those results **should** be flagged as dupes. Results may be considered dupes even if they have minor content differences on the page (such as different ads, images, or related links).
+- **広範囲のクエリ：** クエリの意図が幅広い場合、ユーザーは同一のコンテンツを複数表示してほしいわけではないので、これらの検索結果は**重複である**と判定してください。広告・画像・リンクなどの些細な点に相違があっても、重複になる点に注意しましょう。
 
-Please identify dupes both within the same side and across sides. Even for cross-side results, you should still ask yourself the question, "Would users want to see both results if they were returned by the same search engine?"
+タスク画面の左右を問わずに、重複しているかを確認しましょう。左右に分かれて重複が存在する場合でも、「同一の検索エンジンを使った場合、これらのページを両方とも見たいと思うか」という点を検討しましょう。
 
-**Note:** If two result blocks have very different types of content or very different appearances, do not mark them as duplicates even if they have the same landing page URL. For example, these two blocks should not be marked as duplicates of each other.
+**注：** もし２つのRBがタイプや見た目の異なるコンテンツを持っていたら、同じURLのLPであったとしても重複であるとしないようにする。例えばこれらのブロックはお互い重複しているとマークすべきでない。
 
 |||
 -|-
 ![](../images/img865.jpg)|![](../images/img866.jpg)
 
-## Reporting Duplicate Results
+## 重複結果を報告する
 
-When you notice that the results in two or more result blocks are duplicates, please click on the **Select Dupe** link at the top of one of the results. The current result (the result you clicked on) will be highlighted in red at the top of the block.
+重複した検索結果を発見した場合、どちらかの結果の上部にある「Select Dupe」リンクをクリックします。クリックした検索結果の上部が、赤くマーカーを引いたように強調表示されます。
 
 ![](../images/img868.jpg)
 
-You can then check results that are duplicates of the current result, and the checked results will be highlighted in yellow. You must select the "**Dupe of**..." button.
+先ほどクリックした検索結果と重複している検索結果にチェックを入れることができるようになり、チェックされた検索結果全体が黄色で強調表示されます。右上の「**Dupe of**...」ボタンを選択してください。
 
 ![](../images/img869.jpg)
 
-The duplicate results that you checked will be annotated by "**Dupe of**..." text at the top of the block. After selecting all dupes, click on the **finish selecting dupes** link to return to the normal rating mode. The link's name will change back to **Select Dupes**, and you will be able to report other sets of dupes, if there are any. If you change your mind, you can always uncheck a result.
+チェックを入れた検索結果の上部には「**Dupe of**...」という説明が入ります。すべての重複にチェックを入れたら、「**finish selecting dupes**」を押すと、通常の評価業務モードに戻り、他の重複結果がある場合は追加で報告することもできます。チェックした内容は、いつでも取り消すことができます。
 
-<span style="color: red">**Dupes**</span>
+<span style="color: red">**重複**</span>
 
-QUERY: [choosing and installing a motorcycle battery]
+クエリ：`バイク用バッテリーの選択と取付け`
 
 URL 1: [http://www.caimag.com/wordpress/2010/03/06/motorcycle-battery-how-to-choose-install](http://www.caimag.com/wordpress/2010/03/06/motorcycle-battery-how-to-choose-install)
 
 URL 2: [http://www.articlesbase.com/motorcycles-articles/choosing-and-installing-a-motorcycle-battery-47798.html](http://www.articlesbase.com/motorcycles-articles/choosing-and-installing-a-motorcycle-battery-47798.html)
 
-**Reason:** Both of these results display the same article (which also appears on many other pages on the web). The only real difference between the landing pages are the Ads displayed around the article. The query is broad enough that users would **not** benefit by search engines returning more than one of these results.
+**理由：** 全く同じ記事が表示される（Web上には、これと同一の記事を掲載したページが多数ある）。両者の違いは、記事の周りに
+表示される広告だけ。クエリの意図もそれなりに広く、検索エンジンが重複結果を複数表示してもユーザーの役に立たない。
 
 <span style="color: red">**Dupes**</span>
 
-QUERY: [jason castro]
+クエリ：`ジェイソン・カストロ`
 
 URL 1: [http://www.myspace.com/jasoncastromusic](http://www.myspace.com/jasoncastromusic)
 
 URL 2: [http://www.myspace.com/jasoncastromusic?MyToken=503599bf-01cf-4427-bdf4-d63920c107f9](http://www.myspace.com/jasoncastromusic?MyToken=503599bf-01cf-4427-bdf4-d63920c107f9)
 
-**Reason:** These two results have the same landing page, even though the URLs are different. Users would **not** benefit by search engines returning both results.
+**理由：** URLは異なるが、LPは同一ページ。検索エンジンが重複結果を複数表示してもユーザーの役に立たない。
 
 <span style="color: green">**Not Dupes**</span>
 
-QUERY: [material girl lyrics]
+クエリ：`material girl 歌詞`
 
 URL 1: [http://www.lyricsfreak.com/m/madonna/material+girl_20086925.html](http://www.lyricsfreak.com/m/madonna/material+girl_20086925.html)
 
 URL 2: [http://www.lyrics007.com/Madonna%20Lyrics/Material%20Girl%20Lyrics.html](http://www.lyrics007.com/Madonna%20Lyrics/Material%20Girl%20Lyrics.html)
 
-**Reason:** Even though both pages display the lyrics to the song "Material Girl," users would probably want to have the option to visit both pages so that they could verify the accuracy of the lyrics. Users could benefit by search engines returning more than one page with the lyrics to the song.
+**理由：** 両方ともマドンナの「Material Girl」の歌詞を表示しているが、ユーザーは両方とも訪問して歌詞の正しさを確かめたいと思うかもしれない。検索エンジンがこの歌詞を掲載したページを複数表示すると、ユーザーの役に立つ。

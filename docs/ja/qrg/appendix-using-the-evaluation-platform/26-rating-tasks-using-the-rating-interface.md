@@ -1,16 +1,16 @@
-# Rating Tasks Using the Rating Interface
+# 評価インターフェイスを使った評価タスク
 
-Here is a general outline of the steps you should follow upon acquiring a task:
+タスクを習得するに際し、あなたが従うべきステップの一般的な概要がここにある。
 
-1. **Read the instructions:** Pay close attention to any project-specific instructions and examples if provided.
-2. **Fill out the task:** Assign ratings to result blocks, provide comments, answer questions, etc. (as applicable).
-3. **Check your work:** Verify that you entered your ratings as intended. Additionally, make sure that you provided a esponse to all required questions.
-4. **Submit the task:** Click the "Submit" button at the end of the page to submit the task and continue rating. lternatively, click "Submit and Stop Rating" to submit the task and return to the Evaluation Platform homepage.
+1. **指示を読む：** 供給されたかどうかプロジェクト特有の指示と例に注意を払いなさい。
+2. **タスクに書き込む：** RBに評価を割り当てる、コメントを供給する、質問に答える等（適用できるように）。
+3. **仕事をチェックする：** あなたの意図通りに入力されたかを実証する。加えて、必須の質問に答えているかを確かめなさい。
+4. **タスクを提出する：** 評価を続けてタスクを提出するために、最後のページの“提出ボタン”をクリックする。あるいは、Evaluation Platform homepageに戻ってタスクを提出するために“評価をやめて提出する”をクリックする。
 
-Additionally, here are a few general things to keep in mind when rating tasks:
+加えて、タスク評価を覚えておくための一般的なことがいくつかここにある。
 
-- **Result blocks are sometimes slow to load:** Before assigning any ratings, please scan the task page to make sure that all result blocks have loaded. Please note that result blocks may be slow to load and/or that the task page may need reloading if there are empty result blocks. If the result blocks fail to load after refreshing a few times, please release the task by following the instructions in Section 27. below.
+- **RBは時々ロードが遅くなる：** 評価を割り振る前に、すべてのRBがロードされたかを確かめるためにページをスキャンしてください。もしRBに何もなければ、リザルトブックの読み込みが遅くなったり、再読み込みする必要がある。更新した後、RBがロードに失敗したら、[次のセクション](./27-releasing-tasks)（タスクをリリースする）に指示に従ってタスクをリリースしなさい。
 
-- **Sometimes a side will not have any result blocks:** If one side displays the message "This side did not generate any results," please do not release the task.
+- **片方のタスクにRBが全く表示されないことがある：** 片方のディスプレイに「This side did not generate any results」と表示されても、タスクをリリースしない。
 
-- **Do not refresh the task page after assigning ratings:** If you refresh the page after assigning ratings, you will lose them and they will have to be entered again.
+- **評価を適用した後、タスクページを再読み込みしない：** 評価の適用後に再読み込みを行うと、適用した評価が消えるので、もう一度入力しなければならない。

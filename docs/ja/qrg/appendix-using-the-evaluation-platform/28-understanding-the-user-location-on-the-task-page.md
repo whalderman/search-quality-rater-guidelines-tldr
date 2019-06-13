@@ -1,10 +1,10 @@
-# Understanding the User Location on the Task Page
+# タスクページのユーザーロケーションを理解する
 
-The location of the user should be inferred from the map provided. The map can help clarify where the user was physically located when the query was issued.
+多くのタスクでは、クエリの下にユーザーの位置が表示される。また、地図にもユーザーがクエリを実行したときの位置が表示され、さらに正確な位置を知ることができる。
 
-On the map, the user location can be precise (blue dot), approximate (blue rectangle or circle), or missing altogether if the user location is unknown. Here are some examples of what you might see at the top of the task:
+地図には正確な現在地（青い点）が表示されることもあれば、おおまかな現在地（青い長方形）が表示されることもある。
 
 |||||
 -|-|-|-
-![](../images/img856.jpg)|A precise user location is represented by a blue dot:<br>![](../images/img857.jpg)|![](../images/img859.jpg)|Sometimes you will see a shaded blue circle around the blue dot. The blue dot is the user's most likely location, but it is possible they are located anywhere within the larger shaded blue region.
-![](../images/img860.jpg)|The user can be located anywhere within the blue rectangle on the map.|![](../images/img861.jpg)|The map includes a response pin, which is a marker for a visit-in-person result block in the task. If there are three visit-in-person result blocks in the task, there should be three response pins on the map.
+![](../images/img856.jpg)|画面中央の青い点がユーザーの正確な所在地を表しています。<br>![](../images/img857.jpg)|![](../images/img859.jpg)|このように青い半透明の円が表示された場合、ユーザーは青い点にいる可能性が高いですが、円内の別の部分にいる可能性ちあります。
+![](../images/img860.jpg)|青い長方形がユーザーのおおまかな所在地を表しています。|![](../images/img861.jpg)|この地図にはVisit-in-Personリザルトブロックのマーカーであるレスポンスピンが表示されています。タスクにVisit-in-Personリザルトブロックが3件表示される場合、レスポンスピンも3本表示されます。

@@ -1,9 +1,9 @@
-# Simplified Needs Met Tasks
+# 簡略化されたNMタスク
 
-Some Needs Met rating tasks may not require ratings for all blocks. In these blocks, the Needs Met and E‑A‑T rating scales will be greyed out and annotated with the text "No Rating Required".
+NM評価はすべてのブロックの評価を必要としないかもしれない。これらのブロックでは、NMおよびEAT評価尺度はグレー表示され、テキストに「No Rating Required」と注釈が付けられる。
 
-The greyed-out results (sometimes referred to as "contextual results") are shown to help you understand the query and inform your ratings. You can click on them when you feel like they will be helpful in determining your ratings.
+グレーアウトの結果（「コンテキスト上の結果」とも呼ばれます）は、クエリを理解して評価を知らせるのに役立つ。それらがあなたの評価を決めるのに役に立つと感じると、それをクリックできる。
 
-Here is an example:
+例：
 
 ![](../images/img871.jpg)

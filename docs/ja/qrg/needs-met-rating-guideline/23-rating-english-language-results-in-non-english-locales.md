@@ -1,58 +1,58 @@
-# Rating English Language Results in Non-English Locales
+# 非英語ロケールでの英語の結果の評価
 
-<span style="color: red">**The following rating guidance is for raters in non-English locales. You may stop reading this section if your task language is English, such as English (US), English (IN), English (NG), etc.**</span>
+<span style="color: red">**以下の評価ガイダンスは非英語ロケールでの評価者のためのものである。もしあなたの仕事の言語が英語（アメリカやインド、ニュージーランド）であれば、このセクションを読むことをやめてもよい。**</span>
 
-Your Needs Met ratings should reflect how helpful the result is for users in your locale. When the query is in the language of your locale, assume that users want results in that language. We know that **you** can read English (you are reading this document!), but you should only give high Needs Met ratings to English results if users in your locale would expect or want them for a particular query. Unless requested by the query, English results should be considered useless if most users in the locale can't read them.
+あなたのロケールでNM評価が有益な結果をもたらすことを示すべきであるのはユーザーのためである。クエリがあなたのロケールの言語である時、ユーザーはその言語の結果が欲しいと推測できる。We know that **you** can read English (you are reading this document!), but you should only give high Needs Met ratings to English results if users in your locale would expect or want them for a particular query. Unless requested by the query, English results should be considered useless if most users in the locale can't read them.
 
-However, rating can be more difficult when the query includes English names, words, etc., or when it's unclear whether English results would be satisfying for a particular query. Please use your judgment and knowledge of your locale to determine the appropriate rating.
+しかしながら、クエリが英語の名前や言葉を含む時や英語の結果が特定のクエリに対して十分かどうかが不明瞭な時は評価がより難しくなる。あなたのロケールで適切な評価を判断するためにあなたの意見や知識を使うべきである。
 
-**Important:** Please keep in mind that every locale will have unique considerations regarding the number and variety of languages (such as official languages, regional languages, local dialects, etc.), writing systems, and keyboard input languages commonly in use. While this guideline may not include examples for your locale, it is important that you represent users in your task location and culture in order to interpret the query and rate results. When in doubt, please assume that users would prefer results in the task language unless the query clearly indicates otherwise.
+**重要：** 数字や多種の言語（公用語や地方の言葉、方言等）、ライティングシステム、一般に使用された言葉でのキーボード入力などに関して特有のものであるか検討することを心に留めておきなさい。このガイドラインはあなたのロケールの例に含まれないかもしれないと同時に、クエリとレート結果を説明するために仕事の場所と文化をユーザーに示すことが重要である。迷った時は、クエリが明確な別の方法を示しているのでなければ、ユーザーは仕事言葉を好むと考えるべきだ。
 
-## Examples of English (and Non-English) Results in Non-English Locales
+## 非英語ロケールでの英語（非英語）の結果の例
 
-The section includes some examples using Hindi (IN) and Korean (KR) as the locales. In both cases, we cannot assume that users in these locales—i.e., Hindi-speaking users in India, or Korean-speaking users in Korea—are able to read English. Unless most users in the locale would be satisfied by English results for the query, we will consider them unhelpful or even useless (**FailsM**).
+このセクションではロケールとしてヒンディー語（IN）と韓国語（KR）を使った例をいくつか含む。両方のケースで、これらのロケールのユーザー（例えばインドのヒンディー語を話すユーザーや韓国の韓国語を話すユーザー）が英語を読めないとする。そのロケールのユーザーがクエリの英語の結果に満足しない限り、役に立たないか無益であると見なすだろう（**FailsM**）。
 
-Query and User Intent|Result Block and LP, Needs Met Rating|Explanation
+クエリ・ユーザーの所在地・ユーザーの意図|RB・LP・Needs Met評価|説明
 ---|---|---
-**Query:** `राजा रव वमा`<br><br>**Locale:** Hindi (IN)<br><br>**User Location:** Delhi, India<br><br>**User Intent:** The user wants to find information about राजा रव वमा, an Indian artist.|![](../images/img811.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)|This Hindi language Wikipedia page on **राजा रव वमा** is very helpful for Hindi (IN) users.
-*(Same as above.)*|![](../images/img813.jpg)<br>![](../images/failsm-narrow.jpg)|This English Wikipedia page about **राजा रव वमा** has similar content to the Hindi Wikipedia page. Although there are some helpful images on the page, few Hindi users would be able to read this page.
-**Query:** `버락 오바마`<br><br>**Locale:** Korean (KR)<br><br>**User Location:** Seoul, Korea<br><br>**User Intent:** 버락 오바마 is Barack Obama in Korean, so the user wants to find information about Barack Obama.|![](../images/img815.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)|This Korean language Wikipedia page on Barack Obama is very helpful for Korean (KR) users.
-*(Same as above.)*|![](../images/img817.jpg)<br>![](../images/failsm-narrow.jpg)|This English Wikipedia page about Barack Obama has similar content to the Korean Wikipedia page. Although there are some helpful images on the page, very few Korean users would be able to read this page.
+**クエリ：**<br>`राजा रव वमा`<br><br>**ロケール：**<br>ヒンディー語（IN）<br><br>**ユーザーの所在地：**<br>インド デリー<br><br>**ユーザーの意図：**<br>ユーザーはインドの芸術家「राजार रववा」について知りたいと思っています。|![](../images/img811.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)|「राजार रवमा」に関するこのヒンディー語ウィキペディアページは、ヒンディー語（IN）ユーザーにとても役立ちます。
+〃|![](../images/img813.jpg)<br>![needs met scale - fails to meet - narrow range](../images/failsm-narrow.jpg)|英語のウィキペディアはヒンディー語と同じコンテンツである。役に立つ画像はいくつかあるが、ほとんどのヒンディー語ユーザーは読めない。
+**クエリ：**<br>`버락 오바마`<br><br>**ロケール：**<br>韓国語（KR）<br><br>**ユーザーの所在地：**<br>韓国 ソウル<br><br>**ユーザーの意図：**<br>「버락  오바마」は韓国語でバラク・オバマであり、ユーザーは情報を見つけたい。|![](../images/img815.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)|バラク・オバマについての韓国語のウィキペディアのページは韓国語ユーザーにとって便利だ。
+〃|![](../images/img817.jpg)<br>![needs met scale - fails to meet - narrow range](../images/failsm-narrow.jpg)|バラク・オバマについての英語のウィキペディアは韓国語と同じコンテンツである。役に立つ画像はいくつかあるが、このページを読める韓国語ユーザはほとんどいない。
 
-Here are two examples where the query includes proper nouns typed in Latin script, such as famous people, places, titles of books or films, etc. For these queries, users would prefer to see results in the language of their locale.
+ここに有名人や場所、本や映画のタイトル等のラテン語の固有名詞がクエリに含まれる２つの例がある。これらのクエリでは、ユーザーが彼らのロケールの言語での結果見ることを好む。
 
-Query and User Intent|Result Block and LP, Needs Met Rating|Explanation
+クエリ・ユーザーの所在地・ユーザーの意図|RB・LP・Needs Met評価|説明
 ---|---|---
-**Query:** `ronaldo`<br><br>**Locale:** Hindi (IN)<br><br>**User Location:** Delhi, India<br><br>**User Intent:** The user wants to find information about Cristiano Ronaldo, a famous footballer.|![](../images/img820.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)|Although the query was typed in Latin script, most Hindi users would want to see information about this person in Hindi. This Hindi language Wikipedia page on Cristiano Ronaldo is very helpful for Hindi IN) users.
-*(Same as above.)*|![](../images/img822.jpg)<br>![](../images/failsm-narrow.jpg)|This English Wikipedia page about Cristiano Ronaldo has similar content to the Hindi Wikipedia page. Although there are some helpful images on the page, few Hindi users would be able to read this page.
-**Query:** `titanic 1997`<br><br>**Locale:** Korean (KR)<br><br>**User Location:** Seoul, Korea<br><br>**User Intent:** The user wants to purchase a DVD or find information about the movie "Titanic," released in 1997.|![](../images/img824.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)|Although the query was typed in Latin script, most Korean users would expect to see Korean language reviews or Korean stores for purchasing the movie. This Korean result on a Korean website is very helpful.
-*(Same as above.)*|![](../images/img826.jpg)<br>![](../images/failsm-narrow.jpg)|This English language landing page has helpful content for users who can read English. Although there are some helpful images on the page, very few Korean users would be able to read this page.
+**クエリ：**<br>`ronaldo`<br><br>**ロケール：**<br>ヒンディー語（IN）<br><br>**ユーザーの所在地：**<br>インド デリー<br><br>**ユーザーの意図：**<br>ユーザーは有名なサッカー選手であるクリスチアーノ・ロナウドの情報を見つけたい。|![](../images/img820.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)|クエリはラテン文字で書かれているが、多くのヒンディー語ユーザーはヒンディー語での人物の情報が欲しいだろう。ヒンディー語でのウィキペディアのページはヒンディー語ユーザーにとって便利だ。
+〃|![](../images/img822.jpg)<br>![needs met scale - fails to meet - narrow range](../images/failsm-narrow.jpg)|英語のウィキペディアのページはヒンディー語のページと同じコンテンツである。役立つ画像はあるが、このページを読むことのできるヒンディー語ユーザーはほとんどいない。
+**クエリ：**<br>`titanic 1997`<br><br>**ロケール：**<br>韓国語（KR）<br><br>**ユーザーの所在地：**<br>韓国 ソウル<br><br>**ユーザーの意図：**<br>ユーザーは1997年にリリースされたタイタニックのDVDの購入か情報を見つけたい。|![](../images/img824.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)|クエリはラテン語で書かれているが、多くの韓国語ユーザーはコリア語のレビューか韓国語のストーリーの映画を買いたい。この韓国語の検索結果は便利だ。
+〃|![](../images/img826.jpg)<br>![needs met scale - fails to meet - narrow range](../images/failsm-narrow.jpg)|英語で書かれたLPは英語を読める人にとって便利だ。役立つ画像はあるが、このページを読むことのできる韓国語ユーザーはほとんどいない。
 
-Here are two additional examples where the query was typed in Latin script (including some English words), yet users would still prefer to see results in the language of their locale.
+ここにラテン語で書かれたクエリの例を２つ追加する（英語を含む）。さらにユーザーはまだ彼らのロケールの言語で見ることを好む。
 
-Query and User Intent|Result Block and LP, Needs Met Rating|Explanation
+クエリ・ユーザーの所在地・ユーザーの意図|RB・LP・Needs Met評価|説明
 ---|---|---
-**Query:** `mahila cricket sri lanka ka match`<br><br>**Locale:** Hindi (IN)<br><br>**User Location:** Delhi, India<br><br>**User Intent:** The user wants to find information about a women's cricket match against Sri Lanka on February 17, 2016.|![](../images/img829.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)|Although the query includes some English words, it is a Hindi query typed in Latin script. Most Hindi users would expect to see Hindi results, like this helpful article.
-*(Same as above.)*|![](../images/img831.jpg)<br>![](../images/failsm-narrow.jpg)|This English language landing page has helpful content for users who can read English, but few Hindi (IN) users would be able to read this page.
-**Query:** `samsung tablet`<br><br>**Locale:** Korean (KR)<br><br>**User Location:** Seoul, Korea<br><br>**User Intent:** The user wants to purchase, find information, or go to the Galaxy tablet page on the Samsung website.|![](../images/img833.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)|Although the query was typed in Latin script and includes some English words, most Korean users would expect to see the Korean page on the Samsung website. This Korean result is very helpful.
-*(Same as above.)*|![](../images/img835.jpg)<br>![](../images/failsm-narrow.jpg)|This English language page on the website of Samsung, the company that makes this tablet, has helpful content. Although there are some helpful images on the page, very few Korean users would be able to read this page.
+**クエリ：**<br>`mahila cricket sri lanka ka match`<br><br>**ロケール：**<br>ヒンディー語（IN）<br><br>**ユーザーの所在地：**<br>インド デリー<br><br>**ユーザーの意図：**<br>ユーザーは2016年2月17日の女子スリランカ代表とのクリケットの試合の情報が欲しい。|![](../images/img829.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)|クエリは英語を含んでいるが、ヒンディー語のクエリだ。多くのヒンディー語ユーザーはヒンディー語での結果を期待しており、この記事は便利である。
+〃|![](../images/img831.jpg)<br>![needs met scale - fails to meet - narrow range](../images/failsm-narrow.jpg)|英語のLPは英語を読むことができるユーザーにとって便利なコンテンツだ。しかしこのページを読むことができるヒンディー語ユーザーはほとんどいない。
+**クエリ：**<br>`samsung tablet`<br><br>**ロケール：**<br>韓国語（KR）<br><br>**ユーザーの所在地：**<br>韓国 ソウル<br><br>**ユーザーの意図：**<br>情報を見つけて購入したいか、サムスンのGalaxy Tabletのページへいきたい。|![](../images/img833.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)|英語を一部含むクエリだが、多くの韓国語ユーザーはサムスンのWebサイトの韓国語ページを期待している。この韓国語の結果ページは便利だ。
+〃|![](../images/img835.jpg)<br>![needs met scale - fails to meet - narrow range](../images/failsm-narrow.jpg)|サムスンの英語のWebサイトのページは便利なコンテンツや画像があるが、このページを読むことのできる韓国語ユーザーはほとんどいない。
 
-On the other hand, there may be queries where the needs of most users would actually be satisfied by English language results, even if the query itself is typed in the task language.
+一方、たとえクエリ自体が仕事言葉で書かれていても、英語の結果によって多くのユーザーを満足させるクエリがあるかもしれない。
 
-For example, for queries about global businesses and organizations, users may expect or want to visit the English language version of the business/organization's official website in some locales. Similarly, for queries seeking technical information such as manufacturer part numbers, product specs, scientific or chemical formulas, etc., the answer to the query may be typically expressed in the English language in some locales.
+例えば、グローバルビジネスや組織についてのクエリはいくつかのロケールでユーザーは英語版のビジネス/組織オフィシャルWebサイトに飛びたいかもしれない。同時に、クエリは製造番号や製品仕様、科学的、化学的な公式などを探している。クエリに対する回答は、通常、一部の地域では英語で表記される場合がある。
 
-For these queries, users may expect or want to see English results in order to satisfy their need. Please use your judgment and knowledge of your locale to determine the appropriate rating.
+これらのクエリでは、ユーザーのニーズを満足させるためにユーザーは英語の結果を見たいかもしれない。あなたのロケールで適切な評価を判断するためにあなたの意見や知識を使いなさい。
 
-Query and User Intent|Result Block and LP, Needs Met Rating|Explanation
+クエリ・ユーザーの所在地・ユーザーの意図|RB・LP・Needs Met評価|説明
 ---|---|---
-**Query:** `हावड वेबसाइट`<br><br>**Locale:** Hindi (IN)<br><br>**User Location:** Delhi, India<br><br>**User Intent:** हावड वेबसाइट is "Harvard website" in Hindi. Users want to go to the official website of Harvard University, which is a well-known research university in Cambridge, Massachusetts.|![](../images/img838.jpg)<br>![needs met scale - fully meets](../images/fullym.jpg)|This is the official website of Harvard University. Even though the query was typed in Hindi, this English website is clearly what users are looking for. Users would be fully satisfied by this result.
-**Query:** `시스코 카탈리스트 스위치 IOS 복원하기`<br><br>**Locale:** Korean (KR)<br><br>**User Location:** Seoul, Korea<br><br>**User Intent:** This Korean query can be translated as "recovering IOS on Cisco Catalyst switches". The user wants to find out how to restore the IOS operating system on a Cisco Catalyst switch, which is a specific brand/model of computer networking device.|![](../images/img840.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)|This article comes from a blog that contains lots of technical information and troubleshooting tips about IT operations and programming. The landing page provides step-by-step instructions in Korean, along with the exact commands in English that users would need to type into a console in order to recover the operating system for the queried device. This tutorial would be very helpful and easy to follow for Korean users who are familiar with this type of networking device.
+**クエリ：**<br>`हावड वेबसाइट`<br><br>**ロケール：**<br>ヒンディー語（IN）<br><br>**ユーザーの所在地：**<br>インド デリー<br><br>**ユーザーの意図：**<br>「हावड वेबसाइट」はヒンディー語のハーバードのWebサイトだ。ユーザーはマサチューセッツのケンブリッジにあるハーバード大学の公式サイトへいきたい。|![](../images/img838.jpg)<br>![needs met scale - fully meets](../images/fullym.jpg)|これはハーバード大学の公式Webサイトだ。クエリはヒンディー語で書かれているが、ユーザーが何を探していることを明確にした英語サイトだ。ユーザーはこの結果にとても満足するだろう。
+**クエリ：**<br>`시스코 카탈리스트 스위치 IOS 복원하기`<br><br>**ロケール：**<br>韓国語（KR）<br><br>**ユーザーの所在地：**<br>韓国 ソウル<br><br>**ユーザーの意図：**<br>この韓国語のクエリはCisco Catalyst switchのiOSを回復させることを説明している。ユーザーはコンピューターネットワーキングデバイスの特定のブランド/モデルのCisco Catalyst switchのiOSオペレーティングシステム修復方法を見つけたい。|![](../images/img840.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)|これはITオペレーションとプログラビングについてのトラブルシューティングのヒントとテクニカル情報を多くもったブログからできている。リンク先ページには、韓国語で手順が書いてあり、英語の正確なコマンドをコンソールに入力する必要があり、操作を回復するために、システムを検索する。このチュートリアルはネットワーキングデバイスを熟知している韓国語ユーザーにとって簡単についていくことができとても便利だ。
 
-Finally, in some locales, English is one of the official languages or a commonly spoken language. In these locales, English websites are easy to use and could be helpful, depending on the query.
+最後に、いくつかのロケールで、英語は公式で、一般的に話される言語の1つである。これらのロケールでは、クエリによっては英語のWebサイトは使うことは簡単で便利だ。
 
-For example, the Singapore government recognizes four official languages: English, Malay, Chinese, and Tamil, but English is the first and most dominant language in Singapore.
+例えば、シンガポール政府は４つの公式言語:英語、マレー語、中国語とタミル語を承認しているが、シンガポールで英語は一番重要で最も有力な言語だ。
 
-Query and User Intent|Result Block and LP, Needs Met Rating|Explanation
+クエリ・ユーザーの所在地・ユーザーの意図|RB・LP・Needs Met評価|説明
 ---|---|---
-**Query:** `barack obama`<br><br>**Locale:** English (SG)<br><br>**User Location:** Singapore, Singapore<br><br>**User Intent:** Find information about Barack Obama.|![](../images/img843.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)|This Wikipedia page in English about Obama would be very helpful to users in Singapore.
-*(Same as above.)*|![](../images/img845.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)|This Wikipedia page in Chinese about Obama would also be very helpful to users in Singapore.
+**クエリ：**<br>`barack obama`<br><br>**ロケール：**<br>英語（SG）<br><br>**ユーザーの所在地：**<br>シンガポール シンガポール<br><br>**ユーザーの意図：**<br>バラク・オバマについての情報を見つける|![](../images/img843.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)|オバマについて英語で書かれたウィキペディアのページはシンガポールのユーザーにとってとても便利だ。
+〃|![](../images/img845.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)|オバマについて中国語で書かれたウィキペディアのページもシンガポールのユーザーにとってとても便利だ。

@@ -1,24 +1,24 @@
-# Rating Visit-in-Person Intent Queries
+# Visit-in-Personクエリの評価
 
-When there is a user location for a visit-in-person intent query and a location has not been specified in the query itself, such as `chinese restaurants` with a user location of **Boston, MA**, results in or near the user location are the most helpful.
+Visit-in-Person意図のクエリの中には、ユーザーの場所が**マサチューセッツ州のボストン**で、クエリが`中華　レストラン`のように、クエリ自体は地域を指定していないが、ユーザーの場所が分かっている場合があり、そのときはユーザーの場所の近くにある検索結果が一番役に立つ。
 
-How close is "near"? The type of business and/or entity should be taken into consideration when deciding if the distance of the visit-in-person result is too far. For example, most people are not willing to travel very far for a gas station, coffee shop, supermarket, etc. Those are types of businesses that most users expect to find nearby.
+近いとはどのくらい近いのか、訪問者の結果の距離が遠すぎるかどうかを決定する際には、事業または事業体のタイプを考慮する必要がある。例えば、多く人は遠くのガソリンスタンド、喫茶店、スーパーマーケットへは行かない。これらのタイプのビジネスでは多くのユーザーは近くを期待している。
 
-However, users might be willing to travel a little farther for certain kinds of visit-in-person results: doctors' offices, libraries, specific types of restaurants, public facilities like swimming pools, hiking trails in open spaces, etc. Sometimes users may accept results that are even farther away, such as a very specialized medical clinic.
+しかしながら、病院、図書館、限定的なタイプのレストラン、プールなどの公共施設、ハイキングコースのように遠くても行こうと思うユーザーがいるかもしれないビジネスもある。専門病院などの場合、もっと遠い検索結果でも訪問しようと思うユーザーもいるかもしれない。
 
-In other words, when we say users are looking for results "nearby," the word "nearby" can mean different distances for different queries. As always, please use your judgment.
+言い換えると、ユーザーが近くの検索結果を探しているとき、近くが指している距離はクエリによって異なる。いつものように、あなたの判断で使いなさい。
 
-## Examples Where User Location Does (and Does Not) Matter
+## ユーザー所在地が影響する（しない）例
 
-As previously mentioned, the user location may not always change our understanding of the query and user intent. Below is one example where user location plays an important role, and two examples where user location does not matter.
+前述のように、ユーザーの所在地はいつもクエリ・意図の解釈に影響するわけではない。以下の例は、1つ目は所在地が影響する場合、残りの2つは所在地が関係ない例である。
 
-Query and User Intent|Result Block and LP, Needs Met Rating|Explanation
+クエリ・ユーザー所在地・ユーザーの意図|RB・LP・Needs Met評価|説明
 ---|---|---
-**Query:** `minimum wage rate`<br><br>**User Location:** Wichita, Kansas<br><br>**User Intent:** Find out what the current minimum wage is. Different states in the U.S. have different minimum wage rates. Users might be interested in the minimum wage in their state and how it compares to other places.|![](../images/img792.jpg)<br>![needs met scale - fully meets](../images/fullym.jpg)|This SCRB displays the complete and correct answer prominently in the result block, in a way that is easy for users on mobile devices to read.<br><br>**Note:** Assume that the result shows current information for users at the time this example was written. If you were rating this task, you would need to verify that the minimum wage rate in this SCRB is accurate for the state of Kansas.
-*(Same as above.)*|![](../images/img794.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)|This is the official Kansas state website page on minimum wage for Kansas.
-*(Same as above.)*|![](../images/img796.jpg)<br>![](../images/sm-wide.jpg)|This LP has the minimum wage rates for all states. It is on the official U.S. Department of Labor website, which has high E‑A‑T on the topic, but it takes some work to find the information specific to Kansas.
-*(Same as above.)*|![](../images/img798.jpg)<br>![](../images/failsm-narrow.jpg)|This is the official California state website page on minimum wage for California.
-**Query:** `pictures of kittens`<br><br>**User Location:** Pittsburgh, Pennsylvania<br><br>**User Intent:** Users are looking for pictures of kittens. This is a non-visit-in-person intent query. There is no obvious user intent to find pictures of kittens in Pittsburgh. The user location plays no role in the Needs Met rating.|![](../images/img801.jpg)<br>![](../images/hm+.jpg)|The LP is a page full of kitten pictures. The result block has a nice assortment of pictures as well that would highly satisfy users.
-*(Same as above.)*|![](../images/img803.jpg)<br>![needs met scale - fails to meet](../images/failsm.jpg)|This is a local listing of pets needing homes in the Pittsburgh area. There are no pictures of any pets directly on this page and few pictures on the individual listings.
-**Query:** `google jobs`<br><br>**User Location:** Miami, Florida<br><br>**User Intent:** Users are looking for job opportunities at Google.|![](../images/img805.jpg)<br>![needs met scale - fails to meet](../images/failsm.jpg)|The user is looking for a job at Google and there is no information in this result block that will help the user explore job opportunities—it Fails to Meet the user need.
-*(Same as above.)*|![](../images/img807.jpg)<br>![needs met scale - fully meets](../images/fullym.jpg)|This is Google's official page on careers and jobs at Google, where users can search for currently open opportunities. This page is exactly what the user is looking for—it Fully Meets the user need.
+**クエリ：**<br>`minimum wage rate`<br><br>**ユーザーの所在地：**<br>カンザス州ウィチタ<br><br>**ユーザーの意図：**<br>現在の最低賃金を調べる。アメリカ国内の最低賃金は州によって違う。ユーザーは、自分の状態の最低賃金とそれが他の場所とどのように比較されているかに興味があるかもしれない。|![](../images/img792.jpg)<br>![needs met scale - fully meets](../images/fullym.jpg)|SCRBでは、一番目立つところに完全で正確な回答を、モバイルユーザーに分かりやすいように表示している。<br><br>**注：** この例が書かれた時点で、ユーザーに現在の情報が表示されたとする。この作業を評価した場合は、このSCRBの最低賃金率がカンザス州について正確であることを確認する必要がある。
+〃|![](../images/img794.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)|カンザス州の最低賃金に関するページである。
+〃|![](../images/img796.jpg)<br>![needs met scale - slightly meets - wide range](../images/sm-wide.jpg)|LPではアメリカの全州の最低賃金を掲載している。労働省公式サイトに掲載されており、このトピックについてのEATも高いが、カンザスに関する情報をこの中から見つけ出すのは手間がかかる。
+〃|![](../images/img798.jpg)<br>![needs met scale - fails to meet - narrow range](../images/failsm-narrow.jpg)|カリフォルニア州公式サイト内の、カリフォルニア州の最低賃金に関するページである。
+**クエリ：**<br>`pictures of kittens`<br><br>**ユーザーの所在地：**<br>ペンシルバニア州ピッツバーグ<br><br>**ユーザーの意図：**<br>ユーザーは子猫の写真を探している。Visit-in-Personがないクエリだ。ピッツバーグにある子猫の写真を見つけようとする明らかなユーザーの意図はない。ユーザーの所在地はNM評価では何役割も果たさない。|![](../images/img801.jpg)<br>![needs met scale - highly meets+](../images/hm+.jpg)|LPは、子猫の写真がいっぱいのページだ。RBには、ユーザーの満足度が高い写真がある。
+〃|![](../images/img803.jpg)<br>![needs met scale - fails to meet](../images/failsm.jpg)|これは、ピッツバーグエリアに家を必要とするペットのローカルリストだ。このページにペットの写真は一切なく、個々のリストにも写真がほとんどない。
+**クエリ：**<br>`google jobs`<br><br>**ユーザーの所在地：**<br>フロリダ州マイアミ<br><br>**ユーザーの意図：**<br>ユーザーはGoogleで就職の機会を探している。|![](../images/img805.jpg)<br>![needs met scale - fails to meet](../images/failsm.jpg)|ユーザーはGoogleで仕事を探していますが、この結果のブロックには、ユーザーが仕事の機会を掘り起こすのに役立つ情報はない。
+〃|![](../images/img807.jpg)<br>![needs met scale - fully meets](../images/fullym.jpg)|これはGoogleのキャリアと仕事についての公式ページで、ユーザーは現在開かれている機会を検索できる。このページはユーザーが探していたもので、Fully Meetsになる。

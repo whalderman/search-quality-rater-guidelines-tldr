@@ -1,35 +1,35 @@
-# Releasing Tasks
+# タスクをリリースする
 
-Most raters have difficulty rating some tasks now and then. Some queries are about highly technical topics (e.g., computer science or physics) or involve very specialized areas of interest (e.g., gaming or torrents).
+ほとんどの評価者は難しいタスクを抱えている。高度なテクニックについてのクエリ（コンピューター科学や物理学）や非常に特化した関心領域（例えば、ゲームやトレント）を必要とする。
 
-You will report problems and release tasks using the "Report a Problem / Release this Task" button in the rating interface. Here is what the "Report a Problem / Release this Task" button looks like:
+評価インターフェイスの「Report a Problem/Release this Task」を使って問題とリリースしたタスクを報告する。
 
 ![](../images/img850.jpg)
 
-Clicking the red button displays a menu with several reporting and release options:
+ボタンをクリックすると、以下のような報告・リリース用ホームが表示される。
 
 ![](../images/img851.jpg)
 
-Please note that changes are sometimes made to this menu, so it may not look exactly as it appears above.
+このメニューには変更が加えられることがあるので、上に表示されているように変更されることがある。
 
-In general, you should choose whichever option best describes your reason for releasing the task. If you are unsure, please select the closest option, or contact your employer/company for further guidance.
+一般的に、タスクをリリースした理由を最もよく記述しているオプションを選択すべきである。不明な点がある場合は、最も近いオプションを選択するか、詳細については雇用主や会社に問い合わせる。
 
 Please leave a comment explaining the release when it makes sense to provide additional information, for example, when you are releasing for a "technical problem."
 
-Here are some examples for the "lack expertise" and "technical problem" release options.
+ここにリリースオプションの欠落したノウハウと技術的な問題の例がある。
 
-**Lack expertise:** These queries require specialized knowledge and may be difficult for some raters.
+**専門知識の欠如：** 評価に専門知識が必要で、評価者によっては評価するのが難しいクエリです。
 
-Query|General Query Topic
+クエリ|クエリのトピック
 ---|---
-`cortisol secretion shows a blank pattern of secretion`|Scientific query
-`minecraft gun and vehicles 1.1 mod installer`|Gaming query
-`python pandas index like matrix`|Technical query
+`コルチゾール分泌がブランクパターンを呈する`|科学に関するクエリ
+`マインクラフト 銃 車 1.1 mod インストーラ`|ゲームに関するクエリ
+`Python Panda マトリックス インデックス`|技術的なクエリ
 
-**Technical problem:** These result blocks have question marks and other characters where text should be.
+**技術的な問題：** テキストが表示されるべき場所に、クエスチョンマークや他の意味不明な文字が記載されています。
 
 ![](../images/img853.jpg)
 
 ![](../images/img854.jpg)
 
-Note: Based on the number and/or type of tasks that you release, you may be asked to provide additional details about the reason for some of the releases.
+注： リリースしたタスクの量やタイプによっては、リリース原因の追加説明が必要になることがあります。
