@@ -34,7 +34,7 @@ PQグリッドはあなたの「メモ帳」となるよう設計されている
 
 **重要：** タスクURLをクリックすると、インタースティシャルページが表示されることがある。 MCに簡単にアクセスできる場合は、評価基準でこのページを評価対象に含めなくて良い。 ただし、インタースティシャルページでMCに到達するのが非常に難しい（または不可能な）場合は、Page Qualityを考慮する必要がある。
 
-## EAT評価はページか？Webか？
+## E-A-T評価はページか？Webか？
 
 You must consider the reputation and E‑A‑T of both the website and the creators of the MC in order to assign a Page Quality rating.
 

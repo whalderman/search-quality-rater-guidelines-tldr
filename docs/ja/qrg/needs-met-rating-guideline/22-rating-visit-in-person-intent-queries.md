@@ -16,7 +16,7 @@ Visit-in-Person意図のクエリの中には、ユーザーの場所が**マサ
 ---|---|---
 **クエリ：**<br>`minimum wage rate`<br><br>**ユーザーの所在地：**<br>カンザス州ウィチタ<br><br>**ユーザーの意図：**<br>現在の最低賃金を調べる。アメリカ国内の最低賃金は州によって違う。ユーザーは、自分の状態の最低賃金とそれが他の場所とどのように比較されているかに興味があるかもしれない。|![](../images/img792.jpg)<br>![needs met scale - fully meets](../images/fullym.jpg)|SCRBでは、一番目立つところに完全で正確な回答を、モバイルユーザーに分かりやすいように表示している。<br><br>**注：** この例が書かれた時点で、ユーザーに現在の情報が表示されたとする。この作業を評価した場合は、このSCRBの最低賃金率がカンザス州について正確であることを確認する必要がある。
 〃|![](../images/img794.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)|カンザス州の最低賃金に関するページである。
-〃|![](../images/img796.jpg)<br>![needs met scale - slightly meets - wide range](../images/sm-wide.jpg)|LPではアメリカの全州の最低賃金を掲載している。労働省公式サイトに掲載されており、このトピックについてのEATも高いが、カンザスに関する情報をこの中から見つけ出すのは手間がかかる。
+〃|![](../images/img796.jpg)<br>![needs met scale - slightly meets - wide range](../images/sm-wide.jpg)|LPではアメリカの全州の最低賃金を掲載している。労働省公式サイトに掲載されており、このトピックについてのE-A-Tも高いが、カンザスに関する情報をこの中から見つけ出すのは手間がかかる。
 〃|![](../images/img798.jpg)<br>![needs met scale - fails to meet - narrow range](../images/failsm-narrow.jpg)|カリフォルニア州公式サイト内の、カリフォルニア州の最低賃金に関するページである。
 **クエリ：**<br>`pictures of kittens`<br><br>**ユーザーの所在地：**<br>ペンシルバニア州ピッツバーグ<br><br>**ユーザーの意図：**<br>ユーザーは子猫の写真を探している。Visit-in-Personがないクエリだ。ピッツバーグにある子猫の写真を見つけようとする明らかなユーザーの意図はない。ユーザーの所在地はNM評価では何役割も果たさない。|![](../images/img801.jpg)<br>![needs met scale - highly meets+](../images/hm+.jpg)|LPは、子猫の写真がいっぱいのページだ。RBには、ユーザーの満足度が高い写真がある。
 〃|![](../images/img803.jpg)<br>![needs met scale - fails to meet](../images/failsm.jpg)|これは、ピッツバーグエリアに家を必要とするペットのローカルリストだ。このページにペットの写真は一切なく、個々のリストにも写真がほとんどない。
