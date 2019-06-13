@@ -55,7 +55,7 @@ URL 2: [http://www.articlesbase.com/motorcycles-articles/choosing-and-installing
 **理由：** 全く同じ記事が表示される（Web上には、これと同一の記事を掲載したページが多数ある）。両者の違いは、記事の周りに
 表示される広告だけ。クエリの意図もそれなりに広く、検索エンジンが重複結果を複数表示してもユーザーの役に立たない。
 
-<span style="color: red">**Dupes**</span>
+<span style="color: red">**重複**</span>
 
 クエリ：`ジェイソン・カストロ`
 
@@ -65,7 +65,7 @@ URL 2: [http://www.myspace.com/jasoncastromusic?MyToken=503599bf-01cf-4427-bdf4-
 
 **理由：** URLは異なるが、LPは同一ページ。検索エンジンが重複結果を複数表示してもユーザーの役に立たない。
 
-<span style="color: green">**Not Dupes**</span>
+<span style="color: green">**重複ではない**</span>
 
 クエリ：`material girl 歌詞`
 
