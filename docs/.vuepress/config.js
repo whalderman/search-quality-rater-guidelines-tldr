@@ -52,7 +52,8 @@ module.exports = {
 	themeConfig: {
 		logo: '/img/BCJワイドロゴ.svg',
 		repo: 'thewarrman/qrg-bci',
-		editLinks: false,
+		docsBranch: 'main',
+		editLinks: true,
 		docsDir: 'docs',
 		locales: {
 			'/': {
