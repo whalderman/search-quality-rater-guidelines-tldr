@@ -8,7 +8,7 @@ Here are some important definitions:
 
 A **webpage** is connected to the World Wide Web and can be viewed or "visited" using a web browser (e.g., Chrome), a browser on your phone, or a search app. In the 1990s, webpage content was mostly text and links. Today, webpage content includes many forms of media (such as images, videos, etc.) and functionality (such as online shopping features, email, calculator functionality, online games, etc.).
 
-A **URL** is a character string that your web browser uses to "find" and display a webpage. Page Quality rating doesn't require you to have in-depth understanding of the structure of URLs, i.e., you don't need to know the difference between host, domain, etc. But if you are interested, see here to read more.
+A **URL** is a character string that your web browser uses to "find" and display a webpage. Page Quality rating doesn't require you to have in-depth understanding of the structure of URLs, i.e., you don't need to know the difference between host, domain, etc. But if you are interested, see [here](http://en.wikipedia.org/wiki/Url) to read more.
 
 A **website** or **site** is a group of World Wide Web pages usually containing hyperlinks to each other and made available online by an individual, company, educational institution, government, or organization. Popular websites include Facebook, Wikipedia, Yahoo, YouTube, etc.
 
