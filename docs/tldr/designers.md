@@ -1,3 +1,5 @@
-# Designer Jargon
+# Designer Takeaways 🎨🖌️
 
-Techniques to avoid, substitute options
+Techniques to avoid, alternatives available
+
+## 

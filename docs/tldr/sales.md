@@ -1,3 +1,5 @@
-# Sales Jargon
+# Sales Takeaways 🤝💵
 
-Problems to look for, amount of time to fix
+Issues to look for, amount of time to fix
+
+## 
