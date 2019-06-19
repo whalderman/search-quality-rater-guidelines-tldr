@@ -1,11 +1,11 @@
 # Page Quality評価スケール
 
-At a high level, here are the steps of Page Quality rating:
+Page Quality評価のスケールは以下の通り。
 
-1. Understand the true purpose of the page. Websites or pages without any beneficial purpose, including pages that re created with no attempt to help users, or pages that potentially spread hate, cause harm, or misinform or eceive users, should receive the **Lowest** rating. No further assessment is necessary.
-2. Otherwise, the PQ rating is based on how well the page achieves its purpose using the criteria outlined in the following sections on **Lowest**, **Low**, **Medium**, **High,** and **Highest** quality pages.
+1. ページの本当の目的がわかること。ユーザーの助けとならない再生成されたページや嫌悪感、害を与える可能性があるページ、ユーザーに誤解を与えるようなページのような、ユーザーにとって有益でないウェブサイトやページは**Lowest**評価を受ける。
+2. そうでない場合、PQ評価はどのくらいページの目的に合致しているか、以下の章で上げる基準（**High**評価/**Highest**評価/**Low**評価/**Lowest**評価/**Medium**評価の基準）に基づいて評価される。
 
-On Page Quality rating tasks, you will use the Page Quality sliding scale (slider) to assign the overall PQ rating. The slider looks like this:
+Page Quality 評価を行うにあたって、Page Quality スライドスケール（スライダー）を使用することで全体的なPage Quality評価をつけることができる。そのスライダーは以下の通り。
 
 ![Page Quality評価スケールの画像](../images/page-quality-rating-scale.jpg)
 
@@ -27,13 +27,13 @@ Page Quality評価を考える上では、特に以下の要素が重要とな�
 
 ## 専門性・権威性・信頼性（E‑A‑T）の詳細
 
-Remember that the first step of PQ rating is to understand the true purpose of the page. Websites or pages without some sort of beneficial purpose, including pages that are created with no attempt to help users, or pages that potentially spread hate, cause harm, or misinform or deceive users, should receive the **Lowest** rating.
+Page Quality評価の最初の段階として、ページの目的が分かるようにすることだとはじめに言及した。ユーザーの助けとならない再生成されたページや嫌悪感、害を与える可能性があるページ、ユーザーに誤解を与えるようなページのような、ユーザーにとって有益でないウェブサイトやページは**Lowest**評価を受ける。
 
-For all other pages that have a beneficial purpose, the amount of expertise, authoritativeness, and trustworthiness (E‑A‑T) is very important. Please consider:
+その他の有益なページに関しては、専門知識・権威性・信頼性（E-A-T）があるかどうかが重要となる。考えてみて欲しい。
 
-- The expertise of the creator of the MC.
-- The authoritativeness of the creator of the MC, the MC itself, and the website.
-- The trustworthiness of the creator of the MC, the MC itself, and the website.
+- メインコンテンツの作成者の専門知識の量
+- メインコンテンツの作成者の権威性、メインコンテンツ自体の権威性、ウェブサイトの権威性
+- メインコンテンツの作成者の信頼性、メインコンテンツの信頼性、ウェブサイトの信頼性
 
 どのようなタイプであっても、「E‑A‑Tの高い」Webサイトは存在する。ゴシップ情報に関するサイト、ファッション情報を集めたサイト、その他ユーモア、フォーラム、Q＆A等のサイトであっても例外ではない。情報源がフォーラムやディスカッションのサイト以外に存在しない場合は、専門家によるコミュニティが特定の情報に対し価値の高い見解を示してくれることもある。
 
