@@ -1,4 +1,4 @@
-# Manager Takeaways 💼📇
+# Quality Rater Guidelines - Manager Takeaways
 
 Concise, bottom-line, team to assign.
 
@@ -15,10 +15,10 @@ Google judges the quality of their ranking algorithms by hiring people to judge 
 
 ## Introduction to Page Quality Rating
 
-Google's algorithm judges pages differently based on their purpose.
-
-> For example, pages that detail various health symptoms will be judged much more strictly than pages that provide a weather forecast or pictures of puppies.
+Google's algorithm judges pages differently based on their purpose. **Pages about symptoms for various illnesses will be judged much more strictly than pages that provide a weather forecast or pictures of puppies.**
 
 ## Understanding Webpages and Websites
 
-Subdomains (like **finance**.yahoo.com and **sports**.yahoo.com) are sometimes considered different websites, depending on how similar the subjects of each subdomain are.
+Subdomains made for different purposes (like **finance**.yahoo.com and **sports**.yahoo.com) are considered to be separate websites.
+
+Every page on your website (that you want ranked) must be created with the intention of **helping users**.

@@ -1,7 +1,9 @@
-# Developer Takeaways 💻💾
+# Quality Rater Guidelines - Developer Takeaways
 
 Optimizations to make, tools/software to use
 
 ## Understanding Webpages and Websites
 
-Google will determine whether subdomains should be judged as completely separate websites, altering the affect of each backlink. This likely depends on the difference between the content on each subdomain, calculated using whatever text/content classification ML algorithm they've got.
+Google will almost always treat subdomains as completely separate websites.
+
+Every page on the website must be created with the intention of **helping users**. Building pages to take advantage of users (deceptive ad placement, crypto mining) will negatively affect the site's rank.
