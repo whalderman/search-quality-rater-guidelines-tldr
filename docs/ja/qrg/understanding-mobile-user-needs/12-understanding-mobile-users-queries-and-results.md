@@ -341,7 +341,7 @@ Web検索のRBを構成するものとして、「タイトル付きリンク」
 
 以下は**デバイスアクション**クエリと評価タスクで表示される説明文の一例をまとめたもの。
 
-<span style="color: burlywood">Device Action</span>クエリで、<span style="color: burlywood">ユーザー</span>に表示される画面|<span style="color: burlywood">評価者（あなた）</span>に表示される画面
+<span style="color: red">Device Action</span>クエリで、<span style="color: red">ユーザー</span>に表示される画面|<span style="color: red">評価者（あなた）</span>に表示される画面
 ---|---
 ![device action query example 1](../images/img255.jpg)
 |||
