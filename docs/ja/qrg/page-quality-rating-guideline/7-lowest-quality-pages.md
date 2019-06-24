@@ -1,21 +1,21 @@
 # Lowest評価のページ
 
-このセクションでは、**Lowest**評価のページについて説明する。「**Lowest**評価ページの例」はこの概念を理解するのに重要なので、よく見ること。 As a reminder, here are the steps for doing PQ rating.
+このセクションでは、**Lowest**評価のページについて説明します。「**Lowest**評価ページの例」はこの概念を理解するのに重要なので、よく確認してください。念のため、Page Quality評価の手順をもう一度振り返りましょう。
 
-1. Understand the true purpose of the page. Websites and pages should be created for users in order to serve a eneficial purpose, in other words, they should exist to help users.
-2. Websites or pages without a beneficial purpose, including pages that are created with no attempt to help users, or ages that potentially spread hate, cause harm, or misinform or deceive users, should receive the **Lowest** rating. E‑A‑T and other page quality characteristics do not play a role for these pages. For example, any page ttempting to scam users should receive the **Lowest** rating, whether the scam is created by an expert or not.
-3. Otherwise, the PQ rating is based on how well the page achieves its purpose using the criteria outlined in these uidelines. Pages that fail to achieve their purpose should receive the **Lowest** rating.
+1. ページの本当の目的がわかること。ウェブサイトやページはユーザーにとって有益な目的を果たすために作成されるべきです。
+2. ユーザーの助けとならないページや嫌悪感や害を与える可能性があるページ、ユーザーに誤解させるまたはユーザーを欺くページなど、有益な目的のないものは**Lowest**評価を受けます。これらのページには、E-A-Tやその他のPage Quality評価指標は適用されません。例えば、ユーザーを欺こうとしているページには、専門家によってページが作成されたかどうかに関わらず**Lowest**評価が与えられます。
+3. そうでない場合、Page Quality評価は、ページが目的をどの程度果たしているかどうかをこれらのガイドラインの基準によって評価されます。ページの目的に沿っていないページには**Lowest**評価が与えられます。
 
-Here is a summary of what different types of **Lowest** pages look like:
+以下は、Lowest評価を受けるページの種類のまとめです。
 
-Type of Lowest Page|What Pages Looks Like
+**Lowest**評価のページ|どのようなページか
 ---|---
-Pages that potentially spread hate|<ul><li>Promote hate or violence towards a group of people</li></ul>
-Potentially harmful pages|<ul><li>Encourage harm to self or others</li><li>Malicious pages, e.g., scams, phishing, malware downloads</li><li>Extremely negative or malicious reputation</li></ul>
-Pages that potentially misinform users|<ul><li>Demonstrably inaccurate content</li><li>YMYL content that contradicts well-established expert consensus</li><li>Debunked or unsubstantiated conspiracy theories</li></ul>
-Pages that potentially deceive users|<ul><li>Deceptive intent, e.g., websites created to deceive users</li><li>Deceptive design, e.g., Ads that are disguised as MC</li></ul>
-Lack of purpose pages|<ul><li>No MC</li><li>Gibberish MC</li><li>Cannot determine a purpose</li></ul>
-Pages that fail to achieve their purpose|<ul><li>Lowest E‑A‑T</li><li>No/little MC or lowest quality MC</li><li>Copied MC or auto-generated MC</li><li>Obstructed or inaccessible MC</li><li>Inadequate information about the website or creator of the MC</li><li>Unmaintained websites, and hacked, defaced, or spammed pages</li></ul>
+嫌悪感を与える可能性のあるページ|<ul><li>あるグループに対する憎しみや暴力を助長する</li></ul>
+害を与える可能性のあるページ|<ul><li>自分自身、または他者への危害を助長する</li><li>詐欺やフィッシングサイト、マルウェアのダウンロードページなどの悪質なページ</li><li>かなりよくない、または悪意のある評判を掲載</li></ul>
+ユーザーに誤解させる可能性のあるページ|<ul><li>明らかに不正確な内容</li><li>定評のある専門家の見解と異なるYMYLコンテンツ</li><li>誤りであると証明された、または根拠のない陰謀説</li></ul>
+ユーザーを欺く可能性のあるページ|<ul><li>ユーザーを欺くために作成されたページなど、不正な目的を持つページ</li><li>メインコンテンツのように見える広告など、勘違いさせやすいデザイン</li></ul>
+ページの目的の欠如|<ul><li>メインコンテンツがない</li><li>メインコンテンツの意味が分からない</li><li>目的がわからない</li></ul>
+ページの目的を果たしていない|<ul><li>E-A-Tが欠如</li><li>メインコンテンツがほとんどない、またはその品質が最低レベル</li><li>コピー／自動生成コンテンツ</li><li>メインコンテンツの閲覧を阻む、またはアクセスできない</li><li>ウェブサイトやメインコンテンツの作成者に関する不適切な情報</li><li>保守されていないWebサイト、およびハッキング、改ざん、またはスパムされたページ</li></ul>
 
 ## 「ページの目的」の欠如
 
