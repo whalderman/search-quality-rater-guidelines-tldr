@@ -8,7 +8,7 @@ PQ評価のためのページまたはWebサイトの国または場所を考慮
 
 このガイドラインは、「通常の」Webページにおいてである。 場合によっては、WebページではないLPの評価を求めることがある。 たとえば、PDFファイル、PNGまたはJPEG画像ファイルなどを評価するよう求められる場合がある。URLのLPがWebページでない場合、このガイドラインの基準の一部が適用しない場合があるが、その場合、評価者自身で判断を行う。
 
-最後に、このPage Qualityガイドラインは、Page Qualityのあらゆる面を完全に網羅しているわけではない。 本書に記載されていない内容に基づいた**High**品質か**Low**品質かを判断するページが見つかった場合でも評価する。 その際、あなたの推論を説明するためにコメント欄を使用する。 いつものように、あなたの判断を行う。
+最後に、このPage Qualityガイドラインは、Page Qualityのあらゆる面を完全に網羅しているわけではない。 本書に記載されていない内容に基づいた**高**品質か**低**品質かを判断するページが見つかった場合でも評価する。 その際、あなたの推論を説明するためにコメント欄を使用する。 いつものように、あなたの判断を行う。
 
 ## Page Quality評価タスクの手順
 
@@ -36,8 +36,8 @@ PQグリッドはあなたの「メモ帳」となるよう設計されている
 
 ## E-A-T評価はページか？Webか？
 
-You must consider the reputation and E‑A‑T of both the website and the creators of the MC in order to assign a Page Quality rating.
+Page Quality評価を割り当てるには、ウェブサイトとMCの作成者の両方の評判とE-A-Tを考慮する必要があります。
 
-The reputation and E‑A‑T of the creators of the MC is extremely important when a website has different authors or content creators on different pages. This is true of forum and Q&A pages, news websites, or websites that have user-generated content, such as YouTube, Twitter, etc. The reputation and E‑A‑T assessment for pages on these types of websites may differ drastically depending on what page you are evaluating. There are **Highest** quality YouTube videos created by highly reputable and expert content creators, as well as **Lowest** quality YouTube videos created with a dangerous lack of E‑A‑T on YMYL topics.
+メインコンテンツの作成者の評判とE-A-Tは、ウェブサイトがそれぞれページに異なる著者やコンテンツ作成者を持っている場合、非常に重要です。これは、フォーラムやQ&Aページ、ニュースサイト、YouTubeやTwitterなどのユーザーが生成したコンテンツを持つウェブサイトに当てはまります。これらのタイプのWebサイト上のページの評判とE‑A‑T評価は、評価しているページによって大きく異なる場合があります。（あるウェブサイト内において）YMYLトピックに関するE-A-Tがかなり欠如した**最低**品質のYouTubeビデオが存在すると同時に、非常に評判が高く、専門のコンテンツ制作者によって作成された**最高**品質のYouTubeビデオが存在することがあります。
 
-**Important:** Research the reputation and E‑A‑T of both the website and the creators of the MC. If either are lacking for the purpose of the page, the **Low** or **Lowest** rating is appropriate.
+**重要：** Webサイトとメインコンテンツの作成者の両方の評判とE‑A‑Tを調べましょう。ページの目的に沿っていない場合は、**Low**または**Lowest**の評価が適切だとされます。
