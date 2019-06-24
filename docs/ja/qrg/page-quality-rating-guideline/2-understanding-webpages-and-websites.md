@@ -7,25 +7,18 @@ PQ評価を行う上で、Webサイトについて深く理解することが必
 以下に重要な用語をまとめる。
 
 **ページ（Webページ）**
-:   wwwに接続していて、Chromeなどのブラウザで「閲覧・訪問」できるもの。
-1990年代は、ページのコンテンツは主に文章とリンクのみだった。
-現代ではコンテンツの幅も広がり、動画・画像などの「メディア」をはじめ、商品購入機能、メール、計算機、オンラインゲーム等の「機能」まで広がっている。
+:   wwwに接続していて、Chromeなどのブラウザで「閲覧・訪問」できるもの。1990年代は、ページのコンテンツは主に文章とリンクのみだった。現代ではコンテンツの幅も広がり、動画・画像などの「メディア」をはじめ、商品購入機能、メール、計算機、オンラインゲーム等の「機能」まで広がっている。
 
 **URL**
-:   ブラウザがページを表示するのに利用される文字列のこと。
-PQ評価では「ホストとドメインの違い」等のURL構造についての深い知識は不要である。
-そうした点に興味がある場合は、[ここを](https://en.wikipedia.org/wiki/URL)参照する。
+:   ブラウザがページを表示するのに利用される文字列のこと。PQ評価では「ホストとドメインの違い」等のURL構造についての深い知識は不要である。そうした点に興味がある場合は、[ここを](https://en.wikipedia.org/wiki/URL)参照する。
 
 **Webサイト**
-:   ページの集合体であり、多くの場合は各ページ間にはハイパーリンクが存在する。
-個人・企業・政府・その他組織によって作成され、公開されている。
-有名なものには、Facebook・Wikipedia・Yahoo・YouTube などがある。
+:   ページの集合体であり、多くの場合は各ページ間にはハイパーリンクが存在する。個人・企業・政府・その他組織によって作成され、公開されている。有名なものには、Facebook・Wikipedia・Yahoo・YouTube などがある。
 
   > **注:** このガイドラインでは、「同一の個人・企業が所有し管理するページ群」（例：yahoo.com）をWebサイトとして扱うが、「あるWebサイト内の、独自の目的を持った部門」（例：[Yahoo!ファイナンス](http://finance.yahoo.com/)・[Yahoo!スポーツ](http://sports.yahoo.com/)・[Yahoo!メール](http://mail.yahoo.com/)など）もWebサイトとして扱うこともある。また、Yahoo!ファイナンスやYahoo!スポーツのページをYahoo!に属するページとして扱うこともある。
 
 **ホームページ（トップページ）**
-:   Webサイトのメインのページであり、ユーザーがWebサイトを訪問した際にはじめに表示されるページ。Appleなら「[http://www.apple.com](http://www.apple.com)」が、Yahoo!なら「[http://www.yahoo.com](http://www.yahoo.com)」が、Yahoo!ファイナンスなら「[http://finance.yahoo.com](http://finance.yahoo.com)」がホームページである。
-サブページ内の「フォーム」というリンクやロゴをクリックすることでホームページに行けることが多い。
+:   Webサイトのメインのページであり、ユーザーがWebサイトを訪問した際にはじめに表示されるページ。Appleなら「[http://www.apple.com](http://www.apple.com)」が、Yahoo!なら「[http://www.yahoo.com](http://www.yahoo.com)」が、Yahoo!ファイナンスなら「[http://finance.yahoo.com](http://finance.yahoo.com)」がホームページである。サブページ内の「フォーム」というリンクやロゴをクリックすることでホームページに行けることが多い。
 
 **サブページ**
 :   ホームページ以外をサブページと呼ぶ。例えば、「[http://www.apple.com/iphone](http://www.apple.com/iphone)」・「[http://finance.yahoo.com/options](http://finance.yahoo.com/options)」等はYahoo!ファイナンスのサブページである。
