@@ -2,6 +2,8 @@
 
 Here we go over optimizations that can (and should) be made to a site, as well as various tools that can be used.
 
+> Disclaimer: The following content includes opinions and reasoning from the SEO professionals at [Bruce Clay Japan Inc.](https://bruceclay.jpn.com) These opinions and suggestions are **not in any way** endorsed or backed by Google.
+
 ## Understanding Webpages and Websites
 
 Google will almost always treat subdomains as completely separate websites.
@@ -9,3 +11,5 @@ Google will almost always treat subdomains as completely separate websites.
 Every page on the website must be created with the intention of **helping users**. Building pages to take advantage of users (deceptive ad placement, crypto mining) will negatively affect the site's rank.
 
 Ensure that the `<h1>` tag on each page **accurately summarizes** the page's [main content](/qrg/page-quality-rating-guideline/2-understanding-webpages-and-websites.html#identifying-the-main-content-mc).
+
+Make it as easy as possible for Google to discover who (individual, company, business, foundation, etc.) is responsible for the website, and who (what individual, company, business, foundation, etc.) created the content on any given page (it is possible for these two to be equivalent). Websites that share this info are undoubtedly going to be seen as more trustworthy overall.

@@ -1,6 +1,8 @@
 # Quality Rater Guidelines - Sales Takeaways
 
-Here we summarize what to look for on a client's site, and how many man-hours certain problems will take to fix.
+Here we summarize what to look for on a client's site (SEO-lite), and how many man-hours certain problems will take to fix.
+
+> Disclaimer: The following content includes opinions and reasoning from the SEO professionals at [Bruce Clay Japan Inc.](https://bruceclay.jpn.com) These opinions and suggestions are **not in any way** endorsed or backed by Google.
 
 ## Things to Look Out For
 
@@ -18,4 +20,5 @@ Here we summarize what to look for on a client's site, and how many man-hours ce
 > Fixing issues on pages like these is a priority for the client.
 
 - Deceptive ad placement on the pages `Fix time: < 1 day`
-- Poor site reputation `Fix time: many months`
+- Overall poor site reputation from reviews `Fix time: many months`
+- Missing contact information on sites dealing with money `Fix time: < 1 day`
