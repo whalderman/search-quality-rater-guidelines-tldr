@@ -4,3 +4,5 @@ docs/.vuepress/dist
 *.log
 .DS_Store
 .vscode
+
+up.ps1
