@@ -202,7 +202,7 @@ In addition, some rating tasks may ask you to identify **Not‑for‑Everyone** 
 **クエリ：**<br>[黒人に対する人種差別]<br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>ニューヨーク州ニューヨーク<br><br>**ユーザーの意図：**<br>黒人への人種差別に関する情報やニュース、他の情報源を探している|![](../images/img598.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)|このページの目的は、黒人が劣っていると主張することである。誤った科学的研究を示しており、多くの人々がそれを不快であると感じている。この結果にはUpsetting-­Offensiveフラグを割り当てなければならない。
 *(Same as above.)*|![](../images/img600.jpg)<br>![not upsetting‑offensive](../images/no-flag.jpg)|このWikipediaのページは、米国における人種差別や民族差別について、よく知られた歴史的に正確な概要を示している。Upsetting-­Offensiveフラグを割り当ててはならない。
 **クエリ：**<br>[islam]<br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>ニューヨーク州ニューヨーク<br><br>**ユーザーの意図：**<br>イスラムの宗教に関する情報が知りたい|![](../images/img602.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)|このページの目的は、イスラム教を悪だとする著者の信念を説明すること。不寛容や憎悪を促進するために存在しているように見え、多くの人を不快にする可能性がある。<br><br>この結果にはUpsetting-­Offensiveフラグを割り当てなければならない。
-*(Same as above.)*|![](../images/img604.jpg)<br>![not upsetting‑offensive](../images/no-flag.jpg)|これは評判の良いサイト上の高クオリティな記事。イスラム教の主要な信仰と慣習を正確にまとめたものである。<br><br>Upsetting­-Offensiveフラグを割り当ててはならない。
+*(Same as above.)*|![](../images/img604.jpg)<br>![not upsetting‑offensive](../images/no-flag.jpg)|これは評判の良いサイト上の高品質な記事。イスラム教の主要な信仰と慣習を正確にまとめたものである。<br><br>Upsetting­-Offensiveフラグを割り当ててはならない。
 
 ### 使いにくい耐性のあるクエリの設定に必要な評価
 
