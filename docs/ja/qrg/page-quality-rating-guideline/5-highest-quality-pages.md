@@ -6,7 +6,7 @@
 
 - ページの目的に応じた非常に高いレベルの専門性、権威性、信頼性（E‑A‑T）。YMYLに関するニュース記事や情報ページの発行元、個人作成者のE‑A‑Tを含む。
 - 十分な量の、ハイクオリティなMC
-- Very positive website reputation for a website that is responsible for the MC on the page. Very positive reputation of the creator of the MC, if different from that of the website.
+- ページ上のウェブサイトのMC担当者個人への非常に良い評判。非常に評判の良いMC作成者は非常に評判の高い別サイト出身の者でも構わない。
 
 ## 極めてハイクオリティなMC
 
@@ -56,7 +56,7 @@ Webページ／コンテンツの種類|Highest評価の特徴|PQ評価と説明
 [動画2](https://guidelines.raterhub.com/images/Henri2.jpg)<br><br>"Henri2，Paw de Deux"という動画|<ul><li>十分な量か分かりやすさを備える非常にハイクオリティなMC</li><li>この固有の動画コンテンツに対する非常に良い評判</li></ul>|![high+narrow quality][h+n]<br><br>ハイクオリティで人気のある動画。Walker Art Center主催のInternet Cat Video Film Festivalにて、最も良い猫ビデオに贈られる"Golden Kitty Award"を受賞している。
 [動画3](https://guidelines.raterhub.com/images/SNL2.jpg)<br><br>テレビ局のサイトに掲載された「サタデーナイトライブ」の動画|<ul><li>十分な量か分かりやすさを備える非常にハイクオリティなMC</li><li>ページの目的に応じた非常に高いレベルのE‑A‑T</li></ul>|![high+narrow quality][h+n]<br><br>このページのMCはテレビ局の公式サイトで公開されている「サタデーナイトライブ」の動画である。高い権威性と信頼性をもつ。メインの動画の下には、ユーザーの興味に合わせて他の動画を多数表示している。
 [Q&A](https://guidelines.raterhub.com/images/Abbreviation.jpg)<br><br>略語に関するQ&A|<ul><li>ページの目的に応じた非常に高いレベルのE‑A‑T</li><li>非常に良い評判（Webサイト）</li></ul>|![high+narrow quality][h+n]<br><br>このページの目的は、略語の使い方に関する質問に答えることである。このサイトは執筆、出版などに関する情報の参考ページとして非常に高い評価を得ている。このページのトピックは、高い権威性と信頼性があると考えられる。
-[Highest: Social Media Profile](https://guidelines.raterhub.com/images/tngop-t-m.jpg)<br><br>The official Twitter profile page of the Tennessee Republican Party (YMYL)|<ul><li>ページの目的に応じた非常に高いレベルのE‑A‑T</li><li>十分な量か分かりやすさを備える非常にハイクオリティなMC</li></ul>|![high+narrow quality][h+n]<br><br>This is the official Twitter account for the Tennessee Republican Party (TNGOP).<br><br>It is an expert and authoritative source of information about the Tennessee Republican Party.
+[Highest: Social Media Profile](https://guidelines.raterhub.com/images/tngop-t-m.jpg)<br><br>テネシー州共和党の公式Twitterのプロフィールページ（YMYL）|<ul><li>ページの目的に応じた非常に高いレベルのE‑A‑T</li><li>十分な量か分かりやすさを備える非常にハイクオリティなMC</li></ul>|![high+narrow quality][h+n]<br><br>これはテネシー州共和党（TNGOP）の公式Twitterアカウントである。（TNGOP）<br><br>テネシー州共和党に関する情報の専門家であり、権威性のある情報源でもある。
 
 [hst]: ../images/highest.jpg
 [h+n]: ../images/high+narrow.jpg
