@@ -15,4 +15,5 @@ Ensure that the `<h1>` tag on each page **accurately summarizes** the page's [ma
 ::: tip
 Google uses the logo of a website (if it is hyperlinked) as a strong indicator of a website's home page.
 :::
+
 For example, if you have a blog/documentation/FAQs/etc. on a separate subdomain, with a website logo pointing to the home page of the separate subdomain, Google is more likely to treat your subdomain and main site as separate -- which is rarely desired.
