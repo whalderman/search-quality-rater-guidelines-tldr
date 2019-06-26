@@ -2,7 +2,7 @@
 
 At a high level, here are the steps of Page Quality rating:
 
-1. Understand the true purpose of the page. Websites or pages without any beneficial purpose, including pages that re created with no attempt to help users, or pages that potentially spread hate, cause harm, or misinform or eceive users, should receive the **Lowest** rating. No further assessment is necessary.
+1. Understand the true purpose of the page. Websites or pages without any beneficial purpose, including pages that are created with no attempt to help users, or pages that potentially spread hate, cause harm, or misinform or deceive users, should receive the **Lowest** rating. No further assessment is necessary.
 2. Otherwise, the PQ rating is based on how well the page achieves its purpose using the criteria outlined in the following sections on **Lowest**, **Low**, **Medium**, **High,** and **Highest** quality pages.
 
 On Page Quality rating tasks, you will use the Page Quality sliding scale (slider) to assign the overall PQ rating. The slider looks like this:
