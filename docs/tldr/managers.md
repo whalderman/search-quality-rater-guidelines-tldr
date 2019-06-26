@@ -93,3 +93,57 @@ If your company has (or you have) a bad reputation online, Google will be among 
 - customer reviews
 
 > For small businesses, having no reputation online is okay, it will **not** negatively affect your site.
+
+## Overall Page Quality Rating
+
+::: warning
+Webpages with any of the following characteristics will rank poorly:
+
+- Has no beneficial purpose
+- Makes no attempt to help users
+- Spreads hate
+- Causes harm
+- Contains misinformation
+:::
+
+Page Quality is mainly determined by these five things:
+
+1. The page's purpose
+2. Expertise, Authoritativeness, and Trustworthiness (E-A-T)
+3. The quality and amount of the page's **main content**
+4. Information about the company/person responsible for the **main content**
+5. Reputation of the company/person responsible for the **main content**
+
+For pages that have a beneficial purpose, E-A-T is:
+
+- The **expertise of the creator** of the main content
+- The **authoritativeness of the creator** of the main content, the **main content itself**, and the **website**.
+- The **trustworthiness of the creator** of the main content, the **main content itself**, and the **website**.
+
+E-A-T is determined differently based on the topic(s) of your website.
+
+### Medical High E-A-T Checklist
+
+- Content must be created by and attributed to those with appropriate medical expertise or accreditation.
+- Content must look professional (e.g. no spelling errors)
+- Content must be updated on a regular basis
+
+### News/Journalism High E-A-T Checklist
+
+- Content must be produced with [journalistic professionalism](https://en.wikipedia.org/wiki/Journalism_ethics_and_standards#Common_elements)
+- Content must be factually accurate
+- Provide a page detailing the company's editorial policies and review process
+
+### Scientific Information High E-A-T Checklist
+
+- Content must be created by and attributed to those with appropriate medical expertise or accreditation.
+- Must match **well-established** consensus where such a consensus exists (e.g. Kepler's laws, Newton's laws, Archie's law, Zipf's law, etc.)
+
+### Financial/Legal/Tax/etc. High E-A-T Checklist
+
+- Must be trustworthy (e.g. actively gather good reviews)
+- Maintain and update content regularly
+
+### Advice, Hobbies, Blog High E-A-T Checklist
+
+- Content must be written by an expert or highly experienced person/company (e.g. gather good reviews, only output content that is high enough quality to gather backlinks)
