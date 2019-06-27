@@ -1,6 +1,6 @@
 # Page Type TL;DR
 
-::: tip High-Quality Characteristics for all Sites/Pages
+::: tip High-Quality Characteristics for all Pages
 
 - A satisfying amount of high quality MC
 - High expertise, authority, and trust regarding the subject matter
@@ -11,7 +11,7 @@
 
 ## News
 
-::: tip High-Quality Characteristics for News Sites/Pages
+::: tip High-Quality Characteristics for News Pages
 
 - The author is clearly labeled
 - Opinion pieces are clearly labeled as opinion pieces
@@ -21,19 +21,19 @@
 
 ## Government
 
-::: tip High-Quality Characteristics for Government Sites/Pages
+::: tip High-Quality Characteristics for Government Pages
 
 :::
 
 ## Humor
 
-::: tip High-Quality Characteristics for Humor Sites/Pages
+::: tip High-Quality Characteristics for Humor Pages
 
 :::
 
 ## Small Business
 
-::: tip High-Quality Characteristics for Small Business Sites/Pages
+::: tip High-Quality Characteristics for Small Business Pages
 
 :::
 
@@ -47,7 +47,7 @@
 
 ## Shopping
 
-::: tip High-Quality Characteristics for Shopping Sites/Pages
+::: tip High-Quality Characteristics for Shopping Pages
 
 - Page contains many product images
 - Page includes the manufacturer's product specs
@@ -60,7 +60,7 @@
 
 ## Video
 
-::: tip High-Quality Characteristics for Video Sites/Pages
+::: tip High-Quality Characteristics for Video Pages
 
 - Title/tags properly match video content
 - Includes subtitles
@@ -68,19 +68,19 @@
 
 ## Game
 
-::: tip High-Quality Characteristics for Game Sites/Pages
+::: tip High-Quality Characteristics for Game Pages
 
 :::
 
 ## Q&A
 
-::: tip High-Quality Characteristics for Q&A Sites/Pages
+::: tip High-Quality Characteristics for Q&A Pages
 
 :::
 
 ## Encyclopedia
 
-::: tip High-Quality Characteristics for Encyclopedia Sites/Pages
+::: tip High-Quality Characteristics for Encyclopedia Pages
 
 - Content is clearly written, no spelling mistakes
 - Includes citations
@@ -88,7 +88,7 @@
 
 ## Forum
 
-::: tip High-Quality Characteristics for Forum Sites/Pages
+::: tip High-Quality Characteristics for Forum Pages
 
 - Forum is well-known (it has many backlinks)
 - Discussions show expertise in a topic
