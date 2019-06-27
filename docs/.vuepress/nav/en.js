@@ -1,6 +1,6 @@
 module.exports = [
 	{
-		text: '📜 TL;DR', link: '/'
+		text: '🔰 TL;DR', link: '/'
 	},
 	{
 		text: 'Summarize Using...', items: [
