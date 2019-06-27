@@ -15,15 +15,15 @@ Within Google's search results, pages are ranked based on two things:
 
 ### Webpages
 
-::: tip
-Every page you want to be ranked highly must be created with the intention of **helping users**.
+::: tip Every page should be useful.
+If you want a page to be ranked highly, create it with the intention of **helping users**.
 :::
 
-::: tip
+::: warning Your Money or Your Life (YMYL)
 Pages which could potentially impact the future happiness, health, financial stability, or safety of users (YMYL pages) are judged more strictly.
 :::
 
-Some examples:
+Example YMYL pages:
 
 - Shopping or financial transaction pages
 - Financial information pages
@@ -36,6 +36,8 @@ Some examples:
 
 #### Parts of a Webpage
 
+Some definitions from Google:
+
 **Main Content (MC)**
 : Any content on the page that **directly helps the page achieve its purpose** (product details on a product page, ingredients/measurements/directions on a recipe page, etc.).
 
@@ -47,19 +49,17 @@ Some examples:
 
 ### Websites
 
-Google will judge the reputation of a website based on reputable independent sources (like [BBB](https://www.bbb.org/), [Trustpilot](https://www.trustpilot.com/), etc.).
+Google will judge the reputation of a website based on a range of reputable independent sources (sites like [BBB](https://www.bbb.org/), [Trustpilot](https://www.trustpilot.com/), etc.).
 
-::: tip
-Make it as easy as possible for Google to discover who (person/company) is responsible for the website, and who (person/company) created the content on any news/research/information-based pages.
+::: tip Be trustworthy.
+Make it as easy as possible for Google to discover who (person/company) is responsible for the website, and who (person/company) created the content (for news/research/information-based pages).
+
+In general, this implies a more trustworthy website overall.
 :::  
 
-This implies a more trustworthy website overall.
-
-::: tip
-Make sure your website has contact information.
-:::
-
+::: tip Include contact information.
 Depending on your type of business, Google expects different types and amounts of contact information. Contact information is very important for websites that handle money (stores, banks, credit card companies, etc.).
+:::
 
 #### Contact Info Suggestions
 
@@ -78,11 +78,11 @@ Depending on your type of business, Google expects different types and amounts o
 
 ### Reputation of the Website or Creator of the Main Content
 
-::: tip
-Make sure your company is (or you are) responding to negative reviews and asking for reviews from satisfied customers.
+::: tip Maintain a good reputation.
+Make sure your company is (or you are) asking for reviews from satisfied customers and responding to negative reviews.
 :::
 
-If your company has (or you have) a bad reputation online, Google will be among the first to know, and your site can benefit or suffer as a result. This information is gathered and analyzed from many sources, including but not limited to:
+If your company has (or you have) a bad reputation online, Google will be among the first to know, and your site can suffer as a result. This information is gathered and analyzed from many sources, including but not limited to:
 
 - news articles
 - Wikipedia articles
@@ -96,8 +96,7 @@ If your company has (or you have) a bad reputation online, Google will be among 
 
 ## Overall Page Quality Rating
 
-::: warning
-Webpages with any of the following characteristics will rank poorly:
+::: danger Webpages with any of the following characteristics will rank poorly:
 
 - Has no beneficial purpose
 - Makes no attempt to help users
@@ -120,30 +119,49 @@ For pages that have a beneficial purpose, E-A-T is:
 - The **authoritativeness of the creator** of the main content, the **main content itself**, and the **website**.
 - The **trustworthiness of the creator** of the main content, the **main content itself**, and the **website**.
 
-E-A-T is determined differently based on the topic(s) of your website.
+### How to Evoke Expertise, Authority, and Trust
 
-### Medical High E-A-T Checklist
+E-A-T is determined differently based on the topic(s) of your website:
+
+::: tip Medical Site
 
 - Content must be created by and attributed to those with appropriate medical expertise or accreditation.
 - Content must look professional (e.g. no spelling errors)
 - Content must be updated on a regular basis
+:::
 
-### News/Journalism High E-A-T Checklist
+::: tip News/Journalism Site
 
 - Content must be produced with [journalistic professionalism](https://en.wikipedia.org/wiki/Journalism_ethics_and_standards#Common_elements)
 - Content must be factually accurate
 - Provide a page detailing the company's editorial policies and review process
+- Must match **well-established** consensus where such a consensus exists
+:::
 
-### Scientific Information High E-A-T Checklist
+::: tip Scientific Information Site
 
 - Content must be created by and attributed to those with appropriate medical expertise or accreditation.
-- Must match **well-established** consensus where such a consensus exists (e.g. Kepler's laws, Newton's laws, Archie's law, Zipf's law, etc.)
+- Must match **well-established** consensus where such a consensus exists
+:::
 
-### Financial/Legal/Tax/etc. High E-A-T Checklist
+::: tip Financial/Legal/Tax/etc. Site
 
 - Must be trustworthy (e.g. actively gather good reviews)
 - Maintain and update content regularly
+:::
 
-### Advice, Hobbies, Blog High E-A-T Checklist
+::: tip Advice, Hobbies, Blog Site
 
-- Content must be written by an expert or highly experienced person/company (e.g. gather good reviews, only output content that is high enough quality to gather backlinks)
+- Content must be written by an expert or some highly experienced person/company
+:::
+
+## High Quality Pages
+
+High Quality pages must have the following:
+
+- high Expertise, Authoritativeness, and Trustworthiness (E-A-T)
+- a satisfying amount of high quality MC, including a **descriptive or helpful title**
+- satisfying website/company info and, if the page includes transactions, satisfying customer service info
+- positive reputation for the person or company that created the content
+
+The **E-A-T** of a page **depends significantly on the quality of the MC**.
