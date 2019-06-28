@@ -1,4 +1,4 @@
-# Quality Rater Guidelines - Developer Takeaways
+# Developer Takeaways - Quality Rater Guidelines
 
 Here we go over various optimizations that can (and should) be made to a site, as well as some tools that can be used.
 

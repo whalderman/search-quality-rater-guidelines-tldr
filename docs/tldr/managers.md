@@ -1,4 +1,4 @@
-# Quality Rater Guidelines - Manager Takeaways
+# Manager Takeaways - Quality Rater Guidelines
 
 Here we try to keep things as concise as possible, informing you about what to check your site for and which team needs to handle the problem if it isn't obvious. Ironically, this is also the longest TL;DR, since a complete understanding is needed.
 
@@ -121,43 +121,42 @@ For pages that have a beneficial purpose, E-A-T is:
 
 ### How to Evoke Expertise, Authority, and Trust
 
-E-A-T is determined differently based on the topic(s) of your website:
+E-A-T is determined differently based on the topic(s) of your website. For guidance based on page and site
 
-::: tip Medical Site
+#### Medical Site
 
 - Content must be created by and attributed to those with appropriate medical expertise or accreditation.
 - Content must look professional (e.g. no spelling errors)
 - Content must be updated on a regular basis
-:::
 
-::: tip News/Journalism Site
+#### News/Journalism Site
 
 - Content must be produced with [journalistic professionalism](https://en.wikipedia.org/wiki/Journalism_ethics_and_standards#Common_elements)
 - Content must be factually accurate
 - Provide a page detailing the company's editorial policies and review process
 - Must match **well-established** consensus where such a consensus exists
-:::
 
-::: tip Scientific Information Site
+#### Scientific Information Site
 
 - Content must be created by and attributed to those with appropriate medical expertise or accreditation.
 - Must match **well-established** consensus where such a consensus exists
-:::
 
-::: tip Financial/Legal/Tax/etc. Site
+#### Financial/Legal/Tax/etc. Site
 
 - Must be trustworthy (e.g. actively gather good reviews)
 - Maintain and update content regularly
-:::
 
-::: tip Advice, Hobbies, Blog Site
+#### Advice, Hobbies, Blog Site
 
 - Content must be written by an expert or some highly experienced person/company
-:::
 
 ## High Quality Pages
 
-High Quality pages must have the following:
+::: tip Content created by known experts will rank higher.
+Whether you're the expert or you hire the expert, experts should be creating the content, not guiding it.
+:::
+
+High Quality pages must have the following characteristics:
 
 - high Expertise, Authoritativeness, and Trustworthiness (E-A-T)
 - a satisfying amount of high quality MC, including a **descriptive or helpful title**
@@ -165,3 +164,25 @@ High Quality pages must have the following:
 - positive reputation for the person or company that created the content
 
 The **E-A-T** of a page **depends significantly on the quality of the MC**.
+
+## Highest Quality Pages
+
+Highest Quality pages must have at least one of the following:
+
+- **exceptionally** high Expertise, Authoritativeness, and Trustworthiness (E-A-T)
+  - Formal expertise is important for topics such as medical, financial, or legal advice.
+  - Everyday expertise is important for topics such as humor or recipes.
+  - An expert page on cooking may be a page on a professional chef's website (formal expertise), or it may be someone who posts popular cooking videos on YouTube (everyday expertise).
+
+- an **exceptional** amount of high or highest quality MC
+  - The quality standards change depending on the **purpose of the page** and the **type of content**.
+
+- **exceptionally** positive reputation for the person or company that created the content
+  - Very positive reputation is often based on prestigious awards or recommendations from known experts or professional associations on the topic of the page.
+  - Topics that don't require formal expertise, like humor or recipes, can show exceptional reputation through popularity, user engagement, and user reviews.
+
+## Low Quality Pages
+
+Low Quality pages have one of the following characteristics:
+
+

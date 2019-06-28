@@ -1,4 +1,4 @@
-# Quality Rater Guidelines - Designer Takeaways
+# Designer Takeaways - Quality Rater Guidelines
 
 Here we summarize what to avoid when designing a site and, in some cases, what can be done instead.
 
