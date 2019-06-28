@@ -23,32 +23,34 @@
 
 どのように作成されたとしても、目的が欠如しているページは**Lowest**評価となる。
 
-## Pages that Fail to Achieve Their Purpose
+## 目的を果たしていないページ
 
-### Lowest E‑A‑T
+### 最低なE-A-T
 
-One of the most important criteria of Page Quality rating is E‑A‑T. Expertise of the creator of the MC, and authoritativeness or trustworthiness of the page or website, is extremely important for a page to achieve its purpose well.
+ページ評価において、E-A-Tは重要な基準の1つです。ページの目的達成のためには、メインコンテンツの作成者の専門知識、ページやウェブサイトの権威性や信頼性が非常に重要です。
 
-If the E‑A‑T of a page is low enough, users cannot or should not use the MC of the page. This is especially true of YMYL topics. If the page is highly inexpert, unauthoritative or untrustworthy, it fails to achieve its purpose.
+ページのE-A-Tがかなり低い場合、ユーザーはページのメインコンテンツを使用する可能性が低いですし、そもそも使用すべきではありません。特に、YMYLを扱うサイトに当てはまります。そのページが非常に専門性に欠け、権威性がなく、信頼できないものである場合、ページの目的を果たすことができません。
 
-**Important:** The **Lowest** rating should be used if the page is highly inexpert, unauthoritative, or untrustworthy.
+**重要：** そのページが非常に専門性に欠け、権威性がなく、信頼できないものである場合、**Lowest**評価を受けることが多いです。
 
-### No/Little Main Content
+### 不十分なメインコンテンツ
 
-Pages exist to share their MC with users. The following pages should be rated **Lowest** because they fail to achieve their purpose:
+ユーザーにメインコンテンツを提供するために、ページは存在します。以下のようなページはページの目的をはたしていないため、**Lowest**評価を受けます。
 
-- Pages with no MC.
-- Pages with a bare minimum of MC that is unhelpful for the purpose of the page.
+- メインコンテンツがないページ
+- ページの目的達成の役に立たないほどの量しかメインコンテンツしか保有していないページ
 
-### Lowest Quality Main Content
+### 最低品質のメインコンテンツ
 
-The **Lowest** rating applies to any page with Lowest Quality MC. Lowest quality MC is content created with such insufficient time, effort, expertise, talent, and/or skill that it fails to achieve its purpose. The **Lowest** rating should also apply to pages where users cannot benefit from the MC, for example:
+最低品質のメインコンテンツを持つページは、すべて**Lowest**評価とされます。**Lowest**評価のメインコンテンツとは、コンテンツ作成に費やした時間、労力、専門知識、才能やスキルが不十分であり、そのページの目的を達成できていないコンテンツのことです。ユーザーにとって有益でないメインコンテンツにも**Lowest**評価が付けられます。
 
-- Informational pages with demonstrably inaccurate MC.
-- The MC is so difficult to read, watch, or use, that it takes great effort to understand and use the page.
-- Broken functionality of the page due to lack of skill in construction, poor design, or lack of maintenance.
+例えば、
 
-Have high standards and think about how typical users in your locale would experience the MC on the page. A page may have value to the creator or participants in the discussion, but few to no general users who view it would benefit from the MC.
+- 明らかに不正確な情報を保有するインフォメーションページ
+- 読みづらい、見づらい、使いづらいなど、ページの内容の理解やページの使用に労力を使うメインコンテンツ
+- 不便なサイトの構築やデザイン、メンテナンスの不備など、ページが機能していない
+
+高い基準を持ち、あなたのページの典型的なユーザーがどのようにメインコンテンツを利用するかを考慮してください。A page may have value to the creator or participants in the discussion, but few to no general users who view it would benefit from the MC.
 
 ### コピーによるMC
 
@@ -100,14 +102,14 @@ Googleはインターネットアーカイブが運営している[Wayback Machi
 
 編集や手動の情報整理をしない自動生成のコンテンツで構成され、オリジナルのコンテンツが全くないためにユーザーに価値を提供できないページ／Webサイトは、**Lowest**評価とすべきである。
 
-### Obstructed or Inaccessible Main Content
+### 閲覧を妨げられる、またはアクセスできないメインコンテンツ
 
-MC cannot be used if it is obstructed or inaccessible due to Ads, SC, or [interstitial pages](https://en.wikipedia.org/wiki/Interstitial_webpage). If you are not able to access the MC, please use the **Lowest** rating.
+広告や補助的なコンテンツ、[インタースティシャルページ](https://support.google.com/admanager/answer/6015986?hl=ja)によって、メインコンテンツの閲覧を妨げられたり、アクセスできなかったりすることがあります。メインコンテンツにアクセスできない場合は、**Lowest**評価とされます。
 
-Here are some examples of pages with obstructed MC that should be rated **Lowest** :
+以下は、**Lowest**評価が付けられる、メインコンテンツの閲覧を阻む例です。
 
-- Ads that continue to cover the MC as you scroll down the page, that are virtually impossible to close without clicking on the Ad.
-- An interstitial page that redirects the user away from the MC without offering any path back to the MC.
+- ページを下にスクロールしてもメインコンテンツを覆って表示され続け、クリックしないと閉じることが不可能な広告。
+- メインコンテンツに戻る選択肢を与えず、メインコンテンツからユーザーを直接流入させるインターステーシャルページ
 
 ### サイトに関する情報の欠如
 
@@ -127,48 +129,52 @@ Webマスターによる維持、管理が全くされていないサイトも�
 
 サイトの特定のページに大量のスパムフォーラムディスカッションやスパムコメントがあったとしても、サイト全体がスパムということにはならない。
 
-## Pages that Potentially Spread Hate
+## 嫌悪を拡散させるようなページ
 
-Use the **Lowest** rating for pages that promote hate or violence against a group of people based on criteria includingーbut not limited toーrace or ethnicity, religion, gender, nationality or citizenship, disability, age, sexual orientation, socio-economic status, political beliefs, veteran status, victims of atrocities, etc. Websites advocating hate or violence can cause real world harm.
+人種または民族、宗教、性別、国籍または市民権、障害、年齢、性障害、社会経済的地位、政治的信念、退役軍人、残虐行為の被害者などの基準に基づく、特定のグループに対する憎悪や暴力を助長するページには**Lowest**評価が付けられます。憎悪や暴力を主張するWebサイトは、現実の世界に害を及ぼす可能性があります。
 
-Hate may be expressed in inflammatory, emotional, or hateful-sounding language, but may also be expressed in polite or even academic-sounding language.
+憎悪は、扇動的、感情的、または不快な言葉で表現されますが、礼儀正しく、あるいは学術的な言葉で表現されることもあります。
 
-Extensive reputation research is important for identifying websites that promote hate or violence. Please identify reputable and well-established organizations that provide information about hate groups in your locale when researching reputation. Some websites may not have reputation information available. In this case, please use your judgment based on the MC of the page and knowledge of your locale.
+大規模な評判調査は、憎悪や暴力を助長するウェブサイトを特定するために重要です。評判を調査する際には、あるグループに対する誹謗中傷の情報を提供している、良い定評のあるサイトを特定してください。ウェブサイトによっては評判情報が信用できない場合があります。この場合、ページのメインコンテンツとあなたの良識にしたがって判断してください。
 
-## Potentially Harmful Pages
+## 害を与える可能性のあるページ
 
-### Encourage Harm
+### 危害の助長
 
-Use the **Lowest** rating for pages that encourage or incite harm. Harm includes mental, physical, or emotional harm to self or others. For example:
+危害を助長したり煽ったりするページには**Lowest**評価が与えられます。害には、自己または他者に対する精神的、肉体的、または感情的な害が含まれます。
 
-- User discussions that attempt to justify sexual abuse of children.
-- How-to or step-by-step information on how to commit acts of terrorism or violent extremism.
-- Depictions of extreme gore or violence, without a beneficial purpose.
-- Suicide promotion or pro-anorexia webpages that encourage users to engage in behavior that can result in hospitalization or death.
-- Pages with scary death threats or other realistic-sounding threatening language.
+例えば、
 
-### Malicious Pages
+- 子供への性的虐待を正当化しようとする議論
+- テロ行為や暴力的な過激主義の実行方法についての情報。
+- 有益な目的のない、過激な流血や暴力の描写
+- 入院や死につながる可能性のある行動をユーザーに促す、自殺や摂食障害を促進するページ
+- 死の脅威や現実的な脅迫文を含むページ
 
-Malicious pages are created with harmful intent or created to benefit the website or other organization at the cost of the user. Use the **Lowest** rating for any harmful or malicious page, including the following:
+### 悪意のあるページ
 
-- Pages or websites that you strongly suspect are scams (see these links for more information about Internet scams: [Avoid Scams 1](https://guidelines.raterhub.com/images/AvoidScams.jpg), [Avoid Scams 2](https://guidelines.raterhub.com/images/GoogleAvoidScams.jpg), [Internet Fraud](https://guidelines.raterhub.com/images/InternetFraud.jpg)).
-- Pages that ask for personal information without a legitimate reason (for example, pages that ask for name, birthdate, address, bank account, government ID number, etc.).
-- Pages that "phish" for passwords to Facebook, Gmail, or other popular online services. See [here](https://guidelines.raterhub.com/images/phishing.jpg) for information about "phishing" fraud.
-- Pages with suspicious links, including malware download links or other types of links that are detrimental to users.
+悪意のあるページは、害を与える目的や、ユーザーのコストでウェブサイト側やほかの組織が利益を得る目的によって作成されます。以下のような有害または悪質なページには**Lowest**評価が付けられます。
 
-If you suspect a link is malicious, please do not click on it. You do not need to personally experience a malicious download in order to confirm that a website is harmful. Likewise, if you feel strongly that a website is a scam, you do not need to engage with it to get proof.
+- 詐欺であると疑われるようなページ（インターネット詐欺の詳細については、これらのリンクを参照してください：[Avoid Scams 1](https://guidelines.raterhub.com/images/AvoidScams.jpg), [Avoid Scams 2](https://guidelines.raterhub.com/images/GoogleAvoidScams.jpg), [Internet Fraud](https://guidelines.raterhub.com/images/InternetFraud.jpg))
+- 正当な理由なしに個人情報を要求するページ（名前、生年月日、住所、銀行口座、国のID番号など）
+- Facebook、Gmail、または他の人気のあるオンラインサービスへのパスワードを「フィッシング」するページ「フィッシング」詐欺については、[こちら](https://guidelines.raterhub.com/images/phishing.jpg)を参照してください
+- マルウェアダウンロードのリンク、またはその他のユーザーに有害なリンクを含む、疑わしいリンクが含まれているページ
 
-Use the **Lowest** rating if you suspect a page is malicious, even if you're not able to completely confirm that the page is harmful. Please exercise caution and practice good Internet safety skills.
+悪意のあるリンクだと思われる場合は、そのリンクをクリックしないでください。Wウェブサイトが有害であることを確認するために、悪意のあるダウンロードを個人的に行う必要はありません。同様に、あるウェブサイトが詐欺であると思った場合、それを証明するためにそのサイトに関与する必要はありません。
 
-### Negative or Malicious Reputation
+ページが有害であることを完全に確認できない場合でも、悪意のあるページであると思われる場合には、**Lowest**評価が適用されます。用心して、インターネットの安全性に関する優れたスキルを実践してください。
 
-Use the **Lowest** rating if the website and the creators of the MC have a negative or malicious reputation. Here are some examples originally shown in [`How to Search for Reputation Information`](/page-quality-rating-guideline/understanding-webpages-and-websites.html#how-to-search-for-reputation-information). All pages on these websites should be rated **Lowest** because of the negative or malicious reputation of these websites.
+### 否定的または悪意のある評判
 
-Website|Description
+Use the **Lowest** rating if the website and the creators of the MC have a negative or malicious reputation. Here are some examples originally shown in [`How to Search for Reputation Information`](). All pages on these websites should be rated **Lowest** because of the negative or malicious reputation of these websites.
+
+ウェブサイトおよびメインコンテンツの作成者に対して否定的または悪意のある評判がある場合は、**Lowest**評価がなされます。[How to Search for Reputation Information](/page-quality-rating-guideline/understanding-webpages-and-websites.html#how-to-search-for-reputation-information)においていくつか例が示されています。否定的または悪意のある評判よって、これらのウェブサイト上の全てのページは**Lowest**評価が適用されます。
+
+ウェブサイト|概要
 |---|---|
-[Site selling children's jungle gym](https://guidelines.raterhub.com/images/domeclimber.com.jpg)|**Negative reputation information:** This business has a [BBB rating](https://guidelines.raterhub.com/images/DomeClimberBBBReview.jpg) of F. There is a news article about financial fraud. There are many reviews on websites describing how users sent money and did not receive anything in return.
-[Site selling products related to eyewear](https://guidelines.raterhub.com/images/RG3_3.5-40.jpg)|**Negative/malicious reputation information:** This website engaged in criminal behavior such as physically threatening users.
-[Organization serving the hospitalized veteran community](https://guidelines.raterhub.com/images/PQ.3.5.10.jpg)|**Negative reputation information:** There are many detailed negative articles on news sites and charity watchdog sites describing fraud and financial mishandling about this organization.
+[子供のジャングルジムを販売するサイト](https://guidelines.raterhub.com/images/domeclimber.com.jpg)|**否定的な評判：** このビジネスの[BBBにおける評価](https://guidelines.raterhub.com/images/DomeClimberBBBReview.jpg)はFです 。金融詐欺に関するニュース記事や、ユーザーがそのように送金し、商品を受け取ることができなかったかなどのレビューが多くあります。
+[眼鏡関連商品の販売サイト](https://guidelines.raterhub.com/images/RG3_3.5-40.jpg)|**否定的/悪意のある評判：** このウェブサイトは、ユーザーを脅迫するなどの犯罪行為を行っています。
+[入院した退役軍人コミュニティに奉仕する組織](https://guidelines.raterhub.com/images/PQ.3.5.10.jpg)|**否定的な評判：** ニュースサイトやチャリティーウォッチドッグサイトには詐欺や金銭的ミスなどのこのサイトに対する否定的な記事が多くあります。
 
 ## Pages that Potentially Misinform Users
 
