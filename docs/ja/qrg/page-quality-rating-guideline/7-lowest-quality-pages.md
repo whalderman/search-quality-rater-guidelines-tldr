@@ -166,8 +166,6 @@ Webマスターによる維持、管理が全くされていないサイトも�
 
 ### 否定的または悪意のある評判
 
-Use the **Lowest** rating if the website and the creators of the MC have a negative or malicious reputation. Here are some examples originally shown in [`How to Search for Reputation Information`](). All pages on these websites should be rated **Lowest** because of the negative or malicious reputation of these websites.
-
 ウェブサイトおよびメインコンテンツの作成者に対して否定的または悪意のある評判がある場合は、**Lowest**評価がなされます。[How to Search for Reputation Information](/page-quality-rating-guideline/understanding-webpages-and-websites.html#how-to-search-for-reputation-information)においていくつか例が示されています。否定的または悪意のある評判よって、これらのウェブサイト上の全てのページは**Lowest**評価が適用されます。
 
 ウェブサイト|概要
