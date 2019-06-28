@@ -1,6 +1,9 @@
 module.exports = [
 	{
-		text: '🔰 TL;DR', link: '/'
+		text: '📚 Quality Rater Guidelines'
+	},
+	{
+		text: '🔰 TL;DR', link: '/tldr/'
 	},
 	{
 		text: 'Summarize Using...', items: [
