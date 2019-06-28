@@ -1,6 +1,6 @@
 module.exports = [
 	{
-		text: '📜 検索品質評価ガイドライン', link: '/ja/qrg/general-guidelines-overview/'
+		text: '📚 検索品質評価ガイドライン', link: '/ja/qrg/general-guidelines-overview/'
 	},
 	{
 		text: '🔰 TL;DR', link: '/ja/tldr/'
