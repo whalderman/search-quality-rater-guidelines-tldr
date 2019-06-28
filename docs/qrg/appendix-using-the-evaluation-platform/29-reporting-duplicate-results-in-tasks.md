@@ -5,7 +5,7 @@ In some rating tasks, you may be asked to determine whether any results are Dupl
 ## Pre-Identified Duplicates
 
 Some duplicate results are automatically detected and will be pre-identified for you. They will be annotated by the text
-"**Same as**..." right below the slider and above the result block.
+"**Same as...**" right below the slider and above the result block.
 
 This is what these pre-identified dupes look like:
 
@@ -39,11 +39,11 @@ When you notice that the results in two or more result blocks are duplicates, pl
 
 ![](../images/img868.jpg)
 
-You can then check results that are duplicates of the current result, and the checked results will be highlighted in yellow. You must select the "**Dupe of**..." button.
+You can then check results that are duplicates of the current result, and the checked results will be highlighted in yellow. You must select the "**Dupe of...**" button.
 
 ![](../images/img869.jpg)
 
-The duplicate results that you checked will be annotated by "**Dupe of**..." text at the top of the block. After selecting all dupes, click on the **finish selecting dupes** link to return to the normal rating mode. The link's name will change back to **Select Dupes**, and you will be able to report other sets of dupes, if there are any. If you change your mind, you can always uncheck a result.
+The duplicate results that you checked will be annotated by "**Dupe of...**" text at the top of the block. After selecting all dupes, click on the **finish selecting dupes** link to return to the normal rating mode. The link's name will change back to **Select Dupes**, and you will be able to report other sets of dupes, if there are any. If you change your mind, you can always uncheck a result.
 
 <span style="color: red">**Dupes**</span>
 
