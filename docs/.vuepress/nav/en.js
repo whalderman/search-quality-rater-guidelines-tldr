@@ -1,6 +1,6 @@
 module.exports = [
 	{
-		text: '📚 Quality Rater Guidelines'
+		text: '📚 Quality Rater Guidelines', link: '/qrg/general-guidelines-overview/'
 	},
 	{
 		text: '🔰 TL;DR', link: '/tldr/'
