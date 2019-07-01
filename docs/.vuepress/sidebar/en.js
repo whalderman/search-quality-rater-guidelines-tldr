@@ -3,11 +3,11 @@ module.exports = {
 		{
 			title: 'TL;DR',
 			children: [
-				'/tldr/managers',
+				'/tldr/everyone',
 				'/tldr/sales',
 				'/tldr/developers',
 				'/tldr/designers',
-				'/tldr/high-low-quality-characteristics'
+				'/tldr/quality-characteristics'
 			]
 		}
 	],

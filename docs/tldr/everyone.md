@@ -1,4 +1,4 @@
-# Manager Takeaways - Quality Rater Guidelines
+# TL;DR For Everyone
 
 Here we try to keep things as concise as possible, informing you about what to check your site for and which team needs to handle the problem if it isn't obvious. Ironically, this is also the longest TL;DR, since a complete understanding is needed.
 

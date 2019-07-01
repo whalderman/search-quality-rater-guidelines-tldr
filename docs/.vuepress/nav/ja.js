@@ -7,7 +7,7 @@ module.exports = [
 	},
 	{
 		text: '〇〇の専門用語を使って要約して', items: [
-			{ text: '社長・部長', link: '/ja/tldr/managers' },
+			{ text: '社長・部長', link: '/ja/tldr/everyone' },
 			{ text: '営業', link: '/ja/tldr/sales' },
 			{ text: '開発者', link: '/ja/tldr/developers' },
 			{ text: 'デザイナー', link: '/ja/tldr/designers' }

@@ -7,7 +7,7 @@ module.exports = [
 	},
 	{
 		text: 'Summarize Using...', items: [
-			{ text: 'CEO Jargon', link: '/tldr/managers' },
+			{ text: 'CEO Jargon', link: '/tldr/everyone' },
 			{ text: 'Sales Jargon', link: '/tldr/sales' },
 			{ text: 'Developer Jargon', link: '/tldr/developers' },
 			{ text: 'Designer Jargon', link: '/tldr/designers' }
