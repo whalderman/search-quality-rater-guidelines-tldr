@@ -1,4 +1,4 @@
-# High/Low Quality Characteristics
+# High/Low Quality Webpage Characteristics
 
 ## All Webpages
 
@@ -62,12 +62,6 @@
 - The content features or was created by an award-winning comedian
 :::
 
-## Small Business Webpages
-
-::: tip High-Quality Characteristics
-
-:::
-
 ## Blog Posts
 
 ::: tip High-Quality Characteristics
@@ -104,16 +98,11 @@
 - Includes subtitles
 :::
 
-## Game Webpages
-
-::: tip High-Quality Characteristics
-
-:::
-
 ## Q&A Webpages
 
 ::: tip High-Quality Characteristics
 
+- 
 :::
 
 ::: danger Low-Quality Characteristics
@@ -135,13 +124,6 @@
 
 - Forum is well-known (it has many backlinks)
 - Discussions show expertise in a topic
-:::
-
-## Government Webpages
-
-::: tip High-Quality Characteristics
-
-- Makes use of a `.gov` TLD
 :::
 
 ## Technical Webpages
