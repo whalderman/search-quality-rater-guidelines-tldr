@@ -158,82 +158,88 @@ Whether you're the expert or you hire the expert, make sure you attribute the co
 Having no attribution on a page infers that the company as a whole created the content.
 :::
 
-High Quality pages must have the following characteristics:
+High Quality pages have the following characteristics:
 
-- high Expertise, Authoritativeness, and Trustworthiness (E-A-T)
-  - information must be supported by expert consensus if consensus exists
-- a satisfying amount of high quality MC, including a **descriptive or helpful title**
-  - the **E-A-T** of a page **depends significantly on the quality of the MC**
-  - a high amount of time, effort, expertise, or talent/skill went into making the content
-  - information sites must be factually accurate, clearly written, and comprehensive
-  - shopping sites must allow for easy browsing and easy purchasing
-- satisfying website information and/or information about who is responsible for the website
-  - and satisfying customer service info for e-commerce sites
-- positive reputation for the person or company that created the content
+- High Expertise, Authoritativeness, and Trustworthiness (E-A-T)
+  - Information must be supported by expert consensus if consensus exists
+- A satisfying amount of high quality MC, including a **descriptive or helpful title**
+  - The **E-A-T** of a page **depends significantly on the quality of the MC**
+  - A high amount of time, effort, expertise, or talent/skill went into making the content
+  - Information sites must be factually accurate, clearly written, and comprehensive
+  - Shopping sites must allow for easy browsing and easy purchasing
+- Satisfying website information and/or information about who is responsible for the website
+  - And satisfying customer service info for e-commerce sites
+- Positive reputation for the person or company that created the content
 
 ## Highest Quality Pages
 
-Highest Quality pages must have at least one of the following:
+Highest Quality pages must have at least one of the following characteristics:
 
-- **exceptionally** high Expertise, Authoritativeness, and Trustworthiness (E-A-T)
-  - formal expertise is important for topics such as medical, financial, or legal advice
+- **Exceptionally** high Expertise, Authoritativeness, and Trustworthiness (E-A-T)
+  - Formal expertise is important for topics such as medical, financial, or legal advice
   - everyday expertise is important for topics such as humor or recipes
   - an expert page on cooking may be a page on a professional chef's website (formal expertise), or it may be someone who posts popular cooking videos on YouTube (everyday expertise)
 
-- an **exceptional** amount of high or highest quality MC
+- An **exceptional** amount of high or highest quality MC
   - The quality standards change depending on the **purpose of the page** and the **type of content**
 
-- **exceptionally** positive reputation for the person or company that created the content
-  - very positive reputation is often based on prestigious awards or recommendations from known experts or professional associations on the topic of the page
-  - topics that don't require formal expertise, like humor or recipes, can show exceptional reputation through popularity, user engagement, and user reviews
+- **Exceptionally** positive reputation for the person or company that created the content
+  - Very positive reputation is often based on prestigious awards or recommendations from known experts or professional associations on the topic of the page
+  - Topics that don't require formal expertise, like humor or recipes, can show exceptional reputation through popularity, user engagement, and user reviews
 
 ## Low Quality Pages
 
 Low Quality pages have at least one of the following characteristics:
 
-- low E-A-T
-  - inadequate expertise on the subject from the website/creator
-  - content subject does not match the theme of the website
-  - unsecure (http) transaction pages
-- low quality MC
-  - low amount of effort/time put into the content
-  - title of MC is exaggerated (making it inaccurate)
-  - many grammar errors
-  - many punctuation errors
-- low amount of MC
-- the Ads or supplementary content is distracting
-  - interstitial pages
-  - difficult to close ads/pop-ups
-  - ads are NSFW
-- low amount of information about the website/creator of the MC (when anonymity is not necessary)
-  - no customer service info
-  - no contact info
+- Low E-A-T
+  - Inadequate expertise on the subject from the website/creator
+  - Content subject does not match the theme of the website
+  - Unsecure (http) transaction pages
+- Low quality MC
+  - Low amount of effort/time put into the content
+  - Title of MC is exaggerated (making it inaccurate)
+  - Many grammar errors
+  - Many punctuation errors
+- Low amount of MC
+- The Ads or supplementary content is distracting
+  - Interstitial pages
+  - Difficult to close ads/pop-ups
+  - Ads are NSFW
+- Low amount of information about the website/creator of the MC (when anonymity is not necessary)
+  - No customer service info
+  - No contact info
   - YMYL content created by anonymous/unknown users
-- a somewhat negative reputation for a website/creator of the MC
+- A somewhat negative reputation for a website/creator of the MC
 
 ## Lowest Quality Pages
 
-- pages that potentially spread hate
-  - promote hate or violence towards a group of people
-- potentially harmful pages
-  - encourage harm to self or others
-  - malicious pages, e.g., scams, phishing, malware downloads
-  - extremely negative or malicious reputation
-- pages that potentially misinform users
-  - demonstrably inaccurate content
+::: danger Do no harm.
+Pages that may harm users will not rank within Google.
+:::
+
+Lowest Quality pages have at least one of the following characteristics:
+
+- Pages that potentially spread hate
+  - Promote hate or violence towards a group of people
+- Potentially harmful pages
+  - Encourage harm to self or others
+  - Malicious pages, e.g., scams, phishing, malware downloads
+  - Extremely negative or malicious reputation
+- Pages that potentially misinform users
+  - Demonstrably inaccurate content
   - YMYL content that contradicts well-established expert consensus
-  - debunked or unsubstantiated conspiracy theories
-- pages that potentially deceive users
-  - deceptive intent, e.g., websites created to deceive users
-  - deceptive design, e.g., Ads that are disguised as MC
-- lack of purpose pages
-  - no MC
-  - gibberish MC
-  - cannot determine a purpose for MC
-- pages that fail to achieve their purpose
-  - lowest E‑A‑T
-  - no/little MC or lowest quality MC
-  - copied MC or auto-generated MC
-  - obstructed or inaccessible MC
-  - inadequate information about the website or creator of the MC
-  - unmaintained websites, and hacked, defaced, or spammed pages
+  - Debunked or unsubstantiated conspiracy theories
+- Pages that potentially deceive users
+  - Deceptive intent, e.g., websites created to deceive users
+  - Deceptive design, e.g., Ads that are disguised as MC
+- Lack of purpose pages
+  - No MC
+  - Gibberish MC
+  - Cannot determine a purpose for MC
+- Pages that fail to achieve their purpose
+  - Lowest E‑A‑T
+  - No/little MC or lowest quality MC
+  - Copied MC or auto-generated MC
+  - Obstructed or inaccessible MC
+  - Inadequate information about the website or creator of the MC
+  - Unmaintained websites, and hacked, defaced, or spammed pages
