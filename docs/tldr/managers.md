@@ -153,7 +153,9 @@ E-A-T is determined differently based on the topic(s) of your website. For guida
 ## High Quality Pages
 
 ::: tip Content created by known experts will rank higher.
-Whether you're the expert or you hire the expert, experts should be creating the content, not guiding it.
+Whether you're the expert or you hire the expert, make sure you attribute the content to the expert who created it.
+
+Having no attribution on a page infers that the company as a whole created the content.
 :::
 
 High Quality pages must have the following characteristics:
@@ -210,3 +212,28 @@ Low Quality pages have at least one of the following characteristics:
 - a somewhat negative reputation for a website/creator of the MC
 
 ## Lowest Quality Pages
+
+- pages that potentially spread hate
+  - promote hate or violence towards a group of people
+- potentially harmful pages
+  - encourage harm to self or others
+  - malicious pages, e.g., scams, phishing, malware downloads
+  - extremely negative or malicious reputation
+- pages that potentially misinform users
+  - demonstrably inaccurate content
+  - YMYL content that contradicts well-established expert consensus
+  - debunked or unsubstantiated conspiracy theories
+- pages that potentially deceive users
+  - deceptive intent, e.g., websites created to deceive users
+  - deceptive design, e.g., Ads that are disguised as MC
+- lack of purpose pages
+  - no MC
+  - gibberish MC
+  - cannot determine a purpose for MC
+- pages that fail to achieve their purpose
+  - lowest E‑A‑T
+  - no/little MC or lowest quality MC
+  - copied MC or auto-generated MC
+  - obstructed or inaccessible MC
+  - inadequate information about the website or creator of the MC
+  - unmaintained websites, and hacked, defaced, or spammed pages
