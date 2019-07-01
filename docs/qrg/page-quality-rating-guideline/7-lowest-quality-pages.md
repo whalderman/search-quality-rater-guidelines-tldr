@@ -2,9 +2,9 @@
 
 This section describes **Lowest** quality pages. The examples at the end of this section are critical for understanding these concepts, so please review them carefully. As a reminder, here are the steps for doing PQ rating.
 
-1. Understand the true purpose of the page. Websites and pages should be created for users in order to serve a eneficial purpose, in other words, they should exist to help users.
-2. Websites or pages without a beneficial purpose, including pages that are created with no attempt to help users, or ages that potentially spread hate, cause harm, or misinform or deceive users, should receive the **Lowest** rating. E‑A‑T and other page quality characteristics do not play a role for these pages. For example, any page ttempting to scam users should receive the **Lowest** rating, whether the scam is created by an expert or not.
-3. Otherwise, the PQ rating is based on how well the page achieves its purpose using the criteria outlined in these uidelines. Pages that fail to achieve their purpose should receive the **Lowest** rating.
+1. Understand the true purpose of the page. Websites and pages should be created for users in order to serve a beneficial purpose, in other words, they should exist to help users.
+2. Websites or pages without a beneficial purpose, including pages that are created with no attempt to help users, or pages that potentially spread hate, cause harm, or misinform or deceive users, should receive the **Lowest** rating. E‑A‑T and other page quality characteristics do not play a role for these pages. For example, any page attempting to scam users should receive the **Lowest** rating, whether the scam is created by an expert or not.
+3. Otherwise, the PQ rating is based on how well the page achieves its purpose using the criteria outlined in these guidelines. Pages that fail to achieve their purpose should receive the **Lowest** rating.
 
 Here is a summary of what different types of **Lowest** pages look like:
 
