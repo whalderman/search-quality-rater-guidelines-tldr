@@ -6,7 +6,7 @@ Here we summarize what to look for on a client's site (as told/insinuated by the
 
 ## Things to Look Out For
 
-::: tip
+::: warning
 Keep in mind that pages which could potentially impact the future happiness, health, financial stability, or safety of users are judged much more strictly. Some examples:
 
 - Shopping or financial transaction pages
