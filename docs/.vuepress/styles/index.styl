@@ -34,8 +34,36 @@ a.header-anchor
   opacity 0
 
 .theme-default-content:not(.custom) a:hover
-    text-decoration none
-    border-bottom #0071ba solid 0.0625em
+  text-decoration none
+  border-bottom #0071ba solid 0.0625em
 
 .line-number, code, kbd
-    font-family "source-code-pro", "Menlo", "Monaco", "Consolas", "Courier New", "Meiryo", "メイリオ", monospace
+  font-family "source-code-pro", "Menlo", "Monaco", "Consolas", "Courier New", "Meiryo", "メイリオ", monospace
+
+.custom-block.danger
+  background-color #ffe6e6
+  border-color #c00
+  color #690000
+  .custom-block-title
+    color #900
+
+.custom-block.warning 
+  background-color #ffe5644d
+  border-color #e7c000
+  color #423700
+  .custom-block-title
+    color #635200
+
+.custom-block.tip
+  background-color #e9f6ff
+  border-color #0071ba
+  color #00356b
+  .custom-block-title
+    color #0051a2
+
+.custom-block.tip, .custom-block.warning, .custom-block.danger
+  padding 0.1rem 1.5rem
+  border-left-width 0.5rem
+  border-left-style solid
+  margin 1rem 0
+  border-radius 20px 0 0 0
