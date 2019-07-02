@@ -1,4 +1,4 @@
-# Quality Rater Guidelines - Sales Takeaways
+# TL;DR for Sales
 
 Here we summarize what to look for on a client's site (as told/insinuated by the Quality Rater Guidelines), and how many man-hours certain problems will take to fix.
 

@@ -1,4 +1,4 @@
-# Quality Rater Guidelines for Everyone, TL;DR
+# TL;DR for Everyone
 
 Here we try to keep things as concise as possible, informing you about what to check your site for and which team needs to handle the problem if it isn't obvious.
 
