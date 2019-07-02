@@ -70,10 +70,10 @@ Think about users in your locale typing or speaking the following queries into t
 
 Query|Likely User Intent
 ---|---
-[population of paris], English (US)|Find the current population of Paris, France.
-[starbucks near me], English (US)|Find the nearest Starbucks location.
-[weather], English (US)|Find weather information in the user location right now.
-[call mom], English (US)|Call/dial the number stored for the contact "Mom" on the device.
+`population of paris`, English (US)|Find the current population of Paris, France.
+`starbucks near me`, English (US)|Find the nearest Starbucks location.
+`weather`, English (US)|Find weather information in the user location right now.
+`call mom`, English (US)|Call/dial the number stored for the contact "Mom" on the device.
 
 ## Locale and User Location
 
@@ -111,11 +111,11 @@ Many queries have more than one meaning. For example, the query [apple] might re
 **Minor Interpretations**
 :  Sometimes you will find less common interpretations. These are interpretations that few users have in mind. We will call these _minor interpretations_.
 
-**Query: [apple]**\
+**Query: `apple`**\
 **Locale: English (US)**
 ![interpretation for the query "apple"](../images/img212.jpg)
 
-**Query: [mercury]**\
+**Query: `mercury`**\
 **Locale: English (US)**
 ![interpretation for the query "mercury"](../images/img213.jpg)
 
@@ -137,7 +137,7 @@ It can be helpful to think of queries as having one or more of the following int
 - **Website** query, when the user is looking for a specific website or webpage
 - **Visit-in-person** query, some of which are looking for a specific business or organization, some of which are looking for a category of businesses
 
-### `Know` and `Know Simple` Queries
+### Know and Know Simple Queries
 
 The intent of a **Know** query is to find information on a topic. Users want to **Know** more about something.
 
@@ -157,20 +157,20 @@ Here are some examples where the **Know Simple** query asks for a simple fact, w
 
 Know Simple Query|Know Query|Explanation
 ---|---|---
-[barack obama height]<br>[how tall is obama]|[barack obama]|The **Know** query is a broad information query and different users may be looking for different things (e.g., biography, books, social media posts, etc.).
-[new york city population 2013]|[new york city]|The **Know** query is a broad information query and different users may be looking for different things (e.g., tourist and trip planning information, facts, photographs, history).
-[who is graves disease named after]|[graves disease]|The **Know** query is a broad query for medical information and different users may have different needs. There is no single "answer" for this query.
-[macy's store hours]|[macy's gift wrap options]|The **Know** query is a broad query for a particular service offered by a department store, and does not have a short answer.
-[what is the symbol for the element nickel]|[what nickel is used for]|The **Know** query is a broad query and there is no short, complete answer.
-[who won the 2014 bcs national championship game]|[who is going to win the bcs national championship game]|The **Know** query asks for an opinion and there is no definitive answer.
-[what is starbucks stock price]|[should i invest in starbucks stock]|Even though the **Know** query is theoretically a yes/no question, there is not a single answer that everyone would agree on.
+`barack obama height`<br>`how tall is obama`|`barack obama`|The **Know** query is a broad information query and different users may be looking for different things (e.g., biography, books, social media posts, etc.).
+`new york city population 2013`|`new york city`|The **Know** query is a broad information query and different users may be looking for different things (e.g., tourist and trip planning information, facts, photographs, history).
+`who is graves disease named after`|`graves disease`|The **Know** query is a broad query for medical information and different users may have different needs. There is no single "answer" for this query.
+`macy's store hours`|`macy's gift wrap options`|The **Know** query is a broad query for a particular service offered by a department store, and does not have a short answer.
+`what is the symbol for the element nickel`|`what nickel is used for`|The **Know** query is a broad query and there is no short, complete answer.
+`who won the 2014 bcs national championship game`|`who is going to win the bcs national championship game`|The **Know** query asks for an opinion and there is no definitive answer.
+`what is starbucks stock price`|`should i invest in starbucks stock`|Even though the **Know** query is theoretically a yes/no question, there is not a single answer that everyone would agree on.
 
 Raters must think about mobile users when deciding if queries are **Know Simple**. Use your judgment here.
 
 <span style="color: red;">**Important Rating Example**</span>: The query [weather] may seem like a broad information query, but most mobile users likely have a fairly simple informational need: to find the current or upcoming temperature, and the chance of local weather events, such as rain or snow. Therefore, we will consider queries like [weather], [weather today], [weather tomorrow],
 [weather this week] to be **Know Simple** queries for mobile phone users.
 
-### `Do` and `Device Action` Queries
+### Do and Device Action Queries
 
 The intent of a **Do** query is to accomplish a goal or engage in an activity on a phone. The goal or activity may be to download, to buy, to obtain, to be entertained by, or to interact with a website or app. Users want to **Do** something.
 
@@ -178,10 +178,10 @@ Here are some examples.
 
 Query|Likely User Intent
 ---|---
-[get candy crush game]|Install the Candy Crush game.
-[online personality test]|Take an online personality test.
-[what is my bmi?]|Calculate BMI (body mass index).
-[buy citizen kane dvd]|Purchase this DVD.
+`get candy crush game`|Install the Candy Crush game.
+`online personality test`|Take an online personality test.
+`what is my bmi?`|Calculate BMI (body mass index).
+`buy citizen kane dvd`|Purchase this DVD.
 
 **Device Action** queries are a special kind of **Do** query. Users are asking their phone to do something for them. Users giving **Device Action** queries may be using phones in the hands-free mode, for example, while in a car. It's very important for mobile phones to accommodate **Device Action** queries, and we have a high standard for rating these results.
 
@@ -191,43 +191,43 @@ Here are some examples of **Device Action** queries.
 
 Type of Action|Device Action Query Examples (verb or action shown in bold)
 ---|---
-Call someone|[**call** mom's mobile phone], [place a **call** to anne jones], [ok google, could you please call my mom]
-Send a message|[**send** a text to john smith], [**text** john smith], [**sms** john smith]
-Get map information (e.g., directions, traffic, etc.)|[**navigate** to central park], [**show** me traffic], [**show** me a map]
-Open an app or webpage, or install an app|[**go** to amazon.com], [**open** facebook app], [**open** facebook.com], [**open** the business section of the new york times], [siri, would you **open** facebook for me], [**get** candy crush app]
-Play or view media|[**play** me songs from the white album], [**watch** the life of pi], [**show** me cute kittens], [i want to **look** at cute kittens], [i want to **listen** to imagine dragons radioactive]
-Schedule a meeting [ **schedule** a meeting for 9am]
-Set an alarm or timer [ **set** an alarm for 6am], [alarm for 6am], [countdown timer for 30 secs]
+Call someone|<code>**call** mom's mobile phone</code>, <code>place a **call** to anne jones</code>, <code>ok google, could you please **call** my mom</code>
+Send a message|<code>**send** a text to john smith</code>, <code>**text** john smith</code>, <code>**sms** john smith</code>
+Get map information (e.g., directions, traffic, etc.)|<code>**navigate** to central park</code>, <code>**show** me traffic</code>, <code>**show** me a map</code>
+Open an app or webpage, or install an app|<code>**go** to amazon.com</code>, <code>**open** facebook app</code>, <code>**open** facebook.com</code>, <code>**open** the business section of the new york times</code>, <code>siri, would you **open** facebook for me</code>, <code>**get** candy crush app</code>
+Play or view media|<code>**play** me songs from the white album</code>, <code>**watch** the life of pi</code>, <code>**show** me cute kittens</code>, <code>i want to **look** at cute kittens</code>, <code>i want to **listen** to imagine dragons radioactive</code>
+Schedule a meeting <code>**schedule** a meeting for 9am</code>
+Set an alarm or timer <code>**set** an alarm for 6am</code>, <code>alarm for 6am</code>, <code>countdown timer for 30 secs</code>
 
 Here are some examples of queries that are **not Device Action** queries.
 
 Query|Query is NOT a Device Action Query: Explanation
 ---|---
-[phone number empire state building]|There is no action word. The user may be looking for the phone number without the intention of calling the number. We'll consider this a **Know Simple** query.
-[facebook.com]|There is no action word, such as "open." We will consider this a **Website** query.
-[amazon.com]|There is no action word, such as "open." We will consider this a **Website** query.
-[anne jones]|There is no action word, such as "call" or "text." We will consider this a **Know** query for information.
+`phone number empire state building`|There is no action word. The user may be looking for the phone number without the intention of calling the number. We'll consider this a **Know Simple** query.
+`facebook.com`|There is no action word, such as "open." We will consider this a **Website** query.
+`amazon.com`|There is no action word, such as "open." We will consider this a **Website** query.
+`anne jones`|There is no action word, such as "call" or "text." We will consider this a **Know** query for information.
 
-### `Website` Queries
+### Website Queries
 
 The intent of a **Website** query is to locate a specific website or webpage that users have requested. This single webpage is called the **target** of the query.
 
 One type of **Website** query is a URL Query, which can be:
 
-- Exact, perfectly-formed, working URLs, such as [http://www.ibm.com] or [www.ibm.com] or [ibm.com].
+- Exact, perfectly-formed, working URLs, such as `http://www.ibm.com` or `www.ibm.com` or `ibm.com`.
 - Imperfect URL queries: Queries that look like URL queries, but are not "working URLs". These URLs do not load if you type or paste them into your browser address bar. Even so, we believe users have a specific page in mind.
 
 Here are some examples.
 
 Query|Likely User Intent
 ---|---
-[kayak], _English (US)_|View the Kayak website.
-[youtube], _English (US)_|View the YouTube website.
-[ebay], _Italian (IT)_|View the Italian eBay website.
-[new york time health section], _English (US)_|View the Health section of the New York Times website.
-[canon.com eos digital camera], _English (US)_|View the EOS digital cameras page on the Canon website.
+`kayak`, _English (US)_|View the Kayak website.
+`youtube`, _English (US)_|View the YouTube website.
+`ebay`, _Italian (IT)_|View the Italian eBay website.
+`new york time health section`, _English (US)_|View the Health section of the New York Times website.
+`canon.com eos digital camera`, _English (US)_|View the EOS digital cameras page on the Canon website.
 
-### `Visit-in-Person` Queries and User Location
+### Visit-in-Person Queries and User Location
 
 Users carry mobile phones with them throughout the day, for example, at work, to school, to restaurants, or running errands. One reason to carry a mobile phone is to have help with **Visit-in-Person** queries, such as finding coffee shops, gas stations, ATMs, restaurants, etc. Because mobile phones are often used for **Visit-in-Person** queries, make sure to consider visit-in-person intent as a possibility for mobile phone users.
 
@@ -237,7 +237,7 @@ Queries with Visit-in-Person Intent|Query with Non-Visit-in-Person Intent
 ---|---
 ![query for chinese restaurants](../images/img220.jpg)![user intent for chinese restaurants](../images/img221.jpg)|![query for tom cruise's height](../images/img222.jpg)![user intent for tom cruise's height](../images/img223.jpg)
 ![query for gas stations](../images/img224.jpg)![user intent for gas stations](../images/img225.jpg)|![query for iq test](../images/img226.jpg)![user intent for iq test](../images/img227.jpg)
-**More examples:** [pizza], [yoga class], [coffee shops], [movie showtimes], [car repair], [dentists], [bank of america atm locations], [starbucks near me]|**More examples:** [boston red sox], [washington post], [scrabble cheat], [definition of sedentary], [aapl], [beyonce], [angry birds], [small dog breeds], [dance videos], [oscars 2012], [pick up lines], [bank of america login]
+**More examples:** `pizza`, `yoga class`, `coffee shops`, `movie showtimes`, `car repair`, `dentists`, `bank of america atm locations`, `starbucks near me`|**More examples:** `boston red sox`, `washington post`, `scrabble cheat`, `definition of sedentary`, `aapl`, `beyonce`, `angry birds`, `small dog breeds`, `dance videos`, `oscars 2012`, `pick up lines`, `bank of america login`
 
 And some queries could go either way. Some users may want nearby results and others may not.
 
@@ -257,12 +257,12 @@ Here are some examples of queries with both visit-in-person and non-visit-in-per
 - [`bank of america`](https://www.google.com/search?q=bank+of+america)
 - [`the gap`](https://www.google.com/search?q=the+gap)
 
-Sometimes, the user location can change our understanding of the query. For users close to Sunnyvale, California, the query [turmeric] could have two different interpretations: a popular restaurant named Turmeric or the spice turmeric.
+Sometimes, the user location can change our understanding of the query. For users close to Sunnyvale, California, the query `turmeric` could have two different interpretations: a popular restaurant named Turmeric or the spice turmeric.
 
 ![query for turmeric in California returning address to restaurant](../images/img232.jpg)\
 ![query for turmeric in California returning information about the spice](../images/img233.jpg)
 
-In most other user locations, there is no restaurant (or anything else) named Turmeric and there is just one interpretation of the query [turmeric]: the spice. The Sunnyvale restaurant is not well-known outside of Sunnyvale, California.
+In most other user locations, there is no restaurant (or anything else) named Turmeric and there is just one interpretation of the query `turmeric`: the spice. The Sunnyvale restaurant is not well-known outside of Sunnyvale, California.
 
 ![query for turmeric in Nebraska returning information about the spice](../images/img234.jpg)
 
@@ -274,8 +274,8 @@ Many queries have more than one likely user intent. Please use your judgment whe
 
 Query|Likely User Intent
 ---|---
-[harvard]|Depending on the user need and location, users may want to visit the official homepage (**Website**), get directions,(**Visit-in-Person**), or learn more about the school (**Know**).
-[walmart]|Most users want to go to a nearby Walmart (**Visit-in-Person**) or view the homepage to shop online (**Website**). Some or few users may want to learn more information about the company (**Know**).
+`harvard`|Depending on the user need and location, users may want to visit the official homepage (**Website**), get directions,(**Visit-in-Person**), or learn more about the school (**Know**).
+`walmart`|Most users want to go to a nearby Walmart (**Visit-in-Person**) or view the homepage to shop online (**Website**). Some or few users may want to learn more information about the company (**Know**).
 
 ## Understanding Result Blocks
 
@@ -287,8 +287,8 @@ Web Search Result Blocks typically have a title link, a URL and a "snippet" of t
 
 Query, User Location, User Intent|Web Search Result Block
 ---|---
-**Query:** [cuisinart food processor reviews]<br><br>**User Location:** Oklahoma City, Oklahoma<br><br>**User Intent:** This is a **Know** query. The user wants to find recent reviews of Cuisinart food processors.<br><br>**Result:** This is a Web Search Result Block that has a link to a landing page with Cuisinart reviews.|![web search result block](../images/img236.jpg)
-**Query:** [broadway tickets]<br><br>**User Location:** New York City, New York<br><br>**User Intent:** This is a **Know** query or **Do** query. The user wants to search prices and/or purchase tickets to a Broadway show in New York City.|![web search result block](../images/img237.jpg)
+**Query:** `cuisinart food processor reviews`<br><br>**User Location:** Oklahoma City, Oklahoma<br><br>**User Intent:** This is a **Know** query. The user wants to find recent reviews of Cuisinart food processors.<br><br>**Result:** This is a Web Search Result Block that has a link to a landing page with Cuisinart reviews.|![web search result block](../images/img236.jpg)
+**Query:** `broadway tickets`<br><br>**User Location:** New York City, New York<br><br>**User Intent:** This is a **Know** query or **Do** query. The user wants to search prices and/or purchase tickets to a Broadway show in New York City.|![web search result block](../images/img237.jpg)
 
 ### Special Content Result Block Examples
 
@@ -305,12 +305,12 @@ Because mobile phones can be difficult to use, SCRBs can help mobile phone users
 
 Query, User Location, User Intent|Special Content Result Block
 ---|---
-**Query:** [weather]<br><br>**User Location:** Chicago, Illinois<br><br>**User Intent:** This is a **Know Simple** query since mobile users have a fairly simple informational need: find the current temperature and chance of rain or snow. The user wants to know the weather for the User Location.<br><br>_**Note:** Assume the block shows current information for users._|![special content result block](../images/img240.jpg)
-**Query:** [emma stone movies]<br><br>**User Location:** Des Moines, Iowa<br><br>**User Intent:** This is a **Know** query. The user wants to get information on movies with Emma Stone.<br><br>**Result:** In this result block, users can immediately see some popular movies starring Emma Stone, with an option to click on the links to learn more about each movie. Users can also swipe to see a list of more movies.|![special content result block](../images/img242.jpg)
-**Query:** [calories in a banana]<br><br>**User Location:** Oakland, California<br><br>**User Intent:** This is a **Know Simple** query. The user wants to find out how many calories are in a banana.|![special content result block](../images/img243.jpg)
-**Query:** [baseball scores]<br><br>**User Location:** Wichita, Kansas<br><br>**User Intent:** This is a **Know** query. The user wants to find the most recent Major League Baseball scores.|![special content result block](../images/img244.jpg)
-**Query:** [coldplay fix you video]<br><br>**User Location:** New Orleans, Louisiana<br><br>**User Intent:** This is a **Do** query. The user wants to watch the music video for the song "Fix You" by Coldplay.<br><br>**Result:** By clicking on this result block, users can play the music video for the song on their phone, learn more about the artist/album, etc.|![special content result block](../images/img246.jpg)
-**Query:** [what is the tallest tree]<br><br>**User Location:** Boise, Idaho<br><br>**User Intent:** This is a **Know Simple** query. The user wants to know what type of tree is the tallest.|![special content result block](../images/img247.jpg)
+**Query:** `weather`<br><br>**User Location:** Chicago, Illinois<br><br>**User Intent:** This is a **Know Simple** query since mobile users have a fairly simple informational need: find the current temperature and chance of rain or snow. The user wants to know the weather for the User Location.<br><br>_**Note:** Assume the block shows current information for users._|![special content result block](../images/img240.jpg)
+**Query:** `emma stone movies`<br><br>**User Location:** Des Moines, Iowa<br><br>**User Intent:** This is a **Know** query. The user wants to get information on movies with Emma Stone.<br><br>**Result:** In this result block, users can immediately see some popular movies starring Emma Stone, with an option to click on the links to learn more about each movie. Users can also swipe to see a list of more movies.|![special content result block](../images/img242.jpg)
+**Query:** `calories in a banana`<br><br>**User Location:** Oakland, California<br><br>**User Intent:** This is a **Know Simple** query. The user wants to find out how many calories are in a banana.|![special content result block](../images/img243.jpg)
+**Query:** `baseball scores`<br><br>**User Location:** Wichita, Kansas<br><br>**User Intent:** This is a **Know** query. The user wants to find the most recent Major League Baseball scores.|![special content result block](../images/img244.jpg)
+**Query:** `coldplay fix you video`<br><br>**User Location:** New Orleans, Louisiana<br><br>**User Intent:** This is a **Do** query. The user wants to watch the music video for the song "Fix You" by Coldplay.<br><br>**Result:** By clicking on this result block, users can play the music video for the song on their phone, learn more about the artist/album, etc.|![special content result block](../images/img246.jpg)
+**Query:** `what is the tallest tree`<br><br>**User Location:** Boise, Idaho<br><br>**User Intent:** This is a **Know Simple** query. The user wants to know what type of tree is the tallest.|![special content result block](../images/img247.jpg)
 
 ### Device Action Result Block Examples
 
@@ -318,11 +318,11 @@ A mobile phone should respond to a **Device Action** query and do what the user 
 
 Query, User Location, User Intent, Result|Device Action Result Block
 ---|---
-**Query:** [open angry birds]<br><br>**User Location:** Little Rock, Arkansas<br><br>**User Intent:** This is a **Device Action** query. The user wants the device to open the Angry Birds app so he/she can play the game.<br><br>**Result:** In this result block, users can click the link to open the app.|![device action result block](../images/img248.jpg)
-**Query:** [go to amazon.com]<br><br>**User Location:** Glendale California<br><br>**User Intent:** This is a **Device Action** query. The user wants to go to amazon.com to interact with the website.<br><br>**Result:** In this result block, users can click the links to go directly to the website.|![device action result block](../images/img250.jpg)
-**Query:** [set alarm for 5 o'clock am]<br><br>**User Location:** Tacoma, Washington<br><br>**User Intent:** This is a **Device Action** query. The user wants to set the device's alarm to go off at 5:00 AM.<br><br>**Result:** In this result block, the query has initiated the alarm on the phone to be set for 5:00 AM.|![device action result block](../images/img251.jpg)
-**Query:** [send text to mom]<br><br>**User Location:** Tacoma, Washington<br><br>**User Intent:** This is a **Device Action** query. The user wants to send a text message to a contact nicknamed "Mom."<br><br>**Result:** In this Device Action Result Block, the query has initiated a text to the contact nicknamed "Mom," with an option to text either the work or mobile number.|![device action result block](../images/img252.jpg)
-**Query:** [call best buy]<br><br>**User Location:** Mountain View, California<br><br>**User Intent:** This is a **Device Action** query. The user wants to call the nearest Best Buy store.<br><br>**Result:** In this Device Action Result Block, the query has initiated a call to the nearest Best Buy location.|![device action result block](../images/img254.jpg)
+**Query:** `open angry birds`<br><br>**User Location:** Little Rock, Arkansas<br><br>**User Intent:** This is a **Device Action** query. The user wants the device to open the Angry Birds app so he/she can play the game.<br><br>**Result:** In this result block, users can click the link to open the app.|![device action result block](../images/img248.jpg)
+**Query:** `go to amazon.com`<br><br>**User Location:** Glendale California<br><br>**User Intent:** This is a **Device Action** query. The user wants to go to amazon.com to interact with the website.<br><br>**Result:** In this result block, users can click the links to go directly to the website.|![device action result block](../images/img250.jpg)
+**Query:** `set alarm for 5 o'clock am`<br><br>**User Location:** Tacoma, Washington<br><br>**User Intent:** This is a **Device Action** query. The user wants to set the device's alarm to go off at 5:00 AM.<br><br>**Result:** In this result block, the query has initiated the alarm on the phone to be set for 5:00 AM.|![device action result block](../images/img251.jpg)
+**Query:** `send text to mom`<br><br>**User Location:** Tacoma, Washington<br><br>**User Intent:** This is a **Device Action** query. The user wants to send a text message to a contact nicknamed "Mom."<br><br>**Result:** In this Device Action Result Block, the query has initiated a text to the contact nicknamed "Mom," with an option to text either the work or mobile number.|![device action result block](../images/img252.jpg)
+**Query:** `call best buy`<br><br>**User Location:** Mountain View, California<br><br>**User Intent:** This is a **Device Action** query. The user wants to call the nearest Best Buy store.<br><br>**Result:** In this Device Action Result Block, the query has initiated a call to the nearest Best Buy location.|![device action result block](../images/img254.jpg)
 
 ### How Device Action Results are Displayed in Rating Tasks
 
