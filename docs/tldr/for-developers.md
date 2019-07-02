@@ -1,4 +1,4 @@
-# Developer Takeaways - Quality Rater Guidelines
+# Quality Rater Guidelines for Developers, TL;DR
 
 Here we go over various optimizations that can (and should) be made to a site, as well as some tools that can be used.
 
@@ -27,6 +27,34 @@ Images are often a website's biggest use of bandwidth - and bandwidth costs user
 
 Save yourself and your users' time by implementing automated image optimization.
 :::
+
+## Pages That Should Not Be Indexed
+
+Ideally, the page types below should not be indexed (and oftentimes should not even be crawlable).
+
+> 🤖 = meta robots inclusion/exclusion can be automated
+
+- 🤖 Pages with no content
+- 🤖 Receipt pages
+- 🤖 Search pages (e.g. https://www.bruceclay.com/?s=seo&id=m)
+- 🤖 Q&A pages without any answers
+- Pages giving dangerous advice
+
+Avoiding indexation simply requires the following meta tag to be added to the page.
+
+``` html
+<meta name='robots' content='noindex'>
+```
+
+If preferred, you could instead use the HTTP `X-Robots-Tag` header:
+
+``` txt
+X-Robots-Tag: noindex
+```
+
+## Image Optimization
+
+Image optimization is often one of the most tedious, most important areas of optimization.
 
 ### Image Optimization Libraries
 

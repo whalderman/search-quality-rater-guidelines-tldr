@@ -1,6 +1,6 @@
-# TL;DR For Everyone
+# Quality Rater Guidelines for Everyone, TL;DR
 
-Here we try to keep things as concise as possible, informing you about what to check your site for and which team needs to handle the problem if it isn't obvious. Ironically, this is also the longest TL;DR, since a complete understanding is needed.
+Here we try to keep things as concise as possible, informing you about what to check your site for and which team needs to handle the problem if it isn't obvious.
 
 > Disclaimer: The following content includes opinions and reasoning from the SEO professionals at [Bruce Clay Japan Inc.](https://bruceclay.jpn.com) These opinions and suggestions attempt to summarize Google's Quality Rater Guidelines, but are **not in any way** endorsed or backed by Google.
 
@@ -179,10 +179,8 @@ Highest Quality pages must have at least one of the following characteristics:
   - Formal expertise is important for topics such as medical, financial, or legal advice
   - everyday expertise is important for topics such as humor or recipes
   - an expert page on cooking may be a page on a professional chef's website (formal expertise), or it may be someone who posts popular cooking videos on YouTube (everyday expertise)
-
 - An **exceptional** amount of high or highest quality MC
   - The quality standards change depending on the **purpose of the page** and the **type of content**
-
 - **Exceptionally** positive reputation for the person or company that created the content
   - Very positive reputation is often based on prestigious awards or recommendations from known experts or professional associations on the topic of the page
   - Topics that don't require formal expertise, like humor or recipes, can show exceptional reputation through popularity, user engagement, and user reviews
@@ -243,3 +241,21 @@ Lowest Quality pages have at least one of the following characteristics:
   - Obstructed or inaccessible MC
   - Inadequate information about the website or creator of the MC
   - Unmaintained websites, and hacked, defaced, or spammed pages
+
+## Medium Quality Pages
+
+Medium quality pages are categorized into one of the following:
+
+- **Nothing wrong, but nothing special**  
+  The page achieves its purpose, but does not merit a High or Low quality rating.
+- **Mixed with strong High quality rating characteristics**  
+  The page or website has strong High quality rating characteristics along with **some** mild Low quality characteristics.
+
+## Page Quality Rating Tasks
+
+::: tip Maintain high Expertise, Authority, and Trust (E-A-T)
+A page is judged on the reputation and E‑A‑T of **both the website and the creator(s)** of the MC. This is especially important when the page is about a YMYL topic.
+:::
+
+## Page Quality Criteria for Specific Types of Pages
+
