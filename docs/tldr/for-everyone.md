@@ -8,7 +8,7 @@ Here we try to keep things as concise as possible, informing you about what to c
 
 Within Google's search results, pages are ranked based on two things:
 
-1. **quality** of their info
+1. **quality** of their info, and
 2. **how well they satisfy the user's intent**
 
 ## Understanding Webpages and Websites
@@ -254,8 +254,16 @@ Medium quality pages are categorized into one of the following:
 ## Page Quality Rating Tasks
 
 ::: tip Maintain high Expertise, Authority, and Trust (E-A-T)
-A page is judged on the reputation and E‑A‑T of **both the website and the creator(s)** of the MC. This is especially important when the page is about a YMYL topic.
+A page is judged on the reputation and E‑A‑T of **both the website and the creator(s)** of the MC. This is especially important when the page covers a YMYL topic.
 :::
 
-## Page Quality Criteria for Specific Types of Pages
+## Understanding Mobile Users, Mobile Queries, and Mobile Results
 
+::: tip Every user query has a goal.
+The page that best answers a given query will rank highest. Keep the following in mind:
+
+- The search intent for a given query can change over time (e.g. searching `iphone` in 2007 vs today)
+  - Older pages often become less relevant over time
+- Queries can have multiple meanings (e.g. `apple`)
+  - If the query has a dominant interpretation (the company "Apple Inc." for the example above), pages related to that interpretation will rank highest
+:::

@@ -5,6 +5,7 @@
 ::: tip High-Quality Characteristics
 
 - A satisfying amount of high quality MC
+- Content is easily viewable on all screen sizes (smartphone, tablet, desktop)
 - High expertise, authority, and trust regarding the subject matter
 - Positive reputation for the person or business that created the content
 - Ads are clearly labeled
