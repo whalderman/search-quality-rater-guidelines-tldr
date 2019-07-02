@@ -16,25 +16,32 @@
 
 - Sponsored links/ads have the same style and appearance (CSS) as normal links on the page
 - Ads are highly distracting and/or shocking
+- Ads are indistinguishable from normal content/links
 :::
 
 ## Informational Webpages
 
+> Reputation and E-A-T of both the website and the authors of the MC is extremely important.
+
 ::: tip High-Quality Characteristics
 
-- site is well-known (many backlinks)
-- very satisying amount of MC
-  - shopping pages contain many pictures
+- Site is well-known (many backlinks)
+- Very satisying amount of MC
+  - Shopping pages contain many pictures
 :::
 
 ::: danger Low-Quality Characteristics
 
-- only contains commonly known information
-- poor writing quality
+- Only contains commonly known information
+- Poor writing quality
 - Q&A page with no answer
+- No author listed
+- No reference links
 :::
 
 ## News Webpages
+
+> Reputation and E-A-T of both the website and the authors of the MC is extremely important.
 
 ::: tip High-Quality Characteristics
 
@@ -53,6 +60,7 @@
 - Factual inaccuracies
 - Title is inaccurate
 - Contains no citations
+- Author is infamous
 :::
 
 ## Humor Webpages
@@ -72,8 +80,8 @@
 
 ::: danger Low-Quality Characteristics
 
-- content contains inaccurate/meaningless information
-- content is garbled
+- Content contains inaccurate/meaningless information
+- Content is garbled
 :::
 
 ## Shopping Webpages
@@ -92,25 +100,17 @@
 
 ## Video Webpages
 
+> Reputation and E-A-T of both the website and the creators of the MC is extremely important.
+
 ::: tip High-Quality Characteristics
 
 - Title/tags properly match video content
 - Includes subtitles
 :::
 
-## Q&A Webpages
-
-::: tip High-Quality Characteristics
-
-- 
-:::
-
-::: danger Low-Quality Characteristics
-
-- many deliberately misleading answers
-:::
-
 ## Encyclopedia Webpages
+
+> Reputation and E-A-T of both the website and the authors of the MC is extremely important.
 
 ::: tip High-Quality Characteristics
 
@@ -118,12 +118,27 @@
 - Includes citations
 :::
 
-## Forum Webpages
+::: danger Low-Quality Characteristics
+
+- Factually inaccurate
+:::
+
+## Forum and Q&A Webpages
+
+> Reputation and E-A-T of both the website and the authors of the MC is extremely important.
 
 ::: tip High-Quality Characteristics
 
 - Forum is well-known (it has many backlinks)
-- Discussions show expertise in a topic
+- Discussion/answer shows expertise on the topic
+:::
+
+::: danger Low-Quality Characteristics
+
+- No answers or discussions are provided
+- Question and or answers are poorly worded
+- Many deliberately misleading answers
+- The page gives dangerous advice
 :::
 
 ## Technical Webpages
@@ -133,17 +148,27 @@
 - Documentation is written by the same company that sells the software/hardware
 :::
 
-## Error Pages
+## Error Pages (No MC)
 
-While error pages may not be the most exciting subject, they are still used by Google in judging the quality of a site.
+While error pages may not be the most exciting part of a website, they are still used by Google in judging the quality of a site.
 
 ::: tip High-Quality Characteristics
 
 - Custom-made
-- Includes a search function that's unique to the website
+- Clearly explains the error code and reasons for it
+- Includes a search box, especially one that's customized for the website (e.g. includes search filters)
+:::
+
+::: danger Low-Quality Characteristics
+
+- Doesn't return an error message
+- Doesn't explain the error
+- Page is covered in ads
 :::
 
 ## Financial Pages
+
+> Reputation and E-A-T of both the website and the authors of the MC is extremely important.
 
 ::: tip High-Quality Characteristics
 
@@ -156,6 +181,8 @@ While error pages may not be the most exciting subject, they are still used by G
 :::
 
 ## Medical Pages
+
+> Reputation and E-A-T of both the website and the authors of the MC is extremely important.
 
 ::: tip High-Quality Characteristics
 
