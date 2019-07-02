@@ -2,9 +2,9 @@
 
 For those too busy to read hundreds of pages of text and apply it. Pick your lingo:
 
-## [CEO/Manager](./for-everyone.html)
+## [Everyone](./for-everyone.html)
 
-For those keeping the company in order. Here we try to keep things as concise as possible, informing you about what to check your site for, how it's affecting your bottom line, and which team needs to handle the problem.
+For everyone involved with their website's success. Here we try to keep things as concise as possible, informing you on what to keep an eye out for.
 
 ## [Sales](./for-sales.html)
 
