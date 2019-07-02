@@ -196,8 +196,8 @@ Send a message|<code>**send** a text to john smith</code>, <code>**text** john s
 Get map information (e.g., directions, traffic, etc.)|<code>**navigate** to central park</code>, <code>**show** me traffic</code>, <code>**show** me a map</code>
 Open an app or webpage, or install an app|<code>**go** to amazon.com</code>, <code>**open** facebook app</code>, <code>**open** facebook.com</code>, <code>**open** the business section of the new york times</code>, <code>siri, would you **open** facebook for me</code>, <code>**get** candy crush app</code>
 Play or view media|<code>**play** me songs from the white album</code>, <code>**watch** the life of pi</code>, <code>**show** me cute kittens</code>, <code>i want to **look** at cute kittens</code>, <code>i want to **listen** to imagine dragons radioactive</code>
-Schedule a meeting <code>**schedule** a meeting for 9am</code>
-Set an alarm or timer <code>**set** an alarm for 6am</code>, <code>alarm for 6am</code>, <code>countdown timer for 30 secs</code>
+Schedule a meeting|<code>**schedule** a meeting for 9am</code>
+Set an alarm or timer|<code>**set** an alarm for 6am</code>, <code>alarm for 6am</code>, <code>countdown timer for 30 secs</code>
 
 Here are some examples of queries that are **not Device Action** queries.
 
@@ -274,7 +274,7 @@ Many queries have more than one likely user intent. Please use your judgment whe
 
 Query|Likely User Intent
 ---|---
-`harvard`|Depending on the user need and location, users may want to visit the official homepage (**Website**), get directions,(**Visit-in-Person**), or learn more about the school (**Know**).
+`harvard`|Depending on the user need and location, users may want to visit the official homepage (**Website**), get directions (**Visit-in-Person**), or learn more about the school (**Know**).
 `walmart`|Most users want to go to a nearby Walmart (**Visit-in-Person**) or view the homepage to shop online (**Website**). Some or few users may want to learn more information about the company (**Know**).
 
 ## Understanding Result Blocks
@@ -360,13 +360,8 @@ Here is an example for the query [play adele]. The user is shown a "Play media" 
 We understand that raters using different phones, operating systems, and browsers may have different experiences. In general, do what you would do naturally, and rate based on your experience. Here are some additional points to keep in mind when you are rating on your phone:
 
 - If you see one of these messages when you open a landing page on your phone:
-
   - Asks whether you want to open the page in the browser or the website's app: select and evaluate the webpage. However, if the result automatically opens an app by default based on your phone's setting (e.g. some users have set all YouTube pages to automatically open the result in the YouTube app), you should rate your natural app experience—you do not have to change your phone's default settings.
-
   - Asks whether you want to visit the mobile page or desktop page: it is fine to select the mobile page as long as the landing page is the same. Sometimes, the mobile option will bring you to the mobile homepage instead of the specific URL in the task. You may need to check that the mobile page is in fact the same URL as the desktop page.
-
 - Please open and look at PDF files. Your experience may be easier or harder than other users depending on your phone and browser, but you should still open the PDF file and look at it.
-
 - Occasionally, you may be assigned some of these rating tasks on a desktop computer, but please rate from the perspective of a mobile user unless otherwise instructed.
-
 - You should assume queries were issued on a smartphone. For some queries, there are results that are helpful for specific types of phones—for example, some apps will only work on an Android or iPhone. Please assume that queries with device-specific results were issued on an Android device, unless explicitly stated otherwise in the instructions.

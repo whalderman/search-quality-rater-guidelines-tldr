@@ -189,11 +189,11 @@ Know Simpleクエリの例|Knowクエリの例|説明
 
 動作のタイプ|デバイスアクションクエリの例（動詞・動作を表す単語を太字表記）
 ---|---
-電話する|<code>母の携帯に**電話する**</code>、<code>アン・ジョーンに**電話する**</code>、<code>OK　Google、母さんに**電話**</code>
-メッセージを送る|<code>ジョンにテキスト送信</code>、<code>メッセージ送信 ジョン</code>、<code>SMS ジョン</code>
-道案内・交通情報などのマップ情報を見る|<code>セントラルパークまで**案内**</code>、<code>交通情報**見せて**</code>、<code>地図を**見せて**</code>
+電話する|<code>母の携帯に**電話する**</code>、<code>アン・ジョーンに**電話する**</code>、<code>OK　Google、母さんに**電話する**</code>
+メッセージを送る|<code>ジョンにテキスト**送信**</code>、<code>メッセージ**送信** ジョン</code>、<code>**SMS** ジョン</code>
+道案内・交通情報などのマップ情報を**見る**|<code>セントラルパークまで**案内**</code>、<code>交通情報**見せて**</code>、<code>地図を**見せて**</code>
 アプリ・ページを開くか、アプリをインストールする|<code>amazon.comに**行く**</code>、<code>facebookアプリ **起動**</code>、<code>facebook.comを開く</code>、<code>NYタイムスのビジネスセクションを開く</code>、<code>siri、Facebookを**開いてくれる**？</code>、<code>**入手** Candy Crushアプリ</code>
-音楽・動画などのメディアを開く|<code>White albumの曲をかける</code>、<code>ライフ・オブ・パイを**見る**</code>、<code>かわいい子猫を**見せて**</code>、<code>かわいい子猫が**見たい**</code>、<code>imagine dragonsのradioactiveを**聴きたい**</code>
+音楽・動画などのメディアを開く|<code>White albumの曲を**かける**</code>、<code>ライフ・オブ・パイを**見る**</code>、<code>かわいい子猫を**見せて**</code>、<code>かわいい子猫が**見たい**</code>、<code>imagine dragonsのradioactiveを**聴きたい**</code>
 スケジュールを登録|<code>午前9時にミーティングを**入れる**</code>
 アラーム・タイマーを設定|<code>午前6時にアラーム**設定**</code>、<code>午前6時に**アラーム**</code>、<code>30秒の**タイマー**</code>
 
@@ -222,30 +222,20 @@ Know Simpleクエリの例|Knowクエリの例|説明
 `kayak` （英語・アメリカ）|KayakのWebサイトを見る
 `youtube` （英語・アメリカ）|YoutubeのWebサイトを見る
 `ebay` （イタリア語・イタリア）|eBay（イタリア版）のWebサイトを見る
-`NYタイムス 健康セクション]（英語・アメリカ）|NYタイムスのWebサイトの、健康に関するセクションを見る
-`canon.com eos デジタルカメラ]（英語・アメリカ）|キヤノンのWebサイトの、EOSデジタルカメラのページを見る
+`NYタイムス 健康セクション`（英語・アメリカ）|NYタイムスのWebサイトの、健康に関するセクションを見る
+`canon.com eos デジタルカメラ`（英語・アメリカ）|キヤノンのWebサイトの、EOSデジタルカメラのページを見る
 
-### `Visit-in-Person`クエリとユーザーの所在地
+### Visit-in-Personクエリとユーザーの所在地
 
 １日のほとんどをユーザーは、スマートフォンと共に行動する。仕事、学校、レストラン、その他用事などにスマートフォンを持ち歩く理由の１つとして、「喫茶店・ATM・レストランなどを探す」という**Visit-in-Person**クエリを解決するためである。スマートフォンの検索において**Visit-in-Person**クエリは使用されることが多く、スマートフォンを通しての検索では**Visit-in-Person**クエリの意図がある可能性を見落とさないようにすることが重要である。
 
 所在地付近の情報や、検索結果であるビジネス・組織・場所が明確なクエリもある。以下には、意図の明確な**Visit-in-Person**クエリと意図が明確ではない**Visit-in-Person**クエリをまとめてみた。
 
-#### Visit-in-Personの意図が<span style="color: red;">ある</span>クエリ
-
-![query and user intent for chinese restaurants](../images/img220.jpg)
-
-![query and user intent for gas stations](../images/img224.jpg)
-
-**その他の例：** `ピザ` `ヨガ 教室` `喫茶店` `映画 上映時間` `車の修理][歯医者` `バンクオブアメリカ ATM 場所` `近所のスターバックス`
-
-#### Visit-in-Personの意図が<span style="color: red;">ない</span>クエリ
-
-![query and user intent for tom cruise's height](../images/img222.jpg)
-
-![query and user intent for iq test](../images/img226.jpg)
-
-**その他の例：** `レッドソックス` `ワシントンポスト` `スクラブル（訳注：ゲーム名） コツ` `sedentary 意味` `aapl（訳注:Apple社の株式コード）` `ビヨンセ` `Angry Birds（訳注:ゲーム）` `ダンス動画` `オスカー 2012` `口説き文句` `バンクオブアメリカ ログイン`
+Visit-in-Personの意図が<span style="color: red;">ある</span>クエリ|Visit-in-Personの意図が<span style="color: red;">ない</span>クエリ
+---|---
+![query and user intent for chinese restaurants](../images/img220.jpg)|![query and user intent for tom cruise's height](../images/img222.jpg)
+![query and user intent for gas stations](../images/img224.jpg)|![query and user intent for iq test](../images/img226.jpg)
+**その他の例：** `ピザ` `ヨガ 教室` `喫茶店` `映画 上映時間` `車の修理][歯医者` `バンクオブアメリカ ATM 場所` `近所のスターバックス`|**その他の例：** `レッドソックス` `ワシントンポスト` `スクラブル（訳注：ゲーム名） コツ` `sedentary 意味` `aapl（訳注:Apple社の株式コード）` `ビヨンセ` `Angry Birds（訳注:ゲーム）` `ダンス動画` `オスカー 2012` `口説き文句` `バンクオブアメリカ ログイン`
 
 また「Visit-in-Personの意図があるユーザーもいれば、ないユーザーもいる」というクエリもあります。
 
