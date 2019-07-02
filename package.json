@@ -8,7 +8,7 @@
 	"scripts": {
 		"docs:dev": "vuepress dev docs",
 		"docs:build": "vuepress build docs",
-		"up": "powershell.exe -file ./up.ps1"
+		"up": "powershell -file ./up.ps1"
 	},
 	"devDependencies": {},
 	"dependencies": {
