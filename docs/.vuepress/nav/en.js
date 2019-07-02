@@ -6,14 +6,6 @@ module.exports = [
 		text: '🔰 TL;DR', link: '/tldr/'
 	},
 	{
-		text: 'Summarize Using...', items: [
-			{ text: 'CEO Jargon', link: '/tldr/for-everyone' },
-			{ text: 'Sales Jargon', link: '/tldr/for-sales' },
-			{ text: 'Developer Jargon', link: '/tldr/for-developers' },
-			{ text: 'Designer Jargon', link: '/tldr/for-designers' }
-		]
-	},
-	{
 		text: 'Who Made This?', link: '/about/'
 	},
 	{
@@ -57,5 +49,8 @@ module.exports = [
 				]
 			}
 		]
+	},
+	{
+		text: 'Got a Question❓', link: 'https://docs.google.com/forms/d/e/1FAIpQLSePiGKAUnHPhNvBQVq8V7CUB83q9H0ahO5X_QsmmolRFfcqMg/viewform?usp=sf_link'
 	}
 ];

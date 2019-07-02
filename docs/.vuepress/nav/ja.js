@@ -6,14 +6,6 @@ module.exports = [
 		text: '🔰 TL;DR', link: '/ja/tldr/'
 	},
 	{
-		text: '〇〇の専門用語を使って要約して', items: [
-			{ text: '社長・部長', link: '/ja/tldr/for-everyone' },
-			{ text: '営業', link: '/ja/tldr/for-sales' },
-			{ text: '開発者', link: '/ja/tldr/for-developers' },
-			{ text: 'デザイナー', link: '/ja/tldr/for-designers' }
-		]
-	},
-	{
 		text: 'これを誰が作ったの？', link: '/ja/about/'
 	},
 	{
@@ -57,5 +49,8 @@ module.exports = [
 				]
 			}
 		]
+	},
+	{
+		text: '質問❓', link: 'https://docs.google.com/forms/d/e/1FAIpQLSePiGKAUnHPhNvBQVq8V7CUB83q9H0ahO5X_QsmmolRFfcqMg/viewform?usp=sf_link'
 	}
 ];
