@@ -48,7 +48,7 @@ Avoiding indexation simply requires the following meta tag to be added to the pa
 
 If preferred, you could instead use the HTTP `X-Robots-Tag` header:
 
-``` txt
+``` http
 X-Robots-Tag: noindex
 ```
 
