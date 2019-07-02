@@ -7,10 +7,10 @@ module.exports = [
 	},
 	{
 		text: 'Summarize Using...', items: [
-			{ text: 'CEO Jargon', link: '/tldr/everyone' },
-			{ text: 'Sales Jargon', link: '/tldr/sales' },
-			{ text: 'Developer Jargon', link: '/tldr/developers' },
-			{ text: 'Designer Jargon', link: '/tldr/designers' }
+			{ text: 'CEO Jargon', link: '/tldr/for-everyone' },
+			{ text: 'Sales Jargon', link: '/tldr/for-sales' },
+			{ text: 'Developer Jargon', link: '/tldr/for-developers' },
+			{ text: 'Designer Jargon', link: '/tldr/for-designers' }
 		]
 	},
 	{
