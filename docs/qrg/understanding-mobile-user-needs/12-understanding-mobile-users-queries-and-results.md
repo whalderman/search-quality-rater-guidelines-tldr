@@ -23,40 +23,40 @@ In order to do mobile rating tasks, you must have experience using a mobile smar
 ## Important Rating Definitions and Ideas
 
 **Query**
-:  This refers to the word(s) and/or number(s) that a user types or speaks into a mobile phone. In these guidelines, queries have square brackets around them. If a user says "navigate home," we display: [navigate home]. If a user types "iPhone" in the search box, we display: [iphone].<br><br>There are many different types of queries because users ask their phones to do many things, from opening an app to calling a friend to searching the web.
+: This refers to the word(s) and/or number(s) that a user types or speaks into a mobile phone. In these guidelines, queries have square brackets around them. If a user says "navigate home," we display: `navigate home`. If a user types "iphone" in the search box, we display: `iphone`.<br><br>There are many different types of queries because users ask their phones to do many things, from opening an app to calling a friend to searching the web.
 
 **User**
-:  The user is the person trying to accomplish something by typing or speaking into a mobile phone with a small screen (i.e., size of a smartphone, not a tablet).
+: The user is the person trying to accomplish something by typing or speaking into a mobile phone with a small screen (i.e., size of a smartphone, not a tablet).
 
 **User Intent**
-:  When a user types or speaks a query, he or she is trying to accomplish something. We refer to this goal as the user intent.
+: When a user types or speaks a query, he or she is trying to accomplish something. We refer to this goal as the user intent.
 
 **Locale**
-:  All queries have a locale, which is the language and location for the task. Locales are represented by a two-letter country code. For a current list of country codes, [click here](https://guidelines.raterhub.com/images/RG1_1.2-1.jpg). We sometimes refer to the locale as the task location.
+: All queries have a locale, which is the language and location for the task. Locales are represented by a two-letter country code. For a current list of country codes, [click here](https://guidelines.raterhub.com/images/RG1_1.2-1.jpg). We sometimes refer to the locale as the task location.
 
 **User Location**
-:  This tells us where the user is located, and should be inferred from the map provided.
+: This tells us where the user is located, and should be inferred from the map provided.
 
 **Search Engine Results Page (SERP)**
-:  The page a search engine shows after a user enters a query in the search box. The SERP is made up of **result blocks**.
+: The page a search engine shows after a user enters a query in the search box. The SERP is made up of **result blocks**.
 
 **Result**
-:  We will use the word **result** to refer to the result block _and_ the landing page.
+: We will use the word **result** to refer to the result block _and_ the landing page.
 
   **Result Block**
-  :  This is an individual "block" that appears on the user's phone in response to the query. The result block may display information in the block itself or contain links, or may do both.
+  : This is an individual "block" that appears on the user's phone in response to the query. The result block may display information in the block itself or contain links, or may do both.
 
   **Landing Page (LP)**
-  :  The page you see after you click a link in the result block.
+  : The page you see after you click a link in the result block.
 
 **Device Actions**
-:  Mobile phones and other devices can respond to voice commands to perform many actions, such as setting an alarm or opening an app. This is a specific type of query that we'll refer to as a **Device Action** query.
+: Mobile phones and other devices can respond to voice commands to perform many actions, such as setting an alarm or opening an app. This is a specific type of query that we'll refer to as a **Device Action** query.
 
   **Device Action query**
-  :  Specific type of query where users ask their phone to perform an action. These are frequently spoken commands used to complete actions that would normally require interaction with the screen or the device's controls.
+  : Specific type of query where users ask their phone to perform an action. These are frequently spoken commands used to complete actions that would normally require interaction with the screen or the device's controls.
 
   **Device Action result**
-  :  The phone may respond to a **Device Action** query by performing an action, such as calling a phone number, etc.
+  : The phone may respond to a **Device Action** query by performing an action, such as calling a phone number, etc.
 
 ## Understanding the Query
 
@@ -79,7 +79,7 @@ Query|Likely User Intent
 
 All queries have a task language and task location (referred to in rating tasks as the "Locale"). The locale is important for understanding the query and user intent. Users in different locations may have different expectations for the same query. Each rating task will show you the User Location information: some tasks have an approximate user location area and some tasks have a very specific user location.
 
-Note: Examples in the following sections will include a User Location in the form of a city and state. Note that in the actual rating tasks, you will need to infer the User Location based on the map that is provided, as discussed in [Understanding the User Location on the Task Page](/appendix-using-the-evaluation-platform/understanding-the-user-location-on-the-task-page).
+> Note: Examples in the following sections will include a User Location in the form of a city and state. Note that in the actual rating tasks, you will need to infer the User Location based on the map that is provided, as discussed in [Understanding the User Location on the Task Page](/appendix-using-the-evaluation-platform/understanding-the-user-location-on-the-task-page).
 
 ![UK and US football](../images/img206.jpg)
 
@@ -100,16 +100,16 @@ When there is an explicit location in the query, pay attention to it! Users use 
 
 ## Queries with Multiple Meanings
 
-Many queries have more than one meaning. For example, the query [apple] might refer to the computer brand or the fruit. We will call these possible meanings **query interpretations**.
+Many queries have more than one meaning. For example, the query `apple` might refer to the computer brand or the fruit. We will call these possible meanings **query interpretations**.
 
 **Dominant Interpretation**
-:  The _dominant interpretation_ of a query is what most users mean when they type the query. Not all queries have a dominant interpretation. The dominant interpretation should be clear to you, especially after doing a little web research.
+: The _dominant interpretation_ of a query is what most users mean when they type the query. Not all queries have a dominant interpretation. The dominant interpretation should be clear to you, especially after doing a little web research.
 
 **Common Interpretation**
-:  A _common interpretation_ of a query is what many or some users mean when they type a query. A query can have multiple common interpretations.
+: A _common interpretation_ of a query is what many or some users mean when they type a query. A query can have multiple common interpretations.
 
 **Minor Interpretations**
-:  Sometimes you will find less common interpretations. These are interpretations that few users have in mind. We will call these _minor interpretations_.
+: Sometimes you will find less common interpretations. These are interpretations that few users have in mind. We will call these _minor interpretations_.
 
 **Query: `apple`**\
 **Locale: English (US)**
@@ -126,7 +126,7 @@ Remember to think about the query and its current meaning as you are rating. We 
 ![interpretation for the query "George Bush"](../images/img215.jpg)
 ![interpretation for the query "iphone"](../images/img216.jpg)
 
-The interpretation of the query [iphone], _English (US)_ has changed over time as new iPhone models are released. The first iPhone was introduced in 2007. Users searching for [iphone], *English (US)* at that time were looking for the new (at the time) first iPhone model. Most users now are looking for the most recent or upcoming iPhone model. In the future, new models will come out and the dominant interpretation will change again.
+The interpretation of the query `iphone`, _English (US)_ has changed over time as new iPhone models are released. The first iPhone was introduced in 2007. Users searching for `iphone`, *English (US)* at that time were looking for the new (at the time) first iPhone model. Most users now are looking for the most recent or upcoming iPhone model. In the future, new models will come out and the dominant interpretation will change again.
 
 ## Understanding User Intent
 
@@ -143,7 +143,7 @@ The intent of a **Know** query is to find information on a topic. Users want to 
 
 **Know Simple** queries are a special type of **Know** query. **Know Simple** queries seek a very specific answer, like a fact, diagram, etc. This answer has to be correct and complete, and can be displayed in a relatively small amount of space: the size of a mobile phone screen. As a rule of thumb, if most people would agree on a correct answer, and it would fit in 1-2 sentences or a short list of items, the query can be called a **Know Simple** query.
 
-**Know Simple** queries may be questions such as [how tall is barack obama]. Frequently, **Know Simple** queries do not have question words. For example, [barack obama height] has the same user intent as [how tall is barack obama], but is not in a question format.
+**Know Simple** queries may be questions such as `how tall is barack obama`. Frequently, **Know Simple** queries do not have question words. For example, `barack obama height` has the same user intent as `how tall is barack obama`, but is not in a question format.
 
 Most queries are _not_ **Know Simple** queries, such as:
 
@@ -167,8 +167,7 @@ Know Simple Query|Know Query|Explanation
 
 Raters must think about mobile users when deciding if queries are **Know Simple**. Use your judgment here.
 
-<span style="color: red;">**Important Rating Example**</span>: The query [weather] may seem like a broad information query, but most mobile users likely have a fairly simple informational need: to find the current or upcoming temperature, and the chance of local weather events, such as rain or snow. Therefore, we will consider queries like [weather], [weather today], [weather tomorrow],
-[weather this week] to be **Know Simple** queries for mobile phone users.
+<span style="color: red;">**Important Rating Example**</span>: The query `weather` may seem like a broad information query, but most mobile users likely have a fairly simple informational need: to find the current or upcoming temperature, and the chance of local weather events, such as rain or snow. Therefore, we will consider queries like `weather`, `weather today`, `weather tomorrow`, `weather this week` to be **Know Simple** queries for mobile phone users.
 
 ### Do and Device Action Queries
 
@@ -332,28 +331,28 @@ Please also assume that the phone successfully performs the action in a fully sa
 
 Below are some additional examples of **Device Action** queries, along with the corresponding "action text" displayed in the rating task.
 
-This is what the **user** sees on his or her phone for the **Device Action** query|This is what **you (the rater)** might see in the rating task
+This is what the <span style="text-decoration: underline">user</span> sees on his or her phone for the <span style="text-decoration: underline">Device Action</span> query|This is what <span style="text-decoration: underline">you (the rater)</span> might see in the rating task
 ---|---
 ![device action query example 1](../images/img255.jpg)
 |||
 ---|---
-The left side shows what the user sees on the phone for the query [set alarm for 30 mins], while the right side shows the "action text" that you (the rater) might see in the rating task.|The text on the right indicates that the user issued the query at 1:48 PM (13:48:00), and the device has set its alarm to go off 30 minutes later at 2:18 PM (14:18:00).
+The left side shows what the user sees on the phone for the query `set alarm for 30 mins`, while the right side shows the "action text" that you (the rater) might see in the rating task.|The text on the right indicates that the user issued the query at 1:48 PM (13:48:00), and the device has set its alarm to go off 30 minutes later at 2:18 PM (14:18:00).
 ![device action query example 2](../images/img257.jpg)
 |||
 ---|---
-The left side shows what the user sees on the phone for the query [open facebook app]. In this case, the phone shows an "Opening app" message and then opens the app.|The right side shows the "action text" that you (the rater) might see in the rating task. The text indicates that the device responded by opening the Facebook app on the user's phone.
+The left side shows what the user sees on the phone for the query `open facebook app`. In this case, the phone shows an "Opening app" message and then opens the app.|The right side shows the "action text" that you (the rater) might see in the rating task. The text indicates that the device responded by opening the Facebook app on the user's phone.
 ![device action query example 3](../images/img258.jpg)
 |||
 ---|---
-The left side shows what the user sees on the phone for the query [call dan], while the right side shows the "action text" that you (the rater) might see in the rating task.|The user wants to dial the number stored for the contact "Dan" on the device. This text indicates that the device responded by displaying the contact's phone number and dialing the number.
+The left side shows what the user sees on the phone for the query `call dan`, while the right side shows the "action text" that you (the rater) might see in the rating task.|The user wants to dial the number stored for the contact "Dan" on the device. This text indicates that the device responded by displaying the contact's phone number and dialing the number.
 ![device action query example 4](../images/img260.jpg)
 |||
 ---|---
-For some **Device Action** queries, the device displays a list of options to choose from before it can respond to the **Device Action** query. Here is an example for the query [call target]. The user is shown a list of Target stores in the area to choose from.|This example shows that the Device Action result taken by the device will be to call the desired Target store after the user makes his/her selection.
+For some **Device Action** queries, the device displays a list of options to choose from before it can respond to the **Device Action** query. Here is an example for the query `call target`. The user is shown a list of Target stores in the area to choose from.|This example shows that the Device Action result taken by the device will be to call the desired Target store after the user makes his/her selection.
 ![device action query example 5](../images/img261.jpg)
 |||
 ---|---
-Here is an example for the query [play adele]. The user is shown a "Play media" type of result. In this case, since the user wants to play music, the Device Action result shown is a "Play Music" button to click.|Clicking this button will play the specified song if the user has the song on his/her device. If not, clicking the result box will give the user options to hear the specified song online.
+Here is an example for the query `play adele`. The user is shown a "Play media" type of result. In this case, since the user wants to play music, the Device Action result shown is a "Play Music" button to click.|Clicking this button will play the specified song if the user has the song on his/her device. If not, clicking the result box will give the user options to hear the specified song online.
 
 ## Rating on Your Phone Issues
 

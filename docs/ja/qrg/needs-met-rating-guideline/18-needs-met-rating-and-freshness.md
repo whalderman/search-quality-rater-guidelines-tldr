@@ -15,7 +15,7 @@
 
 新鮮さは一般的にページ品質とは関係性が少ない。「古い」ページは高いPQ評価を持つことができる。例えば、高い評価のWebサイトはアーカイブコンテンツを維持しているものもある。しかしながら、維持されてない/捨てられた「古い」Webサイトか維持されてなく、不正確/誤解させるコンテンツはPQ評価が低い理由とある。
 
-**注：** コンテンツが最新にアップデートされた時か修正されたとき、そのページが作られた日は違うかもしれない。コンテンツがアップデートされたとき、ページは時々アップデートされた日を示すがページが作られた日は示されない。コンテンツの最新アップデートの日に関わらず、現在の日時を示すWebサイトもある。もしインターネットのページについて興味があるなら、[ここ](http://archive.org/web/web.php)をクリックしてインターネットアーカイブの"Wayback Machine"を見なさい。すべてのページを使えるわけではないが、このツールはページの作り方とコンテンツを時間の経過とともにコンテンツがどのように変化したかを理解するのに役立つかもしれない。
+> **注：** コンテンツが最新にアップデートされた時か修正されたとき、そのページが作られた日は違うかもしれない。コンテンツがアップデートされたとき、ページは時々アップデートされた日を示すがページが作られた日は示されない。コンテンツの最新アップデートの日に関わらず、現在の日時を示すWebサイトもある。もしインターネットのページについて興味があるなら、[ここ](http://archive.org/web/web.php)をクリックしてインターネットアーカイブの"Wayback Machine"を見なさい。すべてのページを使えるわけではないが、このツールはページの作り方とコンテンツを時間の経過とともにコンテンツがどのように変化したかを理解するのに役立つかもしれない。
 
 クエリ・ユーザー所在地・ユーザーの意図|RB・LP・Page Quality評価・Needs Met評価|説明
 ---|---|---
@@ -23,7 +23,7 @@
 〃|![](../images/img724.jpg)<br>![needs met scale - fails to meet - narrow range](../images/failsm-narrow.jpg)![page quality scale - high - narrow range](../images/high-narrow.jpg)|このLPには、火星に着陸する9ヶ月前に公開されたローバー（Curiosity）の打ち上げに関する記事がある。このページのコンテンツは、クエリでは古いとみなされる。
 **クエリ：**<br>`los angeles traffic`<br><br>**ユーザーの所在地：**<br>カルフォルニア州ロサンゼルス<br><br>**ユーザーの意図：**<br>ユーサーは**現在の**ロサンゼルスの交通情報を求めている。「昨日の」交通情報であったとしても、このクエリに対しては陳腐とみなされる。|![](../images/img727.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)![page quality scale - high - narrow range](../images/high-narrow.jpg)|LPには、この例を作成した**当日**である、2012年8月7日のロサンゼルスの交通情報が表示されている。
 〃|![](../images/img730.jpg)<br>![needs met scale - fails to meet](../images/failsm.jpg)![page quality scale - high - narrow range](../images/high-narrow.jpg)|LPには、この例を作成した**前日**である、2012年8月6日のロサンゼルスの交通情報が表示されている。1日古いだけだが、このクエリに対しては陳腐であり全く役に立たない。
-**クエリ：**<br>`nobel peace prize winner`<br><br>**ユーザーの所在地：**<br>カリフォルニア州サンディエゴ<br><br>**ユーザーの意図：**<br>最近の受賞者の名前を知りたい**Know Simple**クエリ。この例を作成した時点では、2011年度ノーベル賞が一番近い。|![](../images/img733.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)![page quality scale - high - narrow range](../images/high-narrow.jpg)|The New York TimesのWebサイト内のページで、この例を作成した時点では一番近い年の受賞者一覧。
+**クエリ：**<br>`nobel peace prize winner`<br><br>**ユーザーの所在地：**<br>カリフォルニア州サンディエゴ<br><br>**ユーザーの意図：**<br>最近の受賞者の名前を知りたい**簡単知識**クエリ。この例を作成した時点では、2011年度ノーベル賞が一番近い。|![](../images/img733.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)![page quality scale - high - narrow range](../images/high-narrow.jpg)|The New York TimesのWebサイト内のページで、この例を作成した時点では一番近い年の受賞者一覧。
 〃|![](../images/img736.jpg)<br>![needs met scale - fails to meet - wide range](../images/failsm-wide.jpg)![page quality scale - high - narrow range](../images/high-narrow.jpg)|BBCのWebサイト内のページで、2006年度の受賞者一覧。このクエリに対しては陳腐すぎる。
 **クエリ：**<br>`arthritis`<br><br>**ユーザーの所在地：**<br>ペンシルヴァニア州フィラデルフィア<br><br>**ユーザーの意図：**<br>この病気に関する情報を求めている。現代においては大半の病気が研究されており、治療法・対処法も確立されているため、ユーザーが求めているのは「権威性のある、最新の情報である。|![](../images/img740.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)![page quality scale - high - wide range](../images/high-wide.jpg)|Medline Plusは権威性のあるWebサイトで、定期的にコンテンツを更新している。
 〃|![](../images/img743.jpg)<br>![needs met scale - slightly meets](../images/sm.jpg)![page quality scale - medium - narrow range](../images/medium-narrow.jpg)|この記事は2006年のもので、医薬に関するクエリに対しては古すぎる。

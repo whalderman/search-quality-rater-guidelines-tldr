@@ -62,7 +62,7 @@ module.exports = {
 		locales: {
 			'/': {
 				label: 'English', // label for this locale in the language dropdown
-				selectText: '🌐Languages', // text for the language dropdown
+				selectText: '🌐', // text for the language dropdown
 				editLinkText: 'Edit on GitHub', // text for the edit-on-github link
 				lastUpdated: 'Last Updated',
 				serviceWorker: { // config for Service Worker
@@ -77,7 +77,7 @@ module.exports = {
 			},
 			'/ja/': {
 				label: '日本語',
-				selectText: '🌐言語',
+				selectText: '🌐',
 				editLinkText: 'GitHubで編集',
 				lastUpdated: '前回更新',
 				serviceWorker: {

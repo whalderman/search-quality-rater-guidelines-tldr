@@ -32,4 +32,4 @@ Query|General Query Topic
 
 ![](../images/img854.jpg)
 
-Note: Based on the number and/or type of tasks that you release, you may be asked to provide additional details about the reason for some of the releases.
+> Note: Based on the number and/or type of tasks that you release, you may be asked to provide additional details about the reason for some of the releases.

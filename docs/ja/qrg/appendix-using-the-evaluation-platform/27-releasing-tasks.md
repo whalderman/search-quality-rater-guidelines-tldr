@@ -32,4 +32,4 @@ Please leave a comment explaining the release when it makes sense to provide add
 
 ![](../images/img854.jpg)
 
-注： リリースしたタスクの量やタイプによっては、リリース原因の追加説明が必要になることがあります。
+> **注：** リリースしたタスクの量やタイプによっては、リリース原因の追加説明が必要になることがあります。

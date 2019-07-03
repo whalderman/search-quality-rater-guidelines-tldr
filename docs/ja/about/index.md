@@ -1,4 +1,4 @@
-# ブルースクレイジャパンは検索可能にしました
+# ブルースクレイジャパンは検索可能にした
 
 [ブルースクレイ・ジャパン](https://bruceclay.jpn.com/)は[Bruce Clay Inc.](https://www.bruceclay.com)の日本支社です。
 

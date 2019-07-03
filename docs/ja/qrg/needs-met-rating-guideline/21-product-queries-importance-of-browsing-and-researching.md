@@ -1,6 +1,6 @@
 # 製品クエリ：閲覧と調査の重要性
 
-`ipad reviews`のような情報を探す（**Know**）意図が明白な商品名クエリがあれば、`buy ipad`のような購入する（**Do**）意図が明白な商品名クエリもある。そして`ipad store.apple.com`のようなWebサイトを訪れる（**Website**）意図が明白な商品名クエリもある。しかしながら、多くの商品名クエリは1つのタイプの意図を持っていない。
+`ipad reviews`のような情報を探す（**知識**）意図が明白な商品名クエリがあれば、`buy ipad`のような購入する（**Do**）意図が明白な商品名クエリもある。そして`ipad store.apple.com`のようなWebサイトを訪れる（**Website**）意図が明白な商品名クエリもある。しかしながら、多くの商品名クエリは1つのタイプの意図を持っていない。
 
 Keep in mind that many users enjoy browsing and visually exploring products online, similar to window shopping in real life. Give high Needs Met ratings to results that allow users to research, browse, and decide what to purchase.
 
