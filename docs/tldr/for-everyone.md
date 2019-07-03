@@ -212,7 +212,7 @@ Low Quality pages have at least one of the following characteristics:
 ## Lowest Quality Pages
 
 ::: danger Do no harm.
-Pages that may harm users will not rank within Google.
+Pages that **may** harm users will not rank within Google.
 :::
 
 Lowest Quality pages have at least one of the following characteristics:
@@ -249,21 +249,48 @@ Medium quality pages are categorized into one of the following:
 - **Nothing wrong, but nothing special**  
   The page achieves its purpose, but does not merit a High or Low quality rating.
 - **Mixed with strong High quality rating characteristics**  
-  The page or website has strong High quality rating characteristics along with **some** mild Low quality characteristics.
+  The page or website has strong High quality rating characteristics along with some mild Low quality characteristics.
 
 ## Page Quality Rating Tasks
 
-::: tip Maintain high Expertise, Authority, and Trust (E-A-T)
+::: tip Maintain high Expertise, Authority, and Trust (E-A-T).
 A page is judged on the reputation and E‑A‑T of **both the website and the creator(s)** of the MC. This is especially important when the page covers a YMYL topic.
 :::
 
 ## Understanding Mobile Users, Mobile Queries, and Mobile Results
 
+::: tip Design for mobile users.
+Think about the mobile user when you are designing your site.
+
+- Are forms easy to fill out on mobile?
+- Is it easy to navigate the site on mobile?
+- Are you answering/solving the mobile user's query as quickly as possible?
+:::
+
 ::: tip Every user query has a goal.
 The page that best answers a given query will rank highest. Keep the following in mind:
 
 - The search intent for a given query can change over time (e.g. searching `iphone` in 2007 vs today)
-  - Older pages often become less relevant over time
+  - Older pages become less relevant over time
 - Queries can have multiple meanings (e.g. `apple`)
   - If the query has a dominant interpretation (the company "Apple Inc." for the example above), pages related to that interpretation will rank highest
 :::
+
+## Rating Using the Needs Met Scale
+
+Search results are ranked based on how well they fulfill a user's query:
+
+- **Fully Meets**  
+A special category in which the search result is an exact match for the query. For example, if somebody in Japan is searching for `Bruce Clay Japan home page`, they are undoubtedly trying to get to [https://bruceclay.jpn.com/](https://bruceclay.jpn.com/).
+
+- **Highly Meets**  
+The search result is helpful for **most** mobile users. Some other users may want to see more results.
+
+- **Moderately Meets**
+Helpful for many users **OR** very helpful for some mobile users. Some or many other users may want to see more results.
+
+- **Slightly Meets**
+Helpful for only a few mobile users. Many or most users would want to see more results.
+
+- **Fails to Meet**
+Completely fails to meet the needs of mobile users. All or almost all users would want to see more results.
