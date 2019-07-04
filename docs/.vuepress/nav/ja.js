@@ -51,6 +51,6 @@ module.exports = [
 		]
 	},
 	{
-		text: '質問❓', link: 'https://docs.google.com/forms/d/e/1FAIpQLSePiGKAUnHPhNvBQVq8V7CUB83q9H0ahO5X_QsmmolRFfcqMg/viewform?usp=sf_link'
+		text: '質問あります？', link: 'https://docs.google.com/forms/d/e/1FAIpQLSePiGKAUnHPhNvBQVq8V7CUB83q9H0ahO5X_QsmmolRFfcqMg/viewform?usp=sf_link'
 	}
 ];
