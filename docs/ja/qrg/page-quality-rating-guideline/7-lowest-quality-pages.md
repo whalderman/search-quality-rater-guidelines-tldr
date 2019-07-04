@@ -174,27 +174,27 @@ Webマスターによる維持、管理が全くされていないサイトも�
 [眼鏡関連商品の販売サイト](https://guidelines.raterhub.com/images/RG3_3.5-40.jpg)|**否定的/悪意のある評判：** このウェブサイトは、ユーザーを脅迫するなどの犯罪行為を行っています。
 [入院した退役軍人コミュニティに奉仕する組織](https://guidelines.raterhub.com/images/PQ.3.5.10.jpg)|**否定的な評判：** ニュースサイトやチャリティーウォッチドッグサイトには詐欺や金銭的ミスなどのこのサイトに対する否定的な記事が多くあります。
 
-## Pages that Potentially Misinform Users
+## ユーザーに間違った情報を与える可能性のあるページ
 
-The purpose of an informational page is to communicate accurate information. Assume an informational purpose for pages that look as though they are informational or pages that many users go to for information, even if it is not an official news source or an official encyclopedia article. This includes pages that appear to be news, social profile pages spreading news or information, forum discussions about informational topics such as current events, videos which cover news topics, etc.
+情報ページの目的は正確な情報を伝えることです。情報として表示される可能性のあるページや、公式のニュースや公的な百科事典の記事ではなかったとしても多くのユーザーが情報を得るために訪問するページの情報の目的を想定してください。ニュースのように見えるページ、ニュースや情報を広めるソーシャルサイト、現在のイベントなどの情報に関するフォーラムディスカッション、ニューストピックに関するビデオなどが含まれます。
 
-The **Lowest** rating must be used for any of the following types of content on pages that could appear to be informational:
+情報として表示される可能性のあるページにおける以下の種類のコンテンツに対して、**最低**評価が適用されます。
 
-- Demonstrably inaccurate content.
-- YMYL content that contradicts well-established expert consensus.
-- Debunked or unsubstantiated conspiracy theories.
+- 明らかに不正確なコンテンツ
+- 定評のある専門家の意見と異なる内容のYMYLコンテンツ
+- 虚偽であると証明されている、または根拠のない陰謀説
 
-**Lowest** should also be used under these circumstances:
+以下の状況でも、**最低**評価が適用されます。
 
-- The content creator may believe that the conspiracy theory or demonstrably inaccurate content is correct, or it is unclear whether they do.
-- The content creators may be deliberately attempting to misinform users.
-- The content creators describe, repeat or spread conspiracy theories or demonstrably inaccurate content without a clear effort to debunk or correct it, regardless of whether the creators believe it to be true. For example, content creators may produce this content in order to make money or gain attention.
+- コンテンツの作成者が、陰謀論や明らかに不正確なコンテンツが正しいものであると信じている、または真実であるかが不明である場合
+- コンテンツ作成者が故意にユーザーに間違った情報を与えようとしている場合
+- コンテンツ作成者がその情報か正しいものかどうかを確かめずに、陰謀説や明らかに不正確な情報を広めている場合。例えば、コンテンツ作成者がお金を稼ぐ、または注目を集めるためにコンテンツを制作しているなど。
 
-Some examples of information that would be found on **Lowest** quality pages include: the moon landings were faked, carrots cure cancer, and the U.S. government is controlled by lizard people. While some of these topics may seem funny, there have been real world consequences from people believing these kinds of internet conspiracy theories and misinformation.
+**最低**品質ページに掲載される情報の例として、月面着陸の偽造、にんじんがガンを治すというデマ、トカゲのような人々によってアメリカ政府が管理されているという噂などがあります。これらのトピックは面白いように思えるかもしれませんが、このようなインターネット上の陰謀説や誤情報を信じる人々が存在したなど、現実世界への影響がありました。
 
-Find high quality, trustworthy sources to check accuracy and the consensus of experts if you are unsure about a topic. Be especially careful with YMYL topics such as medical, scientific, financial, historical, or current events that are necessary for maintaining an informed citizenry.
+もしあるトピックについて正確性に自信がないのであれば、正確性や専門家の意見を確認するための高品質で信頼できる情報源を見つけてください。医学的、科学的、経済的、歴史的情報、または現在の出来事など、人々への情報共有が必要となるYMYLトピックに関しては特に注意を払ってください。
 
-Please research conspiracy theories. Fact-checking websites cannot keep up with the volume of conspiracy theories produced by the Internet. Some conspiracy theories are impossible to debunk because they claim all debunking information is inaccurate. If a claim or conspiracy theory seems wildly improbable and cannot be verified by independent trustworthy sources, consider it unsubstantiated.
+また、陰謀説について調べてください。事実確認サイトはインターネットによって日々生み出される大量の陰謀説を網羅することができません。陰謀説の中には、相対する情報が不正確であるとするものもあるため、虚偽の情報であると断言できないものもあります。その主張や陰謀説が明らかに不可能で、信頼できる情報源によって検証することができないのであれば、根拠のないものと考えてください。
 
 ## Pages that Potentially Deceive Users
 
