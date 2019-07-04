@@ -20,7 +20,7 @@ module.exports = {
 	],
 	plugins: [
 		['@vuepress/google-analytics', {
-			ga: undefined
+			ga: 'UA-27119256-1'
 		}],
 		['@vuepress/last-updated', {
 			transformer: (timestamp, lang) => {
@@ -28,10 +28,6 @@ module.exports = {
 				moment.locale(lang);
 				return moment(timestamp).fromNow();
 			}
-		}],
-		['clean-urls', {
-			normalSuffix: '',
-			indexSuffix: '/'
 		}]
 	],
 	evergreen: true, // target newer browsers only
