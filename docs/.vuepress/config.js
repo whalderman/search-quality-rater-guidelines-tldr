@@ -28,6 +28,9 @@ module.exports = {
 				moment.locale(lang);
 				return moment(timestamp).fromNow();
 			}
+		}],
+		['clean-urls', {
+			normalSuffix: ''
 		}]
 	],
 	evergreen: true, // target newer browsers only
