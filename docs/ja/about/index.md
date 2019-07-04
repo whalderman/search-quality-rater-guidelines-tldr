@@ -23,4 +23,4 @@ This project would not have been created without the open source software provid
 
 ## Translations
 
-Small portions of this site's Quality Rater Guidelines translation are sourced from Mr. [Hirōka Ryo](https://www.suzukikenichi.com/blog/)'s older translation of the same document.
+Small portions of this site's Quality Rater Guidelines translation are sourced from [広岡 謙さん](https://twitter.com/0penkenhiro)のolder translation of the same document.
