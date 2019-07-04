@@ -289,43 +289,80 @@ Search results are ranked based on how well they fulfill a user's query.
 
 ### Fully Meets
 
-> While fully meeting the needs of users is ideal, these types of queries and their keywords often do not require optimization. We recommend focusing instead on [highly meeting](#highly-meets) queries.
+> While fully meeting the needs of users is ideal, these types of queries and their keywords often do not require targeted optimization. We recommend focusing instead on [highly meeting](#highly-meets) queries.
 
 A special category in which the search result is an exact and unique match for the query. For example, if somebody in Japan is searching for `Bruce Clay Japan home page`, they are undoubtedly trying to get to [https://bruceclay.jpn.com/](https://bruceclay.jpn.com/).
 
 This type of result is almost exclusively reserved for **Website** queries and **Know Simple** queries.
 
+::: tip Characteristics of pages that fully satisfy a user's query:
+
 - Your page can only "Fully Meet" a query that is specific, clear, and unambiguous.
 - Your page must require minimal effort for users to immediately get or use what they are looking for.
 - No user would require another result in order to be satisfied.
+:::
 
 ### Highly Meets
 
 The search result is helpful for **most** mobile users. Some other users may want to see more results.  
 
-Your page must have one of the following characteristics in order to Highly Meet (highly satisfy) a user's query.
+::: tip Characteristics of pages that highly satisfy a user's query:
 
-- [High quality](/qrg/page-quality-rating-guideline/4-high-quality-pages#characteristics-of-high-quality-pages)
-- [Authoritative](/qrg/page-quality-rating-guideline/3-overall-page-quality-rating#expertise-authoritativeness-and-trustworthiness-e‑a‑t)
-- Entertaining
-- Recent (e.g., breaking news on a topic)
+- Content is [high quality](/qrg/page-quality-rating-guideline/4-high-quality-pages#characteristics-of-high-quality-pages)
+- Content is accurate
+- The author or business is [authoritative](/qrg/page-quality-rating-guideline/3-overall-page-quality-rating#expertise-authoritativeness-and-trustworthiness-e‑a‑t) for the topic
+- Content is entertaining
+- Content is new and recent (e.g., breaking news on a topic)
+:::
 
 ### Moderately Meets
 
 Your page moderately meets (moderately satisfies) a query when it is helpful for many users **OR** very helpful for some users. Some users would likely want to see more results.
 
-Pages that moderately satisfies a user's query have the following characteristics:
+::: warning Characteristics of pages that moderately satisfy a user's query:
 
 - Content is less comprehensive, but not low-quality
 - Content is not the most up-to-date, but also not out-of-date
 - Site or author is not very authoritative
+:::
 
 ### Slightly Meets
 
 Helpful for only a few users. Many or most users would want to see more results.
 
-Pages that slightly meet (slightly satisfy) a user's query have the following characteristics:
+::: warning Characteristics of pages that only slightly satisfy a user's query:
+
+- The page satisfies a [minor interpretation](/qrg/needs-met-rating-guideline/16-rating-queries-with-multiple-interpretations-and-intents#rating-queries-with-multiple-interpretations-and-intents) of a query
+- The page is [low quality](/qrg/page-quality-rating-guideline/6-low-quality-pages)
+- The information is outdated
+- Content is inaccurate
+- Content is too specific
+- Content is too broad
+- Too niche for the general population
+- The title is [misleading or exaggerated](/qrg/page-quality-rating-guideline/6-low-quality-pages#low-quality-main-content)
+:::
 
 ### Fails to Meet
 
-Completely fails to meet the needs of users. All or almost all users would want to see more results.
+These pages completely fail to meet/satisfy the needs of users. All or almost all users would want to see more results.
+
+::: danger Characteristics of pages that fail to satisfy a user's query:
+
+- Content is factually incorrect
+- Page is extremely low quality
+- Content is very outdated
+- Page is nearly impossible to use on a mobile device
+- Page can harm users
+  - Malicious downloads
+  - Phishing pages
+- Website impersonates another brand
+- Content attempts to [deceive users](/qrg/page-quality-rating-guideline/7-lowest-quality-pages#deceptive-page-purpose)
+  - Fake reviews
+  - Fake news
+- Provides inaccurate [YMYL information](/qrg/page-quality-rating-guideline/2-understanding-webpages-and-websites#your-money-or-your-life-ymyl-pages)
+  - Inaccurate medical information
+  - Inaccurate tax information
+  - Inaccurate visa/green card information
+- Non-pornographic page with pornographic ads
+- Pages that contradict well-established scientific, medical, or historical consensus
+:::
