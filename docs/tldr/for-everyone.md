@@ -1,4 +1,11 @@
-# TL;DR for Everyone
+---
+title: Search Quality Rater Guidelines, TL;DR
+meta:
+  - name: description
+    content: Here's a TL;DR summary of Google's Search Quality Rater Guidelines, useful for anyone who wants to know how they can make their website the best it can be.
+---
+
+# Search Quality Rater Guidelines, TL;DR
 
 Here we try to keep things as concise as possible, informing you about what to check your site for and which team needs to handle the problem if it isn't obvious.
 
@@ -212,7 +219,7 @@ Low Quality pages have at least one of the following characteristics:
 ## Lowest Quality Pages
 
 ::: danger Do no harm.
-Pages that **may** harm users will not rank within Google.
+Pages that **may** harm users will not rank highly within Google.
 :::
 
 Lowest Quality pages have at least one of the following characteristics:
@@ -278,19 +285,47 @@ The page that best answers a given query will rank highest. Keep the following i
 
 ## Rating Using the Needs Met Scale
 
-Search results are ranked based on how well they fulfill a user's query:
+Search results are ranked based on how well they fulfill a user's query.
 
-- **Fully Meets**  
-A special category in which the search result is an exact match for the query. For example, if somebody in Japan is searching for `Bruce Clay Japan home page`, they are undoubtedly trying to get to [https://bruceclay.jpn.com/](https://bruceclay.jpn.com/).
+### Fully Meets
 
-- **Highly Meets**  
-The search result is helpful for **most** mobile users. Some other users may want to see more results.
+> While fully meeting the needs of users is ideal, these types of queries and their keywords often do not require optimization. We recommend focusing instead on [highly meeting](#highly-meets) queries.
 
-- **Moderately Meets**
-Helpful for many users **OR** very helpful for some mobile users. Some or many other users may want to see more results.
+A special category in which the search result is an exact and unique match for the query. For example, if somebody in Japan is searching for `Bruce Clay Japan home page`, they are undoubtedly trying to get to [https://bruceclay.jpn.com/](https://bruceclay.jpn.com/).
 
-- **Slightly Meets**
-Helpful for only a few mobile users. Many or most users would want to see more results.
+This type of result is almost exclusively reserved for **Website** queries and **Know Simple** queries.
 
-- **Fails to Meet**
-Completely fails to meet the needs of mobile users. All or almost all users would want to see more results.
+- Your page can only "Fully Meet" a query that is specific, clear, and unambiguous.
+- Your page must require minimal effort for users to immediately get or use what they are looking for.
+- No user would require another result in order to be satisfied.
+
+### Highly Meets
+
+The search result is helpful for **most** mobile users. Some other users may want to see more results.  
+
+Your page must have one of the following characteristics in order to Highly Meet (highly satisfy) a user's query.
+
+- [High quality](/qrg/page-quality-rating-guideline/4-high-quality-pages#characteristics-of-high-quality-pages)
+- [Authoritative](/qrg/page-quality-rating-guideline/3-overall-page-quality-rating#expertise-authoritativeness-and-trustworthiness-e‑a‑t)
+- Entertaining
+- Recent (e.g., breaking news on a topic)
+
+### Moderately Meets
+
+Your page moderately meets (moderately satisfies) a query when it is helpful for many users **OR** very helpful for some users. Some users would likely want to see more results.
+
+Pages that moderately satisfies a user's query have the following characteristics:
+
+- Content is less comprehensive, but not low-quality
+- Content is not the most up-to-date, but also not out-of-date
+- Site or author is not very authoritative
+
+### Slightly Meets
+
+Helpful for only a few users. Many or most users would want to see more results.
+
+Pages that slightly meet (slightly satisfy) a user's query have the following characteristics:
+
+### Fails to Meet
+
+Completely fails to meet the needs of users. All or almost all users would want to see more results.
