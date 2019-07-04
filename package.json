@@ -2,9 +2,14 @@
 	"name": "qrg-bci",
 	"main": "index.js",
 	"repository": "https://github.com/thewarrman/qrg-bci.git",
-	"author": "thewarrman <halderman.warren@gmail.com>",
+	"author": "Warren Halderman <halderman.warren@gmail.com>",
 	"license": "MIT",
 	"private": true,
+	"contributors": [
+		"田中　彩恵",
+		"高根澤　聖士",
+		"斉藤　有生"
+	],
 	"scripts": {
 		"docs:dev": "vuepress dev docs",
 		"docs:build": "vuepress build docs",
