@@ -17,8 +17,7 @@ module.exports = [
 			},
 			{
 				text: '欧州', items: [
-					{ text: '英語', link: 'https://www.bruceclay.com/eu/' },
-					{ text: 'イタリア語', link: 'https://www.bruceclay.com/eu-it/' }
+					{ text: '英語', link: 'https://www.bruceclay.com/eu/' }
 				]
 			},
 			{
@@ -29,12 +28,6 @@ module.exports = [
 			{
 				text: 'インド', items: [
 					{ text: '英語', link: 'https://www.bruceclay.com/in/' }
-				]
-			},
-			{
-				text: 'ブラジル', items: [
-					{ text: '英語', link: 'https://www.bruceclay.com/br/' },
-					{ text: 'ポルトガル語', link: 'https://www.bruceclay.com/br-pt/' }
 				]
 			},
 			{
