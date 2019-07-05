@@ -18,17 +18,30 @@ Within Google's search results, pages are ranked based on two things:
 1. **quality** of their info, and
 2. **how well they satisfy the user's intent**
 
+What percentage of users would your page satisfy?
+
 ## Understanding Webpages and Websites
 
 ### Webpages
 
-::: tip Focus on helping your users.
-If you want a page to be ranked highly in a given category, focus first and foremost on **helping users** better than the competition.
+If you want a page to be ranked highly in a given category, focus first and foremost on **helping users** (better than the competition).
+
+::: tip Pages must have a helpful or beneficial purpose in order to rank.
+ Helpful or beneficial page purposes include (but are not limited to):
+
+- Sharing information about a topic.
+- Sharing personal or social information.
+- Sharing pictures, videos, or other forms of media.
+- Expressing an opinion or point of view.
+- Entertaining users.
+- Selling products or services.
+- Allowing users to post questions for other users to answer.
+- Allowing users to share files or to download software.
+
 :::
 
 ::: warning Your Money or Your Life (YMYL)
 Pages which could potentially impact the future happiness, health, financial stability, or safety of users (YMYL pages) are judged more strictly.
-:::
 
 Example YMYL pages:
 
@@ -40,6 +53,7 @@ Example YMYL pages:
 - Child Adoption
 - Car Safety Information
 - etc.
+:::
 
 #### Parts of a Webpage
 
@@ -115,7 +129,7 @@ If your company has (or you have) a bad reputation online, Google will be among 
 Page Quality is mainly determined by these five things:
 
 1. The page's purpose
-2. Expertise, Authoritativeness, and Trustworthiness (E-A-T)
+2. **E**xpertise, **A**uthoritativeness, and **T**rustworthiness (E-A-T)
 3. The quality and amount of the page's **main content**
 4. Information about the company/person responsible for the **main content**
 5. Reputation of the company/person responsible for the **main content**
@@ -277,9 +291,9 @@ Think about the mobile user when you are designing your site.
 ::: tip Every user query has a goal.
 The page that best answers a given query will rank highest. Keep the following in mind:
 
-- The search intent for a given query can change over time (e.g. searching `iphone` in 2007 vs today)
+- The search intent for a given query can change over time (e.g. searching <span class="query">iphone</span> in 2007 vs today)
   - Older pages become less relevant over time
-- Queries can have multiple meanings (e.g. `apple`)
+- Queries can have multiple meanings (e.g. <span class="query">apple</span>)
   - If the query has a dominant interpretation (the company "Apple Inc." for the example above), pages related to that interpretation will rank highest
 :::
 
@@ -291,7 +305,7 @@ Search results are ranked based on how well they fulfill a user's query.
 
 > While fully meeting the needs of users is ideal, these types of queries and their keywords often do not require targeted optimization. We recommend focusing instead on [highly meeting](#highly-meets) queries.
 
-A special category in which the search result is an exact and unique match for the query. For example, if somebody in Japan is searching for `Bruce Clay Japan home page`, they are undoubtedly trying to get to [https://bruceclay.jpn.com/](https://bruceclay.jpn.com/).
+A special category in which the search result is an exact and unique match for the query. For example, if somebody in Japan is searching for <span class="query">Bruce Clay Japan home page</span>, they are undoubtedly trying to get to [https://bruceclay.jpn.com/](https://bruceclay.jpn.com/).
 
 This type of result is almost exclusively reserved for **Website** queries and **Know Simple** queries.
 
@@ -308,9 +322,9 @@ The search result is helpful for **most** mobile users. Some other users may wan
 
 ::: tip Characteristics of pages that highly satisfy a user's query:
 
-- Content is [high quality](/qrg/page-quality-rating-guideline/4-high-quality-pages#characteristics-of-high-quality-pages)
+- Content is [high quality](/qrg/page-quality-rating-guideline/4-high-quality-pages.html#characteristics-of-high-quality-pages)
 - Content is accurate
-- The author or business is [authoritative](/qrg/page-quality-rating-guideline/3-overall-page-quality-rating#expertise-authoritativeness-and-trustworthiness-e‑a‑t) for the topic
+- The author or business is [authoritative](/qrg/page-quality-rating-guideline/3-overall-page-quality-rating.html#expertise-authoritativeness-and-trustworthiness-e‑a‑t) for the topic
 - Content is entertaining
 - Content is new and recent (e.g., breaking news on a topic)
 :::
@@ -332,14 +346,14 @@ Helpful for only a few users. Many or most users would want to see more results.
 
 ::: warning Characteristics of pages that only slightly satisfy a user's query:
 
-- The page satisfies a [minor interpretation](/qrg/needs-met-rating-guideline/16-rating-queries-with-multiple-interpretations-and-intents#rating-queries-with-multiple-interpretations-and-intents) of a query
-- The page is [low quality](/qrg/page-quality-rating-guideline/6-low-quality-pages)
+- The page satisfies a [minor interpretation](/qrg/needs-met-rating-guideline/16-rating-queries-with-multiple-interpretations-and-intents.html#rating-queries-with-multiple-interpretations-and-intents) of a query
+- The page is [low quality](/qrg/page-quality-rating-guideline/6-low-quality-pages.html)
 - The information is outdated
 - Content is inaccurate
 - Content is too specific
 - Content is too broad
 - Too niche for the general population
-- The title is [misleading or exaggerated](/qrg/page-quality-rating-guideline/6-low-quality-pages#low-quality-main-content)
+- The title is [misleading or exaggerated](/qrg/page-quality-rating-guideline/6-low-quality-pages.html#low-quality-main-content)
 :::
 
 ### Fails to Meet
@@ -356,13 +370,22 @@ These pages completely fail to meet/satisfy the needs of users. All or almost al
   - Malicious downloads
   - Phishing pages
 - Website impersonates another brand
-- Content attempts to [deceive users](/qrg/page-quality-rating-guideline/7-lowest-quality-pages#deceptive-page-purpose)
+- Content attempts to [deceive users](/qrg/page-quality-rating-guideline/7-lowest-quality-pages.html#deceptive-page-purpose)
   - Fake reviews
   - Fake news
-- Provides inaccurate [YMYL information](/qrg/page-quality-rating-guideline/2-understanding-webpages-and-websites#your-money-or-your-life-ymyl-pages)
+- Provides inaccurate [YMYL information](/qrg/page-quality-rating-guideline/2-understanding-webpages-and-websites.html#your-money-or-your-life-ymyl-pages)
   - Inaccurate medical information
   - Inaccurate tax information
   - Inaccurate visa/green card information
 - Non-pornographic page with pornographic ads
 - Pages that contradict well-established scientific, medical, or historical consensus
 :::
+
+### The Relationship between E‑A‑T and Needs Met
+
+If a page has [no useful purpose](/tldr/for-everyone.html#understanding-webpages-and-websites), it will not rank.
+
+> [Website queries](/qrg/understanding-mobile-user-needs/12-understanding-mobile-users-queries-and-results.html#website-queries) are an exception to the rule above.
+
+### Queries with Multiple Interpretations and Intents
+
