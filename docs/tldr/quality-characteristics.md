@@ -1,6 +1,8 @@
-# High/Low Quality Webpage Characteristics
+# Example High/Low Quality Webpage Characteristics
 
-## All Webpages
+The examples listed below are pulled **only** from what we could find within Google's [Search Quality Rater Guidelines](/qrg/general-guidelines-overview/), meaning this list of high and low quality webpage characteristics is not exhaustive. There are other characteristics we can infer through experience, but we'd like to keep the maybes out of this document.
+
+## 🕸️ All Webpages
 
 ::: tip High-Quality Characteristics
 
@@ -20,7 +22,7 @@
 - Ads are indistinguishable from normal content/links
 :::
 
-## Informational Webpages
+## ℹ️ Informational Webpages
 
 > Reputation and E-A-T of both the website and the authors of the MC is extremely important.
 
@@ -40,7 +42,7 @@
 - No reference links
 :::
 
-## News Webpages
+## 📰 News Webpages
 
 > Reputation and E-A-T of both the website and the authors of the MC is extremely important.
 
@@ -64,14 +66,20 @@
 - Author is infamous
 :::
 
-## Humor Webpages
+## 😂 Humor Webpages
 
 ::: tip High-Quality Characteristics
 
+- Content is popular (high view count, high user engagement high rating count, etc.)
 - The content features or was created by an award-winning comedian
 :::
 
-## Blog Posts
+::: danger Low-Quality Characteristics
+
+- Satire is not labeled as being satire
+:::
+
+## 🖊️ Blog Posts
 
 ::: tip High-Quality Characteristics
 
@@ -85,7 +93,7 @@
 - Content is garbled
 :::
 
-## Shopping Webpages
+## 🛒 Shopping Webpages
 
 ::: tip High-Quality Characteristics
 
@@ -99,7 +107,7 @@
 - The product is produced by the website/company
 :::
 
-## Video Webpages
+## 🎬 Video Webpages
 
 > Reputation and E-A-T of both the website and the creators of the MC is extremely important.
 
@@ -109,7 +117,7 @@
 - Includes subtitles
 :::
 
-## Encyclopedia Webpages
+## 📖 Encyclopedia Webpages
 
 > Reputation and E-A-T of both the website and the authors of the MC is extremely important.
 
@@ -124,7 +132,7 @@
 - Factually inaccurate
 :::
 
-## Forum and Q&A Webpages
+## 💬 Forum and Q&A Webpages
 
 > Reputation and E-A-T of both the website and the authors of the MC is extremely important.
 
@@ -142,14 +150,14 @@
 - The page gives dangerous advice
 :::
 
-## Technical Webpages
+## 🤖 Technical Webpages
 
 ::: tip High-Quality Characteristics
 
 - Documentation is written by the same company that sells the software/hardware
 :::
 
-## Error Pages (No MC)
+## ❌ Error Pages (No MC)
 
 While error pages may not be the most exciting part of a website, they are still used by Google in judging the quality of a site.
 
@@ -162,18 +170,18 @@ While error pages may not be the most exciting part of a website, they are still
 
 ::: danger Low-Quality Characteristics
 
-- Doesn't return an error message
+- Doesn't notify the user that an error has occured
 - Doesn't explain the error
 - Page is covered in ads
 :::
 
-## Financial Pages
+## 💴 Financial Pages
 
 > Reputation and E-A-T of both the website and the authors of the MC is extremely important.
 
 ::: tip High-Quality Characteristics
 
-- 
+- Website contains contact information
 :::
 
 ::: danger Low-Quality Characteristics
@@ -181,13 +189,14 @@ While error pages may not be the most exciting part of a website, they are still
 - No evidence that the author has financial expertise.
 :::
 
-## Medical Pages
+## 🏥 Medical Pages
 
 > Reputation and E-A-T of both the website and the authors of the MC is extremely important.
 
 ::: tip High-Quality Characteristics
 
-- 
+- Website contains contact information
+- Matches widely accepted consensus where such a consensus exists
 :::
 
 ::: danger Low-Quality Characteristics
@@ -195,12 +204,7 @@ While error pages may not be the most exciting part of a website, they are still
 - No evidence that the author has medical expertise.
 :::
 
-## Recipe Pages
-
-::: tip High-Quality Characteristics
-
-- 
-:::
+## 🍳 Recipe Pages
 
 ::: danger Low-Quality Characteristics
 
