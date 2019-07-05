@@ -1,8 +1,8 @@
 # 複数の解釈・意図があるクエリの評価
 
-クエリの意味が1つしかないクエリがあります。例えば、「iphone」（英語・アメリカ）というクエリを考えてみましょう。ユーザーの意図は「iPhoneについて調べる」「iPhoneを買う」「Apple公式サイトのiPhoneのページに行く」等色々あるでしょうが、基本的に全てのユーザーが「Apple社のスマートフォン」を意味しています。
+クエリの意味が1つしかないクエリがあります。例えば、<span class="query">iphone</span>（英語・アメリカ）というクエリを考えてみましょう。ユーザーの意図は「iPhoneについて調べる」「iPhoneを買う」「Apple公式サイトのiPhoneのページに行く」等色々あるでしょうが、基本的に全てのユーザーが「Apple社のスマートフォン」を意味しています。
 
-一方、複数の意味があるクエリもあります。例えば、「apple」（英語・アメリカ）というクエリを考えてみましょう。「コンピューターのApple社」の情報を探すユーザーもいるし、「果物のapple」の情報を探す人もいます。このように異なる意味のことを「クエリの解釈」といいます。
+一方、複数の意味があるクエリもあります。例えば、<span class="query">apple</span>（英語・アメリカ）というクエリを考えてみましょう。「コンピューターのApple社」の情報を探すユーザーもいるし、「果物のapple」の情報を探す人もいます。このように異なる意味のことを「クエリの解釈」といいます。
 
 複数の「クエリの解釈」が成立する場合、それぞれの解釈の蓋然性を考え、さらにその解釈に対して検索結果がどの程度役立つかを考えてNeeds Met評価をしてください。
 
@@ -22,9 +22,9 @@
 
 クエリ・ユーザー所在地・ユーザーの意図|リザルトブロック・LP|Needs Met評価と説明
 ---|---|---
-**クエリ：**<br>`target`<br><br>**ユーザーの所在地：**<br>フロリダ州ジャクソンビル<br><br>**ユーザーの意図：**<br>「近所のTarget店舗に行く」「TargetのWebサイトで買い物する・商品を調べる・価格を知るなど」のいずれか|![](../images/img641.jpg)|![needs met scale - highly meets+](../images/hm+.jpg)<br><br>RBにはジャクソンビルの3つのtargetが表示される。この情報は店を訪れるユーザーにとって特に役立つ。これはユーザーが近くのtargetを見つけるという意図を満たす。
+**クエリ：**<br><span class="query">target</span><br><br>**ユーザーの所在地：**<br>フロリダ州ジャクソンビル<br><br>**ユーザーの意図：**<br>「近所のTarget店舗に行く」「TargetのWebサイトで買い物する・商品を調べる・価格を知るなど」のいずれか|![](../images/img641.jpg)|![needs met scale - highly meets+](../images/hm+.jpg)<br><br>RBにはジャクソンビルの3つのtargetが表示される。この情報は店を訪れるユーザーにとって特に役立つ。これはユーザーが近くのtargetを見つけるという意図を満たす。
 *(Same as above.)*|![](../images/img643.jpg)|![needs met scale - highly meets+](../images/hm+.jpg)<br><br>オンラインで買い物をしたなどの理由でWebサイトを利用しようとしているユーザーの意図を満たしており、結果に非常に満足している。
-**クエリ：**<br>`dmv`<br><br>**ユーザーの所在地：**<br>カリフォルニア州ベルモント<br><br>**ユーザーの意図：**<br>「近所のDMVに行く」「DMVのWebサイトで免許更新手続きをする・手数料を支払う・情報を知るなど」のどちらか|![](../images/img646.jpg)|![needs met scale - highly meets+](../images/hm+.jpg)<br><br>RBには、近くの２つのDMVが表示される。この情報は店を訪れるユーザーにとって特に役立つ。これはユーザーが近くのDMVを見つけるという意図を満たす。
+**クエリ：**<br><span class="query">dmv</span><br><br>**ユーザーの所在地：**<br>カリフォルニア州ベルモント<br><br>**ユーザーの意図：**<br>「近所のDMVに行く」「DMVのWebサイトで免許更新手続きをする・手数料を支払う・情報を知るなど」のどちらか|![](../images/img646.jpg)|![needs met scale - highly meets+](../images/hm+.jpg)<br><br>RBには、近くの２つのDMVが表示される。この情報は店を訪れるユーザーにとって特に役立つ。これはユーザーが近くのDMVを見つけるという意図を満たす。
 *(Same as above.)*|![](../images/img648.jpg)|![needs met scale - highly meets+](../images/hm+.jpg)<br><br>ユーザーが情報を見つけたり、Webサイトを使用したいという意図を満たしている。
-**クエリ：**<br>`citibank`<br><br>**ユーザーの所在地：**<br>カリフォルニア州パロアルト<br><br>**ユーザーの意図：**<br>「近所のシティバンク支店に行く」「シティバンクのWebサイトでオンライン取引をする」のどちらか|![](../images/img650.jpg)|![needs met scale - highly meets+](../images/hm+.jpg)<br><br>RBには、近くの２つのCitibankが表示される。この情報は店を訪れるユーザーにとって特に役立つ。これはユーザーが近くのCitibankを見つけるという意図を満たす。
+**クエリ：**<br><span class="query">citibank</span><br><br>**ユーザーの所在地：**<br>カリフォルニア州パロアルト<br><br>**ユーザーの意図：**<br>「近所のシティバンク支店に行く」「シティバンクのWebサイトでオンライン取引をする」のどちらか|![](../images/img650.jpg)|![needs met scale - highly meets+](../images/hm+.jpg)<br><br>RBには、近くの２つのCitibankが表示される。この情報は店を訪れるユーザーにとって特に役立つ。これはユーザーが近くのCitibankを見つけるという意図を満たす。
 *(Same as above.)*|![](../images/img652.jpg)|![needs met scale - highly meets+](../images/hm+.jpg)<br><br>オンライン銀行を使う、またはWebサイトを使用するというユーザーの意図を満たし、結果に非常に満足している。

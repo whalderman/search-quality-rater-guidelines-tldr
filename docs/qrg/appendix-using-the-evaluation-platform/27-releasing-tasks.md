@@ -22,9 +22,9 @@ Here are some examples for the "lack expertise" and "technical problem" release 
 
 Query|General Query Topic
 ---|---
-`cortisol secretion shows a blank pattern of secretion`|Scientific query
-`minecraft gun and vehicles 1.1 mod installer`|Gaming query
-`python pandas index like matrix`|Technical query
+<span class="query">cortisol secretion shows a blank pattern of secretion</span>|Scientific query
+<span class="query">minecraft gun and vehicles 1.1 mod installer</span>|Gaming query
+<span class="query">python pandas index like matrix</span>|Technical query
 
 **Technical problem:** These result blocks have question marks and other characters where text should be.
 

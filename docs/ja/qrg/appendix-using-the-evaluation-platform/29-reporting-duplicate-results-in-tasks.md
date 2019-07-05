@@ -46,7 +46,7 @@
 
 <span style="color: red">**重複**</span>
 
-クエリ：`バイク用バッテリーの選択と取付け`
+クエリ：<span class="query">バイク用バッテリーの選択と取付け</span>
 
 URL 1: [http://www.caimag.com/wordpress/2010/03/06/motorcycle-battery-how-to-choose-install](http://www.caimag.com/wordpress/2010/03/06/motorcycle-battery-how-to-choose-install)
 
@@ -57,7 +57,7 @@ URL 2: [http://www.articlesbase.com/motorcycles-articles/choosing-and-installing
 
 <span style="color: red">**重複**</span>
 
-クエリ：`ジェイソン・カストロ`
+クエリ：<span class="query">ジェイソン・カストロ</span>
 
 URL 1: [http://www.myspace.com/jasoncastromusic](http://www.myspace.com/jasoncastromusic)
 
@@ -67,7 +67,7 @@ URL 2: [http://www.myspace.com/jasoncastromusic?MyToken=503599bf-01cf-4427-bdf4-
 
 <span style="color: green">**重複ではない**</span>
 
-クエリ：`material girl 歌詞`
+クエリ：<span class="query">material girl 歌詞</span>
 
 URL 1: [http://www.lyricsfreak.com/m/madonna/material+girl_20086925.html](http://www.lyricsfreak.com/m/madonna/material+girl_20086925.html)
 

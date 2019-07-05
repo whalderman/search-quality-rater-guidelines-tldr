@@ -22,9 +22,9 @@ Please leave a comment explaining the release when it makes sense to provide add
 
 クエリ|クエリのトピック
 ---|---
-`コルチゾール分泌がブランクパターンを呈する`|科学に関するクエリ
-`マインクラフト 銃 車 1.1 mod インストーラ`|ゲームに関するクエリ
-`Python Panda マトリックス インデックス`|技術的なクエリ
+<span class="query">コルチゾール分泌がブランクパターンを呈する</span>|科学に関するクエリ
+<span class="query">マインクラフト 銃 車 1.1 mod インストーラ</span>|ゲームに関するクエリ
+<span class="query">Python Panda マトリックス インデックス</span>|技術的なクエリ
 
 **技術的な問題：** テキストが表示されるべき場所に、クエスチョンマークや他の意味不明な文字が記載されています。
 

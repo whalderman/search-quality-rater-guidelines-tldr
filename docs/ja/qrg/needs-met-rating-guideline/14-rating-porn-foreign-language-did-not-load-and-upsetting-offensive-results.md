@@ -8,7 +8,7 @@
 
 クエリとユーザーの目的|RB、フラグ、NM評価|説明
 ---|:---:|---
-**クエリ：**<br>[freeones]、英語（アメリカ）<br><br>**ユーザーの所在地：**<br>カリフォルニア州マウンテンビュー<br><br>**ユーザーの意図：**<br>FreeonesのWebサイトを訪問|![](../images/img565.jpg)<br>![](../images/img566.jpg)<br>![needs met scale - fully meets](../images/fullym.jpg)|LPはポルノサイト「Freeones」のホームページ。<br><br>結果はFullyM評価だがポルノフラグに値する。
+**クエリ：**<br><span class="query">freeones</span>、英語（アメリカ）<br><br>**ユーザーの所在地：**<br>カリフォルニア州マウンテンビュー<br><br>**ユーザーの意図：**<br>FreeonesのWebサイトを訪問|![](../images/img565.jpg)<br>![](../images/img566.jpg)<br>![needs met scale - fully meets](../images/fullym.jpg)|LPはポルノサイト「Freeones」のホームページ。<br><br>結果はFullyM評価だがポルノフラグに値する。
 
 ## ポルノフラグ
 
@@ -27,7 +27,7 @@
 - ユーザーの意図が明確にポルノではない場合、結果は役に立たないとみなされる。
 - ポルノに関心のない多くのユーザーにとって非常に悪い経験となる。
 
-次のクエリはポルノの意図がないクエリとみなすべき。［女の子］、［妻］、［成女（mature women）］、［女の子の写真］、［女性の写真］、［母と娘］、［チアリーダー］等。
+次のクエリはポルノの意図がないクエリとみなすべき。<span class="query">女の子</span>、<span class="query">妻</span>、<span class="query">成女</span>（mature women）、<span class="query">女の子の写真</span>、<span class="query">女性の写真</span>、<span class="query">母と娘</span>、<span class="query">チアリーダー</span>等。
 
 評価者の判断とロケールで全てのポルノページに**ポルノ**フラグをつけることを忘れない。
 
@@ -39,7 +39,7 @@
 
 ### ポルノを求めている可能性があるクエリのNeeds Met評価
 
-クエリにはポルノとポルノでないものの、どちらともとれるクエリがある。例えば、［胸］、［セックス］などのクエリはどちらの意図もありうる。これらのクエリを「ポルノ目的の可能性のある」クエリという。
+クエリにはポルノとポルノでないものの、どちらともとれるクエリがある。例えば、<span class="query">胸</span>、<span class="query">セックス</span>などのクエリはどちらの意図もありうる。これらのクエリを「ポルノ目的の可能性のある」クエリという。
 
 こうしたクエリについては、評価者の皆さんが「ユーザーはポルノを求めているはず」と思っても、ポルノでない解 釈が支配的解釈だとみなして評価してください。例えば「ビキニ」(英語・アメリカ)の意図は「水着を買うこと」です。「ユーザーの大半はポルノを求めているはず」と思っても、ポルノ目的の解釈は少数派だと見なして評価しましょう。
 
@@ -99,7 +99,7 @@ LPの言語が次のいずれかに該当しない場合は、「**外国語**�
 
 クエリ・ユーザーの所在地・ユーザーの意図|RB<br>LP<br>フラグ<br>Needs Met評価|説明
 ---|---|---
-**クエリ：**<br>[baidu]<br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>アラスカ州アンカレッジ<br><br>**ユーザーの意図：**<br>BaiduのWebサイトを訪問|![search result for the baidu home page](../images/img571.jpg)<br>![foreign language flag enabled](../images/img572.jpg)<br>![needs met scale - fully meets](../images/fullym.jpg)|LPはBaiduのWebサイト。結果はクエリのターゲットページだが外国語（中国語）この結果は**FullyM**評価と外国語フラグに値する。
+**クエリ：**<br><span class="query">baidu</span><br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>アラスカ州アンカレッジ<br><br>**ユーザーの意図：**<br>BaiduのWebサイトを訪問|![search result for the baidu home page](../images/img571.jpg)<br>![foreign language flag enabled](../images/img572.jpg)<br>![needs met scale - fully meets](../images/fullym.jpg)|LPはBaiduのWebサイト。結果はクエリのターゲットページだが外国語（中国語）この結果は**FullyM**評価と外国語フラグに値する。
 
 **重要：**
 
@@ -114,7 +114,7 @@ RBに**外国語**のLPがある場合でもタスクの全てのRBにNeeds Met�
 
 ほとんどの場合、**外国語**としてのフラグを立てるページは、ロケールのほとんどのユーザーが理解できず役に立たないため**FailsM**評価になる。ロケールのユーザーが読み取ることのできる言語には、**外国語**フラグを使用しない。場合によっては役に立つ**外国語**のページに出会うこともある。
 
-ほとんどのユーザーが**外国語**の結果を期待または望んでいる場合は**外国語**ページに**FailsM**評価をしてはならない。例えば、クエリが［baidu.com］（英語）の場合、baidu.comに**FullyM**評価と**外国語**フラグを割り当てる。
+ほとんどのユーザーが**外国語**の結果を期待または望んでいる場合は**外国語**ページに**FailsM**評価をしてはならない。例えば、クエリが<span class="query">baidu.com</span>（英語）の場合、baidu.comに**FullyM**評価と**外国語**フラグを割り当てる。
 
 動画は**外国語**のページが有用で望ましいものであることが多い。ユーザーの意図と、ユーザーに適したページを考える。クエリで**外国語**の歌、バンド、映画、スポーツイベントなどを望んでいるとするとそれらの動画はおそらく理解され楽しむことができるので有用である。これらのタイプのクエリでは、**外国語**の結果がしばしば期待される。
 
@@ -122,9 +122,9 @@ RBに**外国語**のLPがある場合でもタスクの全てのRBにNeeds Met�
 
 クエリ・ユーザーの所在地・ユーザーの意図|RB<br>LP<br>Needs Met評価|説明
 ---|---|---
-**クエリ：**<br>[video of celine dion singing s'il suffisait d'aimer]<br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>ミシガン州ランシング<br><br>**ユーザーの意図：**<br>この局を歌っているセリーヌディオンを見る|![example of unnecessary foreign language flag](../images/img575.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)|このビデオは英語ではないにもかかわらずアメリカのユーザーが探しているもの。ビデオはフランス語でもLPの言語はほとんどが英語なので**外国語**のフラグは不要。
-**クエリ：**<br>[alex c]<br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>アイオワ州ダベンポート<br><br>**ユーザーの意図：**<br>このドイツの作曲家の動画を見たり、曲を聴いたり、彼についての情報を見つけたりする。|![example of unnecessary foreign language flag](../images/img577.jpg)<br>![needs met scale - moderately to moderately+](../images/mm-narrow.jpg)|このクエリは、ドイツの作曲家Alex Cのもの。LPにはY‑ass（YouTubeには「Yass」とスペルミス）にドイツ語で歌われた曲が含まれている。英語ではないにもかかわらず英語ユーザーの多くにとって役立つ。LPの言語は明確でないので、**外国語**フラグを割り当てるかどうかを決定するときは評価者の判断。
-**クエリ：**<br>[kasal, kasali, kasalo]<br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>カリフォルニア州ダリシティ<br><br>**ユーザーの意図：**<br>このフィリピンの映画の予告編を見るか、それに関する情報を見る|![example of unnecessary foreign language flag](../images/img579.jpg)<br>![needs met scale - moderately to moderately+](../images/mm-narrow.jpg)|クエリはフィリピンの映画のKasal、Kasali、Kasalo。LPはフィリピンの言語であるタガログ語の動画。英語ではないにもかかわらず、クエリを英語ユーザーの多くにとって役立つ。**外国語**フラグを割り当てるかどうかを決定するときは評価者の判断。
+**クエリ：**<br><span class="query">video of celine dion singing s'il suffisait d'aimer</span><br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>ミシガン州ランシング<br><br>**ユーザーの意図：**<br>この局を歌っているセリーヌディオンを見る|![example of unnecessary foreign language flag](../images/img575.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)|このビデオは英語ではないにもかかわらずアメリカのユーザーが探しているもの。ビデオはフランス語でもLPの言語はほとんどが英語なので**外国語**のフラグは不要。
+**クエリ：**<br><span class="query">alex c</span><br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>アイオワ州ダベンポート<br><br>**ユーザーの意図：**<br>このドイツの作曲家の動画を見たり、曲を聴いたり、彼についての情報を見つけたりする。|![example of unnecessary foreign language flag](../images/img577.jpg)<br>![needs met scale - moderately to moderately+](../images/mm-narrow.jpg)|このクエリは、ドイツの作曲家Alex Cのもの。LPにはY‑ass（YouTubeには「Yass」とスペルミス）にドイツ語で歌われた曲が含まれている。英語ではないにもかかわらず英語ユーザーの多くにとって役立つ。LPの言語は明確でないので、**外国語**フラグを割り当てるかどうかを決定するときは評価者の判断。
+**クエリ：**<br><span class="query">kasal, kasali, kasalo</span><br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>カリフォルニア州ダリシティ<br><br>**ユーザーの意図：**<br>このフィリピンの映画の予告編を見るか、それに関する情報を見る|![example of unnecessary foreign language flag](../images/img579.jpg)<br>![needs met scale - moderately to moderately+](../images/mm-narrow.jpg)|クエリはフィリピンの映画のKasal、Kasali、Kasalo。LPはフィリピンの言語であるタガログ語の動画。英語ではないにもかかわらず、クエリを英語ユーザーの多くにとって役立つ。**外国語**フラグを割り当てるかどうかを決定するときは評価者の判断。
 
 ## 「読み込めない」フラグ
 
@@ -143,7 +143,7 @@ RBではなくLPに基づいて「**読み込めない**」フラグを割り当
 
 クエリ・ユーザーの所在地・ユーザーの意図|RB<br>LP<br>フラグ<br>Needs Met評価|説明
 ---|---|---
-**クエリ：**<br>[douglas instruments]<br><br>**ユーザーの所在地：**<br>インディアナ州サウスベンド<br><br>**ユーザーの意図：**<br>このWebサイトを訪問|![search result for douglas instruments](../images/img582.jpg)<br>![did not load button selected](../images/img583.jpg)<br>![needs met scale - fails to meet](../images/failsm.jpg)|このページは、一般的な404メッセージが表示され、ページにはMC、SC、広告がない。<br><br>この結果**FailsM**評価と「**読み込めない**」フラグを割り当てる。
+**クエリ：**<br><span class="query">douglas instruments</span><br><br>**ユーザーの所在地：**<br>インディアナ州サウスベンド<br><br>**ユーザーの意図：**<br>このWebサイトを訪問|![search result for douglas instruments](../images/img582.jpg)<br>![did not load button selected](../images/img583.jpg)<br>![needs met scale - fails to meet](../images/failsm.jpg)|このページは、一般的な404メッセージが表示され、ページにはMC、SC、広告がない。<br><br>この結果**FailsM**評価と「**読み込めない**」フラグを割り当てる。
 
 「**読み込めない**」フラグに該当するLPの例です。[例①](https://guidelines.raterhub.com/images/RG1_4.6-5.jpg)　[例②](https://guidelines.raterhub.com/images/RG1_4.6-6.jpg)　[例③](https://guidelines.raterhub.com/images/RG1_4.6-7.jpg)
 
@@ -168,8 +168,8 @@ RBではなくLPに基づいて「**読み込めない**」フラグを割り当
 
 クエリ・ユーザーの所在地・ユーザーの意図|リザルトブロック・LP・Needs Met評価|説明
 ---|---|---
-**クエリ：**<br>[男の子 ピンク スノーシューズ]<br><br>**ユーザーの所在地：**<br>インディアナ州サウスベンド<br><br>**ユーザーの意図：**<br>男の子のスノーシューズについての情報や、購入をしたい|![search result for boys pink snow shoes](../images/img588.jpg)<br>![needs met scale - fails to meet](../images/failsm.jpg)|MCにはエラーメッセージが表示されますが、多くのSCもある。しかしながら、このページには男の子のピンクのスノーシューズに関する情報はないため、このクエリは役に立たない。
-**クエリ：**<br>[聖書 節]<br><br>**ユーザーの所在地：**<br>インディアナ州サウスベンド<br><br>**ユーザーの意図：**<br>聖書の中の特定の場所を探す|![search result for bible passages](../images/img590.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)|LP上にカスタマイズされた「結果が見つかりません」というメッセージがあるのにもかかわらず、聖書のすべての節へのリンクがある。これは、ほとんどのユーザーにとって非常に役に立つ。
+**クエリ：**<br><span class="query">男の子 ピンク スノーシューズ</span><br><br>**ユーザーの所在地：**<br>インディアナ州サウスベンド<br><br>**ユーザーの意図：**<br>男の子のスノーシューズについての情報や、購入をしたい|![search result for boys pink snow shoes](../images/img588.jpg)<br>![needs met scale - fails to meet](../images/failsm.jpg)|MCにはエラーメッセージが表示されますが、多くのSCもある。しかしながら、このページには男の子のピンクのスノーシューズに関する情報はないため、このクエリは役に立たない。
+**クエリ：**<br><span class="query">聖書 節</span><br><br>**ユーザーの所在地：**<br>インディアナ州サウスベンド<br><br>**ユーザーの意図：**<br>聖書の中の特定の場所を探す|![search result for bible passages](../images/img590.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)|LP上にカスタマイズされた「結果が見つかりません」というメッセージがあるのにもかかわらず、聖書のすべての節へのリンクがある。これは、ほとんどのユーザーにとって非常に役に立つ。
 
 ## Upsetting-­Offensiveフラグ
 
@@ -197,18 +197,18 @@ In addition, some rating tasks may ask you to identify **Not‑for‑Everyone** 
 
 クエリ・ユーザーの所在地・ユーザーの意図|RB・LP・フラグ|説明
 ---|---|---
-**クエリ：**<br>[holocaust history]<br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>ニューヨーク州ニューヨーク<br><br>**ユーザーの意図：**<br>ホロコーストに関する歴史的情報を知りたい|![](../images/img593.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)|ホロコーストは決して起こっていないと他者を説得する方法の議論である。ホロコーストの否定と反ユダヤ主義の直接的な関係のため、多くの人々はこの結果を不快であると感じる。<br><br>この結果にはUpsetting­-Offensiveフラグを割り当てなければならない。
+**クエリ：**<br><span class="query">holocaust history</span><br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>ニューヨーク州ニューヨーク<br><br>**ユーザーの意図：**<br>ホロコーストに関する歴史的情報を知りたい|![](../images/img593.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)|ホロコーストは決して起こっていないと他者を説得する方法の議論である。ホロコーストの否定と反ユダヤ主義の直接的な関係のため、多くの人々はこの結果を不快であると感じる。<br><br>この結果にはUpsetting­-Offensiveフラグを割り当てなければならない。
 *(Same as above.)*|![](../images/img593.jpg)<br>![not upsetting‑offensive](../images/no-flag.jpg)|ホロコースト自体が一部の人々にとっては潜在的に動揺するトピックであるが、この結果は事実上正確な歴史的情報源である。加えてこのページは人々に対して憎悪や暴力を促進したり、人種差別を含んだり、生々しい暴力を描写したりすることの為に存在していない。Upsetting­-Offensiveフラグを割り当ててはならない。
-**クエリ：**<br>[黒人に対する人種差別]<br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>ニューヨーク州ニューヨーク<br><br>**ユーザーの意図：**<br>黒人への人種差別に関する情報やニュース、他の情報源を探している|![](../images/img598.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)|このページの目的は、黒人が劣っていると主張することである。誤った科学的研究を示しており、多くの人々がそれを不快であると感じている。この結果にはUpsetting-­Offensiveフラグを割り当てなければならない。
+**クエリ：**<br><span class="query">黒人に対する人種差別</span><br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>ニューヨーク州ニューヨーク<br><br>**ユーザーの意図：**<br>黒人への人種差別に関する情報やニュース、他の情報源を探している|![](../images/img598.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)|このページの目的は、黒人が劣っていると主張することである。誤った科学的研究を示しており、多くの人々がそれを不快であると感じている。この結果にはUpsetting-­Offensiveフラグを割り当てなければならない。
 *(Same as above.)*|![](../images/img600.jpg)<br>![not upsetting‑offensive](../images/no-flag.jpg)|このWikipediaのページは、米国における人種差別や民族差別について、よく知られた歴史的に正確な概要を示している。Upsetting-­Offensiveフラグを割り当ててはならない。
-**クエリ：**<br>[islam]<br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>ニューヨーク州ニューヨーク<br><br>**ユーザーの意図：**<br>イスラムの宗教に関する情報が知りたい|![](../images/img602.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)|このページの目的は、イスラム教を悪だとする著者の信念を説明すること。不寛容や憎悪を促進するために存在しているように見え、多くの人を不快にする可能性がある。<br><br>この結果にはUpsetting-­Offensiveフラグを割り当てなければならない。
+**クエリ：**<br><span class="query">islam</span><br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>ニューヨーク州ニューヨーク<br><br>**ユーザーの意図：**<br>イスラムの宗教に関する情報が知りたい|![](../images/img602.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)|このページの目的は、イスラム教を悪だとする著者の信念を説明すること。不寛容や憎悪を促進するために存在しているように見え、多くの人を不快にする可能性がある。<br><br>この結果にはUpsetting-­Offensiveフラグを割り当てなければならない。
 *(Same as above.)*|![](../images/img604.jpg)<br>![not upsetting‑offensive](../images/no-flag.jpg)|これは評判の良いサイト上の高品質な記事。イスラム教の主要な信仰と慣習を正確にまとめたものである。<br><br>Upsetting­-Offensiveフラグを割り当ててはならない。
 
 ### 使いにくい耐性のあるクエリの設定に必要な評価
 
 すべての年齢、性別、人種、宗教のユーザーは、さまざまなニーズに応じて検索エンジンを使用することに注意する。特に重要なユーザニーズの1つは、直接対話することが困難な可能性のあるテーマを探索することである。例えば、人種差別が何を意味するのか躊躇する人もいる。人々はまた、なぜ人種的に攻撃的な発言がなされたのか理解したいかもしれない。人種差別、憎しみ、およびその他の敏感なトピックを理解するのに役立つリソースにユーザーがアクセスできるようにすることは、社会にとって有益である。
 
-ユーザーのクエリが潜在的に怒っている、攻撃的な、または敏感なコンテンツを求めているか許容しているように見える場合、我々はそのクエリを「Upsetting¬Offensive tolerant query」と呼ぶ。Needs Met評価の目的のために、ユーザーがUpsetting-Offensiveトレンドトレンドの教育的/情報的な目的を持っていると仮定する。すべての結果は、本物の教育的/情報的な意図を前提として、ニーズ対応評価スケールで評価されるべきである。
+ユーザーのクエリが潜在的に怒っている、攻撃的な、または敏感なコンテンツを求めているか許容しているように見える場合、我々はそのクエリを「Upsetting-Offensive tolerant query」と呼ぶ。Needs Met評価の目的のために、ユーザーがUpsetting-Offensiveトレンドトレンドの教育的/情報的な目的を持っていると仮定する。すべての結果は、本物の教育的/情報的な意図を前提として、ニーズ対応評価スケールで評価されるべきである。
 
 特に、**Highly Meets**の評価を受けるには、Upsetting-Offensiveトピックに関する情報の結果が必要である。
 
@@ -217,25 +217,25 @@ In addition, some rating tasks may ask you to identify **Not‑for‑Everyone** 
 
 **重要：**
 
-- Upsetting¬Offensive tolerant queriesが攻撃的な結果に「ふさわしい」と思ってはいけない。
-- Upsetting¬Offensive tolerant queriesは、不快な意見や不快な意見を持っている人によって考えられていると仮定しない。
+- Upsetting-Offensive tolerant queriesが攻撃的な結果に「ふさわしい」と思ってはいけない。
+- Upsetting-Offensive tolerant queriesは、不快な意見や不快な意見を持っている人によって考えられていると仮定しない。
 - ユーザーが単に攻撃的または怒っている視点を検証しようとしていると仮定しない。
 
 以下に、不安定な話題の話題に関するユーザーの意図を解釈する方法の例をいくつか紹介する。
 
 クエリ|ユーザーの意図と説明
 ---|---
-[are  women  evil<br>英語（アメリカ）|ユーザーはなぜ女性に対する差別があるのか、なぜ「女性は悪い」と言われるのかを理解したい可能性がある。
-[women  are  evil<br>英語 （アメリカ）|このステートメントの意図は、「女性は悪いのですか？」という質問と同じであると仮定する。ユーザーは、なぜ人々が「女性は悪い」と言うのか理解したいかもしれない。
-[did  the  holocaust  happen?<br>英語  （アメリカ）|ユーザーは、ホロコーストに関する事実上の正確な情報またはホロコースト拒否の問題に関する情報を必要としている。
-[christians  worship  the  devil<br>英語  （アメリカ）|ユーザーは、キリスト教徒とキリスト教徒の教会が悪魔をどのように見ているか、そしてキリスト教徒が悪魔を崇拝しているかどうかについての情報を探している。
-[racist  whites],  [racist  blacks], (etc.)<br>英語  （アメリカ）|ユーザーは、クエリで言及された民族に属する人々の人種差別に関する情報を探している。
+<span class="query">are  women  evil</span><br>英語（アメリカ）|ユーザーはなぜ女性に対する差別があるのか、なぜ「女性は悪い」と言われるのかを理解したい可能性がある。
+<span class="query">women  are  evil</span><br>英語 （アメリカ）|このステートメントの意図は、「女性は悪いのですか？」という質問と同じであると仮定する。ユーザーは、なぜ人々が「女性は悪い」と言うのか理解したいかもしれない。
+<span class="query">did  the  holocaust  happen?</span><br>英語  （アメリカ）|ユーザーは、ホロコーストに関する事実上の正確な情報またはホロコースト拒否の問題に関する情報を必要としている。
+<span class="query">christians  worship  the  devil</span><br>英語  （アメリカ）|ユーザーは、キリスト教徒とキリスト教徒の教会が悪魔をどのように見ているか、そしてキリスト教徒が悪魔を崇拝しているかどうかについての情報を探している。
+<span class="query">racist  whites</span>, <span class="query">racist  blacks</span>, 等<br>英語  （アメリカ）|ユーザーは、クエリで言及された民族に属する人々の人種差別に関する情報を探している。
 
 ここにいくつかのUpsetting-Offensive tolerant queriesの評価例がある。あなたがユーザーの意図を満たしていても、all upsetting/offensiveな結果にUpsetting-Offensiveフラグを割り当てる必要があることに注意する。
 
 クエリとユーザーの意図|結果ブロックとLP、Needs  Met評価、E-A-T評価、フラグ
 ---|---
-**クエリ：**<br>[holocaust history]<br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>ワシントン州シアトル<br><br>**ユーザーの意図：**<br>ホロコーストに関する歴史的な情報を探す<br><br>**Important:** Though there are some upsetting/offensive results on the topic of this query, the query [holocaust history] should not be considered an Upsetting‑Offensive tolerant query.|![](../images/img608.jpg)<br>![needs met scale - fails to meet](../images/failsm.jpg)![page quality scale - lowest - narrow range](../images/lowest-narrow.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)
+**クエリ：**<br><span class="query">holocaust history</span><br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>ワシントン州シアトル<br><br>**ユーザーの意図：**<br>ホロコーストに関する歴史的な情報を探す<br><br>**Important:** Though there are some upsetting/offensive results on the topic of this query, the query [holocaust history] should not be considered an Upsetting‑Offensive tolerant query.|![](../images/img608.jpg)<br>![needs met scale - fails to meet](../images/failsm.jpg)![page quality scale - lowest - narrow range](../images/lowest-narrow.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)
 *(Same as above.)*|![](../images/img612.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)![page quality scale - high - narrow range](../images/high-narrow.jpg)<br>![not upsetting‑offensive](../images/no-flag.jpg)
-**クエリ：**<br>[stormfront.org]<br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>ニューヨーク州ニューヨーク<br><br>**ユーザーの意図：**<br>Stormfront.orgのホームページにアクセスしたい|![](../images/img616.jpg)<br>![needs met scale - fully meets](../images/fullym.jpg)![page quality scale - lowest - narrow range](../images/lowest-narrow.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)
+**クエリ：**<br><span class="query">stormfront.org</span><br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>ニューヨーク州ニューヨーク<br><br>**ユーザーの意図：**<br>Stormfront.orgのホームページにアクセスしたい|![](../images/img616.jpg)<br>![needs met scale - fully meets](../images/fullym.jpg)![page quality scale - lowest - narrow range](../images/lowest-narrow.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)
 *(Same as above.)*|![](../images/img620.jpg)<br>![needs met scale - fails to meet](../images/failsm.jpg)![page quality scale - medium - narrow range](../images/medium-narrow.jpg)<br>![not upsetting‑offensive](../images/no-flag.jpg)

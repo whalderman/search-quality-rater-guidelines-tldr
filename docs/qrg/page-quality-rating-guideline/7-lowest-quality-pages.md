@@ -83,9 +83,9 @@ These things can be difficult to determine, but the following steps may help.
 
    Sentence or Phrase From a Sentence|Query to Find the Sentence or Phrase
    ---|---
-   A sentence on the page:<br><br>`All are convinced by Dorothy that the Wizard can help them too`|Try the query both with and without quotation marks around the sentence:<br>`"All are convinced by Dorothy that the Wizard can help them too"`<br>`All are convinced by Dorothy that the Wizard can help them too`
-   A phrase on the page:<br><br>`Dorothy uses the Golden Cap to summon the Winged Monkeys`|Try the query both with and without quotation marks around the sentence:<br>`"Dorothy uses the Golden Cap to summon the Winged Monkeys"`<br>`Dorothy uses the Golden Cap to summon the Winged Monkeys`
-   A different phrase on the page:<br><br>`revealing an old man who had journeyed to Oz from Omaha long ago in a hot air balloon`|Try the query both with and without quotation marks around the sentence:<br>`"revealing an old man who had journeyed to Oz from Omaha long ago in a hot air balloon"`<br>`revealing an old man who had journeyed to Oz from Omaha long ago in a hot air balloon`
+   A sentence on the page:<br><br><span class="query">All are convinced by Dorothy that the Wizard can help them too</span>|Try the query both with and without quotation marks around the sentence:<br><span class="query">"All are convinced by Dorothy that the Wizard can help them too"</span><br><span class="query">All are convinced by Dorothy that the Wizard can help them too</span>
+   A phrase on the page:<br><br><span class="query">Dorothy uses the Golden Cap to summon the Winged Monkeys</span>|Try the query both with and without quotation marks around the sentence:<br><span class="query">"Dorothy uses the Golden Cap to summon the Winged Monkeys"</span><br><span class="query">Dorothy uses the Golden Cap to summon the Winged Monkeys</span>
+   A different phrase on the page:<br><br><span class="query">revealing an old man who had journeyed to Oz from Omaha long ago in a hot air balloon</span>|Try the query both with and without quotation marks around the sentence:<br><span class="query">"revealing an old man who had journeyed to Oz from Omaha long ago in a hot air balloon"</span><br><span class="query">revealing an old man who had journeyed to Oz from Omaha long ago in a hot air balloon</span>
 
 3. Compare the pages you find that match the sentence or phrase. Is most of their MC the same? If so, does one clearly come from a highly authoritative source that is known for original content creation (newspaper, magazine, medical foundation, etc.)? Does one source seem to reasonably be the original? Does one source appear to have the earliest publication date, verified by sources like the Wayback Machine?
 
@@ -112,7 +112,7 @@ Here are some examples of pages with obstructed MC that should be rated **Lowest
 
 ### Inadequate Information about the Website or Creator of the Main Content
 
-As discussed in [`Finding About Us, Contact Information, and Customer Service Information`](/page-quality-rating-guideline/understanding-webpages-and-websites.html#finding-about-us-contact-information-and-customer-service-information), we expect most websites to have some information about who (e.g., what individual, company, business, foundation, etc.) is responsible for the website and who created the MC, as well as some contact information, unless there is a good reason for anonymity. For websites with YMYL pages, such as online banks, we expect to find a lot of information about the site, including extensive customer service information.
+As discussed in [<span class="query">Finding About Us, Contact Information, and Customer Service Information</span>](/page-quality-rating-guideline/understanding-webpages-and-websites.html#finding-about-us-contact-information-and-customer-service-information), we expect most websites to have some information about who (e.g., what individual, company, business, foundation, etc.) is responsible for the website and who created the MC, as well as some contact information, unless there is a good reason for anonymity. For websites with YMYL pages, such as online banks, we expect to find a lot of information about the site, including extensive customer service information.
 
 Think about the purpose of the website and the type of website information users would expect or demand.
 
@@ -163,7 +163,7 @@ Use the **Lowest** rating if you suspect a page is malicious, even if you're not
 
 ### Negative or Malicious Reputation
 
-Use the **Lowest** rating if the website and the creators of the MC have a negative or malicious reputation. Here are some examples originally shown in [`How to Search for Reputation Information`](/page-quality-rating-guideline/understanding-webpages-and-websites.html#how-to-search-for-reputation-information). All pages on these websites should be rated **Lowest** because of the negative or malicious reputation of these websites.
+Use the **Lowest** rating if the website and the creators of the MC have a negative or malicious reputation. Here are some examples originally shown in [<span class="query">How to Search for Reputation Information</span>](/page-quality-rating-guideline/understanding-webpages-and-websites.html#how-to-search-for-reputation-information). All pages on these websites should be rated **Lowest** because of the negative or malicious reputation of these websites.
 
 Website|Description
 ---|---

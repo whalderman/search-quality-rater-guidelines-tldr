@@ -23,7 +23,7 @@
 ## 評価に関する重要な定義・概念
 
 **クエリ**
-:  ユーザーがスマートフォンにタイピングや音声で入力した、言葉や数字のことです。本ガイドラインでは、クエリは[ ]で囲んで表示します。ユーザーが「自宅までナビ」と言ったら`自宅までナビ`、検索窓に「iPhone」と入力したら`iPhone`と表示します。<br><br>ユーザーはスマートフォンで「アプリを起動する」「友人に電話する」「Webを検索する」などさまざまなアクションをしようとするので、クエリにも色々なタイプがあります。
+:  ユーザーがスマートフォンにタイピングや音声で入力した、言葉や数字のことです。本ガイドラインでは、クエリは[ ]で囲んで表示します。ユーザーが「自宅までナビ」と言ったら<span class="query">自宅までナビ</span>、検索窓に「iPhone」と入力したら<span class="query">iPhone</span>と表示します。<br><br>ユーザーはスマートフォンで「アプリを起動する」「友人に電話する」「Webを検索する」などさまざまなアクションをしようとするので、クエリにも色々なタイプがあります。
 
 **ユーザー**
 :  （スマートフォンサイズの）画面が小さい端末に（クエリを）タイピング・音声入力して、何らかのタスクを達成しようとしている人を指します。
@@ -82,7 +82,7 @@
 
 ![UK and US football](../images/img206.jpg)
 
-多くのクエリでは、ユーザーの所在地がクエリ・ユーザーの意図を汲み取ることに影響はない。例えば、`facebook.com`、`子猫の写真`、`地球と月の距離`、`母に電話`など。評価タスクにユーザー所在地の表示がないものは、所在地とクエリが関係ないと考えて評価を行う。
+多くのクエリでは、ユーザーの所在地がクエリ・ユーザーの意図を汲み取ることに影響はない。例えば、<span class="query">facebook.com</span>、<span class="query">子猫の写真</span>、<span class="query">地球と月の距離</span>、<span class="query">母に電話</span>など。評価タスクにユーザー所在地の表示がないものは、所在地とクエリが関係ないと考えて評価を行う。
 
 ユーザーの所在地が、クエリの解釈やユーザーの意図の汲み取りに重要なタイミングとはどんな時か？Webでの調査と評価者自身での判断で答えを出していく。「このユーザーと他の街にいるユーザーで探しているものに差異はあるのか？」と自問してみる。
 
@@ -98,7 +98,7 @@
 
 ## 複数の意味を持つクエリ
 
-意味を複数持っているクエリもたくさんある。例えば、`apple`にはコンピューターのブランドと「果物のりんご」の意味がある。このように、単語の意味複数あるものを「**クエリの解釈**」と呼ぶ。
+意味を複数持っているクエリもたくさんある。例えば、<span class="query">apple</span>にはコンピューターのブランドと「果物のりんご」の意味がある。このように、単語の意味複数あるものを「**クエリの解釈**」と呼ぶ。
 
 **支配的解釈**
 :  大半のユーザーが意図を解釈しているクエリのことである。多数派の占める支配的な解釈がないクエリもある。支配的解釈は分かりやすく、簡単なWeb調査で明らかになる。
@@ -111,11 +111,11 @@
 
 例えば、
 
-**クエリ：`apple`**  
+**クエリ：<span class="query">apple</span>**  
 **ロケール：英語・アメリカ**  
 ![interpretation for the query "apple"](../images/img212.jpg)
 
-**クエリ：`mercury`**  
+**クエリ：<span class="query">mercury</span>**  
 **ロケール：英語・アメリカ**  
 ![interpretation for the query "mercury"](../images/img213.jpg)
 
@@ -125,7 +125,7 @@
 
 ![interpretation for the queries "George Bush" and "iPhone"](../images/img215.jpg)
 
-`iPhone`のクエリの解釈は新規モデルが発表される度に変わる。2007年が最初のリリースで、当時は「iPhone」で検索したユーザーが求めている情報は、iPhone1だった。しかし、現在のユーザーが求めているのは最新のモデルのものや、今後発売されるモデルの情報である。これからも発売されるモデルとともに支配的解釈も変化してくる。
+<span class="query">iPhone</span>のクエリの解釈は新規モデルが発表される度に変わる。2007年が最初のリリースで、当時は「iPhone」で検索したユーザーが求めている情報は、iPhone1だった。しかし、現在のユーザーが求めているのは最新のモデルのものや、今後発売されるモデルの情報である。これからも発売されるモデルとともに支配的解釈も変化してくる。
 
 ## ユーザーの意図を理解する
 
@@ -156,13 +156,13 @@
 
 簡単知識クエリの例|知識クエリの例|説明
 ---|---|---
-`バラク オバマ 身長`<br>`オバマの身長は`|`バラク オバマ`|**知識**クエリでは幅広い情報を求めており、ユーザーによって必要な情報は異なる。（例：経歴・著書・ソーシャルメディアへの投稿など）
-`ニューヨーク市 人口 2013`|`ニューヨーク市`|**知識**クエリでは幅広い情報を求めており、ユーザーによって必要な情報は異なる。（例:旅行に関する情報・事実・写真・歴史など）
-`Grave's Disease（バセドウ病）の語源になった人は誰`|`バセドウ病`|**知識**クエリでは幅広い情報を求めており、ユーザーによって必要な情報は異なる。たった一つの「正解」が存在しない。
-`macy's 店舗 営業時間`|`macy's 贈り物ラッピング オプション`|**知識**クエリは、あるデパートのサービスに関する幅広いクエリであり、短い回答はない。
-`ニッケルの元素記号は`|`ニッケルの用途は`|**知識**クエリは幅広いクエリであり、短い完全な回答はない。
-`BCSナショナルチャンピオンシップの2014年度の勝者は`|`BCSナショナルチャンピオンシップはどこが勝つ？`|**知識**クエリは意見を求めており、決定的な答えは存在しない。
-`スターバックスの株価は`|`スターバックスの株は買いかな？`|**知識**クエリは論理的にはYes/Noで回答できるものだが、皆が納得できる正解が存在しない。
+<span class="query">バラク オバマ 身長</span><br><span class="query">オバマの身長は</span>|<span class="query">バラク オバマ</span>|**知識**クエリでは幅広い情報を求めており、ユーザーによって必要な情報は異なる。（例：経歴・著書・ソーシャルメディアへの投稿など）
+<span class="query">ニューヨーク市 人口 2013</span>|<span class="query">ニューヨーク市</span>|**知識**クエリでは幅広い情報を求めており、ユーザーによって必要な情報は異なる。（例:旅行に関する情報・事実・写真・歴史など）
+<span class="query">Grave's Disease（バセドウ病）の語源になった人は誰</span>|<span class="query">バセドウ病</span>|**知識**クエリでは幅広い情報を求めており、ユーザーによって必要な情報は異なる。たった一つの「正解」が存在しない。
+<span class="query">macy's 店舗 営業時間</span>|<span class="query">macy's 贈り物ラッピング オプション</span>|**知識**クエリは、あるデパートのサービスに関する幅広いクエリであり、短い回答はない。
+<span class="query">ニッケルの元素記号は</span>|<span class="query">ニッケルの用途は</span>|**知識**クエリは幅広いクエリであり、短い完全な回答はない。
+<span class="query">BCSナショナルチャンピオンシップの2014年度の勝者は</span>|<span class="query">BCSナショナルチャンピオンシップはどこが勝つ？</span>|**知識**クエリは意見を求めており、決定的な答えは存在しない。
+<span class="query">スターバックスの株価は</span>|<span class="query">スターバックスの株は買いかな？</span>|**知識**クエリは論理的にはYes/Noで回答できるものだが、皆が納得できる正解が存在しない。
 
 **簡単知識**クエリに該当するかを判断する際には、モバイルユーザーを想定して判断してください。
 
@@ -176,10 +176,10 @@
 
 クエリの例|ユーザーの意図
 ---|---
-`入手　Candy Crush　ゲーム`|Candy　Crushをインストールしたい。
-`オンライン　性格診断`|オンライン性格診断を受けたい。
-`私のBMIはいくつか？`|BMIを計算したい。
-`買う　citizen kane　dvd`|citizen kaneのdvdを買いたい。
+<span class="query">入手　Candy Crush　ゲーム</span>|Candy　Crushをインストールしたい。
+<span class="query">オンライン　性格診断</span>|オンライン性格診断を受けたい。
+<span class="query">私のBMIはいくつか？</span>|BMIを計算したい。
+<span class="query">買う　citizen kane　dvd</span>|citizen kaneのdvdを買いたい。
 
 **行う**クエリの中の**スマートフォン機能**クエリは特殊なものである。スマートフォンに何らかの動作の指示をユーザーが行うためのクエリである。このクエリを利用するユーザーの背景は、運転中などの理由で手を使わずにスマートフォンを操作したい時である。モバイル端末が**スマートフォン機能**クエリに対応することはとても重要であり、検索結果の評価にも厳しい基準を適用している。
 
@@ -189,22 +189,22 @@
 
 動作のタイプ|スマートフォン機能クエリの例（動詞・動作を表す単語を太字表記）
 ---|---
-電話する|<code>母の携帯に**電話する**</code>、<code>アン・ジョーンに**電話する**</code>、<code>OK　Google、母さんに**電話する**</code>
-メッセージを送る|<code>ジョンにテキスト**送信**</code>、<code>メッセージ**送信** ジョン</code>、<code>**SMS** ジョン</code>
-道案内・交通情報などのマップ情報を**見る**|<code>セントラルパークまで**案内**</code>、<code>交通情報**見せて**</code>、<code>地図を**見せて**</code>
-アプリ・ページを開くか、アプリをインストールする|<code>amazon.comに**行く**</code>、<code>facebookアプリ **起動**</code>、<code>facebook.comを開く</code>、<code>NYタイムスのビジネスセクションを開く</code>、<code>siri、Facebookを**開いてくれる**？</code>、<code>**入手** Candy Crushアプリ</code>
-音楽・動画などのメディアを開く|<code>White albumの曲を**かける**</code>、<code>ライフ・オブ・パイを**見る**</code>、<code>かわいい子猫を**見せて**</code>、<code>かわいい子猫が**見たい**</code>、<code>imagine dragonsのradioactiveを**聴きたい**</code>
-スケジュールを登録|<code>午前9時にミーティングを**入れる**</code>
-アラーム・タイマーを設定|<code>午前6時にアラーム**設定**</code>、<code>午前6時に**アラーム**</code>、<code>30秒の**タイマー**</code>
+電話する|<span class="query">母の携帯に**電話する**</span>、<span class="query">アン・ジョーンに**電話する**</span>、<span class="query">OK　Google、母さんに**電話する**</span>
+メッセージを送る|<span class="query">ジョンにテキスト**送信**</span>、<span class="query">メッセージ**送信** ジョン</span>、<span class="query">**SMS** ジョン</span>
+道案内・交通情報などのマップ情報を**見る**|<span class="query">セントラルパークまで**案内**</span>、<span class="query">交通情報**見せて**</span>、<span class="query">地図を**見せて**</span>
+アプリ・ページを開くか、アプリをインストールする|<span class="query">amazon.comに**行く**</span>、<span class="query">facebookアプリ **起動**</span>、<span class="query">facebook.comを開く</span>、<span class="query">NYタイムスのビジネスセクションを開く</span>、<span class="query">siri、Facebookを**開いてくれる**？</span>、<span class="query">**入手** Candy Crushアプリ</span>
+音楽・動画などのメディアを開く|<span class="query">White albumの曲を**かける**</span>、<span class="query">ライフ・オブ・パイを**見る**</span>、<span class="query">かわいい子猫を**見せて**</span>、<span class="query">かわいい子猫が**見たい**</span>、<span class="query">imagine dragonsのradioactiveを**聴きたい**</span>
+スケジュールを登録|<span class="query">午前9時にミーティングを**入れる**</span>
+アラーム・タイマーを設定|<span class="query">午前6時にアラーム**設定**</span>、<span class="query">午前6時に**アラーム**</span>、<span class="query">30秒の**タイマー**</span>
 
 逆に、以下は**スマートフォン機能クエリではない**例です。
 
 クエリ|機能ではないクエリの説明
 ---|---
-`エンパイアステートビルの電話番号`|動作を表す単語はない。電話番号を知りたいだけで、実際に電話する意図はなから、**簡単知識**クエリに分類。
-`facebook.com`|「開く・訪問する」などの動作を表す単語はないので、**ウェブサイト**クエリに分類。
-`amazon.com`|「開く・訪問する」などの動作を表す単語はないので、**ウェブサイト**クエリに分類する。
-`アン・ジョーンズ`|「電話する・テキストメッセージを送る」などの動作を表す単語はないので、情報を求める**知識**クエリに分類。
+<span class="query">エンパイアステートビルの電話番号</span>|動作を表す単語はない。電話番号を知りたいだけで、実際に電話する意図はなから、**簡単知識**クエリに分類。
+<span class="query">facebook.com</span>|「開く・訪問する」などの動作を表す単語はないので、**ウェブサイト**クエリに分類。
+<span class="query">amazon.com</span>|「開く・訪問する」などの動作を表す単語はないので、**ウェブサイト**クエリに分類する。
+<span class="query">アン・ジョーンズ</span>|「電話する・テキストメッセージを送る」などの動作を表す単語はないので、情報を求める**知識**クエリに分類。
 
 ### ウェブサイトクエリ
 
@@ -219,11 +219,11 @@
 
 クエリとロケール（言語・地域）|ユーザーの意図
 ---|---
-`kayak` （英語・アメリカ）|KayakのWebサイトを見る
-`youtube` （英語・アメリカ）|YoutubeのWebサイトを見る
-`ebay` （イタリア語・イタリア）|eBay（イタリア版）のWebサイトを見る
-`NYタイムス 健康セクション`（英語・アメリカ）|NYタイムスのWebサイトの、健康に関するセクションを見る
-`canon.com eos デジタルカメラ`（英語・アメリカ）|キヤノンのWebサイトの、EOSデジタルカメラのページを見る
+<span class="query">kayak</span> （英語・アメリカ）|KayakのWebサイトを見る
+<span class="query">youtube</span> （英語・アメリカ）|YoutubeのWebサイトを見る
+<span class="query">ebay</span> （イタリア語・イタリア）|eBay（イタリア版）のWebサイトを見る
+<span class="query">NYタイムス 健康セクション</span>（英語・アメリカ）|NYタイムスのWebサイトの、健康に関するセクションを見る
+<span class="query">canon.com eos デジタルカメラ</span>（英語・アメリカ）|キヤノンのWebサイトの、EOSデジタルカメラのページを見る
 
 ### 訪れるクエリとユーザーの所在地
 
@@ -235,7 +235,7 @@
 ---|---
 ![query and user intent for chinese restaurants](../images/img220.jpg)|![query and user intent for tom cruise's height](../images/img222.jpg)
 ![query and user intent for gas stations](../images/img224.jpg)|![query and user intent for iq test](../images/img226.jpg)
-**その他の例：** `ピザ` `ヨガ 教室` `喫茶店` `映画 上映時間` `車の修理][歯医者` `バンクオブアメリカ ATM 場所` `近所のスターバックス`|**その他の例：** `レッドソックス` `ワシントンポスト` `スクラブル（訳注：ゲーム名） コツ` `sedentary 意味` `aapl（訳注:Apple社の株式コード）` `ビヨンセ` `Angry Birds（訳注:ゲーム）` `ダンス動画` `オスカー 2012` `口説き文句` `バンクオブアメリカ ログイン`
+**その他の例：** <span class="query">ピザ</span> <span class="query">ヨガ 教室</span> <span class="query">喫茶店</span> <span class="query">映画 上映時間</span> <span class="query">車の修理][歯医者</span> <span class="query">バンクオブアメリカ ATM 場所</span> <span class="query">近所のスターバックス</span>|**その他の例：** <span class="query">レッドソックス</span> <span class="query">ワシントンポスト</span> <span class="query">スクラブル（訳注：ゲーム名） コツ</span> <span class="query">sedentary 意味</span> <span class="query">aapl（訳注:Apple社の株式コード）</span> <span class="query">ビヨンセ</span> <span class="query">Angry Birds（訳注:ゲーム）</span> <span class="query">ダンス動画</span> <span class="query">オスカー 2012</span> <span class="query">口説き文句</span> <span class="query">バンクオブアメリカ ログイン</span>
 
 また「訪れるの意図があるユーザーもいれば、ないユーザーもいる」というクエリもあります。
 
@@ -243,16 +243,16 @@
 
 以下は、そのようなクエリの例です。
 
-- [`ホテル`](https://www.google.com/search?q=ホテル)
-- [`郵便局`](https://www.google.com/search?q=郵便局)
-- [`apple store`](https://www.google.com/search?q=apple+store)
-- [`みずほ`](https://www.google.com/search?q=みずほ)
-- [`東急ハンズ`](https://www.google.com/search?q=東急ハンズ)
-- [`LABI`](https://www.google.com/search?q=LABI)
-- [`Daiei`](https://www.google.com/search?q=Daiei)
-- [`図書館`](https://www.google.com/search?q=図書館)
-- [`三井住友`](https://www.google.com/search?q=三井住友)
-- [`starbucks`](https://www.google.com/search?q=starbucks)
+- [<span class="query">ホテル</span>](https://www.google.com/search?q=ホテル)
+- [<span class="query">郵便局</span>](https://www.google.com/search?q=郵便局)
+- [<span class="query">apple store</span>](https://www.google.com/search?q=apple+store)
+- [<span class="query">みずほ</span>](https://www.google.com/search?q=みずほ)
+- [<span class="query">東急ハンズ</span>](https://www.google.com/search?q=東急ハンズ)
+- [<span class="query">LABI</span>](https://www.google.com/search?q=LABI)
+- [<span class="query">Daiei</span>](https://www.google.com/search?q=Daiei)
+- [<span class="query">図書館</span>](https://www.google.com/search?q=図書館)
+- [<span class="query">三井住友</span>](https://www.google.com/search?q=三井住友)
+- [<span class="query">starbucks</span>](https://www.google.com/search?q=starbucks)
 
 クエリの解釈にはユーザーの位置情報が影響することがある。例えば[ターメリック]というクエリをカリフォルニア州サニーヴェール付近でユーザーが検索すると、以下のように検索結果が出てくる。
 
@@ -273,8 +273,8 @@
 
 クエリの例|ユーザーの意図
 ---|---
-`ハーバード`|所在地などを考慮して、「公式ホームページを見る（**Website**）」「行き方を知る（**訪れる**）」「同校のことを知る（**知識**）」等が考えられる。
-`ウォルマート`|「近所のウォルマートに行く（**訪れる**）」「Webサイトで買い物をする（**Website**）の両者が主流であり、「ウォルマート社のことを知る（**知識**）」の意図は少ないだろう。
+<span class="query">ハーバード</span>|所在地などを考慮して、「公式ホームページを見る（**Website**）」「行き方を知る（**訪れる**）」「同校のことを知る（**知識**）」等が考えられる。
+<span class="query">ウォルマート</span>|「近所のウォルマートに行く（**訪れる**）」「Webサイトで買い物をする（**Website**）の両者が主流であり、「ウォルマート社のことを知る（**知識**）」の意図は少ないだろう。
 
 ## RBを理解する
 
@@ -286,8 +286,8 @@ Web検索のRBを構成するものとして、「タイトル付きリンク」
 
 クエリ・ユーザー所在地・ユーザーの意図|Web検索のRB
 ---|---
-**クエリ：** `カシナート フードプロセッサ レビュー`<br><br>**ユーザーの所在地：** オクラホマ州オクラホマ<br><br>**ユーザーの意図：** 知識クエリ。カシナート社のフードプロセッサのレビューを見たい。<br><br>**検索結果の説明：** カシナート社製品のレビューを掲載したLPへのリンクを含む、Web検索のRB。|![web search result block](../images/img236.jpg)
-**クエリ：** `ブロードウェイ チケット`<br><br>**ユーザーの所在地：** ニューヨーク州ニューヨークシティ<br><br>**ユーザーの意図：** 知識または行うクエリ。ニューヨークシティで開催されるブロードウェイショーのチケット代を知りたい、または購入したい。|![web search result block](../images/img237.jpg)
+**クエリ：** <span class="query">カシナート フードプロセッサ レビュー</span><br><br>**ユーザーの所在地：** オクラホマ州オクラホマ<br><br>**ユーザーの意図：** 知識クエリ。カシナート社のフードプロセッサのレビューを見たい。<br><br>**検索結果の説明：** カシナート社製品のレビューを掲載したLPへのリンクを含む、Web検索のRB。|![web search result block](../images/img236.jpg)
+**クエリ：** <span class="query">ブロードウェイ チケット</span><br><br>**ユーザーの所在地：** ニューヨーク州ニューヨークシティ<br><br>**ユーザーの意図：** 知識または行うクエリ。ニューヨークシティで開催されるブロードウェイショーのチケット代を知りたい、または購入したい。|![web search result block](../images/img237.jpg)
 
 ### SCRB（特殊なコンテンツのRB）の例
 
@@ -304,12 +304,12 @@ Web検索のRBを構成するものとして、「タイトル付きリンク」
 
 クエリ・ユーザー所在地・ユーザーの意図|SCRB
 ---|---
-**クエリ：** `天気`<br><br>**ユーザーの所在地：** イリノイ州シカゴ<br><br>**ユーザーの意図：** 簡単知識クエリ。モバイルユーザーのニーズは「現在の天気・降水確率を知りたい」というシンプルなもの。ユーザー所在地付近の情報を求めている。<br><br>**注意：** リザルトブロックには現時点の情報が表示されていると仮定して評価すること。.|![special content result block](../images/img240.jpg)
-**クエリ：** `エマ・ストーン 映画`<br><br>**ユーザーの所在地：** アイオワ州デモワン<br><br>**ユーザーの意図：** 知識クエリ。エマ・ストーンが出演した映画を知りたい。<br><br>**検索結果の説明：** ユーザーはRBから、エマ・ストーンが出演している映画を即座に知ることができ、個々の映画をクリックするとさらに詳しい情報を入手できる。スワイプ（横スクロール）することで、他の映画も表示できる。|![special content result block](../images/img242.jpg)
-**クエリ：** `バナナのカロリー`<br><br>**ユーザーの所在地：** カリフォルニア州オークランド<br><br>**ユーザーの意図：** 簡単知識クエリ。バナナのカロリーを知りたい<br><br>**注意：** 下矢印をクリックすると、詳細が見られるようになっている|![special content result block](../images/img243.jpg)
-**クエリ：** `野球 スコア`<br><br>**ユーザーの所在地：** カンザス州ウィチタ<br><br>**ユーザーの意図：** 知識クエリ。メジャーリーグの、現時点での点数を知りたい。|![special content result block](../images/img244.jpg)
-**クエリ：** `coldplay fix you video`<br><br>**ユーザーの所在地：** ルイジアナ州ニューオリンズ<br><br>**ユーザーの意図：** 行うクエリ。Coldplayの「Fix You」という曲を聴きたい。<br><br>**注意：** ユーザーはRBから、直接この曲を再生することや、リンクをクリックして詳しい情報を知ることができる。|![special content result block](../images/img246.jpg)
-**クエリ：** `一番背が高い木は`<br><br>**ユーザーの所在地：** アイオワ州ボイズ<br><br>**ユーザーの意図：** 簡単知識クエリ。一番背が高い木を知りたい。|![special content result block](../images/img247.jpg)
+**クエリ：** <span class="query">天気</span><br><br>**ユーザーの所在地：** イリノイ州シカゴ<br><br>**ユーザーの意図：** 簡単知識クエリ。モバイルユーザーのニーズは「現在の天気・降水確率を知りたい」というシンプルなもの。ユーザー所在地付近の情報を求めている。<br><br>**注意：** リザルトブロックには現時点の情報が表示されていると仮定して評価すること。.|![special content result block](../images/img240.jpg)
+**クエリ：** <span class="query">エマ・ストーン 映画</span><br><br>**ユーザーの所在地：** アイオワ州デモワン<br><br>**ユーザーの意図：** 知識クエリ。エマ・ストーンが出演した映画を知りたい。<br><br>**検索結果の説明：** ユーザーはRBから、エマ・ストーンが出演している映画を即座に知ることができ、個々の映画をクリックするとさらに詳しい情報を入手できる。スワイプ（横スクロール）することで、他の映画も表示できる。|![special content result block](../images/img242.jpg)
+**クエリ：** <span class="query">バナナのカロリー</span><br><br>**ユーザーの所在地：** カリフォルニア州オークランド<br><br>**ユーザーの意図：** 簡単知識クエリ。バナナのカロリーを知りたい<br><br>**注意：** 下矢印をクリックすると、詳細が見られるようになっている|![special content result block](../images/img243.jpg)
+**クエリ：** <span class="query">野球 スコア</span><br><br>**ユーザーの所在地：** カンザス州ウィチタ<br><br>**ユーザーの意図：** 知識クエリ。メジャーリーグの、現時点での点数を知りたい。|![special content result block](../images/img244.jpg)
+**クエリ：** <span class="query">coldplay fix you video</span><br><br>**ユーザーの所在地：** ルイジアナ州ニューオリンズ<br><br>**ユーザーの意図：** 行うクエリ。Coldplayの「Fix You」という曲を聴きたい。<br><br>**注意：** ユーザーはRBから、直接この曲を再生することや、リンクをクリックして詳しい情報を知ることができる。|![special content result block](../images/img246.jpg)
+**クエリ：** <span class="query">一番背が高い木は</span><br><br>**ユーザーの所在地：** アイオワ州ボイズ<br><br>**ユーザーの意図：** 簡単知識クエリ。一番背が高い木を知りたい。|![special content result block](../images/img247.jpg)
 
 ### 「機能のRB」の例
 
@@ -317,11 +317,11 @@ Web検索のRBを構成するものとして、「タイトル付きリンク」
 
 クエリ・ユーザー所在地・ユーザーの意図・検索結果|機能のRB
 ---|---
-**クエリ：** `開く アングリーバード`<br><br>**ユーザーの所在地：** アーカンザス州リトルロック<br><br>**ユーザーの意図：** スマートフォン機能クエリ。アングリーバードを起動して、このゲームで遊びたい。<br><br>**検索結果の説明：** RB内のリンクを開くと、アプリが起動する。|![device action result block](../images/img248.jpg)
-**クエリ：** `amazon.comに行く`<br><br>**ユーザーの所在地：** カリフォルニア州グレンデル<br><br>**ユーザーの意図：** スマートフォン機能クエリ。Amazon.comを訪問して利用したい。<br><br>**検索結果の説明：** RB内のリンクをクリックすると、AmazonのWebサイトを訪問できる。|![device action result block](../images/img250.jpg)
-**クエリ：** `午前5時にアラーム設定`<br><br>**ユーザーの所在地：** ワシントン州タコマ<br><br>**ユーザーの意図：** スマートフォン機能クエリ。午前5時にアラームを設定したい。<br><br>**検索結果の説明：** RBでは、午前5時にアラームを設定することができる。|![device action result block](../images/img251.jpg)
-**クエリ：** `母にテキストメッセージ`<br><br>**ユーザーの所在地：** ワシントン州タコマ<br><br>**ユーザーの意図：** スマートフォン機能クエリ。「母」という連絡先にテキストメッセージを送りたい。<br><br>**検索結果の説明：** RBでは、「母」という連絡先の、職場・携帯電話のどちらにメッセージを送るか選ぶことができる。|![device action result block](../images/img252.jpg)
-**クエリ：** `best buyに電話`<br><br>**ユーザーの所在地：** カリフォルニア州マウンテンビュー<br><br>**ユーザーの意図：** スマートフォン機能クエリ。最寄りのBest Buy店舗に電話したい。<br><br>**検索結果の説明：** RBから、最寄りのBest Buy店舗に電話できる。|![device action result block](../images/img254.jpg)
+**クエリ：** <span class="query">開く アングリーバード</span><br><br>**ユーザーの所在地：** アーカンザス州リトルロック<br><br>**ユーザーの意図：** スマートフォン機能クエリ。アングリーバードを起動して、このゲームで遊びたい。<br><br>**検索結果の説明：** RB内のリンクを開くと、アプリが起動する。|![device action result block](../images/img248.jpg)
+**クエリ：** <span class="query">amazon.comに行く</span><br><br>**ユーザーの所在地：** カリフォルニア州グレンデル<br><br>**ユーザーの意図：** スマートフォン機能クエリ。Amazon.comを訪問して利用したい。<br><br>**検索結果の説明：** RB内のリンクをクリックすると、AmazonのWebサイトを訪問できる。|![device action result block](../images/img250.jpg)
+**クエリ：** <span class="query">午前5時にアラーム設定</span><br><br>**ユーザーの所在地：** ワシントン州タコマ<br><br>**ユーザーの意図：** スマートフォン機能クエリ。午前5時にアラームを設定したい。<br><br>**検索結果の説明：** RBでは、午前5時にアラームを設定することができる。|![device action result block](../images/img251.jpg)
+**クエリ：** <span class="query">母にテキストメッセージ</span><br><br>**ユーザーの所在地：** ワシントン州タコマ<br><br>**ユーザーの意図：** スマートフォン機能クエリ。「母」という連絡先にテキストメッセージを送りたい。<br><br>**検索結果の説明：** RBでは、「母」という連絡先の、職場・携帯電話のどちらにメッセージを送るか選ぶことができる。|![device action result block](../images/img252.jpg)
+**クエリ：** <span class="query">best buyに電話</span><br><br>**ユーザーの所在地：** カリフォルニア州マウンテンビュー<br><br>**ユーザーの意図：** スマートフォン機能クエリ。最寄りのBest Buy店舗に電話したい。<br><br>**検索結果の説明：** RBから、最寄りのBest Buy店舗に電話できる。|![device action result block](../images/img254.jpg)
 
 ### 評価タスクでの「機能のRB」表示方法
 

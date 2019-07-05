@@ -47,7 +47,7 @@ The duplicate results that you checked will be annotated by "**Dupe of...**" tex
 
 <span style="color: red">**Dupes**</span>
 
-QUERY: `choosing and installing a motorcycle battery`
+QUERY: <span class="query">choosing and installing a motorcycle battery</span>
 
 URL 1: [http://www.caimag.com/wordpress/2010/03/06/motorcycle-battery-how-to-choose-install](http://www.caimag.com/wordpress/2010/03/06/motorcycle-battery-how-to-choose-install)
 
@@ -57,7 +57,7 @@ URL 2: [http://www.articlesbase.com/motorcycles-articles/choosing-and-installing
 
 <span style="color: red">**Dupes**</span>
 
-QUERY: `jason castro`
+QUERY: <span class="query">jason castro</span>
 
 URL 1: [http://www.myspace.com/jasoncastromusic](http://www.myspace.com/jasoncastromusic)
 
@@ -67,7 +67,7 @@ URL 2: [http://www.myspace.com/jasoncastromusic?MyToken=503599bf-01cf-4427-bdf4-
 
 <span style="color: green">**Not Dupes**</span>
 
-QUERY: `material girl lyrics`
+QUERY: <span class="query">material girl lyrics</span>
 
 URL 1: [http://www.lyricsfreak.com/m/madonna/material+girl_20086925.html](http://www.lyricsfreak.com/m/madonna/material+girl_20086925.html)
 
