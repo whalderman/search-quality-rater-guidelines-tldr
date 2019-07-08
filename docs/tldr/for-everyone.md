@@ -293,8 +293,8 @@ The page that best answers a given query will rank highest. Keep the following i
 
 - The search intent for a given query can change over time (e.g. searching <span class="query">iphone</span> in 2007 vs today)
   - Older pages become less relevant over time
-- Queries can have multiple meanings (e.g. <span class="query">apple</span>)
-  - If the query has a dominant interpretation (the company "Apple Inc." for the example above), pages related to that interpretation will rank highest
+- Queries can have multiple meanings (e.g. <mark class="query">apple</mark>)
+  - If the query has a dominant interpretation (in this case "Apple Inc."), pages related to that interpretation will rank highest
 :::
 
 ## Rating Using the Needs Met Scale
@@ -305,7 +305,7 @@ Search results are ranked based on how well they fulfill a user's query.
 
 > While fully meeting the needs of users is ideal, these types of queries and their keywords often do not require targeted optimization. We recommend focusing instead on [highly meeting](#highly-meets) queries.
 
-A special category in which the search result is an exact and unique match for the query. For example, if somebody in Japan is searching for <span class="query">Bruce Clay Japan home page</span>, they are undoubtedly trying to get to [https://bruceclay.jpn.com/](https://bruceclay.jpn.com/).
+A special category in which the search result is an exact and unique match for the query. For example, if somebody in Japan is searching for <mark class="query">Bruce Clay Japan home page</mark>, they are undoubtedly trying to get to [https://bruceclay.jpn.com/](https://bruceclay.jpn.com/).
 
 This type of result is almost exclusively reserved for **Website** queries and **Know Simple** queries.
 
@@ -389,3 +389,23 @@ If a page has [no useful purpose](/tldr/for-everyone.html#understanding-webpages
 
 ### Queries with Multiple Interpretations and Intents
 
+The primary interpretation for a query will always rank highest.
+
+For example, **most** users searching for <span class="query">[halo](https://www.google.com/search?q=halo)</span> in the U.S. are looking for information about the video game, and as such, pages about the video game will rank higher than pages about the [optical phenomenon](https://en.wikipedia.org/wiki/Halo_(optical_phenomenon)) or the [religious iconography](https://en.wikipedia.org/wiki/Halo_(religious_iconography)).
+
+### Needs Met Rating and Freshness
+
+For queries about breaking news, recurring events, current information, or products, the newer the information is, the better.
+
+### Rating Visit in Person Intent Queries
+
+Google takes the type of entity into account when deciding how close "near me" should be. "Nearby" can mean completely different things depending on what the user is looking for. Test the following for examples:
+
+- [gas station near me](https://www.google.com/search?q=gas+station+near+me)
+- [theater/theatre near me](https://www.google.com/search?q=theater+near+me)
+- [museums near me](https://www.google.com/search?q=museums+near+me)
+- [national parks nearby](https://www.google.com/search?q=national+parks+nearby)
+
+### Product Queries: Importance of Browsing and Researching
+
+See [🛒 Shopping Webpages](http://localhost:8080/tldr/quality-characteristics.html#%F0%9F%9B%92-shopping-webpages).
