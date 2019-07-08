@@ -198,11 +198,11 @@ In addition, some rating tasks may ask you to identify **Not‑for‑Everyone** 
 クエリ・ユーザーの所在地・ユーザーの意図|RB・LP・フラグ|説明
 ---|---|---
 **クエリ：**<br><span class="query">holocaust history</span><br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>ニューヨーク州ニューヨーク<br><br>**ユーザーの意図：**<br>ホロコーストに関する歴史的情報を知りたい|![](../images/img593.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)|ホロコーストは決して起こっていないと他者を説得する方法の議論である。ホロコーストの否定と反ユダヤ主義の直接的な関係のため、多くの人々はこの結果を不快であると感じる。<br><br>この結果にはUpsetting­-Offensiveフラグを割り当てなければならない。
-*(Same as above.)*|![](../images/img593.jpg)<br>![not upsetting‑offensive](../images/no-flag.jpg)|ホロコースト自体が一部の人々にとっては潜在的に動揺するトピックであるが、この結果は事実上正確な歴史的情報源である。加えてこのページは人々に対して憎悪や暴力を促進したり、人種差別を含んだり、生々しい暴力を描写したりすることの為に存在していない。Upsetting­-Offensiveフラグを割り当ててはならない。
+*〃*|![](../images/img593.jpg)<br>![not upsetting‑offensive](../images/no-flag.jpg)|ホロコースト自体が一部の人々にとっては潜在的に動揺するトピックであるが、この結果は事実上正確な歴史的情報源である。加えてこのページは人々に対して憎悪や暴力を促進したり、人種差別を含んだり、生々しい暴力を描写したりすることの為に存在していない。Upsetting­-Offensiveフラグを割り当ててはならない。
 **クエリ：**<br><span class="query">黒人に対する人種差別</span><br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>ニューヨーク州ニューヨーク<br><br>**ユーザーの意図：**<br>黒人への人種差別に関する情報やニュース、他の情報源を探している|![](../images/img598.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)|このページの目的は、黒人が劣っていると主張することである。誤った科学的研究を示しており、多くの人々がそれを不快であると感じている。この結果にはUpsetting-­Offensiveフラグを割り当てなければならない。
-*(Same as above.)*|![](../images/img600.jpg)<br>![not upsetting‑offensive](../images/no-flag.jpg)|このWikipediaのページは、米国における人種差別や民族差別について、よく知られた歴史的に正確な概要を示している。Upsetting-­Offensiveフラグを割り当ててはならない。
+*〃*|![](../images/img600.jpg)<br>![not upsetting‑offensive](../images/no-flag.jpg)|このWikipediaのページは、米国における人種差別や民族差別について、よく知られた歴史的に正確な概要を示している。Upsetting-­Offensiveフラグを割り当ててはならない。
 **クエリ：**<br><span class="query">islam</span><br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>ニューヨーク州ニューヨーク<br><br>**ユーザーの意図：**<br>イスラムの宗教に関する情報が知りたい|![](../images/img602.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)|このページの目的は、イスラム教を悪だとする著者の信念を説明すること。不寛容や憎悪を促進するために存在しているように見え、多くの人を不快にする可能性がある。<br><br>この結果にはUpsetting-­Offensiveフラグを割り当てなければならない。
-*(Same as above.)*|![](../images/img604.jpg)<br>![not upsetting‑offensive](../images/no-flag.jpg)|これは評判の良いサイト上の高品質な記事。イスラム教の主要な信仰と慣習を正確にまとめたものである。<br><br>Upsetting­-Offensiveフラグを割り当ててはならない。
+*〃*|![](../images/img604.jpg)<br>![not upsetting‑offensive](../images/no-flag.jpg)|これは評判の良いサイト上の高品質な記事。イスラム教の主要な信仰と慣習を正確にまとめたものである。<br><br>Upsetting­-Offensiveフラグを割り当ててはならない。
 
 ### 使いにくい耐性のあるクエリの設定に必要な評価
 
@@ -236,6 +236,6 @@ In addition, some rating tasks may ask you to identify **Not‑for‑Everyone** 
 クエリとユーザーの意図|結果ブロックとLP、Needs  Met評価、E-A-T評価、フラグ
 ---|---
 **クエリ：**<br><span class="query">holocaust history</span><br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>ワシントン州シアトル<br><br>**ユーザーの意図：**<br>ホロコーストに関する歴史的な情報を探す<br><br>**Important:** Though there are some upsetting/offensive results on the topic of this query, the query [holocaust history] should not be considered an Upsetting‑Offensive tolerant query.|![](../images/img608.jpg)<br>![needs met scale - fails to meet](../images/failsm.jpg)![page quality scale - lowest - narrow range](../images/lowest-narrow.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)
-*(Same as above.)*|![](../images/img612.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)![page quality scale - high - narrow range](../images/high-narrow.jpg)<br>![not upsetting‑offensive](../images/no-flag.jpg)
+*〃*|![](../images/img612.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)![page quality scale - high - narrow range](../images/high-narrow.jpg)<br>![not upsetting‑offensive](../images/no-flag.jpg)
 **クエリ：**<br><span class="query">stormfront.org</span><br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>ニューヨーク州ニューヨーク<br><br>**ユーザーの意図：**<br>Stormfront.orgのホームページにアクセスしたい|![](../images/img616.jpg)<br>![needs met scale - fully meets](../images/fullym.jpg)![page quality scale - lowest - narrow range](../images/lowest-narrow.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)
-*(Same as above.)*|![](../images/img620.jpg)<br>![needs met scale - fails to meet](../images/failsm.jpg)![page quality scale - medium - narrow range](../images/medium-narrow.jpg)<br>![not upsetting‑offensive](../images/no-flag.jpg)
+*〃*|![](../images/img620.jpg)<br>![needs met scale - fails to meet](../images/failsm.jpg)![page quality scale - medium - narrow range](../images/medium-narrow.jpg)<br>![not upsetting‑offensive](../images/no-flag.jpg)
