@@ -2,7 +2,7 @@
 
 <span style="color: red">**以下の評価ガイダンスは非英語ロケールでの評価者のためのものである。もしあなたの仕事の言語が英語（アメリカやインド、ニュージーランド）であれば、このセクションを読むことをやめてもよい。**</span>
 
-あなたのロケールでNM評価が有益な結果をもたらすことを示すべきであるのはユーザーのためである。クエリがあなたのロケールの言語である時、ユーザーはその言語の結果が欲しいと推測できる。We know that **you** can read English (you are reading this document!), but you should only give high Needs Met ratings to English results if users in your locale would expect or want them for a particular query. Unless requested by the query, English results should be considered useless if most users in the locale can't read them.
+あなたのロケールでNM評価が有益な結果をもたらすことを示すべきであるのはユーザーのためである。クエリがあなたのロケールの言語である時、ユーザーはその言語の結果が欲しいと推測できる。You should only give high Needs Met ratings to English results if users in your locale would expect or want them for a particular query. Unless requested by the query, English results should be considered useless if most users in the locale can't read them.
 
 しかしながら、クエリが英語の名前や言葉を含む時や英語の結果が特定のクエリに対して十分かどうかが不明瞭な時は評価がより難しくなる。あなたのロケールで適切な評価を判断するためにあなたの意見や知識を使うべきである。
 
