@@ -170,7 +170,7 @@ Webマスターによる維持、管理が全くされていないサイトも�
 
 ウェブサイト|概要
 |---|---|
-[子供のジャングルジムを販売するサイト](https://guidelines.raterhub.com/images/domeclimber.com.jpg)|**否定的な評判：** このビジネスの[BBBにおける評価](https://guidelines.raterhub.com/images/DomeClimberBBBReview.jpg)はFです 。金融詐欺に関するニュース記事や、ユーザーがそのように送金し、商品を受け取ることができなかったかなどのレビューが多くあります。
+[子供のジャングルジムを販売するサイト](https://guidelines.raterhub.com/images/domeclimber.com.jpg)|**否定的な評判：** このビジネスの[BBBにおける評価](https://guidelines.raterhub.com/images/DomeClimberBBBReview.jpg)はFです。金融詐欺に関するニュース記事や、ユーザーがそのように送金し、商品を受け取ることができなかったかなどのレビューが多くあります。
 [眼鏡関連商品の販売サイト](https://guidelines.raterhub.com/images/RG3_3.5-40.jpg)|**否定的/悪意のある評判：** このウェブサイトは、ユーザーを脅迫するなどの犯罪行為を行っています。
 [入院した退役軍人コミュニティに奉仕する組織](https://guidelines.raterhub.com/images/PQ.3.5.10.jpg)|**否定的な評判：** ニュースサイトやチャリティーウォッチドッグサイトには詐欺や金銭的ミスなどのこのサイトに対する否定的な記事が多くあります。
 
