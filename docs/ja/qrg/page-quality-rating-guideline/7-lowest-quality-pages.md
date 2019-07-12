@@ -8,29 +8,24 @@
 
 以下は、Lowest評価を受けるページの種類のまとめです。
 
-- 嫌悪感を与える可能性のあるページ
+- **嫌悪感を与える可能性のあるページ**
   - あるグループに対する憎しみや暴力を助長する
-
-- 害を与える可能性のあるページ
+- **害を与える可能性のあるページ**
   - 自分自身、または他者への危害を助長する
   - 詐欺やフィッシングサイト、マルウェアのダウンロードページなどの悪質なページ
   - かなりよくない、または悪意のある評判を掲載
-
-- ユーザーに誤解させる可能性のあるページ
+- **ユーザーに誤解させる可能性のあるページ**
   - 明らかに不正確な内容
   - 定評のある専門家の見解と異なるYMYLコンテンツ
   - 誤りであると証明された、または根拠のない陰謀説
-
-- ユーザーを欺く可能性のあるページ
+- **ユーザーを欺く可能性のあるページ**
   - ユーザーを欺くために作成されたページなど、不正な目的を持つページ
   - メインコンテンツのように見える広告など、勘違いさせやすいデザイン
-
-- ページの目的の欠如
+- **ページの目的の欠如**
   - メインコンテンツがない
   - メインコンテンツの意味が分からない
   - 目的がわからない
-
-- ページの目的を果たしていない
+- **ページの目的を果たしていない**
   - E-A-Tが欠如
   - メインコンテンツがほとんどない、またはその品質が最低レベル
   - コピー／自動生成コンテンツ
@@ -58,8 +53,8 @@
 
 ユーザーにメインコンテンツを提供するために、ページは存在します。以下のようなページはページの目的をはたしていないため、**Lowest**評価を受けます。
 
-- メインコンテンツがないページ
-- ページの目的達成の役に立たないほどの量しかメインコンテンツしか保有していないページ
+- **メインコンテンツがないページ**
+- **ページの目的達成の役に立たないほどの量しかメインコンテンツしか保有していないページ**
 
 ### 最低品質のメインコンテンツ
 
@@ -67,9 +62,9 @@
 
 例えば、
 
-- 明らかに不正確な情報を保有するインフォメーションページ
-- 読みづらい、見づらい、使いづらいなど、ページの内容の理解やページの使用に労力を使うメインコンテンツ
-- 不便なサイトの構築やデザイン、メンテナンスの不備など、ページが機能していない
+- **明らかに不正確な情報を保有するインフォメーションページ**
+- **読みづらい、見づらい、使いづらいなど、ページの内容の理解やページの使用に労力を使うメインコンテンツ**
+- **不便なサイトの構築やデザイン、メンテナンスの不備など、ページが機能していない**
 
 高い基準を持ち、あなたのページの典型的なユーザーがどのようにメインコンテンツを利用するかを考慮してください。A page may have value to the creator or participants in the discussion, but few to no general users who view it would benefit from the MC.
 
@@ -196,11 +191,11 @@ Webマスターによる維持、管理が全くされていないサイトも�
 
 ウェブサイトおよびメインコンテンツの作成者に対して否定的または悪意のある評判がある場合は、**Lowest**評価がなされます。[How to Search for Reputation Information](/page-quality-rating-guideline/understanding-webpages-and-websites.html#how-to-search-for-reputation-information)においていくつか例が示されています。否定的または悪意のある評判よって、これらのウェブサイト上の全てのページは**Lowest**評価が適用されます。
 
-- [子供のジャングルジムを販売するサイト](https://guidelines.raterhub.com/images/domeclimber.com.jpg)
+- **[子供のジャングルジムを販売するサイト](https://guidelines.raterhub.com/images/domeclimber.com.jpg)**
   - **否定的な評判：**<!-- -->このビジネスの[BBBにおける評価](https://guidelines.raterhub.com/images/DomeClimberBBBReview.jpg)はFです。金融詐欺に関するニュース記事や、ユーザーがそのように送金し、商品を受け取ることができなかったかなどのレビューが多くあります。
-- [眼鏡関連商品の販売サイト](https://guidelines.raterhub.com/images/RG3_3.5-40.jpg)
+- **[眼鏡関連商品の販売サイト](https://guidelines.raterhub.com/images/RG3_3.5-40.jpg)**
   - **否定的/悪意のある評判：**<!-- -->このウェブサイトは、ユーザーを脅迫するなどの犯罪行為を行っています。
-- [入院した退役軍人コミュニティに奉仕する組織](https://guidelines.raterhub.com/images/PQ.3.5.10.jpg)
+- **[入院した退役軍人コミュニティに奉仕する組織](https://guidelines.raterhub.com/images/PQ.3.5.10.jpg)**
   - **否定的な評判：**<!-- -->ニュースサイトやチャリティーウォッチドッグサイトには詐欺や金銭的ミスなどのこのサイトに対する否定的な記事が多くあります。
 
 ## ユーザーに間違った情報を与える可能性のあるページ
@@ -209,15 +204,15 @@ Webマスターによる維持、管理が全くされていないサイトも�
 
 情報として表示される可能性のあるページにおける以下の種類のコンテンツに対して、**Lowest**評価が適用されます。
 
-- 明らかに不正確なコンテンツ
-- 定評のある専門家の意見と異なる内容のYMYLコンテンツ
-- 虚偽であると証明されている、または根拠のない陰謀説
+- **明らかに不正確なコンテンツ**
+- **定評のある専門家の意見と異なる内容のYMYLコンテンツ**
+- **虚偽であると証明されている、または根拠のない陰謀説**
 
 以下の状況でも、**Lowest**評価が適用されます。
 
-- コンテンツの作成者が、陰謀論や明らかに不正確なコンテンツが正しいものであると信じている、または真実であるかが不明である場合
-- コンテンツ作成者が故意にユーザーに間違った情報を与えようとしている場合
-- コンテンツ作成者がその情報か正しいものかどうかを確かめずに、陰謀説や明らかに不正確な情報を広めている場合。例えば、コンテンツ作成者がお金を稼ぐ、または注目を集めるためにコンテンツを制作しているなど。
+- **コンテンツの作成者が、陰謀論や明らかに不正確なコンテンツが正しいものであると信じている、または真実である**かが不明である場合
+- **コンテンツ作成者が故意にユーザーに間違った情報を与えようとしている場合**
+- **コンテンツ作成者がその情報か正しいものかどうかを確かめずに、陰謀説や明らかに不正確な情報を広めている場**合。例えば、コンテンツ作成者がお金を稼ぐ、または注目を集めるためにコンテンツを制作しているなど。
 
 **最低**品質ページに掲載される情報の例として、月面着陸の偽造、にんじんがガンを治すというデマ、トカゲのような人々によってアメリカ政府が管理されているという噂などがあります。これらのトピックは面白いように思えるかもしれませんが、このようなインターネット上の陰謀説や誤情報を信じる人々が存在したなど、現実世界への影響がありました。
 
@@ -237,13 +232,13 @@ With practice, you will be able to identify deceptive pages accurately.
 
 Some pages are deliberately created to deceive users, for example:
 
-- A webpage or website that impersonates a different site (e.g., copied logo or branding of an unaffiliated site, URL that mimics another site's name, etc.).
-- A non-satirical social network profile made by an impersonator.
-- A webpage or website that looks like a news source or information page, but in fact has articles to manipulate users in order to benefit a person, business, government, or other organization politically, monetarily, or otherwise.
-- A webpage claims to offer an independent review or share other information about a product, but is in fact created to make money for the owner of the website without attempting to help users. For example, the MC may contain intentionally misleading or inaccurate information created with the sole purpose of getting users to click on monetized links or buy the product.
-- A website claims to be the personal website of a celebrity, but the website is actually created to make money for the owner of the website without the permission of the celebrity. For example, the page may have false testimonials for a product and is created for the sole purpose of getting users to click on monetized links or buy the product.
-- A webpage with a misleading title or a title that has nothing to do with the content on the page. Users who come to the page expecting content related to the title will feel tricked or deceived.
-- A webpage or website with deceptive website information. For example, the website may misrepresent who owns the site, what the website purpose really is, how the content was created, how to contact the site, etc.
+- **A webpage or website that impersonates a different site (e.g., copied logo or branding of an **unaffiliated site, URL that mimics another site's name, etc.).
+- **A non-satirical social network profile made by an impersonator.**
+- **A webpage or website that looks like a news source or information page, but in fact has **articles to manipulate users in order to benefit a person, business, government, or other organization politically, monetarily, or otherwise.
+- **A webpage claims to offer an independent review or share other information about a product, but **is in fact created to make money for the owner of the website without attempting to help users. For example, the MC may contain intentionally misleading or inaccurate information created with the sole purpose of getting users to click on monetized links or buy the product.
+- **A website claims to be the personal website of a celebrity, but the website is actually created **to make money for the owner of the website without the permission of the celebrity. For example, the page may have false testimonials for a product and is created for the sole purpose of getting users to click on monetized links or buy the product.
+- **A webpage with a misleading title or a title that has nothing to do with the content on the **page. Users who come to the page expecting content related to the title will feel tricked or deceived.
+- **A webpage or website with deceptive website information. For example, the website may **misrepresent who owns the site, what the website purpose really is, how the content was created, how to contact the site, etc.
 
 Any page or website that may deceive or trick users should be rated **Lowest**, regardless of intent. Use the **Lowest** rating even if you cannot see a reason for the deception or even if you think most users wouldn't "fall" for the trick.
 
@@ -255,10 +250,10 @@ You should also use the **Lowest** rating if you suspect a page is deceptive, ev
 
 次に挙げるような種類のページはユーザーが期待しているものを得られないため、Googleは欺瞞的なページであるとみなす。ユーザーの役に立つMCを提供する努力が殆ど／全く見られず、意図的にユーザーを操作する設計となっているページは、Lowest評価となる。よくあるタイプの欺瞞的ページの例は、以下の通り。
 
-- **広告をMCに見せかけるページ。** 実際のMCは最小限に抑えられているか、ユーザーに広告をクリックさせる為に作られたものである。例えば**嘘の検索ページ**（[例](https://guidelines.raterhub.com/images/PQ.2.3.16.jpg)）。実際は検索結果ページのように見えるリンクの一覧である。リンクのいくつかをクリックすると、そのページが検索エンジンの結果として偽装された単なる広告の集合ページであると分かる。"検索ボックス"もあるが、新しいクエリを入力すると検索結果のように見せかけた違うページ（広告）が表示される。
-- **広告をサイトのナビゲーションリンクのように偽装しているページ。** 例えば、**嘘のディレクトリページ**（[例](https://guidelines.raterhub.com/images/PQ.2.1.15.jpg)）。独特な説明文がついていることもあり、個人的に厳選された役に立つリンク集のように見える。実際にはそのリンクは広告であるか、またはサイト内の他の似たページへのリンクである。リンクの説明文は、そのページに無関係である場合もある。
-- **MCが使用不可、または表示されないページ。** ページの上部（MCの前）に大量の広告があるため、多くのユーザーがMCを見ることが出来ないページや、MCが目に見えないテキストで記載されているページが例として挙げられる。
-- **Any page designed to trick users into clicking on links**, which may be Ads or other links intended to serve the needs of the website rather than to the benefit of the user.
+- ****広告をMCに見せかけるページ。** 実際のMCは最小限に抑えられているか、ユーザーに広告をクリックさせる為に**作られたものである。例えば**嘘の検索ページ**（[例](https://guidelines.raterhub.com/images/PQ.2.3.16.jpg)）。実際は検索結果ページのように見えるリンクの一覧である。リンクのいくつかをクリックすると、そのページが検索エンジンの結果として偽装された単なる広告の集合ページであると分かる。"検索ボックス"もあるが、新しいクエリを入力すると検索結果のように見せかけた違うページ（広告）が表示される。
+- ****広告をサイトのナビゲーションリンクのように偽装しているページ。** 例えば、**嘘のディレクトリページ**（**[例](https://guidelines.raterhub.com/images/PQ.2.1.15.jpg)）。独特な説明文がついていることもあり、個人的に厳選された役に立つリンク集のように見える。実際にはそのリンクは広告であるか、またはサイト内の他の似たページへのリンクである。リンクの説明文は、そのページに無関係である場合もある。
+- ****MCが使用不可、または表示されないページ。** ページの上部（MCの前）に大量の広告があるため、多くのユーザ**ーがMCを見ることが出来ないページや、MCが目に見えないテキストで記載されているページが例として挙げられる。
+- ****Any page designed to trick users into clicking on links**, which may be Ads or other links **intended to serve the needs of the website rather than to the benefit of the user.
 
 ページをよく見て判断すること。そのページがユーザーの役に立つ為ではなく、広告や収益化に繋がるリンク、怪しいダウンロードリンクなどをユーザーにクリックさせる為に意図的に作成されたページだった場合、**Lowest**評価とすべきである。
 
@@ -274,9 +269,9 @@ You should also use the **Lowest** rating if you suspect a page is deceptive, ev
 
 **最低の特徴**
 
-- 有害な目的
-- ユーザーを欺くデザイン：違うサイトに見せかける
-- 質の最低なMC：明らかに不正確なコンテンツ
+- **有害な目的**
+- **ユーザーを欺くデザイン：違うサイトに見せかける**
+- **質の最低なMC：明らかに不正確なコンテンツ**
 
 </div>
 <div class="result">
@@ -299,8 +294,8 @@ You should also use the **Lowest** rating if you suspect a page is deceptive, ev
 
 **最低の特徴**
 
-- あたかもその情報が事実であるかのように根拠のない陰謀論を提示する
-- 質の最低なMC：明らかに不正確なコンテンツ
+- **あたかもその情報が事実であるかのように根拠のない陰謀論を提示する**
+- **質の最低なMC：明らかに不正確なコンテンツ**
 
 </div>
 <div class="result">
@@ -323,8 +318,8 @@ MCには、ニビル惑星についてのバチカンの情報や宇宙人の存
 
 **最低の特徴**
 
-- Presents unsubstantiated conspiracy theories as if the information were factual
-- Lowest quality MC: unsubstantiated conspiracy theory
+- **Presents unsubstantiated conspiracy theories as if the information were factual**
+- **Lowest quality MC: unsubstantiated conspiracy theory**
 
 </div>
 <div class="result">
@@ -349,7 +344,7 @@ The video has high production quality, and some viewers may find it funny or ent
 
 **最低の特徴**
 
-- Promotes hate or violence towards a group of people
+- **Promotes hate or violence towards a group of people**
 
 </div>
 <div class="result">
@@ -372,7 +367,7 @@ The Stormfront website promotes white supremacist ideology and is considered to 
 
 **最低の特徴**
 
-- Deceptive purpose: non-satirical page made by an impersonator
+- **Deceptive purpose: non-satirical page made by an impersonator**
 
 </div>
 <div class="result">
@@ -395,8 +390,8 @@ This Twitter profile page (username TEN_GOP) was created to impersonate the Tenn
 
 **最低の特徴**
 
-- 有害な目的
-- 質の最低なMC：明らかに不正確なコンテンツ
+- **有害な目的**
+- **質の最低なMC：明らかに不正確なコンテンツ**
 
 </div>
 <div class="result">
@@ -419,10 +414,10 @@ This Twitter profile page (username TEN_GOP) was created to impersonate the Tenn
 
 **最低の特徴**
 
-- 有害な目的
-- ユーザーを欺くページデザイン
-- 質の最低なMC：明らかに不正確なコンテンツ
-- サイトや記事の著者に関する情報量不足
+- **有害な目的**
+- **ユーザーを欺くページデザイン**
+- **質の最低なMC：明らかに不正確なコンテンツ**
+- **サイトや記事の著者に関する情報量不足**
 
 </div>
 <div class="result">
@@ -447,7 +442,7 @@ This Twitter profile page (username TEN_GOP) was created to impersonate the Tenn
 
 **最低の特徴**
 
-- 質の最低なMC：「キーワードの詰め込み」がされた大量のMC
+- **質の最低なMC：「キーワードの詰め込み」がされた大量のMC**
 
 </div>
 <div class="result">
@@ -470,8 +465,8 @@ This Twitter profile page (username TEN_GOP) was created to impersonate the Tenn
 
 **最低の特徴**
 
-- 質の最低なMC：コピーされたコンテンツ（時間や労力、専門性をかけずに作成され、手動の情報整理やユーザーへの価値提供もないもの）
-- E‑A‑Tの証拠がないもの
+- **質の最低なMC：コピーされたコンテンツ（時間や労力、専門性をかけずに作成され、手動の情報整理やユーザーへの**価値提供もないもの）
+- **E‑A‑Tの証拠がないもの**
 
 </div>
 <div class="result">
@@ -496,10 +491,10 @@ MCの全てが古いWikipediaの記事のコピーである（インターネッ
 
 **最低の特徴**
 
-- ページのトピックに対するMCの量が不十分
-- とてもクオリティの低いMC
-- E‑A‑Tを示す証拠がない
-- ページやWebサイトの本当の目的が疑わしい
+- **ページのトピックに対するMCの量が不十分**
+- **とてもクオリティの低いMC**
+- **E‑A‑Tを示す証拠がない**
+- **ページやWebサイトの本当の目的が疑わしい**
 
 </div>
 <div class="result">
@@ -522,7 +517,7 @@ MCの全てが古いWikipediaの記事のコピーである（インターネッ
 
 **最低の特徴**
 
-- 悪意がある、有害である、または欺瞞的である
+- **悪意がある、有害である、または欺瞞的である**
 
 </div>
 <div class="result">
@@ -545,8 +540,8 @@ MCの全てが古いWikipediaの記事のコピーである（インターネッ
 
 **最低の特徴**
 
-- 自動生成されたMC（時間や労力、専門性をかけずに作成され、手動の情報整理やユーザーへの価値提供もないもの）
-- E‑A‑Tを示す証拠がない
+- **自動生成されたMC（時間や労力、専門性をかけずに作成され、手動の情報整理やユーザーへの価値提供もないもの）**
+- **E‑A‑Tを示す証拠がない**
 
 </div>
 <div class="result">
@@ -569,7 +564,7 @@ MCの全てが古いWikipediaの記事のコピーである（インターネッ
 
 **最低の特徴**
 
-- 極めて否定的または悪意のある評判
+- **極めて否定的または悪意のある評判**
 
 </div>
 <div class="result">
@@ -592,8 +587,8 @@ MCの全てが古いWikipediaの記事のコピーである（インターネッ
 
 **最低の特徴**
 
-- YMYLのWebサイトにサイト情報がない
-- E‑A‑Tを示す証拠がない
+- **YMYLのWebサイトにサイト情報がない**
+- **E‑A‑Tを示す証拠がない**
 
 </div>
 <div class="result">
@@ -618,9 +613,9 @@ MCの全てが古いWikipediaの記事のコピーである（インターネッ
 
 **最低の特徴**
 
-- ユーザーを欺く目的（偽ディレクトリページ）
-- YMYLトピックにサイト情報がない
-- E‑A‑Tを示す証拠がない
+- **ユーザーを欺く目的（偽ディレクトリページ）**
+- **YMYLトピックにサイト情報がない**
+- **E‑A‑Tを示す証拠がない**
 
 </div>
 <div class="result">
@@ -643,7 +638,7 @@ MCの全てが古いWikipediaの記事のコピーである（インターネッ
 
 **最低の特徴**
 
-- ユーザーを欺く目的（偽の検索ページ）
+- **ユーザーを欺く目的（偽の検索ページ）**
 
 </div>
 <div class="result">
@@ -666,7 +661,7 @@ MCの全てが古いWikipediaの記事のコピーである（インターネッ
 
 **最低の特徴**
 
-- 偽の検索ページ‐椅子
+- **偽の検索ページ‐椅子**
 
 </div>
 <div class="result">
@@ -689,9 +684,9 @@ MCの全てが古いWikipediaの記事のコピーである（インターネッ
 
 **最低の特徴**
 
-- 質の最低なMC（コピーされたコンテンツで、時間や労力、専門性をかけずに作成され、手動の情報整理やユーザーへの価値提供もないもの）
-- YMYLのWebサイトにサイト情報がない
-- E‑A‑Tを示す証拠がない
+- **質の最低なMC（コピーされたコンテンツで、時間や労力、専門性をかけずに作成され、手動の情報整理やユーザーへ**の価値提供もないもの）
+- **YMYLのWebサイトにサイト情報がない**
+- **E‑A‑Tを示す証拠がない**
 
 </div>
 <div class="result">
@@ -716,8 +711,8 @@ MCの全てが古いWikipediaの記事のコピーである（インターネッ
 
 **最低の特徴**
 
-- ユーザーの役に立つ試みなしにお金を稼ぐというページ目的
-- 質の最低なMC（コピーされたコンテンツで、時間や労力、専門性をかけずに作成され、手動の情報整理やユーザーへの価値提供もないもの）
+- **ユーザーの役に立つ試みなしにお金を稼ぐというページ目的**
+- **質の最低なMC（コピーされたコンテンツで、時間や労力、専門性をかけずに作成され、手動の情報整理やユーザーへ**の価値提供もないもの）
 
 </div>
 <div class="result">
@@ -740,8 +735,8 @@ MCの全てが古いWikipediaの記事のコピーである（インターネッ
 
 **最低の特徴**
 
-- ユーザーを欺く目的
-- 非常に信頼できない
+- **ユーザーを欺く目的**
+- **非常に信頼できない**
 
 </div>
 <div class="result">
@@ -766,7 +761,7 @@ MacBook Air, iPhone 5c, Galaxy S4が当たると謳う偽の調査ページ。�
 
 **最低の特徴**
 
-- ユーザーを欺くまたはユーザーの誤解を招くページデザイン
+- **ユーザーを欺くまたはユーザーの誤解を招くページデザイン**
 
 </div>
 <div class="result">
@@ -789,7 +784,7 @@ MacBook Air, iPhone 5c, Galaxy S4が当たると謳う偽の調査ページ。�
 
 **最低の特徴**
 
-- ユーザーを欺く目的とコンテンツ
+- **ユーザーを欺く目的とコンテンツ**
 
 </div>
 <div class="result">
@@ -814,8 +809,8 @@ MacBook Air, iPhone 5c, Galaxy S4が当たると謳う偽の調査ページ。�
 
 **最低の特徴**
 
-- 目的の欠如
-- 質の最低なMC（意味不明なキーワードスタッフィング）
+- **目的の欠如**
+- **質の最低なMC（意味不明なキーワードスタッフィング）**
 
 </div>
 <div class="result">
@@ -838,7 +833,7 @@ MacBook Air, iPhone 5c, Galaxy S4が当たると謳う偽の調査ページ。�
 
 **最低の特徴**
 
-- 非常に否定的、悪意のある、または財政上不正があったという評判
+- **非常に否定的、悪意のある、または財政上不正があったという評判**
 
 </div>
 <div class="result">
@@ -861,8 +856,8 @@ MacBook Air, iPhone 5c, Galaxy S4が当たると謳う偽の調査ページ。�
 
 **最低の特徴**
 
-- 目的の欠如
-- 質の最低なMC（意味不明）
+- **目的の欠如**
+- **質の最低なMC（意味不明）**
 
 </div>
 <div class="result">
@@ -885,8 +880,8 @@ MacBook Air, iPhone 5c, Galaxy S4が当たると謳う偽の調査ページ。�
 
 **最低の特徴**
 
-- 質の最低なMC（意味不明）
-- 目的の欠如
+- **質の最低なMC（意味不明）**
+- **目的の欠如**
 
 </div>
 <div class="result">
@@ -909,8 +904,8 @@ MacBook Air, iPhone 5c, Galaxy S4が当たると謳う偽の調査ページ。�
 
 **最低の特徴**
 
-- 質の最低なMC（意味不明）
-- 非常に信頼できない
+- **質の最低なMC（意味不明）**
+- **非常に信頼できない**
 
 </div>
 <div class="result">
@@ -933,8 +928,8 @@ MacBook Air, iPhone 5c, Galaxy S4が当たると謳う偽の調査ページ。�
 
 **最低の特徴**
 
-- 目的の欠如
-- 質の最低なMC（意味不明なキーワードスタッフィング）
+- **目的の欠如**
+- **質の最低なMC（意味不明なキーワードスタッフィング）**
 
 </div>
 <div class="result">
@@ -957,9 +952,9 @@ MacBook Air, iPhone 5c, Galaxy S4が当たると謳う偽の調査ページ。�
 
 **最低の特徴**
 
-- E‑A‑Tを示す証拠がない
-- 不正確または誤解を招く
-- YMYLトピックにサイト情報がない
+- **E‑A‑Tを示す証拠がない**
+- **不正確または誤解を招く**
+- **YMYLトピックにサイト情報がない**
 
 </div>
 <div class="result">
@@ -982,7 +977,7 @@ MacBook Air, iPhone 5c, Galaxy S4が当たると謳う偽の調査ページ。�
 
 **最低の特徴**
 
-- 非常に信頼できない（怪しいダウンロード）
+- **非常に信頼できない（怪しいダウンロード）**
 
 </div>
 <div class="result">
@@ -1007,7 +1002,7 @@ MacBook Air, iPhone 5c, Galaxy S4が当たると謳う偽の調査ページ。�
 
 **最低の特徴**
 
-- ユーザーの役に立つ試みの見られない大量の目立った広告
+- **ユーザーの役に立つ試みの見られない大量の目立った広告**
 
 </div>
 <div class="result">
@@ -1030,8 +1025,8 @@ MCのないページの例。MCが"欠落"しているのは特定のページ�
 
 **最低の特徴**
 
-- 質の最低なMC
-- E‑A‑Tを示す証拠がない
+- **質の最低なMC**
+- **E‑A‑Tを示す証拠がない**
 
 </div>
 <div class="result">
@@ -1056,8 +1051,8 @@ MCのないページの例。MCが"欠落"しているのは特定のページ�
 
 **最低の特徴**
 
-- 質の最低なMC
-- E‑A‑Tを示す証拠がない
+- **質の最低なMC**
+- **E‑A‑Tを示す証拠がない**
 
 </div>
 <div class="result">
@@ -1080,8 +1075,8 @@ MCのないページの例。MCが"欠落"しているのは特定のページ�
 
 **最低の特徴**
 
-- 不正確でもしかすると危険な医学的助言を含むYMYLページ
-- 質の最低なMC
+- **不正確でもしかすると危険な医学的助言を含むYMYLページ**
+- **質の最低なMC**
 
 </div>
 <div class="result">
@@ -1104,9 +1099,9 @@ MCのないページの例。MCが"欠落"しているのは特定のページ�
 
 **最低の特徴**
 
-- もしかすると有害な財政的助言を含むYMYLページ
-- E‑A‑Tを示す証拠がない
-- 不正確または誤解を招く
+- **もしかすると有害な財政的助言を含むYMYLページ**
+- **E‑A‑Tを示す証拠がない**
+- **不正確または誤解を招く**
 
 </div>
 <div class="result">
@@ -1129,9 +1124,9 @@ MCのないページの例。MCが"欠落"しているのは特定のページ�
 
 **最低の特徴**
 
-- 通販サイトにおいて完全に不十分または信頼できないカスタマーサービス情報
-- E‑A‑Tを示す証拠がない
-- 不正確または誤解を招く
+- **通販サイトにおいて完全に不十分または信頼できないカスタマーサービス情報**
+- **E‑A‑Tを示す証拠がない**
+- **不正確または誤解を招く**
 
 </div>
 <div class="result">

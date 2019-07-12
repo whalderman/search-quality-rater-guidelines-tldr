@@ -8,29 +8,24 @@ This section describes **Lowest** quality pages. The examples at the end of this
 
 Here is a summary of what different types of **Lowest** pages look like:
 
-- Pages that potentially spread hate
+- **Pages that potentially spread hate**
   - Promote hate or violence towards a group of people
-
-- Potentially harmful pages
+- **Potentially harmful pages**
   - Encourage harm to self or others
   - Malicious pages, e.g., scams, phishing, malware downloads
   - Extremely negative or malicious reputation
-
-- Pages that potentially misinform users
+- **Pages that potentially misinform users**
   - Demonstrably inaccurate content
   - YMYL content that contradicts well-established expert consensus
   - Debunked or unsubstantiated conspiracy theories
-
-- Pages that potentially deceive users
+- **Pages that potentially deceive users**
   - Deceptive intent, e.g., websites created to deceive users
   - Deceptive design, e.g., Ads that are disguised as MC
-
-- Lack of purpose pages
+- **Lack of purpose pages**
   - No MC
   - Gibberish MC
   - Cannot determine a purpose
-
-- Pages that fail to achieve their purpose
+- **Pages that fail to achieve their purpose**
   - Lowest E‑A‑T
   - No/little MC or lowest quality MC
   - Copied MC or auto-generated MC
@@ -58,16 +53,16 @@ If the E‑A‑T of a page is low enough, users cannot or should not use the MC 
 
 Pages exist to share their MC with users. The following pages should be rated **Lowest** because they fail to achieve their purpose:
 
-- Pages with no MC.
-- Pages with a bare minimum of MC that is unhelpful for the purpose of the page.
+- **Pages with no MC.**
+- **Pages with a bare minimum of MC that is unhelpful for the purpose of the page.**
 
 ### Lowest Quality Main Content
 
 The **Lowest** rating applies to any page with Lowest Quality MC. Lowest quality MC is content created with such insufficient time, effort, expertise, talent, and/or skill that it fails to achieve its purpose. The **Lowest** rating should also apply to pages where users cannot benefit from the MC, for example:
 
-- Informational pages with demonstrably inaccurate MC.
-- The MC is so difficult to read, watch, or use, that it takes great effort to understand and use the page.
-- Broken functionality of the page due to lack of skill in construction, poor design, or lack of maintenance.
+- **Informational pages with demonstrably inaccurate MC.**
+- **The MC is so difficult to read, watch, or use, that it takes great effort to understand and use the page.**
+- **Broken functionality of the page due to lack of skill in construction, poor design, or lack of maintenance.**
 
 Have high standards and think about how typical users in your locale would experience the MC on the page. A page may have value to the creator or participants in the discussion, but few to no general users who view it would benefit from the MC.
 
@@ -193,11 +188,11 @@ Use the **Lowest** rating if you suspect a page is malicious, even if you're not
 
 Use the **Lowest** rating if the website and the creators of the MC have a negative or malicious reputation. Here are some examples originally shown in [<span class="query">How to Search for Reputation Information</span>](/page-quality-rating-guideline/understanding-webpages-and-websites.html#how-to-search-for-reputation-information). All pages on these websites should be rated **Lowest** because of the negative or malicious reputation of these websites.
 
-- [Site selling children's jungle gym](https://guidelines.raterhub.com/images/domeclimber.com.jpg)
+- **[Site selling children's jungle gym](https://guidelines.raterhub.com/images/domeclimber.com.jpg)**
   - **Negative reputation information:** This business has a [BBB rating](https://guidelines.raterhub.com/images/DomeClimberBBBReview.jpg) of F. There is a news article about financial fraud. There are many reviews on websites describing how users sent money and did not receive anything in return.
-- [Site selling products related to eyewear](https://guidelines.raterhub.com/images/RG3_3.5-40.jpg)
+- **[Site selling products related to eyewear](https://guidelines.raterhub.com/images/**RG3_3.5-40.jpg)
   - **Negative/malicious reputation information:** This website engaged in criminal behavior such as physically threatening users.
-- [Organization serving the hospitalized veteran community](https://guidelines.raterhub.com/images/PQ.3.5.10.jpg)
+- **[Organization serving the hospitalized veteran community](https://guidelines.raterhub.com/**images/PQ.3.5.10.jpg)
   - **Negative reputation information:** There are many detailed negative articles on news sites and charity watchdog sites describing fraud and financial mishandling about this organization.
 
 ## Pages that Potentially Misinform Users
@@ -206,15 +201,15 @@ The purpose of an informational page is to communicate accurate information. Ass
 
 The **Lowest** rating must be used for any of the following types of content on pages that could appear to be informational:
 
-- Demonstrably inaccurate content.
-- YMYL content that contradicts well-established expert consensus.
-- Debunked or unsubstantiated conspiracy theories.
+- **Demonstrably inaccurate content.**
+- **YMYL content that contradicts well-established expert consensus.**
+- **Debunked or unsubstantiated conspiracy theories.**
 
 **Lowest** should also be used under these circumstances:
 
-- The content creator may believe that the conspiracy theory or demonstrably inaccurate content is correct, or it is unclear whether they do.
-- The content creators may be deliberately attempting to misinform users.
-- The content creators describe, repeat or spread conspiracy theories or demonstrably inaccurate content without a clear effort to debunk or correct it, regardless of whether the creators believe it to be true. For example, content creators may produce this content in order to make money or gain attention.
+- **The content creator may believe that the conspiracy theory or demonstrably inaccurate content **is correct, or it is unclear whether they do.
+- **The content creators may be deliberately attempting to misinform users.**
+- **The content creators describe, repeat or spread conspiracy theories or demonstrably inaccurate **content without a clear effort to debunk or correct it, regardless of whether the creators believe it to be true. For example, content creators may produce this content in order to make money or gain attention.
 
 Some examples of information that would be found on **Lowest** quality pages include: the moon landings were faked, carrots cure cancer, and the U.S. government is controlled by lizard people. While some of these topics may seem funny, there have been real world consequences from people believing these kinds of internet conspiracy theories and misinformation.
 
@@ -234,13 +229,13 @@ With practice, you will be able to identify deceptive pages accurately.
 
 Some pages are deliberately created to deceive users, for example:
 
-- A webpage or website that impersonates a different site (e.g., copied logo or branding of an unaffiliated site, URL that mimics another site's name, etc.).
-- A non-satirical social network profile made by an impersonator.
-- A webpage or website that looks like a news source or information page, but in fact has articles to manipulate users in order to benefit a person, business, government, or other organization politically, monetarily, or otherwise.
-- A webpage claims to offer an independent review or share other information about a product, but is in fact created to make money for the owner of the website without attempting to help users. For example, the MC may contain intentionally misleading or inaccurate information created with the sole purpose of getting users to click on monetized links or buy the product.
-- A website claims to be the personal website of a celebrity, but the website is actually created to make money for the owner of the website without the permission of the celebrity. For example, the page may have false testimonials for a product and is created for the sole purpose of getting users to click on monetized links or buy the product.
-- A webpage with a misleading title or a title that has nothing to do with the content on the page. Users who come to the page expecting content related to the title will feel tricked or deceived.
-- A webpage or website with deceptive website information. For example, the website may misrepresent who owns the site, what the website purpose really is, how the content was created, how to contact the site, etc.
+- **A webpage or website that impersonates a different site (e.g., copied logo or branding of an **unaffiliated site, URL that mimics another site's name, etc.).
+- **A non-satirical social network profile made by an impersonator.**
+- **A webpage or website that looks like a news source or information page, but in fact has **articles to manipulate users in order to benefit a person, business, government, or other organization politically, monetarily, or otherwise.
+- **A webpage claims to offer an independent review or share other information about a product, but **is in fact created to make money for the owner of the website without attempting to help users. For example, the MC may contain intentionally misleading or inaccurate information created with the sole purpose of getting users to click on monetized links or buy the product.
+- **A website claims to be the personal website of a celebrity, but the website is actually created **to make money for the owner of the website without the permission of the celebrity. For example, the page may have false testimonials for a product and is created for the sole purpose of getting users to click on monetized links or buy the product.
+- **A webpage with a misleading title or a title that has nothing to do with the content on the **page. Users who come to the page expecting content related to the title will feel tricked or deceived.
+- **A webpage or website with deceptive website information. For example, the website may **misrepresent who owns the site, what the website purpose really is, how the content was created, how to contact the site, etc.
 
 Any page or website that may deceive or trick users should be rated **Lowest**, regardless of intent. Use the **Lowest** rating even if you cannot see a reason for the deception or even if you think most users wouldn't "fall" for the trick.
 
@@ -252,10 +247,10 @@ Some pages are deliberately designed to manipulate users to take an action that 
 
 Here are some common types of deceptively designed pages:
 
-- **Pages that disguise Ads as MC**. Actual MC may be minimal or created to encourage users to click on the Ads. For example, **fake search pages** ([example](https://guidelines.raterhub.com/images/PQ.2.3.16.jpg)) that have a list of links that look like a page of search results. If you click on a few of the links, you will see that the page is just a collection of Ads disguised as search engine results. A "search box" is present, but submitting a new query just gives you a different page of Ads disguised as search results.
-- **Pages that disguise Ads as website navigation links**. For example, **fake directory pages** ([example](https://guidelines.raterhub.com/images/PQ.2.1.15.jpg)) that look like a personally curated set of helpful links, possibly with unique descriptions. In reality, the links are Ads or links to other similar pages on the site. Sometimes the descriptions of the links are unrelated to the page.
-- **Pages where the MC is not usable or visible**. For example, a page that has such a large amount of Ads at the top of the page (before the MC), so that most users will not see the MC, or a page where the MC is invisible text.
-- **Any page designed to trick users into clicking on links**, which may be Ads or other links intended to serve the needs of the website rather than to the benefit of the user.
+- ****Pages that disguise Ads as MC**. Actual MC may be minimal or created to encourage users to **click on the Ads. For example, **fake search pages** ([example](https://guidelines.raterhub.com/images/PQ.2.3.16.jpg)) that have a list of links that look like a page of search results. If you click on a few of the links, you will see that the page is just a collection of Ads disguised as search engine results. A "search box" is present, but submitting a new query just gives you a different page of Ads disguised as search results.
+- ****Pages that disguise Ads as website navigation links**. For example, **fake directory pages** (**[example](https://guidelines.raterhub.com/images/PQ.2.1.15.jpg)) that look like a personally curated set of helpful links, possibly with unique descriptions. In reality, the links are Ads or links to other similar pages on the site. Sometimes the descriptions of the links are unrelated to the page.
+- ****Pages where the MC is not usable or visible**. For example, a page that has such a large **amount of Ads at the top of the page (before the MC), so that most users will not see the MC, or a page where the MC is invisible text.
+- ****Any page designed to trick users into clicking on links**, which may be Ads or other links **intended to serve the needs of the website rather than to the benefit of the user.
 
 Take a good look at the page and use your judgment. If you believe the page was deliberately created to manipulate users to click on Ads, monetized links, questionable download links, etc., rather than help users, the page should be rated **Lowest**.
 
@@ -271,9 +266,9 @@ Take a good look at the page and use your judgment. If you believe the page was 
 
 **Lowest Quality Characteristics**
 
-- Harmful purpose
-- Deceptive design: impersonates a different website
-- Lowest quality MC: demonstrably inaccurate content
+- **Harmful purpose**
+- **Deceptive design: impersonates a different website**
+- **Lowest quality MC: demonstrably inaccurate content**
 
 </div>
 <div class="result">
@@ -300,8 +295,8 @@ The deceptive website design and inaccurate content can misinform users. This we
 
 **Lowest Quality Characteristics**
 
-- Presents unsubstantiated conspiracy theories as if the information were factual
-- Lowest quality MC: unsubstantiated conspiracy theory
+- **Presents unsubstantiated conspiracy theories as if the information were factual**
+- **Lowest quality MC: unsubstantiated conspiracy theory**
 
 </div>
 <div class="result">
@@ -326,8 +321,8 @@ The Nibiru cataclysm and related events have also been thoroughly debunked by au
 
 **Lowest Quality Characteristics**
 
-- Presents unsubstantiated conspiracy theories as if the information were factual
-- Lowest quality MC: unsubstantiated conspiracy theory
+- **Presents unsubstantiated conspiracy theories as if the information were factual**
+- **Lowest quality MC: unsubstantiated conspiracy theory**
 
 </div>
 <div class="result">
@@ -352,7 +347,7 @@ The video has high production quality, and some viewers may find it funny or ent
 
 **Lowest Quality Characteristics**
 
-- Promotes hate or violence towards a group of people
+- **Promotes hate or violence towards a group of people**
 
 </div>
 <div class="result">
@@ -375,7 +370,7 @@ The Stormfront website promotes white supremacist ideology and is considered to 
 
 **Lowest Quality Characteristics**
 
-- Deceptive purpose: non-satirical page made by an impersonator
+- **Deceptive purpose: non-satirical page made by an impersonator**
 
 </div>
 <div class="result">
@@ -398,8 +393,8 @@ This Twitter profile page (username TEN_GOP) was created to impersonate the Tenn
 
 **Lowest Quality Characteristics**
 
-- Harmful purpose
-- Lowest quality MC: demonstrably inaccurate content
+- **Harmful purpose**
+- **Lowest quality MC: demonstrably inaccurate content**
 
 </div>
 <div class="result">
@@ -424,10 +419,10 @@ While it is not clear why this type of page was created in the first place, it a
 
 **Lowest Quality Characteristics**
 
-- Harmful purpose
-- Deceptive page design
-- Lowest quality MC: demonstrably inaccurate content
-- An unsatisfying amount of information about the website and author
+- **Harmful purpose**
+- **Deceptive page design**
+- **Lowest quality MC: demonstrably inaccurate content**
+- **An unsatisfying amount of information about the website and author**
 
 </div>
 <div class="result">
@@ -452,7 +447,7 @@ This page was created to misinform users, which is a harmful purpose.
 
 **Lowest Quality Characteristics**
 
-- Lowest quality MC: large amount of "Keyword Stuffed" MC
+- **Lowest quality MC: large amount of "Keyword Stuffed" MC**
 
 </div>
 <div class="result">
@@ -475,8 +470,8 @@ This is an example of a spammed forum page, where the goal is to try and get use
 
 **Lowest Quality Characteristics**
 
-- Lowest quality MC: copied content with little or no time, effort, expertise, manual curation, or added value for users
-- No evidence of E‑A‑T
+- **Lowest quality MC: copied content with little or no time, effort, expertise, manual curation, **or added value for users
+- **No evidence of E‑A‑T**
 
 </div>
 <div class="result">
@@ -501,10 +496,10 @@ The current Wikipedia page offers much more content, links, references, etc. Thi
 
 **Lowest Quality Characteristics**
 
-- An unsatisfying amount of MC for the topic of the page
-- Very low quality MC
-- No evidence of E‑A‑T
-- True purpose of the page and website is questionable
+- **An unsatisfying amount of MC for the topic of the page**
+- **Very low quality MC**
+- **No evidence of E‑A‑T**
+- **True purpose of the page and website is questionable**
 
 </div>
 <div class="result">
@@ -527,7 +522,7 @@ This page has so many low quality characteristics that the Lowest+ rating is app
 
 **Lowest Quality Characteristics**
 
-- Malicious, harmful, or deceptive
+- **Malicious, harmful, or deceptive**
 
 </div>
 <div class="result">
@@ -550,8 +545,8 @@ This is a shopping checkout page, but it asks for the user's government ID numbe
 
 **Lowest Quality Characteristics**
 
-- Auto-generated MC, created with little to no time, effort, expertise, manual curation, or added value for users
-- No evidence of E‑A‑T
+- **Auto-generated MC, created with little to no time, effort, expertise, manual curation, or added **value for users
+- **No evidence of E‑A‑T**
 
 </div>
 <div class="result">
@@ -574,7 +569,7 @@ The first sentence is incomplete, and doesn't provide an explanation for the cod
 
 **Lowest Quality Characteristics**
 
-- Extremely negative or malicious reputation
+- **Extremely negative or malicious reputation**
 
 </div>
 <div class="result">
@@ -597,8 +592,8 @@ There are many claims of fraud and financial problems about this organization on
 
 **Lowest Quality Characteristics**
 
-- No website information for YMYL website
-- No evidence of E‑A‑T
+- **No website information for YMYL website**
+- **No evidence of E‑A‑T**
 
 </div>
 <div class="result">
@@ -623,9 +618,9 @@ Medical pages require a high degree of user trust. Because there is no informati
 
 **Lowest Quality Characteristics**
 
-- Deceptive purpose (fake directory page)
-- No website information for YMYL topic
-- No evidence of E‑A‑T
+- **Deceptive purpose (fake directory page)**
+- **No website information for YMYL topic**
+- **No evidence of E‑A‑T**
 
 </div>
 <div class="result">
@@ -648,7 +643,7 @@ The links on the page appear to link to helpful articles, but in fact the links 
 
 **Lowest Quality Characteristics**
 
-- Deceptive purpose (fake search page)
+- **Deceptive purpose (fake search page)**
 
 </div>
 <div class="result">
@@ -671,7 +666,7 @@ Advertising should never disguise itself as the MC of the page. Pages with Ads t
 
 **Lowest Quality Characteristics**
 
-- Deceptive purpose (fake search page)
+- **Deceptive purpose (fake search page)**
 
 </div>
 <div class="result">
@@ -694,9 +689,9 @@ This page was created to make money from clicks on Ads rather than to help users
 
 **Lowest Quality Characteristics**
 
-- Lowest quality MC (copied content with little or no time, effort, expertise, manual curation, or added value for users)
-- No website information for YMYL website
-- No evidence of E‑A‑T
+- **Lowest quality MC (copied content with little or no time, effort, expertise, manual curation, **or added value for users)
+- **No website information for YMYL website**
+- **No evidence of E‑A‑T**
 
 </div>
 <div class="result">
@@ -721,8 +716,8 @@ All MC on this page is copied with little or no time, effort, expertise, manual 
 
 **Lowest Quality Characteristics**
 
-- Purpose of the page to make money with very little or no attempt to help users
-- Lowest quality MC (copied content with little or no time, effort, expertise, manual curation, or added value for users)
+- **Purpose of the page to make money with very little or no attempt to help users**
+- **Lowest quality MC (copied content with little or no time, effort, expertise, manual curation, **or added value for users)
 
 </div>
 <div class="result">
@@ -745,8 +740,8 @@ This page is titled "Washing Machine Reviews," but there are no reviews on the p
 
 **Lowest Quality Characteristics**
 
-- Deceptive purpose
-- Highly untrustworthy
+- **Deceptive purpose**
+- **Highly untrustworthy**
 
 </div>
 <div class="result">
@@ -771,7 +766,7 @@ There is no information about who is responsible, even though this website asks 
 
 **Lowest Quality Characteristics**
 
-- Deceptive or misleading page design
+- **Deceptive or misleading page design**
 
 </div>
 <div class="result">
@@ -794,7 +789,7 @@ Some users might not even notice the MC because it is under a long list of Ads. 
 
 **Lowest Quality Characteristics**
 
-- Deceptive purpose and deceptive content
+- **Deceptive purpose and deceptive content**
 
 </div>
 <div class="result">
@@ -819,8 +814,8 @@ This example has been annotated with red text at the top to point out deceptive 
 
 **Lowest Quality Characteristics**
 
-- Lacking in purpose
-- Lowest quality MC (gibberish, keyword stuffing)
+- **Lacking in purpose**
+- **Lowest quality MC (gibberish, keyword stuffing)**
 
 </div>
 <div class="result">
@@ -843,7 +838,7 @@ This page has no helpful MC and no helpful purpose.
 
 **Lowest Quality Characteristics**
 
-- Very negative, malicious, or financially fraudulent reputation
+- **Very negative, malicious, or financially fraudulent reputation**
 
 </div>
 <div class="result">
@@ -866,8 +861,8 @@ This website took users' money and physically threatened users who complained. T
 
 **Lowest Quality Characteristics**
 
-- Lacking in purpose
-- Lowest quality MC (gibberish)
+- **Lacking in purpose**
+- **Lowest quality MC (gibberish)**
 
 </div>
 <div class="result">
@@ -890,8 +885,8 @@ This page has no helpful MC and no helpful purpose.
 
 **Lowest Quality Characteristics**
 
-- Lowest quality MC (gibberish)
-- Lack of purpose
+- **Lowest quality MC (gibberish)**
+- **Lack of purpose**
 
 </div>
 <div class="result">
@@ -914,8 +909,8 @@ This is a gibberish PDF file. We don't have any idea why this was created. There
 
 **Lowest Quality Characteristics**
 
-- Lowest quality MC (gibberish)
-- Highly untrustworthy
+- **Lowest quality MC (gibberish)**
+- **Highly untrustworthy**
 
 </div>
 <div class="result">
@@ -938,8 +933,8 @@ This page has deceptive features, such as a friend request, a prize alert, and a
 
 **Lowest Quality Characteristics**
 
-- Lacking in purpose
-- Lowest quality MC (gibberish, keyword stuffing)
+- **Lacking in purpose**
+- **Lowest quality MC (gibberish, keyword stuffing)**
 
 </div>
 <div class="result">
@@ -962,9 +957,9 @@ This page has no MC and no helpful purpose.
 
 **Lowest Quality Characteristics**
 
-- No evidence of E‑A‑T
-- Inaccurate or misleading
-- No website information for YMYL topic
+- **No evidence of E‑A‑T**
+- **Inaccurate or misleading**
+- **No website information for YMYL topic**
 
 </div>
 <div class="result">
@@ -987,7 +982,7 @@ This content is poorly written and uses a lot of words to say very little. There
 
 **Lowest Quality Characteristics**
 
-- Highly untrustworthy (suspect download)
+- **Highly untrustworthy (suspect download)**
 
 </div>
 <div class="result">
@@ -1012,7 +1007,7 @@ Remember that you are not required to click on any links that are suspicious.
 
 **Lowest Quality Characteristics**
 
-- Large amount of prominent Ads and no attempt to help users
+- **Large amount of prominent Ads and no attempt to help users**
 
 </div>
 <div class="result">
@@ -1035,8 +1030,8 @@ This is an example of a page with no MC. You might think that the MC is "missing
 
 **Lowest Quality Characteristics**
 
-- Lowest quality MC
-- No evidence of E‑A‑T
+- **Lowest quality MC**
+- **No evidence of E‑A‑T**
 
 </div>
 <div class="result">
@@ -1059,8 +1054,8 @@ This content has many problems: poor grammar, and sentences that are meaningless
 
 **Lowest Quality Characteristics**
 
-- Lowest quality MC
-- No evidence of E‑A‑T
+- **Lowest quality MC**
+- **No evidence of E‑A‑T**
 
 </div>
 <div class="result">
@@ -1083,8 +1078,8 @@ The level of expertise of the author of this content is not clearly communicated
 
 **Lowest Quality Characteristics**
 
-- YMYL page with inaccurate potentially dangerous medical advice
-- Lowest quality MC
+- **YMYL page with inaccurate potentially dangerous medical advice**
+- **Lowest quality MC**
 
 </div>
 <div class="result">
@@ -1109,9 +1104,9 @@ Type of Webpage/Content Lowest Quality Characteristics PQ Rating and Explanation
 
 **Lowest Quality Characteristics**
 
-- YMYL page with potentially damaging financial advice
-- No evidence of E‑A‑T
-- Inaccurate or misleading
+- **YMYL page with potentially damaging financial advice**
+- **No evidence of E‑A‑T**
+- **Inaccurate or misleading**
 
 </div>
 <div class="result">
@@ -1134,9 +1129,9 @@ This page gives loan advice that can be potentially damaging, for example, instr
 
 **Lowest Quality Characteristics**
 
-- Completely inadequate or untrustworthy customer service information for a shopping website
-- No evidence of E‑A‑T
-- Inaccurate or misleading
+- **Completely inadequate or untrustworthy customer service information for a shopping website**
+- **No evidence of E‑A‑T**
+- **Inaccurate or misleading**
 
 </div>
 <div class="result">
