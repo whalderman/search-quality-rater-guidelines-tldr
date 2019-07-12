@@ -68,7 +68,11 @@ Some definitions from Google:
 **Identifying Advertisements/Monetization (Ads)**
 : Ads is content and/or links that are displayed for the purpose of **monetizing the page**.
 
-### Websites
+### Understanding Websites
+
+Google makes note of when subdomains and root domains will likely be treated as separate entities (**emphasis** added):
+
+> ...we will consider [the subdomain's top page] the homepage, rather than [the domain's top page]. Why? Because **clicking on the logo takes the user to [the subdomain's top page]**. In addition, [the subdomain's top page] has information about the [subdomain] website. It is **very difficult to find <span style="color: #0071ba">specific</span> information about [the subdomain] on the [domain's] homepage**.
 
 Google will judge the reputation of a website based on a range of reputable independent sources (sites like [BBB](https://www.bbb.org/), [Trustpilot](https://www.trustpilot.com/), etc.).
 
@@ -385,7 +389,7 @@ These pages completely fail to meet/satisfy the needs of users. All or almost al
 
 If a page has [no useful purpose](/tldr/for-everyone.html#understanding-webpages-and-websites), it will not rank.
 
-> [Website queries](/qrg/understanding-mobile-user-needs/12-understanding-mobile-users-queries-and-results.html#website-queries) are an exception to the rule above.
+> [Website queries](/qrg/understanding-mobile-user-needs/12-understanding-mobile-users-queries-and-results.html#website-queries) are an exception to the rule above. However, those queries are not what brings in the money.
 
 ### Queries with Multiple Interpretations and Intents
 
@@ -402,7 +406,7 @@ For queries about breaking news, recurring events, current information, or produ
 Google takes the type of entity into account when deciding how close "near me" should be. "Nearby" can mean completely different things depending on what the user is looking for. Test the following for examples:
 
 - [gas station near me](https://www.google.com/search?q=gas+station+near+me)
-- [theater/theatre near me](https://www.google.com/search?q=theater+near+me)
+- [theater near me](https://www.google.com/search?q=theater+near+me)
 - [museums near me](https://www.google.com/search?q=museums+near+me)
 - [national parks nearby](https://www.google.com/search?q=national+parks+nearby)
 

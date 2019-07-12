@@ -8,11 +8,32 @@
 
 これは以前に確認された重複。
 
-左側|右側
----|---
-![](../images/img862.jpg)|![](../images/img863.jpg)
+<div class="examples">
+<div class="example">
+<div class="results">
+<div class="result">
 
-> **注：** 自動的に検出され、事前に識別されたdupesを選択することはできない。
+**左側**
+
+![](../images/img862.jpg)
+
+</div>
+</div>
+</div>
+<div class="example">
+<div class="results">
+<div class="result">
+
+**右側**
+
+![](../images/img863.jpg)
+
+</div>
+</div>
+</div>
+</div>
+
+**注：**<!-- -->自動的に検出され、事前に識別されたdupesを選択することはできない。
 
 ## 評価者が確認した重複
 
@@ -20,17 +41,30 @@
 
 本プロジェクトにおいて、重複の検出は**クエリに依存する**点に注意しましょう。
 
-- **特定のクエリ：** ユーザーが「歌詞」「特定の記事」等の特定のコンテンツを求めている場合、そうしたコンテンツを複数のWebサイトから入手することは情報検証に役立つので、**重複だとは判定しない**でください。
+- **特定のクエリ：**<!-- -->ユーザーが「歌詞」「特定の記事」等の特定のコンテンツを求めている場合、そうしたコンテンツを複数のWebサイトから入手することは情報検証に役立つので、**重複だとは判定しない**でください。
 
-- **広範囲のクエリ：** クエリの意図が幅広い場合、ユーザーは同一のコンテンツを複数表示してほしいわけではないので、これらの検索結果は**重複である**と判定してください。広告・画像・リンクなどの些細な点に相違があっても、重複になる点に注意しましょう。
+- **広範囲のクエリ：**<!-- -->クエリの意図が幅広い場合、ユーザーは同一のコンテンツを複数表示してほしいわけではないので、これらの検索結果は**重複である**と判定してください。広告・画像・リンクなどの些細な点に相違があっても、重複になる点に注意しましょう。
 
 タスク画面の左右を問わずに、重複しているかを確認しましょう。左右に分かれて重複が存在する場合でも、「同一の検索エンジンを使った場合、これらのページを両方とも見たいと思うか」という点を検討しましょう。
 
-> **注：** もし２つのRBがタイプや見た目の異なるコンテンツを持っていたら、同じURLのLPであったとしても重複であるとしないようにする。例えばこれらのブロックはお互い重複しているとマークすべきでない。
+**注：**<!-- -->もし２つのRBがタイプや見た目の異なるコンテンツを持っていたら、同じURLのLPであったとしても重複であるとしないようにする。例えばこれらのブロックはお互い重複しているとマークすべきでない。
 
-|||
--|-
-![](../images/img865.jpg)|![](../images/img866.jpg)
+<div class="examples">
+<div class="example">
+<div class="results">
+<div class="result">
+
+![](../images/img865.jpg)
+
+</div>
+<div class="result">
+
+![](../images/img866.jpg)
+
+</div>
+</div>
+</div>
+</div>
 
 ## 重複結果を報告する
 
@@ -52,7 +86,7 @@ URL 1: [http://www.caimag.com/wordpress/2010/03/06/motorcycle-battery-how-to-cho
 
 URL 2: [http://www.articlesbase.com/motorcycles-articles/choosing-and-installing-a-motorcycle-battery-47798.html](http://www.articlesbase.com/motorcycles-articles/choosing-and-installing-a-motorcycle-battery-47798.html)
 
-**理由：** 全く同じ記事が表示される（Web上には、これと同一の記事を掲載したページが多数ある）。両者の違いは、記事の周りに
+**理由：**<!-- -->全く同じ記事が表示される（Web上には、これと同一の記事を掲載したページが多数ある）。両者の違いは、記事の周りに
 表示される広告だけ。クエリの意図もそれなりに広く、検索エンジンが重複結果を複数表示してもユーザーの役に立たない。
 
 <span style="color: red">**重複**</span>
@@ -63,7 +97,7 @@ URL 1: [http://www.myspace.com/jasoncastromusic](http://www.myspace.com/jasoncas
 
 URL 2: [http://www.myspace.com/jasoncastromusic?MyToken=503599bf-01cf-4427-bdf4-d63920c107f9](http://www.myspace.com/jasoncastromusic?MyToken=503599bf-01cf-4427-bdf4-d63920c107f9)
 
-**理由：** URLは異なるが、LPは同一ページ。検索エンジンが重複結果を複数表示してもユーザーの役に立たない。
+**理由：**<!-- -->URLは異なるが、LPは同一ページ。検索エンジンが重複結果を複数表示してもユーザーの役に立たない。
 
 <span style="color: green">**重複ではない**</span>
 
@@ -73,4 +107,4 @@ URL 1: [http://www.lyricsfreak.com/m/madonna/material+girl_20086925.html](http:/
 
 URL 2: [http://www.lyrics007.com/Madonna%20Lyrics/Material%20Girl%20Lyrics.html](http://www.lyrics007.com/Madonna%20Lyrics/Material%20Girl%20Lyrics.html)
 
-**理由：** 両方ともマドンナの「Material Girl」の歌詞を表示しているが、ユーザーは両方とも訪問して歌詞の正しさを確かめたいと思うかもしれない。検索エンジンがこの歌詞を掲載したページを複数表示すると、ユーザーの役に立つ。
+**理由：**<!-- -->両方ともマドンナの「Material Girl」の歌詞を表示しているが、ユーザーは両方とも訪問して歌詞の正しさを確かめたいと思うかもしれない。検索エンジンがこの歌詞を掲載したページを複数表示すると、ユーザーの役に立つ。

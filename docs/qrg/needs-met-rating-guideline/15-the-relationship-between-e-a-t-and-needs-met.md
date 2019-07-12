@@ -24,9 +24,69 @@ Here is some guidance about assigning Needs Met and E‑A‑T ratings:
 
 - Remember that if a page lacks a beneficial purpose, it should always be rated Lowest Page Quality ­ regardless of the page's Needs Met rating or how well­-designed the page may be. Please review [Lowest Quality Pages](../page-quality-rating-guideline/7-lowest-quality-pages) for a summary of other types of Lowest Page Quality pages.
 
-Query and User Intent|Result Block and LP, Needs Met Rating, E‑A‑T Rating|Explanation
----|---|---
-**Query:** <span class="query">how do electric cars work</span><br><br>**User Location:** Dallas, Texas<br><br>**User Intent:** Find information about how electric cars work.|![](../images/img628.jpg)<br>![needs met scale - slightly meets](../images/sm.jpg)![page quality scale - low](../images/low.jpg)|**Page Quality:** Read this content out loud. The article on the LP is shallow and unintentionally humorous. There are four paragraphs of text, but it basically says that electric cars use electricity and have to be charged.<br><br>**Needs Met:** This page would be helpful for few users.
-*(Same as above.)*|![](../images/img631.jpg)<br>![needs met scale - fails to meet](../images/failsm.jpg)![page quality scale - medium+ - narrow range](../images/medium+narrow.jpg)|**Page Quality:** There is a lot of helpful MC on the landing page on Wikipedia.org.<br><br>**Needs Met:** The query asks how electric cars work, but the article on the LP is about mobility scooters.
-**Query:** <span class="query">symptoms of dehydration</span><br><br>**User Location:** Memphis, Tennessee<br><br>**User Intent:** Find information about the symptoms of dehydration.|![](../images/img634.jpg)<br>![needs met scale - fails to meet - narrow range](../images/failsm-narrow.jpg)![page quality scale - lowest - narrow range](../images/lowest-narrow.jpg)|**Page Quality:** This is a YMYL topic. This page has no evidence of medical expertise/authority and is not trustworthy.<br><br>**Needs Met:** Even though the article is topical, the information is not reliable and potentially misleading or dangerous.
-*(Same as above.)*|![](../images/img637.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)![page quality scale - high+ - narrow range](../images/high+narrow.jpg)|**Page Quality:** This is a YMYL topic. This page is on a highly authoritative medical website and has a lot of reliable and accurate MC. This page is very trustworthy.<br><br>**Needs Met:** This result would be very helpful for most users.
+<div class="examples">
+
+
+<div class="example">
+
+**Query:** <span class="query">how do electric cars work</span>  
+**User Location:** Dallas, Texas  
+**User Intent:** Find information about how electric cars work.
+
+<div class="results">
+<div class="result">
+
+![](../images/img628.jpg)  
+![needs met scale - slightly meets](../images/sm.jpg)  
+![page quality scale - low](../images/low.jpg)
+
+**Page Quality:** Read this content out loud. The article on the LP is shallow and unintentionally humorous. There are four paragraphs of text, but it basically says that electric cars use electricity and have to be charged.
+
+**Needs Met:** This page would be helpful for few users.
+
+</div>
+<div class="result">
+
+![](../images/img631.jpg)  
+![needs met scale - fails to meet](../images/failsm.jpg)  
+![page quality scale - medium+ - narrow range](../images/medium+narrow.jpg)
+
+**Page Quality:** There is a lot of helpful MC on the landing page on Wikipedia.org.
+
+**Needs Met:** The query asks how electric cars work, but the article on the LP is about mobility scooters.
+
+</div>
+</div>
+</div>
+<div class="example">
+
+**Query:** <span class="query">symptoms of dehydration</span>  
+**User Location:** Memphis, Tennessee  
+**User Intent:** Find information about the symptoms of dehydration.
+
+<div class="results">
+<div class="result">
+
+![](../images/img634.jpg)  
+![needs met scale - fails to meet - narrow range](../images/failsm-narrow.jpg)  
+![page quality scale - lowest - narrow range](../images/lowest-narrow.jpg)
+
+**Page Quality:** This is a YMYL topic. This page has no evidence of medical expertise/authority and is not trustworthy.
+
+**Needs Met:** Even though the article is topical, the information is not reliable and potentially misleading or dangerous.
+
+</div>
+<div class="result">
+
+![](../images/img637.jpg)  
+![needs met scale - highly meets](../images/hm.jpg)  
+![page quality scale - high+ - narrow range](../images/high+narrow.jpg)
+
+**Page Quality:** This is a YMYL topic. This page is on a highly authoritative medical website and has a lot of reliable and accurate MC. This page is very trustworthy.
+
+**Needs Met:** This result would be very helpful for most users.
+
+</div>
+</div>
+</div>
+</div>

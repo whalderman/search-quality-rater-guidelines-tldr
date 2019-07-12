@@ -6,9 +6,28 @@
 
 フラグ名をクリックすると、フラグブロックは赤色に変わり、いいえからはいに変わる。例えば、**ポルノ**フラグを使用する必要がある場合は以下のようになる。
 
-クエリとユーザーの目的|RB、フラグ、NM評価|説明
----|:---:|---
-**クエリ：**<br><span class="query">freeones</span>、英語（アメリカ）<br><br>**ユーザーの所在地：**<br>カリフォルニア州マウンテンビュー<br><br>**ユーザーの意図：**<br>FreeonesのWebサイトを訪問|![](../images/img565.jpg)<br>![](../images/img566.jpg)<br>![needs met scale - fully meets](../images/fullym.jpg)|LPはポルノサイト「Freeones」のホームページ。<br><br>結果はFullyM評価だがポルノフラグに値する。
+<div class="examples">
+<div class="example">
+
+**クエリ：**<span class="query">freeones</span>、英語（アメリカ）  
+**ユーザーの所在地：**<!-- -->カリフォルニア州マウンテンビュー  
+**ユーザーの意図：**<!-- -->FreeonesのWebサイトを訪問
+
+<div class="results">
+<div class="result">
+
+![](../images/img565.jpg)  
+![](../images/img566.jpg)  
+![needs met scale - fully meets](../images/fullym.jpg)
+
+LPはポルノサイト「Freeones」のホームページ。
+
+結果はFullyM評価だがポルノフラグに値する。
+
+</div>
+</div>
+</div>
+</div>
 
 ## ポルノフラグ
 
@@ -16,7 +35,7 @@
 
 ポルノページとは、ポルノに該当する画像・リンク・文章・ポップアップ・目立つ広告等のコンテンツがあるページのことです。ある文化圏やある国ではポルノと判断される画像も、他の文化圏・国ではポルノでないと判断されることもあります。評価者自身の判断と、現地についての知識に基づいて判断しましょう。
 
-> **注：** 「**ポルノ**」フラグは結果がポルノであることを示すために使用され、クエリがポルノを探しているかどうかは関係ない。
+**注：**<!-- -->「**ポルノ**」フラグは結果がポルノであることを示すために使用され、クエリがポルノを探しているかどうかは関係ない。
 
 ## ポルノに該当する検索結果の評価
 
@@ -27,15 +46,39 @@
 - ユーザーの意図が明確にポルノではない場合、結果は役に立たないとみなされる。
 - ポルノに関心のない多くのユーザーにとって非常に悪い経験となる。
 
-次のクエリはポルノの意図がないクエリとみなすべき。<span class="query">女の子</span>、<span class="query">妻</span>、<span class="query">成女</span>（mature women）、<span class="query">女の子の写真</span>、<span class="query">女性の写真</span>、<span class="query">母と娘</span>、<span class="query">チアリーダー</span>等。
+次のクエリはポルノの意図がないクエリとみなすべき。<span class="query">女の子</span>、<span class="query">妻</span>、<span class="query">成女</span>【mature women】、<span class="query">女の子の写真</span>、<span class="query">女性の写真</span>、<span class="query">母と娘</span>、<span class="query">チアリーダー</span>、等。
 
 評価者の判断とロケールで全てのポルノページに**ポルノ**フラグをつけることを忘れない。
 
-クエリ|ユーザーの意図|LP|評価|ポルノフラグの有無
----|---|---|---|---
-[おもちゃ]、English (US)|購入するおもちゃを見つける|[LP例](https://guidelines.raterhub.com/images/RG1_6.2-1.jpg)<br><span style="color: red;">警告－ポルノページ</span>|**FailsM**|有
-[ラクダの高さは]<br>（英語）|質問の答えを知る|[LP例](https://guidelines.raterhub.com/images/RG1_6.2-2.jpg)<br><span style="color: red;">警告－ポルノページ</span>|**FailsM**|有
-[車　写真]<br>（英語）|車の写真を見つける|[LP例](https://guidelines.raterhub.com/images/RG1_6.2-3.jpg)<br><span style="color: red;">警告－ポルノページ</span>|**FailsM**|有
+<div class="examples">
+<div class="example">
+
+**クエリ：**<span class="query">toys</span>、英語（アメリカ）  
+**ユーザーの意図：**<!-- -->購入するおもちゃを見つける  
+**LP：**<!-- -->[LP例](https://guidelines.raterhub.com/images/RG1_6.2-1.jpg)　<span style="color: red;">警告－ポルノページ</span>  
+**評価：**<!-- -->**FailsM**  
+**ポルノフラグの有無：**<!-- -->有
+
+</div>
+<div class="example">
+
+**クエリ：**<span class="query">how tall is a camel</span>、英語（アメリカ）  
+**ユーザーの意図：**<!-- -->質問の答えを知る  
+**LP：**<!-- -->[LP例](https://guidelines.raterhub.com/images/RG1_6.2-2.jpg)　<span style="color: red;">警告－ポルノページ</span>  
+**評価：**<!-- -->**FailsM**  
+**ポルノフラグの有無：**<!-- -->有
+
+</div>
+<div class="example">
+
+**クエリ：**<span class="query">car pictures</span>、英語（アメリカ）  
+**ユーザーの意図：**<!-- -->車の写真を見つける  
+**LP：**<!-- -->[LP例](https://guidelines.raterhub.com/images/RG1_6.2-3.jpg)　<span style="color: red;">警告－ポルノページ</span>  
+**評価：**<!-- -->**FailsM**  
+**ポルノフラグの有無：**<!-- -->有
+
+</div>
+</div>
 
 ### ポルノを求めている可能性があるクエリのNeeds Met評価
 
@@ -43,10 +86,26 @@
 
 こうしたクエリについては、評価者の皆さんが「ユーザーはポルノを求めているはず」と思っても、ポルノでない解 釈が支配的解釈だとみなして評価してください。例えば「ビキニ」(英語・アメリカ)の意図は「水着を買うこと」です。「ユーザーの大半はポルノを求めているはず」と思っても、ポルノ目的の解釈は少数派だと見なして評価しましょう。
 
-クエリ・ロケール|ユーザーの意図|LP|評価|「ポルノ」フラグは必要?
----|---|---|---|---
-「胸」<br>（英語）|胸について、解剖学的な情報や健康に関する情報を知る。|[LP例](https://guidelines.raterhub.com/images/RG1_6.2-6.jpg)|**HM**|No
-「胸」<br>（英語）|胸について、解剖学的な情報や健康に関する情報を知る。|[LP例](https://guidelines.raterhub.com/images/RG1_6.2-7.jpg) <span style="color: red;">警告－ポルノページ</span>|**FailsM**|Yes
+<div class="examples">
+<div class="example">
+
+**クエリ：**<span class="query">breasts</span>、英語（アメリカ）  
+**ユーザーの意図：**<!-- -->胸について、解剖学的な情報や健康に関する情報を知る。  
+**LP：**<!-- -->[LP例](https://guidelines.raterhub.com/images/RG1_6.2-6.jpg)  
+**評価：**<!-- -->**HM**  
+**ポルノフラグの有無：**<!-- -->無  
+
+</div>
+<div class="example">
+
+**クエリ：**<span class="query">breasts</span>、英語（アメリカ）  
+**ユーザーの意図：**<!-- -->胸について、解剖学的な情報や健康に関する情報を知る。  
+**LP：**<!-- -->[LP例](https://guidelines.raterhub.com/images/RG1_6.2-7.jpg) <span style="color: red;">警告－ポルノページ</span>  
+**評価：**<!-- -->**FailsM**  
+**ポルノフラグの有無：**<!-- -->有  
+
+</div>
+</div>
 
 ### 明らかにポルノを求めているクエリのNeeds Met評価
 
@@ -56,18 +115,50 @@
 
 悪意のあるソフトウェアをダウンロードさせようとするページなどのUXの悪いページは、クエリに適した画像がいくつかあるとしても、低い評価を受けなければならない。
 
-クエリ|ユーザーの意図|LP|評価|ポルノフラグの有無
----|---|---|---|---
-[freeones]<br>（英語）|Freeonesのトップページを訪問|[Example: http://www.freeones.com](https://guidelines.raterhub.com/images/RG1_6.2-10.jpg) <span style="color: red;">警告－ポルノページ</span>|**FullyM**|有
-[freeones]<br>（英語）|Freeonesのトップページを訪問|[Example: http://www.baberoad.com](https://guidelines.raterhub.com/images/RG1_6.2-11.jpg) <span style="color: red;">警告－ポルノページ</span>|**FailsM**|有
-[anime sex pictures]<br>（英語）|アニメのセックス画像を見つける|[Example](https://guidelines.raterhub.com/images/RG1_6.2-14.jpg) <span style="color: red;">警告－ポルノページ</span>| **MM to HM**|有
-[cheerleader porn]<br>（英語）|チアリーダーのポルノ画像を見つける|[Example](https://guidelines.raterhub.com/images/RG1_6.2-15.jpg) <span style="color: red;">警告－ポルノページ</span>|**MM to HM**|有
+<div class="examples">
+<div class="example">
+
+**クエリ：**<span class="query">freeones</span>、英語（アメリカ）  
+**ユーザーの意図：**<!-- -->Freeonesのトップページを訪問  
+**LP：**<!-- -->[Example: http://www.freeones.com](https://guidelines.raterhub.com/images/RG1_6.2-10.jpg) <span style="color: red;">警告－ポルノページ</span>  
+**評価：**<!-- -->**FullyM**  
+**ポルノフラグの有無：**<!-- -->有  
+
+</div>
+<div class="example">
+
+**クエリ：**<span class="query">freeones</span>、英語（アメリカ）  
+**ユーザーの意図：**<!-- -->Freeonesのトップページを訪問  
+**LP：**<!-- -->[Example: http://www.baberoad.com](https://guidelines.raterhub.com/images/RG1_6.2-11.jpg) <span style="color: red;">警告－ポルノページ</span>  
+**評価：**<!-- -->**FailsM**  
+**ポルノフラグの有無：**<!-- -->有  
+
+</div>
+<div class="example">
+
+**クエリ：**<span class="query">anime sex pictures</span>、英語（アメリカ）  
+**ユーザーの意図：**<!-- -->アニメのセックス画像を見つける  
+**LP：**<!-- -->[Example](https://guidelines.raterhub.com/images/RG1_6.2-14.jpg) <span style="color: red;">警告－ポルノページ</span>  
+**評価：**<!-- -->**MM to HM**  
+**ポルノフラグの有無：**<!-- -->有  
+
+</div>
+<div class="example">
+
+**クエリ：**<span class="query">cheerleader porn</span>、英語（アメリカ）  
+**ユーザーの意図：**<!-- -->チアリーダーのポルノ画像を見つける  
+**LP：**<!-- -->[Example](https://guidelines.raterhub.com/images/RG1_6.2-15.jpg) <span style="color: red;">警告－ポルノページ</span>  
+**評価：**<!-- -->**MM to HM**  
+**ポルノフラグの有無：**<!-- -->有  
+
+</div>
+</div>
 
 ## 違法画像の報告
 
 ### 児童ポルノ
 
-<span style="color: red;">**注：** 評価をするときは働く場所、ロケールに関わらず、児童ポルノを違法とみなす米国連邦法に従わなければならない。</span>
+<span style="color: red;">**注：**<!-- -->評価をするときは働く場所、ロケールに関わらず、児童ポルノを違法とみなす米国連邦法に従わなければならない。</span>
 
 #### 児童ポルノの定義
 
@@ -97,9 +188,27 @@ LPの言語が次のいずれかに該当しない場合は、「**外国語**�
 
 以下は外国語フラグが使用されるRBのスクリーンショット。
 
-クエリ・ユーザーの所在地・ユーザーの意図|RB<br>LP<br>フラグ<br>Needs Met評価|説明
----|---|---
-**クエリ：**<br><span class="query">baidu</span><br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>アラスカ州アンカレッジ<br><br>**ユーザーの意図：**<br>BaiduのWebサイトを訪問|![search result for the baidu home page](../images/img571.jpg)<br>![foreign language flag enabled](../images/img572.jpg)<br>![needs met scale - fully meets](../images/fullym.jpg)|LPはBaiduのWebサイト。結果はクエリのターゲットページだが外国語（中国語）この結果は**FullyM**評価と外国語フラグに値する。
+<div class="examples">
+<div class="example">
+
+**クエリ：**<span class="query">baidu</span>  
+**ロケール：**<!-- -->英語（アメリカ）  
+**ユーザーの所在地：**<!-- -->アラスカ州アンカレッジ  
+**ユーザーの意図：**<!-- -->BaiduのWebサイトを訪問
+
+<div class="results">
+<div class="result">
+
+![search result for the baidu home page](../images/img571.jpg)  
+![foreign language flag enabled](../images/img572.jpg)  
+![needs met scale - fully meets](../images/fullym.jpg)
+
+LPはBaiduのWebサイト。結果はクエリのターゲットページだが外国語（中国語）この結果は**FullyM**評価と外国語フラグに値する。
+
+</div>
+</div>
+</div>
+</div>
 
 **重要：**
 
@@ -120,11 +229,62 @@ RBに**外国語**のLPがある場合でもタスクの全てのRBにNeeds Met�
 
 動画が**外国語**の歌、バンド、映画、またはイベントについて話しているものの場合、その結果はおそらく理解できず、楽しむことができないので**FailsM**評価と**外国語**フラグを割り当てる。
 
-クエリ・ユーザーの所在地・ユーザーの意図|RB<br>LP<br>Needs Met評価|説明
----|---|---
-**クエリ：**<br><span class="query">video of celine dion singing s'il suffisait d'aimer</span><br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>ミシガン州ランシング<br><br>**ユーザーの意図：**<br>この局を歌っているセリーヌディオンを見る|![example of unnecessary foreign language flag](../images/img575.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)|このビデオは英語ではないにもかかわらずアメリカのユーザーが探しているもの。ビデオはフランス語でもLPの言語はほとんどが英語なので**外国語**のフラグは不要。
-**クエリ：**<br><span class="query">alex c</span><br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>アイオワ州ダベンポート<br><br>**ユーザーの意図：**<br>このドイツの作曲家の動画を見たり、曲を聴いたり、彼についての情報を見つけたりする。|![example of unnecessary foreign language flag](../images/img577.jpg)<br>![needs met scale - moderately to moderately+](../images/mm-narrow.jpg)|このクエリは、ドイツの作曲家Alex Cのもの。LPにはY‑ass（YouTubeには「Yass」とスペルミス）にドイツ語で歌われた曲が含まれている。英語ではないにもかかわらず英語ユーザーの多くにとって役立つ。LPの言語は明確でないので、**外国語**フラグを割り当てるかどうかを決定するときは評価者の判断。
-**クエリ：**<br><span class="query">kasal, kasali, kasalo</span><br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>カリフォルニア州ダリシティ<br><br>**ユーザーの意図：**<br>このフィリピンの映画の予告編を見るか、それに関する情報を見る|![example of unnecessary foreign language flag](../images/img579.jpg)<br>![needs met scale - moderately to moderately+](../images/mm-narrow.jpg)|クエリはフィリピンの映画のKasal、Kasali、Kasalo。LPはフィリピンの言語であるタガログ語の動画。英語ではないにもかかわらず、クエリを英語ユーザーの多くにとって役立つ。**外国語**フラグを割り当てるかどうかを決定するときは評価者の判断。
+<div class="examples">
+<div class="example">
+
+**クエリ：**<span class="query">video of celine dion singing s'il suffisait d'aimer</span>  
+**ロケール：**<!-- -->英語（アメリカ）  
+**ユーザーの所在地：**<!-- -->ミシガン州ランシング  
+**ユーザーの意図：**<!-- -->この局を歌っているセリーヌディオンを見る
+
+<div class="results">
+<div class="result">
+
+![example of unnecessary foreign language flag](../images/img575.jpg)  
+![needs met scale - highly meets](../images/hm.jpg)
+
+このビデオは英語ではないにもかかわらずアメリカのユーザーが探しているもの。ビデオはフランス語でもLPの言語はほとんどが英語なので**外国語**のフラグは不要。
+
+</div>
+</div>
+</div>
+<div class="example">
+
+**クエリ：**<span class="query">alex c</span>  
+**ロケール：**<!-- -->英語（アメリカ）  
+**ユーザーの所在地：**<!-- -->アイオワ州ダベンポート  
+**ユーザーの意図：**<!-- -->このドイツの作曲家の動画を見たり、曲を聴いたり、彼についての情報を見つけたりする。
+
+<div class="results">
+<div class="result">
+
+![example of unnecessary foreign language flag](../images/img577.jpg)  
+![needs met scale - moderately to moderately+](../images/mm-narrow.jpg)
+
+このクエリは、ドイツの作曲家Alex Cのもの。LPにはY‑ass（YouTubeには「Yass」とスペルミス）にドイツ語で歌われた曲が含まれている。英語ではないにもかかわらず英語ユーザーの多くにとって役立つ。LPの言語は明確でないので、**外国語**フラグを割り当てるかどうかを決定するときは評価者の判断。
+
+</div>
+</div>
+</div>
+<div class="example">
+
+**クエリ：**<span class="query">kasal, kasali, kasalo</span>  
+**ロケール：**<!-- -->英語（アメリカ）  
+**ユーザーの所在地：**<!-- -->カリフォルニア州ダリシティ  
+**ユーザーの意図：**<!-- -->このフィリピンの映画の予告編を見るか、それに関する情報を見る
+
+<div class="results">
+<div class="result">
+
+![example of unnecessary foreign language flag](../images/img579.jpg)  
+![needs met scale - moderately to moderately+](../images/mm-narrow.jpg)
+
+クエリはフィリピンの映画のKasal、Kasali、Kasalo。LPはフィリピンの言語であるタガログ語の動画。英語ではないにもかかわらず、クエリを英語ユーザーの多くにとって役立つ。**外国語**フラグを割り当てるかどうかを決定するときは評価者の判断。
+
+</div>
+</div>
+</div>
+</div>
 
 ## 「読み込めない」フラグ
 
@@ -141,9 +301,28 @@ RBではなくLPに基づいて「**読み込めない**」フラグを割り当
 
 「**読み込めない**」LPの例。RBだけを見てLPが読み込まれないことは分からない。
 
-クエリ・ユーザーの所在地・ユーザーの意図|RB<br>LP<br>フラグ<br>Needs Met評価|説明
----|---|---
-**クエリ：**<br><span class="query">douglas instruments</span><br><br>**ユーザーの所在地：**<br>インディアナ州サウスベンド<br><br>**ユーザーの意図：**<br>このWebサイトを訪問|![search result for douglas instruments](../images/img582.jpg)<br>![did not load button selected](../images/img583.jpg)<br>![needs met scale - fails to meet](../images/failsm.jpg)|このページは、一般的な404メッセージが表示され、ページにはMC、SC、広告がない。<br><br>この結果**FailsM**評価と「**読み込めない**」フラグを割り当てる。
+<div class="examples">
+<div class="example">
+
+**クエリ：**<span class="query">douglas instruments</span>  
+**ユーザーの所在地：**<!-- -->インディアナ州サウスベンド  
+**ユーザーの意図：**<!-- -->このWebサイトを訪問
+
+<div class="results">
+<div class="result">
+
+![search result for douglas instruments](../images/img582.jpg)
+![did not load button selected](../images/img583.jpg)
+![needs met scale - fails to meet](../images/failsm.jpg)
+
+このページは、一般的な404メッセージが表示され、ページにはMC、SC、広告がない。
+
+この結果**FailsM**評価と「**読み込めない**」フラグを割り当てる。
+
+</div>
+</div>
+</div>
+</div>
 
 「**読み込めない**」フラグに該当するLPの例です。[例①](https://guidelines.raterhub.com/images/RG1_4.6-5.jpg)　[例②](https://guidelines.raterhub.com/images/RG1_4.6-6.jpg)　[例③](https://guidelines.raterhub.com/images/RG1_4.6-7.jpg)
 
@@ -166,10 +345,46 @@ RBではなくLPに基づいて「**読み込めない**」フラグを割り当
 
 ページの一部が読み込めたり、完全に読み込めるページにエラーメッセージが表示されていたりすることがあります。「クエリに対して、その検索結果がどの程度役に立つか」という視点からNeeds Met評価を付けましょう。ウェブマスターがエラーメッセージをカスタマイズすることもできますし、エラーメッセージがしっかり機能しているWebサイトの一部であることもあります。そして、そうしたページがクエリに対して役立つこともあります。
 
-クエリ・ユーザーの所在地・ユーザーの意図|リザルトブロック・LP・Needs Met評価|説明
----|---|---
-**クエリ：**<br><span class="query">男の子 ピンク スノーシューズ</span><br><br>**ユーザーの所在地：**<br>インディアナ州サウスベンド<br><br>**ユーザーの意図：**<br>男の子のスノーシューズについての情報や、購入をしたい|![search result for boys pink snow shoes](../images/img588.jpg)<br>![needs met scale - fails to meet](../images/failsm.jpg)|MCにはエラーメッセージが表示されますが、多くのSCもある。しかしながら、このページには男の子のピンクのスノーシューズに関する情報はないため、このクエリは役に立たない。
-**クエリ：**<br><span class="query">聖書 節</span><br><br>**ユーザーの所在地：**<br>インディアナ州サウスベンド<br><br>**ユーザーの意図：**<br>聖書の中の特定の場所を探す|![search result for bible passages](../images/img590.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)|LP上にカスタマイズされた「結果が見つかりません」というメッセージがあるのにもかかわらず、聖書のすべての節へのリンクがある。これは、ほとんどのユーザーにとって非常に役に立つ。
+<div class="examples">
+<div class="example">
+
+**クエリ：**<span class="query">男の子 ピンク スノーシューズ</span>  
+**ユーザーの所在地：**<!-- -->インディアナ州サウスベンド  
+**ユーザーの意図：**<!-- -->男の子のスノーシューズについての情報や、購入をしたい
+
+<div class="results">
+<div class="result">
+
+![search result for boys pink snow shoes](../images/img588.jpg)  
+![needs met scale - fails to meet](../images/failsm.jpg)
+
+MCにはエラーメッセージが表示されますが、多くのSCもある。しかしながら、このページには男の子のピンクのスノーシューズに関する情報はないため、このクエリは役に立たない。
+
+「**読み込めない**」フラグを割り当てないでください。
+
+</div>
+</div>
+</div>
+<div class="example">
+
+**クエリ：**<span class="query">聖書 節</span>  
+**ユーザーの所在地：**<!-- -->インディアナ州サウスベンド  
+**ユーザーの意図：**<!-- -->聖書の中の特定の場所を探す
+
+<div class="results">
+<div class="result">
+
+![search result for bible passages](../images/img590.jpg)  
+![needs met scale - highly meets](../images/hm.jpg)
+
+LP上にカスタマイズされた「結果が見つかりません」というメッセージがあるのにもかかわらず、聖書のすべての節へのリンクがある。これは、ほとんどのユーザーにとって非常に役に立つ。
+
+「**読み込めない**」フラグを割り当てないでください。
+
+</div>
+</div>
+</div>
+</div>
 
 ## Upsetting-­Offensiveフラグ
 
@@ -191,18 +406,96 @@ In addition, some rating tasks may ask you to identify **Not‑for‑Everyone** 
 - 有害な活動に関する明示的なハウツー情報（人身売買や暴行に関するハウツーなど）
 - ロケール内のユーザーが非常に動揺または不快な思いをする他の種類のコンテンツ
 
-**重要：** Upsetting-­Offensiveフラグを割り当てるかどうかを決定する際は、ページの目的とコンテンツの表示方法について考える。Web上には児童虐待、暴力、人種差別のような敏感なトピックに焦点を当てた結果が数多くあるが、評価者はページ内コンテンツの目的や種類、および／または表示方法に基づいてUpsetting-­Offensiveフラグを割り当てなければならない。だからといってトピックそのものが敏感である、または潜在的に動揺させるものであるとは限らない。
+**重要：**<!-- -->Upsetting-­Offensiveフラグを割り当てるかどうかを決定する際は、ページの目的とコンテンツの表示方法について考える。Web上には児童虐待、暴力、人種差別のような敏感なトピックに焦点を当てた結果が数多くあるが、評価者はページ内コンテンツの目的や種類、および／または表示方法に基づいてUpsetting-­Offensiveフラグを割り当てなければならない。だからといってトピックそのものが敏感である、または潜在的に動揺させるものであるとは限らない。
 
 例えば、児童虐待を推奨したり、生々しく描いていたりするコンテンツの検索結果は、不快感を伴うものとしてフラグを立てるべきである。児童虐待自体がユーザーを動揺させる敏感なトピックであるが、児童虐待に関する正確な情報ページ（児童虐待の統計や防止など）にはフラグを立ててはならない。
 
-クエリ・ユーザーの所在地・ユーザーの意図|RB・LP・フラグ|説明
----|---|---
-**クエリ：**<br><span class="query">holocaust history</span><br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>ニューヨーク州ニューヨーク<br><br>**ユーザーの意図：**<br>ホロコーストに関する歴史的情報を知りたい|![](../images/img593.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)|ホロコーストは決して起こっていないと他者を説得する方法の議論である。ホロコーストの否定と反ユダヤ主義の直接的な関係のため、多くの人々はこの結果を不快であると感じる。<br><br>この結果にはUpsetting­-Offensiveフラグを割り当てなければならない。
-*〃*|![](../images/img593.jpg)<br>![not upsetting‑offensive](../images/no-flag.jpg)|ホロコースト自体が一部の人々にとっては潜在的に動揺するトピックであるが、この結果は事実上正確な歴史的情報源である。加えてこのページは人々に対して憎悪や暴力を促進したり、人種差別を含んだり、生々しい暴力を描写したりすることの為に存在していない。Upsetting­-Offensiveフラグを割り当ててはならない。
-**クエリ：**<br><span class="query">黒人に対する人種差別</span><br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>ニューヨーク州ニューヨーク<br><br>**ユーザーの意図：**<br>黒人への人種差別に関する情報やニュース、他の情報源を探している|![](../images/img598.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)|このページの目的は、黒人が劣っていると主張することである。誤った科学的研究を示しており、多くの人々がそれを不快であると感じている。この結果にはUpsetting-­Offensiveフラグを割り当てなければならない。
-*〃*|![](../images/img600.jpg)<br>![not upsetting‑offensive](../images/no-flag.jpg)|このWikipediaのページは、米国における人種差別や民族差別について、よく知られた歴史的に正確な概要を示している。Upsetting-­Offensiveフラグを割り当ててはならない。
-**クエリ：**<br><span class="query">islam</span><br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>ニューヨーク州ニューヨーク<br><br>**ユーザーの意図：**<br>イスラムの宗教に関する情報が知りたい|![](../images/img602.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)|このページの目的は、イスラム教を悪だとする著者の信念を説明すること。不寛容や憎悪を促進するために存在しているように見え、多くの人を不快にする可能性がある。<br><br>この結果にはUpsetting-­Offensiveフラグを割り当てなければならない。
-*〃*|![](../images/img604.jpg)<br>![not upsetting‑offensive](../images/no-flag.jpg)|これは評判の良いサイト上の高品質な記事。イスラム教の主要な信仰と慣習を正確にまとめたものである。<br><br>Upsetting­-Offensiveフラグを割り当ててはならない。
+<div class="examples">
+<div class="example">
+
+**クエリ：**<span class="query">holocaust history</span>  
+**ロケール：**<!-- -->英語（アメリカ）  
+**ユーザーの所在地：**<!-- -->ニューヨーク州ニューヨーク  
+**ユーザーの意図：**<!-- -->ホロコーストに関する歴史的情報を知りたい
+
+<div class="results">
+<div class="result">
+
+![](../images/img593.jpg)  
+![upsetting-offensive](../images/upsetting-offensive.jpg)
+
+ホロコーストは決して起こっていないと他者を説得する方法の議論である。ホロコーストの否定と反ユダヤ主義の直接的な関係のため、多くの人々はこの結果を不快であると感じる。
+
+この結果にはUpsetting­-Offensiveフラグを割り当てなければならない。
+
+</div>
+<div class="result">
+
+![](../images/img593.jpg)  
+![not upsetting‑offensive](../images/no-flag.jpg)
+
+ホロコースト自体が一部の人々にとっては潜在的に動揺するトピックであるが、この結果は事実上正確な歴史的情報源である。加えてこのページは人々に対して憎悪や暴力を促進したり、人種差別を含んだり、生々しい暴力を描写したりすることの為に存在していない。Upsetting­-Offensiveフラグを割り当ててはならない。
+
+</div>
+</div>
+</div>
+<div class="example">
+
+**クエリ：**<span class="query">黒人に対する人種差別</span>  
+**ロケール：**<!-- -->英語（アメリカ）  
+**ユーザーの所在地：**<!-- -->ニューヨーク州ニューヨーク  
+**ユーザーの意図：**<!-- -->黒人への人種差別に関する情報やニュース、他の情報源を探している
+
+<div class="results">
+<div class="result">
+
+![](../images/img598.jpg)  
+![upsetting-offensive](../images/upsetting-offensive.jpg)
+
+このページの目的は、黒人が劣っていると主張することである。誤った科学的研究を示しており、多くの人々がそれを不快であると感じている。この結果にはUpsetting-­Offensiveフラグを割り当てなければならない。
+
+</div>
+<div class="result">
+
+![](../images/img600.jpg)  
+![not upsetting‑offensive](../images/no-flag.jpg)
+
+このWikipediaのページは、米国における人種差別や民族差別について、よく知られた歴史的に正確な概要を示している。Upsetting-­Offensiveフラグを割り当ててはならない。
+
+</div>
+</div>
+</div>
+<div class="example">
+
+**クエリ：**<span class="query">islam</span>  
+**ロケール：**<!-- -->英語（アメリカ）  
+**ユーザーの所在地：**<!-- -->ニューヨーク州ニューヨーク  
+**ユーザーの意図：**<!-- -->イスラムの宗教に関する情報が知りたい
+
+<div class="results">
+<div class="result">
+
+![](../images/img602.jpg)  
+![upsetting-offensive](../images/upsetting-offensive.jpg)
+
+このページの目的は、イスラム教を悪だとする著者の信念を説明すること。不寛容や憎悪を促進するために存在しているように見え、多くの人を不快にする可能性がある。
+
+この結果にはUpsetting-­Offensiveフラグを割り当てなければならない。
+
+</div>
+<div class="result">
+
+![](../images/img604.jpg)  
+![not upsetting‑offensive](../images/no-flag.jpg)
+
+これは評判の良いサイト上の高品質な記事。イスラム教の主要な信仰と慣習を正確にまとめたものである。
+
+Upsetting­-Offensiveフラグを割り当ててはならない。
+
+</div>
+</div>
+</div>
+</div>
 
 ### 使いにくい耐性のあるクエリの設定に必要な評価
 
@@ -223,19 +516,71 @@ In addition, some rating tasks may ask you to identify **Not‑for‑Everyone** 
 
 以下に、不安定な話題の話題に関するユーザーの意図を解釈する方法の例をいくつか紹介する。
 
-クエリ|ユーザーの意図と説明
----|---
-<span class="query">are  women  evil</span><br>英語（アメリカ）|ユーザーはなぜ女性に対する差別があるのか、なぜ「女性は悪い」と言われるのかを理解したい可能性がある。
-<span class="query">women  are  evil</span><br>英語 （アメリカ）|このステートメントの意図は、「女性は悪いのですか？」という質問と同じであると仮定する。ユーザーは、なぜ人々が「女性は悪い」と言うのか理解したいかもしれない。
-<span class="query">did  the  holocaust  happen?</span><br>英語  （アメリカ）|ユーザーは、ホロコーストに関する事実上の正確な情報またはホロコースト拒否の問題に関する情報を必要としている。
-<span class="query">christians  worship  the  devil</span><br>英語  （アメリカ）|ユーザーは、キリスト教徒とキリスト教徒の教会が悪魔をどのように見ているか、そしてキリスト教徒が悪魔を崇拝しているかどうかについての情報を探している。
-<span class="query">racist  whites</span>, <span class="query">racist  blacks</span>, 等<br>英語  （アメリカ）|ユーザーは、クエリで言及された民族に属する人々の人種差別に関する情報を探している。
+- <span class="query">are  women  evil</span>、英語（アメリカ）  
+  - ユーザーはなぜ女性に対する差別があるのか、なぜ「女性は悪い」と言われるのかを理解したい可能性がある。
+- <span class="query">women  are  evil</span>、英語（アメリカ）  
+  - このステートメントの意図は、「女性は悪いのですか？」という質問と同じであると仮定する。ユーザーは、なぜ人々が「女性は悪い」と言うのか理解したいかもしれない。
+- <span class="query">did  the  holocaust  happen?</span>、英語（アメリカ）  
+  - ユーザーは、ホロコーストに関する事実上の正確な情報またはホロコースト拒否の問題に関する情報を必要としている。
+- <span class="query">christians  worship  the  devil</span>、英語（アメリカ）  
+  - ユーザーは、キリスト教徒とキリスト教徒の教会が悪魔をどのように見ているか、そしてキリスト教徒が悪魔を崇拝しているかどうかについての情報を探している。
+- <span class="query">racist  whites</span>、<span class="query">racist  blacks</span>、等、英語（アメリカ）  
+  - ユーザーは、クエリで言及された民族に属する人々の人種差別に関する情報を探している。
 
-ここにいくつかのUpsetting-Offensive tolerant queriesの評価例がある。あなたがユーザーの意図を満たしていても、all upsetting/offensiveな結果にUpsetting-Offensiveフラグを割り当てる必要があることに注意する。
+ここにいくつかのUpsetting-Offensive tolerant queriesの評価例がある。あなたがユーザーの意図を満たしていても、すべてのupsetting/offensiveな結果にUpsetting-Offensiveフラグを割り当てる必要があることに注意する。
 
-クエリとユーザーの意図|結果ブロックとLP、Needs  Met評価、E-A-T評価、フラグ
----|---
-**クエリ：**<br><span class="query">holocaust history</span><br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>ワシントン州シアトル<br><br>**ユーザーの意図：**<br>ホロコーストに関する歴史的な情報を探す<br><br>**Important:** Though there are some upsetting/offensive results on the topic of this query, the query [holocaust history] should not be considered an Upsetting‑Offensive tolerant query.|![](../images/img608.jpg)<br>![needs met scale - fails to meet](../images/failsm.jpg)![page quality scale - lowest - narrow range](../images/lowest-narrow.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)
-*〃*|![](../images/img612.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)![page quality scale - high - narrow range](../images/high-narrow.jpg)<br>![not upsetting‑offensive](../images/no-flag.jpg)
-**クエリ：**<br><span class="query">stormfront.org</span><br><br>**ロケール：**<br>英語（アメリカ）<br><br>**ユーザーの所在地：**<br>ニューヨーク州ニューヨーク<br><br>**ユーザーの意図：**<br>Stormfront.orgのホームページにアクセスしたい|![](../images/img616.jpg)<br>![needs met scale - fully meets](../images/fullym.jpg)![page quality scale - lowest - narrow range](../images/lowest-narrow.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)
-*〃*|![](../images/img620.jpg)<br>![needs met scale - fails to meet](../images/failsm.jpg)![page quality scale - medium - narrow range](../images/medium-narrow.jpg)<br>![not upsetting‑offensive](../images/no-flag.jpg)
+<div class="examples">
+<div class="example">
+
+**クエリ：**<span class="query">holocaust history</span>  
+**ロケール：**<!-- -->英語（アメリカ）  
+**ユーザーの所在地：**<!-- -->ワシントン州シアトル  
+**ユーザーの意図：**<!-- -->ホロコーストに関する歴史的な情報を探す  
+**Important：**<!-- -->Though there are some upsetting/offensive results on the topic of this query, the query <span class="query">holocaust history</span> should not be considered an Upsetting‑Offensive tolerant query.
+
+<div class="results">
+<div class="result">
+
+![](../images/img608.jpg)  
+![needs met scale - fails to meet](../images/failsm.jpg)  
+![page quality scale - lowest - narrow range](../images/lowest-narrow.jpg)  
+![upsetting-offensive](../images/upsetting-offensive.jpg)
+
+</div>
+<div class="result">
+
+![](../images/img612.jpg)  
+![needs met scale - highly meets](../images/hm.jpg)  
+![page quality scale - high - narrow range](../images/high-narrow.jpg)  
+![not upsetting‑offensive](../images/no-flag.jpg)
+
+</div>
+</div>
+</div>
+<div class="example">
+
+**クエリ：**<span class="query">stormfront.org</span>  
+**ロケール：**<!-- -->英語（アメリカ）  
+**ユーザーの所在地：**<!-- -->ニューヨーク州ニューヨーク  
+**ユーザーの意図：**<!-- -->Stormfront.orgのホームページにアクセスしたい
+
+<div class="results">
+<div class="result">
+
+![](../images/img616.jpg)  
+![needs met scale - fully meets](../images/fullym.jpg)  
+![page quality scale - lowest - narrow range](../images/lowest-narrow.jpg)  
+![upsetting-offensive](../images/upsetting-offensive.jpg)
+
+</div>
+<div class="result">
+
+![](../images/img620.jpg)  
+![needs met scale - fails to meet](../images/failsm.jpg)  
+![page quality scale - medium - narrow range](../images/medium-narrow.jpg)  
+![not upsetting‑offensive](../images/no-flag.jpg)
+
+</div>
+</div>
+</div>
+</div>

@@ -15,7 +15,7 @@ PQ評価を行う上で、Webサイトについて深く理解することが必
 **Webサイト**
 :   ページの集合体であり、多くの場合は各ページ間にはハイパーリンクが存在する。個人・企業・政府・その他組織によって作成され、公開されている。有名なものには、Facebook・Wikipedia・Yahoo・YouTube などがある。
 
-  > **注:** このガイドラインでは、「同一の個人・企業が所有し管理するページ群」（例：yahoo.com）をWebサイトとして扱うが、「あるWebサイト内の、独自の目的を持った部門」（例：[Yahoo!ファイナンス](http://finance.yahoo.com/)・[Yahoo!スポーツ](http://sports.yahoo.com/)・[Yahoo!メール](http://mail.yahoo.com/)など）もWebサイトとして扱うこともある。また、Yahoo!ファイナンスやYahoo!スポーツのページをYahoo!に属するページとして扱うこともある。
+  **注：**<!-- -->このガイドラインでは、「同一の個人・企業が所有し管理するページ群」（例：yahoo.com）をWebサイトとして扱うが、「あるWebサイト内の、独自の目的を持った部門」（例：[Yahoo!ファイナンス](http://finance.yahoo.com/)・[Yahoo!スポーツ](http://sports.yahoo.com/)・[Yahoo!メール](http://mail.yahoo.com/)など）もWebサイトとして扱うこともある。また、Yahoo!ファイナンスやYahoo!スポーツのページをYahoo!に属するページとして扱うこともある。
 
 **ホームページ（トップページ）**
 :   Webサイトのメインのページであり、ユーザーがWebサイトを訪問した際にはじめに表示されるページ。Appleなら「[http://www.apple.com](http://www.apple.com)」が、Yahoo!なら「[http://www.yahoo.com](http://www.yahoo.com)」が、Yahoo!ファイナンスなら「[http://finance.yahoo.com](http://finance.yahoo.com)」がホームページである。サブページ内の「フォーム」というリンクやロゴをクリックすることでホームページに行けることが多い。
@@ -26,7 +26,7 @@ PQ評価を行う上で、Webサイトについて深く理解することが必
 **ウェブマスター**
 :   Webサイトを維持・管理する人。
 
-**重要：** 評価者はリンクをクリックし、URLの書き換えを行い、Webサイトを簡単に探し回れるようにならなければならない。サイトの探偵・探検家になろう。
+**重要：**<!-- -->評価者はリンクをクリックし、URLの書き換えを行い、Webサイトを簡単に探し回れるようにならなければならない。サイトの探偵・探検家になろう。
 
 ## 「ページ目的」とは
 
@@ -40,7 +40,7 @@ PQ評価を行う上で、Webサイトについて深く理解することが必
 
 特定の系統が他の系統より、品質が良いということは絶対にない。例えば、エンサイクロペディア系のページが、常にユーモア系のページより品質がいいとは限らない。
 
-**重要：** ページの系統は、「ショッピング」「ニュース」「フォーラム」「動画」「エラーメッセージ」「PDF」「画像」「ゴシップ」「ユーモア」など様々ある。系統はPQ評価とは無関係である。ページの目的を理解して、評価を行っていく。
+**重要：**<!-- -->ページの系統は、「ショッピング」「ニュース」「フォーラム」「動画」「エラーメッセージ」「PDF」「画像」「ゴシップ」「ユーモア」など様々ある。系統はPQ評価とは無関係である。ページの目的を理解して、評価を行っていく。
 
 ユーザーの役に立つ「ページの目的」を以下にまとめる。
 
@@ -55,12 +55,44 @@ PQ評価を行う上で、Webサイトについて深く理解することが必
 
 何を目的としたページであるかを簡潔にまとめた例である。
 
-ページ類型|ページ目的
----|---
-[ニュースサイトのホームページ](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/PQ.2.1.1.jpg)|最近の重要なイベントをユーザーに提供する。
-[商品販売ページ](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/PQ.2.1.2.jpg)|商品情報の掲載、販売。
-[動画ページ](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/PQ.2.1.3.jpg)|ユーザーに動画を提供する。
-[通貨の変換ページ](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/PQ.2.1.4.jpg)|異なる通貨を計算する。
+<div class="examples">
+<div class="example">
+<div class="results">
+<div class="result">
+
+[ニュースサイトのホームページ](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/PQ.2.1.1.jpg)
+
+**ページ目的：**  
+最近の重要なイベントをユーザーに提供する。
+
+</div>
+<div class="result">
+
+[商品販売ページ](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/PQ.2.1.2.jpg)
+
+**ページ目的：**  
+商品情報の掲載、販売。
+
+</div>
+<div class="result">
+
+[動画ページ](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/PQ.2.1.3.jpg)
+
+**ページ目的：**  
+ユーザーに動画を提供する。
+
+</div>
+<div class="result">
+
+[通貨の変換ページ](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/PQ.2.1.4.jpg)
+
+**ページ目的：**  
+異なる通貨を計算する。
+
+</div>
+</div>
+</div>
+</div>
 
 [ページの例（OmNomNomNom）](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/PQ.2.1.7.jpg)：このページも一見、無意味で変わったページに見える。しかし、このページはおもしろさと芸術的表現を共有するための目的があることが分かる。このページ・Webサイトはユーザーに役立つ、善意の目的があるといえる。「[Webサイトについて](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/OmNomNomNomAbout.jpg)」のページの内容は十分ではないが、「[FAQ](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/PQ.2.1.8.jpg)」のページからWebサイトについて十分知ることができる。
 
@@ -89,16 +121,76 @@ YMYLページに関して、Googleの評価基準は厳しくなる。品質の�
 
 The MC also includes the title at the top of the page ([example](https://guidelines.raterhub.com/images/2.2.4mc-title.jpg)). Descriptive MC titles allow users to make informed decisions about what pages to visit. Helpful titles summarize the MC on the page.
 
-ページ種類・目的|MCの範囲（黄色で表示）
----|---
-ニュースサイトホームページ：最近の重要なイベントをユーザーに提供する。|[参考画像](https://guidelines.raterhub.com/images/2.2.1m.jpg)
-ニュース記事ページ：記事の掲載|[参考画像](https://guidelines.raterhub.com/images/2.4.news.MC.jpg)
-商品販売ページ：商品情報の掲載・販売<br>・タブ内に隠された「レビュー」「配送について」「安全性について」などもMC考慮対象になるので注意。|[参考画像](https://guidelines.raterhub.com/images/2.2.4mc.jpg)
-動画ページ：ユーザーに動画を提供する。|[参考画像](https://guidelines.raterhub.com/images/EngineerGuideCatsMC.jpg)
-通貨変換ページ：異なる通貨の計算をする。|[参考画像](https://guidelines.raterhub.com/images/PQ.2.2.6m.jpg)
-ブログの投稿記事ページ：投稿を見せる。|[参考画像](https://guidelines.raterhub.com/images/PQ.2.2.9m.jpg)
-検索エンジンページ：ユーザーがクエリを入力し、検索できるようする。|[参考画像](https://guidelines.raterhub.com/images/PQ.2.2.7m.jpg)
-銀行のログインページ：オンラインバンクの利用許可をする。|[参考画像](https://guidelines.raterhub.com/images/PQ.2.2.8m.jpg)
+<div class="examples">
+<div class="example">
+<div class="results">
+<div class="result">
+
+**ニュースサイトホームページ：**<!-- -->最近の重要なイベントをユーザーに提供する。
+
+[参考画像](https://guidelines.raterhub.com/images/2.2.1m.jpg)  
+（<span style="background-color: yellow">黄色で表示</span>）
+
+</div>
+<div class="result">
+
+**ニュース記事ページ：**<!-- -->記事の掲載
+
+[参考画像](https://guidelines.raterhub.com/images/2.4.news.MC.jpg)  
+（<span style="background-color: yellow">黄色で表示</span>）
+
+</div>
+<div class="result">
+
+**商品販売ページ：**<!-- -->商品情報の掲載・販売・タブ内に隠された「レビュー」「配送について」「安全性について」などもMC考慮対象になるので注意。
+
+[参考画像](https://guidelines.raterhub.com/images/2.2.4mc.jpg)  
+（<span style="background-color: yellow">黄色で表示</span>）
+
+</div>
+<div class="result">
+
+**動画ページ：**<!-- -->ユーザーに動画を提供する。
+
+[参考画像](https://guidelines.raterhub.com/images/EngineerGuideCatsMC.jpg)  
+（<span style="background-color: yellow">黄色で表示</span>）
+
+</div>
+<div class="result">
+
+**通貨変換ページ：**<!-- -->異なる通貨の計算をする。
+
+[参考画像](https://guidelines.raterhub.com/images/PQ.2.2.6m.jpg)  
+（<span style="background-color: yellow">黄色で表示</span>）
+
+</div>
+<div class="result">
+
+**ブログの投稿記事ページ：**<!-- -->投稿を見せる。
+
+[参考画像](https://guidelines.raterhub.com/images/PQ.2.2.9m.jpg)  
+（<span style="background-color: yellow">黄色で表示</span>）
+
+</div>
+<div class="result">
+
+**検索エンジンページ：**<!-- -->ユーザーがクエリを入力し、検索できるようする。
+
+[参考画像](https://guidelines.raterhub.com/images/PQ.2.2.7m.jpg)  
+（<span style="background-color: yellow">黄色で表示</span>）
+
+</div>
+<div class="result">
+
+**銀行のログインページ：**<!-- -->オンラインバンクの利用許可をする。
+
+[参考画像](https://guidelines.raterhub.com/images/PQ.2.2.8m.jpg)  
+（<span style="background-color: yellow">黄色で表示</span>）
+
+</div>
+</div>
+</div>
+</div>
 
 ### SC（補助的コンテンツ）の判別
 
@@ -106,12 +198,44 @@ SCはUX（UX）を向上させるコンテンツを言い、ページの目的�
 
 「MC/Adsではない」部分を探せば、SCを簡単に判別できる。
 
-ページ種類・目的|SCの範囲（青色で表示）
----|---
-ニュース記事ページ：記事の掲載|[参考画像](https://guidelines.raterhub.com/images/2.4.news.SC.jpg)
-商品販売ページ：商品情報の掲載・販売|[参考画像](https://guidelines.raterhub.com/images/PQ.2.2.4s.jpg)
-動画ページ：ユーザーに動画を提供する。|[参考画像](https://guidelines.raterhub.com/images/EngineerGuideCatsSC.jpg)
-ブログの投稿記事ページ：投稿を見せる。|[参考画像](https://guidelines.raterhub.com/images/PQ.2.2.9s.jpg)
+<div class="examples">
+<div class="example">
+<div class="results">
+<div class="result">
+
+**ニュース記事ページ：**<!-- -->記事の掲載
+
+[参考画像](https://guidelines.raterhub.com/images/2.4.news.SC.jpg)  
+（<span style="background-color: #d2d5ec">青色で表示</span>）
+
+</div>
+<div class="result">
+
+**商品販売ページ：**<!-- -->商品情報の掲載・販売
+
+[参考画像](https://guidelines.raterhub.com/images/PQ.2.2.4s.jpg)  
+（<span style="background-color: #d2d5ec">青色で表示</span>）
+
+</div>
+<div class="result">
+
+**動画ページ：**<!-- -->ユーザーに動画を提供する。
+
+[参考画像](https://guidelines.raterhub.com/images/EngineerGuideCatsSC.jpg)  
+（<span style="background-color: #d2d5ec">青色で表示</span>）
+
+</div>
+<div class="result">
+
+**ブログの投稿記事ページ：**<!-- -->投稿を見せる。
+
+[参考画像](https://guidelines.raterhub.com/images/PQ.2.2.9s.jpg)  
+（<span style="background-color: #d2d5ec">青色で表示</span>）
+
+</div>
+</div>
+</div>
+</div>
 
 ### Ads（広告・マネタイズ要素）の班別
 
@@ -123,40 +247,116 @@ UXの向上にAdsは役立つ可能性がある。広告・マネタイズ要素
 
 ウェブマスターは、（[広告ネットワーク](http://en.wikipedia.org/wiki/Advertising_network)に参加するなどして）自分のページに広告を表示することを選択できるが、広告の内容を直接制御できるとは限らない。Googleはページ上に表示される広告全ては、ウェブマスターがその責任を負うとする。
 
-**重要：** Google はあらゆる有償のリンクをAdsとみなす。収益化の類型については[ここ](http://en.wikipedia.org/wiki/Website_monetization)を参照する。
+**重要：**<!-- -->Google はあらゆる有償のリンクをAdsとみなす。収益化の類型については[ここ](http://en.wikipedia.org/wiki/Website_monetization)を参照する。
 
-ページの系統・目的|広告の範囲（赤色で表示）
----|---
-ニュース記事ページ：記事の掲載|[参考画像](https://guidelines.raterhub.com/images/2.4.news.Ads.jpg)
-商品販売ページ：商品情報の掲載・販売|[参考画像](https://guidelines.raterhub.com/images/EngineerGuideCatsAd.jpg)
-動画ページ：ユーザーに動画を提供する。|[参考画像](https://guidelines.raterhub.com/images/PQ.2.2.9a.jpg)
-ブログの投稿記事ページ：投稿を見せる。|[参考画像](https://guidelines.raterhub.com/images/2.2.4-Ads.jpg)
+<div class="examples">
+<div class="example">
+<div class="results">
+<div class="result">
+
+**ニュース記事ページ：**<!-- -->記事の掲載
+
+[参考画像](https://guidelines.raterhub.com/images/2.4.news.Ads.jpg)  
+（<span style="background-color: #ffab91">赤色で表示</span>）
+
+</div>
+<div class="result">
+
+**商品販売ページ：**<!-- -->商品情報の掲載・販売
+
+[参考画像](https://guidelines.raterhub.com/images/EngineerGuideCatsAd.jpg)  
+（<span style="background-color: #ffab91">赤色で表示</span>）
+
+</div>
+<div class="result">
+
+**動画ページ：**<!-- -->ユーザーに動画を提供する。
+
+[参考画像](https://guidelines.raterhub.com/images/PQ.2.2.9a.jpg)  
+（<span style="background-color: #ffab91">赤色で表示</span>）
+
+</div>
+<div class="result">
+
+**ブログの投稿記事ページ：**<!-- -->投稿を見せる。
+
+[参考画像](https://guidelines.raterhub.com/images/2.2.4-Ads.jpg)  
+（<span style="background-color: #ffab91">赤色で表示</span>）
+
+</div>
+</div>
+</div>
+</div>
 
 ### MC/SC/Adsまとめ
 
 以下にまとめを記す。
 
-**MC (主要となるコンテンツ)**
-:   ページの目的を達成するために直接役立つページの一部である。MCはページが存在する理由。MCの品質は、ウェブページのPage Quality評価において非常に大きな役割を果たす。
-
-**SC (補足コンテンツ)**
-:   重要な一部分である。ページの目的をより良く達成するのに役立つ。また、その逆の全体的な経験を損なう可能性がある。
-
-**Ads (広告・収益化)**
-:   多くのページに広告/収益化（広告）が存在する。広告や収益化がなければ、Webサイトを維持して質の高いコンテンツを作成するための費用がかかるため、ウェブページが存在できなくなる可能性がある。広告の有無は、高品質または低品質の評価に影響はない。
+- **MC (主要となるコンテンツ)**  
+ページの目的を達成するために直接役立つページの一部である。MCはページが存在する理由。MCの品質は、ウェブページのPage Quality評価において非常に大きな役割を果たす。
+- **SC (補足コンテンツ)**  
+重要な一部分である。ページの目的をより良く達成するのに役立つ。また、その逆の全体的な経験を損なう可能性がある。
+- **Ads (広告・収益化)**  
+多くのページに広告/収益化（広告）が存在する。広告や収益化がなければ、Webサイトを維持して質の高いコンテンツを作成するための費用がかかるため、ウェブページが存在できなくなる可能性がある。広告の有無は、高品質または低品質の評価に影響はない。
 
 一部のページでは、レビューはMCにみなされることもある。自分自身でページの目的を判断する必要がある。
 
 すべてを細かく分類する必要はなく、MCとAdsを判断できれば、残りは全てSCと分類することができる。
 
-ページの系統・目的|MC/SC/Ads
----|---
-ニュース記事ページ：記事の掲載|[参考画像](https://guidelines.raterhub.com/images/2.4.news.All.jpg)
-商品販売ページ：商品情報の掲載・販売|[参考画像](https://guidelines.raterhub.com/images/PQ.2.2.4all.jpg)
-動画ページ：ユーザーに動画を提供する。|[参考画像](https://guidelines.raterhub.com/images/EngineerGuideCatsAll.jpg)
-ブログの投稿記事ページ：投稿を見せる。|[参考画像](https://guidelines.raterhub.com/images/PQ.2.2.6all.jpg)
-通貨変換ページ：異なる通貨の計算をする。|[参考画像](https://guidelines.raterhub.com/images/PQ.2.2.9all.jpg)
-銀行のログインページ：オンラインバンクの利用許可をする。|[参考画像](https://guidelines.raterhub.com/images/PQ.2.2.8all.jpg)
+<div class="examples">
+<div class="example">
+<div class="results">
+<div class="result">
+
+**ニュース記事ページ：**<!-- -->記事の掲載
+
+[参考画像](https://guidelines.raterhub.com/images/2.4.news.All.jpg)  
+（<span style="background-color: yellow">MC</span>・<span style="background-color: #d2d5ec">SC</span>・<span style="background-color: #ffab91">Ads</span>）
+
+</div>
+<div class="result">
+
+**商品販売ページ：**<!-- -->商品情報の掲載・販売
+
+[参考画像](https://guidelines.raterhub.com/images/PQ.2.2.4all.jpg)  
+（<span style="background-color: yellow">MC</span>・<span style="background-color: #d2d5ec">SC</span>・<span style="background-color: #ffab91">Ads</span>）
+
+</div>
+<div class="result">
+
+**動画ページ：**<!-- -->ユーザーに動画を提供する。
+
+[参考画像](https://guidelines.raterhub.com/images/EngineerGuideCatsAll.jpg)  
+（<span style="background-color: yellow">MC</span>・<span style="background-color: #d2d5ec">SC</span>・<span style="background-color: #ffab91">Ads</span>）
+
+</div>
+<div class="result">
+
+**通貨変換ページ：**<!-- -->異なる通貨の計算をする。
+
+[参考画像](https://guidelines.raterhub.com/images/PQ.2.2.9all.jpg)  
+（<span style="background-color: yellow">MC</span>・<span style="background-color: #d2d5ec">SC</span>・<span style="background-color: #ffab91">Ads</span>）
+
+</div>
+<div class="result">
+
+**ブログの投稿記事ページ：**<!-- -->投稿を見せる。
+
+[参考画像](https://guidelines.raterhub.com/images/PQ.2.2.6all.jpg)  
+（<span style="background-color: yellow">MC</span>・<span style="background-color: #d2d5ec">SC</span>・<span style="background-color: #ffab91">Ads</span>）
+
+</div>
+<div class="result">
+
+**銀行のログインページ：**<!-- -->オンラインバンクの利用許可をする。
+
+[参考画像](https://guidelines.raterhub.com/images/PQ.2.2.8all.jpg)  
+（<span style="background-color: yellow">MC</span>・<span style="background-color: #d2d5ec">SC</span>・<span style="background-color: #ffab91">Ads</span>）
+
+</div>
+</div>
+</div>
+</div>
 
 ## Webサイトの理解
 
@@ -181,15 +381,70 @@ Webサイトのホームページには、普通サイト内の重要ページ�
 複数のホームページ候補が存在する場合がある。
 例えば、[http://finance.yahoo.com/news/category-stocks](http://finance.yahoo.com/news/category-stocks)の場合、[http://finance.yahoo.com](http://finance.yahoo.com)または[http://www.yahoo.com](http://www.yahoo.com)のホームページ候補があり迷うこともある。
 
-**重要：** 複数のホームページ候補がある場合は、情報量を多く提供しているものを自身で判断する。目的はWebページを理解することであり、ホームページを特定することではない。
+**重要：**<!-- -->複数のホームページ候補がある場合は、情報量を多く提供しているものを自身で判断する。目的はWebページを理解することであり、ホームページを特定することではない。
 
 評価対象のページURL、ホームページのURL、ホームページへの誘導の画像を以下に記載している。画像上のリンクからはホームページへの導線が赤色のボックスで表示してある。
 
-評価対象のページURL|ホームページのURL|ホームページへの誘導の画像
----|---|---
-[http://www.williams-sonoma.com<wbr>/products/shun-premier-7-<wbr>piece-knife-block-set](http://www.williams-sonoma.com/products/shun-premier-7-piece-knife-block-set)|[http://www.williams-sonoma.com](http://www.williams-sonoma.com)|[Williams-Sonoma Homepage](http://www.williams-sonoma.com)<br><br>![Williams Sonoma Logo](../images/img17.jpg)<br><br>LP左上のロゴをクリックすると、ホームページに遷移
-[http://answers.yahoo.com<wbr>/question/index;_ylt=<wbr>AnAYEU1fED6ncg1jRCFy30kk5XNG;<wbr>_ylv=3?qid=20091214193523AAQqHQS](http://answers.yahoo.com/question/index;_ylt=AnAYEU1fED6ncg1jRCFy30kk5XNG;_ylv=3?qid=20091214193523AAQqHQS)|[http://answers.yahoo.com](http://answers.yahoo.com)<br><br>この場合のホームページは[http://answers.yahoo.com](http://answers.yahoo.com)を選択する。[http://www.yahoo.com](http://www.yahoo.com)ではない。理由として、ロゴからは[http://answers.yahoo.com](http://answers.yahoo.com)へ転送される。Yahoo!Answerに関する情報量は[http://answers.yahoo.com](http://answers.yahoo.com)に多いため。|[Specific Yahoo Answers Page](https://guidelines.raterhub.com/images/PQexamples.3.1.5.jpg)<br><br>![Yahoo! Answers Logo](../images/img18.jpg)<br><br>LP左上のロゴをクリックすると、ホームページに遷移
-[http://hms.harvard.edu/about-hms/facts-figures](http://hms.harvard.edu/about-hms/facts-figures)|[http://hms.harvard.edu](http://hms.harvard.edu)<br><br>この場合ホームページは[http://hms.harvard.edu](http://hms.harvard.edu)を選択する。[http://www.harvard.edu](http://www.harvard.edu)ではない。理由として、ロゴからは[http://hms.harvard.edu](http://hms.harvard.edu)に転送される。|[Harvard Medical School Facts and Figures Page](https://guidelines.raterhub.com/images/HMS.jpg)<br><br>![Harvard Medical School Logo](../images/img19.jpg)<br><br>LP左上のロゴをクリックすると、ホームページに遷移
+<div class="examples">
+<div class="example">
+<div class="results">
+<div class="result">
+
+**評価対象のページURL：**  
+[http://www.williams-sonoma.com<wbr>/products/shun-premier-7-<wbr>piece-knife-block-set](http://www.williams-sonoma.com/products/shun-premier-7-piece-knife-block-set)
+
+**ホームページのURL：**  
+[http://www.williams-sonoma.com](http://www.williams-sonoma.com)
+
+**ホームページへの誘導の画像：**  
+[Williams-Sonoma Homepage](http://www.williams-sonoma.com)  
+![Williams Sonoma Logo](../images/img17.jpg)  
+LP左上のロゴをクリックすると、ホームページに遷移
+
+</div>
+</div>
+</div>
+<div class="example">
+<div class="results">
+<div class="result">
+
+**評価対象のページURL：**  
+[http://answers.yahoo.com<wbr>/question/index;_ylt=<wbr>AnAYEU1fED6ncg1jRCFy30kk5XNG;<wbr>_ylv=3?qid=20091214193523AAQqHQS](http://answers.yahoo.com/question/index;_ylt=AnAYEU1fED6ncg1jRCFy30kk5XNG;_ylv=3?qid=20091214193523AAQqHQS)
+
+**ホームページのURL：**  
+[http://answers.yahoo.com](http://answers.yahoo.com)
+
+この場合のホームページは[http://answers.yahoo.com](http://answers.yahoo.com)を選択する。[http://www.yahoo.com](http://www.yahoo.com)ではない。理由として、ロゴからは[http://answers.yahoo.com](http://answers.yahoo.com)へ転送される。Yahoo!Answerに関する情報量は[http://answers.yahoo.com](http://answers.yahoo.com)に多いため。
+
+**ホームページへの誘導の画像：**  
+[Specific Yahoo Answers Page](https://guidelines.raterhub.com/images/PQexamples.3.1.5.jpg)  
+![Yahoo! Answers Logo](../images/img18.jpg)  
+LP左上のロゴをクリックすると、ホームページに遷移
+
+</div>
+</div>
+</div>
+<div class="example">
+<div class="results">
+<div class="result">
+
+**評価対象のページURL：**  
+[http://hms.harvard.edu/about-hms/facts-figures](http://hms.harvard.edu/about-hms/facts-figures)
+
+[http://hms.harvard.edu](http://hms.harvard.edu)
+**ホームページのURL：**  
+
+この場合ホームページは[http://hms.harvard.edu](http://hms.harvard.edu)を選択する。[http://www.harvard.edu](http://www.harvard.edu)ではない。理由として、ロゴからは[http://hms.harvard.edu](http://hms.harvard.edu)に転送される。
+
+**ホームページへの誘導の画像：**  
+[Harvard Medical School Facts and Figures Page](https://guidelines.raterhub.com/images/HMS.jpg)  
+![Harvard Medical School Logo](../images/img19.jpg)  
+LP左上のロゴをクリックすると、ホームページに遷移
+
+</div>
+</div>
+</div>
+</div>
 
 ### 「Webサイトの責任者」と「コンテンツ作成者」の見つけ方
 
@@ -286,27 +541,153 @@ Customer reviews can be helpful for assessing the reputation of a store or busin
     - <span class="query">ibm reviews -site:ibm.com</span> ibm.com以外でのIBMに関するレビューを検索
     - <span class="query">"ibm.com" reviews -site:ibm.com</span>: ibm.com以外でのibm.comに関するレビューを検索
 
-    > **注:** 評判の情報を検索するときは、Webサイトまたは会社自身が作成または作成していないソースで探してみる。例えば、IBMは会社の評判情報の独立した情報源とはみなされない。密接に維持されている公式のFacebookやTwitterのページを持っているかもしれない。独立した情報源の特定と利用に関するWikipediaの記事は[ここ](https://en.wikipedia.org/wiki/Wikipedia:Identifying_and_using_independent_sources)を見る。
+    **注：**<!-- -->評判の情報を検索するときは、Webサイトまたは会社自身が作成または作成していないソースで探してみる。例えば、IBMは会社の評判情報の独立した情報源とはみなされない。密接に維持されている公式のFacebookやTwitterのページを持っているかもしれない。独立した情報源の特定と利用に関するWikipediaの記事は[ここ](https://en.wikipedia.org/wiki/Wikipedia:Identifying_and_using_independent_sources)を見る。
 
 3. Webサイトについて書いた記事、レビュー、フォーラム投稿、ディスカッションなどを探す。企業にとっては、評判情報やレビューには多くの情報源がある。いくつかの例を出すと：[Yelp](https://guidelines.raterhub.com/images/PQ.ReputationResearchExampleWebsite1.jpg)、[Better Business Bureau](https://guidelines.raterhub.com/images/PQ.ReputationResearchExampleWebsite3.jpg)（ビジネスとチャリティーの信頼性に重点を置く非営利組織）、[Amazon](https://guidelines.raterhub.com/images/PQ.ReputationResearchExample4.jpg)、[Googleショッピング](https://guidelines.raterhub.com/images/PQ.ReputationResearchExample5.jpg)は 特定のサイトを検索してレビューを探すことができる。例えば、<span class="query">ibm site:bbb.org</span>または<span class="query">"ibm.com" site：bbb.org</span>を試すことができる。
 
     For content creators, look for biographical data and other sources that are not written by the individual.
 
-    > **注:** Better Business Bureau（BBB）のWebサイトには高い評価が表示されることがある。ビジネスにはデータが少ないからである。ビジネスが肯定的な評判を持っていることにはならない。しかし、BBBの格付けが非常に低いのは、通常、複数の未解決の苦情の結果である。BBBサイトの非常に低い評価であった否定的な評判の証拠として扱っていく。
+    **注：**<!-- -->Better Business Bureau（BBB）のWebサイトには高い評価が表示されることがある。ビジネスにはデータが少ないからである。ビジネスが肯定的な評判を持っていることにはならない。しかし、BBBの格付けが非常に低いのは、通常、複数の未解決の苦情の結果である。BBBサイトの非常に低い評価であった否定的な評判の証拠として扱っていく。
 
 4. 有名なニュースサイト、Wikipedia記事またはニュース記事を探す。Wikipediaは、企業や組織を知る良い情報源となる。<span class="query">ibm site:en.wikipedia.org</span>または<span class="query">"ibm.com" site:en.wikipedia.org</span>を試してみる。賞やその他の認定書や論争や問題など、評判に関する情報も含まれている。一部のWikipediaの記事には、コンテンツの一部に意見の不一致がある、またはコンテンツが古くなっている可能性があることを警告するメッセージが表示される。これについては追加の調査が必要であることを示唆している可能性がある。
 
 以下に評判に関する例をまとめた。
 
 サイト|サイトの評判|説明
----|---|---
-[信用情報紹介サイト](https://guidelines.raterhub.com/images/PQ_AnnualCreditReport.jpg)|[site:検索結果 <span class="query">annualcreditreport.com ‑site:annualcreditreport.com</span>](https://guidelines.raterhub.com/images/SearchResultsForannualcreditreport.comminussiteannualcreditreport.com.jpg)<br>[Wikipedia記事](https://guidelines.raterhub.com/images/PQ_AnnualCreditReport_Wikipedia.jpg)<br>[著名ニュースサイト関連記事](https://guidelines.raterhub.com/images/PQ_annualcreditreport_WSJ.jpg)|**良い評判**<br>米国のユーザーは、社会保険番号を提供され、Webサイトで無料の信用報告書を入手することができる。Wikipediaの記事では、「同サイトは、無料で信用情報を取得できる、国家後任の唯一の情報源である」と述べている。<br>**注:** ほぼすべてのウェブサイトには顧客サービスに関する苦情があるので、評判調査のさまざまな情報源やレビューを見ていくのが重要である。
-[病院のサイト](https://guidelines.raterhub.com/images/PQ_Cleveland_Clinic.jpg)|[site:検索結果 <span class="query">clevelandclinic.org</span>](https://guidelines.raterhub.com/images/SearchResultsforclevelandclinic.org.jpg)<br>[Wikipedia記事](https://guidelines.raterhub.com/images/PQ_ClevelandClinic_Wikipedia.jpg)<br>[メディア記事](https://guidelines.raterhub.com/images/PQ_ClevelandClinic_USNews.jpg)|**良い評判**<br>Wikipediaによると、このWebサイトを運営する病院はUS News＆World Reportにより「米国の4大病院の1つ」と評価されている。US News＆World Reportの記事にも米国最良の病院と記載がある。ユーザーはこのWebサイト上の医薬情報を信頼できる。
-[新聞社のサイト](https://guidelines.raterhub.com/images/PQ.3.5.8.jpg)|[site:検索結果 <span class="query">csmonitor.com ‑site:csmonitor.com</span>](https://guidelines.raterhub.com/images/PQ.3.5.8.ReputationResearchQuery1.jpg)<br>[Wikipedia記事](https://guidelines.raterhub.com/images/RG3.3.5.8.1.jpg)|**良い評判**<br>The Christian Science Monitorの新聞についてのWikipedia記事のハイライト部分に注目すると、新聞がピューリッツァー賞の7つの賞を受賞したことを示している。この情報から、csmonitor.comのウェブサイトは肯定的な評価を得ていると考えられる。
-[Linuxのレポジトリサイト](https://guidelines.raterhub.com/images/kerneldotorg.jpg)|[site:検索結果 <span class="query">kernel.org ‑site:kernel.org</span>](https://guidelines.raterhub.com/images/PQ_Examples_site-kernel.org_Google_Search.jpg)<br>[Wikipedia article about kernel.org](https://guidelines.raterhub.com/images/kernel.org_wikipedia.jpg)|**良い評判**<br>Wikipediaの記事では、「Kernel.orgはLinuxカーネルのソースコードの、メインレポジトリである。同Webサイトからは全バージョンのソースコードをダウンロード可能で、Google、Androidなどの多くのプロジェクトもホストしている。Webサイトの目的はLinuxカーネルの開発者・維持者のためにレポジトリをホスティングする事である。」
-[通販サイト①](https://guidelines.raterhub.com/images/domeclimber.com.jpg)|[評判の検索結果](https://guidelines.raterhub.com/images/searchreusltsfordomeclimber.com_site_bbb.org.jpg)<br>[レビューの検索結果](https://guidelines.raterhub.com/images/SearchResultsDomeClimber.comReviews.jpg)<br>[BBBでの評判](https://guidelines.raterhub.com/images/DomeClimberBBBReview.jpg)<br>[TrustLinkでの悪評](https://guidelines.raterhub.com/images/TrustLinkDomeClimberNegativeReviews.jpg)<br>[否定的なレビュー](https://guidelines.raterhub.com/images/DupedByDomeClimberArticle.jpg)|**極めて悪い評判**<br>このビジネスのBBBレーティングはFである。（つまり、BBBが指定する最低レーティング）。また、金融詐欺に関するニュース記事がある。ユーザーがお金を送っていても、何も受け取っていないと言われる。告発のWebサイトやレビューが存在する。
-[通販サイト②](https://guidelines.raterhub.com/images/RG3_3.5-40.jpg)|[評判の検索結果](https://guidelines.raterhub.com/images/SearchResultsfordecormyeyes.comminussitedecormyeyes.com.jpg)<br>[BBBのページ](https://guidelines.raterhub.com/images/PQ.3.5.5.jpg)<br>[Wikipedia記事](https://guidelines.raterhub.com/images/PQ_DecorMyEyes_Wikipedia.jpg)<br>[ニューヨークタイムズ記事](https://guidelines.raterhub.com/images/PQ_decormyeyes_NYTimes.jpg)|**極めて悪い評判**<br>このWebサイトは、身体を脅かすような犯罪行為を行っている。
-[傷痍軍人の支援機関](https://guidelines.raterhub.com/images/PQ.3.5.10.jpg)|[評判の検索結果](https://guidelines.raterhub.com/images/PQ.3.5.10.ReputationResearchQuery2.jpg)<br>[否定的なレビュー①](https://guidelines.raterhub.com/images/PQ.3.5.10.ReputationInformation1.jpg)<br>[否定的なレビュー②](https://guidelines.raterhub.com/images/PQ.3.5.10.ReputationInformation2.jpg)<br>[否定的なレビュー③](https://guidelines.raterhub.com/images/PQ.3.5.10.ReputationInformation3.jpg)<br>[否定的なレビュー④](https://guidelines.raterhub.com/images/PQ.3.5.10.ReputationInformation4.jpg)|**極めて悪い評判**<br>ニュースサイトや慈善団体のウォッチドッグサイトには、詐欺や財務上の誤った取り扱いをしているという記述が多く。否定的な記事が多くあがっている。
+
+<div class="examples">
+<div class="example">
+<div class="results">
+<div class="result">
+
+**サイト：**  
+[信用情報紹介サイト](https://guidelines.raterhub.com/images/PQ_AnnualCreditReport.jpg)
+
+**サイトの評判：**  
+[site:検索結果 <span class="query">annualcreditreport.com ‑site:annualcreditreport.com</span>](https://guidelines.raterhub.com/images/SearchResultsForannualcreditreport.comminussiteannualcreditreport.com.jpg)  
+[Wikipedia記事](https://guidelines.raterhub.com/images/PQ_AnnualCreditReport_Wikipedia.jpg)  
+[著名ニュースサイト関連記事](https://guidelines.raterhub.com/images/PQ_annualcreditreport_WSJ.jpg)
+
+**説明：**  
+**良い評判：**<!-- -->米国のユーザーは、社会保険番号を提供され、Webサイトで無料の信用報告書を入手することができる。Wikipediaの記事では、「同サイトは、無料で信用情報を取得できる、国家後任の唯一の情報源である」と述べている。
+
+**注：**<!-- -->ほぼすべてのウェブサイトには顧客サービスに関する苦情があるので、評判調査のさまざまな情報源やレビューを見ていくのが重要である。
+
+</div>
+</div>
+</div>
+<div class="example">
+<div class="results">
+<div class="result">
+
+**サイト：**  
+[病院のサイト](https://guidelines.raterhub.com/images/PQ_Cleveland_Clinic.jpg)
+
+**サイトの評判：**  
+[site:検索結果 <span class="query">clevelandclinic.org</span>](https://guidelines.raterhub.com/images/SearchResultsforclevelandclinic.org.jpg)  
+[Wikipedia記事](https://guidelines.raterhub.com/images/PQ_ClevelandClinic_Wikipedia.jpg)  
+[メディア記事](https://guidelines.raterhub.com/images/PQ_ClevelandClinic_USNews.jpg)
+
+**説明：**  
+**良い評判：**<!-- -->Wikipediaによると、このWebサイトを運営する病院はUS News＆World Reportにより「米国の4大病院の1つ」と評価されている。US News＆World Reportの記事にも米国最良の病院と記載がある。ユーザーはこのWebサイト上の医薬情報を信頼できる。
+
+</div>
+</div>
+</div>
+<div class="example">
+<div class="results">
+<div class="result">
+
+**サイト：**  
+[新聞社のサイト](https://guidelines.raterhub.com/images/PQ.3.5.8.jpg)
+
+**サイトの評判：**  
+[site:検索結果 <span class="query">csmonitor.com ‑site:csmonitor.com</span>](https://guidelines.raterhub.com/images/PQ.3.5.8.ReputationResearchQuery1.jpg)  
+[Wikipedia記事](https://guidelines.raterhub.com/images/RG3.3.5.8.1.jpg)
+
+**説明：**  
+**良い評判：**<!-- -->The Christian Science Monitorの新聞についてのWikipedia記事のハイライト部分に注目すると、新聞がピューリッツァー賞の7つの賞を受賞したことを示している。この情報から、csmonitor.comのウェブサイトは肯定的な評価を得ていると考えられる。
+
+</div>
+</div>
+</div>
+<div class="example">
+<div class="results">
+<div class="result">
+
+**サイト：**  
+[Linuxのレポジトリサイト](https://guidelines.raterhub.com/images/kerneldotorg.jpg)
+
+**サイトの評判：**  
+[site:検索結果 <span class="query">kernel.org ‑site:kernel.org</span>](https://guidelines.raterhub.com/images/PQ_Examples_site-kernel.org_Google_Search.jpg)  
+[Wikipedia article about kernel.org](https://guidelines.raterhub.com/images/kernel.org_wikipedia.jpg)
+
+**説明：**  
+**良い評判：**<!-- -->Wikipediaの記事では、「Kernel.orgはLinuxカーネルのソースコードの、メインレポジトリである。同Webサイトからは全バージョンのソースコードをダウンロード可能で、Google、Androidなどの多くのプロジェクトもホストしている。Webサイトの目的はLinuxカーネルの開発者・維持者のためにレポジトリをホスティングする事である。」
+
+</div>
+</div>
+</div>
+<div class="example">
+<div class="results">
+<div class="result">
+
+**サイト：**  
+[通販サイト①](https://guidelines.raterhub.com/images/domeclimber.com.jpg)
+
+**サイトの評判：**  
+[評判の検索結果](https://guidelines.raterhub.com/images/searchreusltsfordomeclimber.com_site_bbb.org.jpg)  
+[レビューの検索結果](https://guidelines.raterhub.com/images/SearchResultsDomeClimber.comReviews.jpg)  
+[BBBでの評判](https://guidelines.raterhub.com/images/DomeClimberBBBReview.jpg)  
+[TrustLinkでの悪評](https://guidelines.raterhub.com/images/TrustLinkDomeClimberNegativeReviews.jpg)  
+[否定的なレビュー](https://guidelines.raterhub.com/images/DupedByDomeClimberArticle.jpg)
+
+**説明：**  
+**極めて悪い評判：**<!-- -->このビジネスのBBBレーティングはFである。（つまり、BBBが指定する最低レーティング）。また、金融詐欺に関するニュース記事がある。ユーザーがお金を送っていても、何も受け取っていないと言われる。告発のWebサイトやレビューが存在する。
+
+</div>
+</div>
+</div>
+<div class="example">
+<div class="results">
+<div class="result">
+
+**サイト：**  
+[通販サイト②](https://guidelines.raterhub.com/images/RG3_3.5-40.jpg)
+
+**サイトの評判：**  
+[評判の検索結果](https://guidelines.raterhub.com/images/SearchResultsfordecormyeyes.comminussitedecormyeyes.com.jpg)  
+[BBBのページ](https://guidelines.raterhub.com/images/PQ.3.5.5.jpg)  
+[Wikipedia記事](https://guidelines.raterhub.com/images/PQ_DecorMyEyes_Wikipedia.jpg)  
+[ニューヨークタイムズ記事](https://guidelines.raterhub.com/images/PQ_decormyeyes_NYTimes.jpg)
+
+**説明：**  
+**極めて悪い評判：**<!-- -->このWebサイトは、身体を脅かすような犯罪行為を行っている。
+
+</div>
+</div>
+</div>
+<div class="example">
+<div class="results">
+<div class="result">
+
+**サイト：**  
+[傷痍軍人の支援機関](https://guidelines.raterhub.com/images/PQ.3.5.10.jpg)
+
+**サイトの評判：**  
+[評判の検索結果](https://guidelines.raterhub.com/images/PQ.3.5.10.ReputationResearchQuery2.jpg)  
+[否定的なレビュー①](https://guidelines.raterhub.com/images/PQ.3.5.10.ReputationInformation1.jpg)  
+[否定的なレビュー②](https://guidelines.raterhub.com/images/PQ.3.5.10.ReputationInformation2.jpg)  
+[否定的なレビュー③](https://guidelines.raterhub.com/images/PQ.3.5.10.ReputationInformation3.jpg)  
+[否定的なレビュー④](https://guidelines.raterhub.com/images/PQ.3.5.10.ReputationInformation4.jpg)
+
+**説明：**  
+**極めて悪い評判：**<!-- -->ニュースサイトや慈善団体のウォッチドッグサイトには、詐欺や財務上の誤った取り扱いをしているという記述が多く。否定的な記事が多くあがっている。
+
+</div>
+</div>
+</div>
+</div>
 
 ### 評判が見つからなかった場合の対処法
 

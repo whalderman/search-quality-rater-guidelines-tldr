@@ -12,7 +12,7 @@ A **URL** is a character string that your web browser uses to "find" and display
 
 A **website** or **site** is a group of World Wide Web pages usually containing hyperlinks to each other and made available online by an individual, company, educational institution, government, or organization. Popular websites include Facebook, Wikipedia, Yahoo, YouTube, etc.
 
-> Note: In these guidelines, we will use the word "website" to refer to a collection of pages owned and controlled by a single entity (individual, business, etc.). But we will also use "website" to refer to major "independent" sections (or hosts) of some websites that were created to achieve separate purposes. For example, the Yahoo website is organized into different sections (or hosts), such as Yahoo Finance (finance.yahoo.com), Yahoo Mail (mail.yahoo.com), Yahoo Sports (sports.yahoo.com), etc. Each of these has its own purpose. It's OK to refer to each of these sections as a website; for example, the Yahoo Finance website and the Yahoo Sports website. You may also refer to pages on Yahoo Finance or Yahoo Sports as belonging to the Yahoo website.
+*Note: In these guidelines, we will use the word "website" to refer to a collection of pages owned and controlled by a single entity (individual, business, etc.). But we will also use "website" to refer to major "independent" sections (or hosts) of some websites that were created to achieve separate purposes. For example, the Yahoo website is organized into different sections (or hosts), such as Yahoo Finance (finance.yahoo.com), Yahoo Mail (mail.yahoo.com), Yahoo Sports (sports.yahoo.com), etc. Each of these has its own purpose. It's OK to refer to each of these sections as a website; for example, the Yahoo Finance website and the Yahoo Sports website. You may also refer to pages on Yahoo Finance or Yahoo Sports as belonging to the Yahoo website.*
 
 A **homepage** of a website is the main page of the site. It is usually the first page that users see when the site loads. For example, [http://www.apple.com](http://www.apple.com) is the homepage of the Apple site, [http://www.yahoo.com](http://www.yahoo.com) is the homepage of the Yahoo company site, and [http://finance.yahoo.com](http://finance.yahoo.com) is the homepage of Yahoo Finance. You can usually find the homepage of a website by clicking on a "home" link or logo link on subpages of a website.
 
@@ -49,12 +49,44 @@ Common helpful or beneficial page purposes include (but are not limited to):
 
 Here are a few examples where it is easy to understand the purpose of the page:
 
-Type of Page|Purpose of the Page
----|---
-[News website homepage](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/PQ.2.1.1.jpg)|To inform users about recent or important events.
-[Shopping page](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/PQ.2.1.2.jpg)|To sell or give information about the product.
-[Video page](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/PQ.2.1.3.jpg)|To share a cute video of a cat.
-[Currency converter page](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/PQ.2.1.4.jpg)|To calculate equivalent amounts in different currencies.
+<div class="examples">
+<div class="example">
+<div class="results">
+<div class="result">
+
+[News website homepage](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/PQ.2.1.1.jpg)
+
+**Purpose:**  
+To inform users about recent or important events.
+
+</div>
+<div class="result">
+
+[Shopping page](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/PQ.2.1.2.jpg)
+
+**Purpose:**  
+To sell or give information about the product.
+
+</div>
+<div class="result">
+
+[Video page](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/PQ.2.1.3.jpg)
+
+**Purpose:**  
+To share a cute video of a cat.
+
+</div>
+<div class="result">
+
+[Currency converter page](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/PQ.2.1.4.jpg)
+
+**Purpose:**  
+To calculate equivalent amounts in different currencies.
+
+</div>
+</div>
+</div>
+</div>
 
 [Here is an example (OmNomNomNom Page)](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/PQ.2.1.7.jpg) of a helpful page where the purpose of the page is not as obvious. At first glance, this page may seem pointless or strange. However, it is a page from a humorous site that encourages users to post photos with mouths drawn on them. The purpose of the page is humor or artistic expression. This page has a helpful or beneficial purpose. Even though the [About](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/OmNomNomNomAbout.jpg) page on this website is not very helpful, the website explains itself on its [FAQ](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/PQ.2.1.8.jpg) page.
 
@@ -84,16 +116,76 @@ Main Content is any part of the page that directly helps the page achieve its pu
 
 The MC also includes the title at the top of the page ([example](https://guidelines.raterhub.com/images/2.2.4mc-title.jpg)). Descriptive MC titles allow users to make informed decisions about what pages to visit. Helpful titles summarize the MC on the page.
 
-Type of Page and Purpose|MC Highlighted in Yellow
----|---
-News website homepage: the purpose is to inform users about recent or important events.|[MC - News Homepage](https://guidelines.raterhub.com/images/2.2.1m.jpg)|
-News article page: the purpose is to communicate information about an event or news topic.|[MC - News Article](https://guidelines.raterhub.com/images/2.4.news.MC.jpg)|
-Store product page: the purpose is to sell or give information about the product. *Content behind the Reviews, Shipping, and Safety Information tabs are considered to be part of the MC.*|[MC - Shopping Page](https://guidelines.raterhub.com/images/2.2.4mc.jpg)|
-Video page: the purpose is to share a video about cats.|[MC - Video Page](https://guidelines.raterhub.com/images/EngineerGuideCatsMC.jpg)
-Currency converter page: the purpose is to calculate equivalent amounts in different currencies.|[MC - Currency Converter](https://guidelines.raterhub.com/images/PQ.2.2.6m.jpg)
-Blog post page: the purpose is to share music used on a TV show.|[MC - Blog Post Page](https://guidelines.raterhub.com/images/PQ.2.2.9m.jpg)
-Search engine homepage: the purpose is to allow users to enter a query and search the Internet.|[MC - Search Engine Homepage](https://guidelines.raterhub.com/images/PQ.2.2.7m.jpg)
-Bank login page: the purpose is to allow users to log in to bank online.|[MC - Bank Login Page](https://guidelines.raterhub.com/images/PQ.2.2.8m.jpg)
+<div class="examples">
+<div class="example">
+<div class="results">
+<div class="result">
+
+**News website homepage:** the purpose is to inform users about recent or important events.
+
+[MC - News Homepage](https://guidelines.raterhub.com/images/2.2.1m.jpg)  
+(<span style="background-color: yellow">highlighted in yellow</span>)
+
+</div>
+<div class="result">
+
+**News article page:** the purpose is to communicate information about an event or news topic.
+
+[MC - News Article](https://guidelines.raterhub.com/images/2.4.news.MC.jpg)  
+(<span style="background-color: yellow">highlighted in yellow</span>)
+
+</div>
+<div class="result">
+
+**Store product page:** the purpose is to sell or give information about the product. *Content behind the Reviews, Shipping, and Safety Information tabs are considered to be part of the MC.*
+
+[MC - Shopping Page](https://guidelines.raterhub.com/images/2.2.4mc.jpg)  
+(<span style="background-color: yellow">highlighted in yellow</span>)
+
+</div>
+<div class="result">
+
+**Video page:** the purpose is to share a video about cats.
+
+[MC - Video Page](https://guidelines.raterhub.com/images/EngineerGuideCatsMC.jpg)  
+(<span style="background-color: yellow">highlighted in yellow</span>)
+
+</div>
+<div class="result">
+
+**Currency converter page:** the purpose is to calculate equivalent amounts in different currencies.
+
+[MC - Currency Converter](https://guidelines.raterhub.com/images/PQ.2.2.6m.jpg)  
+(<span style="background-color: yellow">highlighted in yellow</span>)
+
+</div>
+<div class="result">
+
+**Blog post page:** the purpose is to share music used on a TV show.
+
+[MC - Blog Post Page](https://guidelines.raterhub.com/images/PQ.2.2.9m.jpg)  
+(<span style="background-color: yellow">highlighted in yellow</span>)
+
+</div>
+<div class="result">
+
+**Search engine homepage:** the purpose is to allow users to enter a query and search the Internet.
+
+[MC - Search Engine Homepage](https://guidelines.raterhub.com/images/PQ.2.2.7m.jpg)  
+(<span style="background-color: yellow">highlighted in yellow</span>)
+
+</div>
+<div class="result">
+
+**Bank login page:** the purpose is to allow users to log in to bank online.
+
+[MC - Bank Login Page](https://guidelines.raterhub.com/images/PQ.2.2.8m.jpg)  
+(<span style="background-color: yellow">highlighted in yellow</span>)
+
+</div>
+</div>
+</div>
+</div>
 
 ### Identifying the Supplementary Content (SC)
 
@@ -101,12 +193,44 @@ Supplementary Content contributes to a good user experience on the page, but doe
 
 Sometimes the easiest way to identify SC is to look for the parts of the page that *are not* MC or Ads.
 
-Type of Page and Purpose|SC Highlighted in Blue
----|---
-News article page: the purpose is to communicate information about an event or news topic.|[SC - News Article](https://guidelines.raterhub.com/images/2.4.news.SC.jpg)
-Store product page: the purpose is to sell or give information about the product.|[SC - Shopping Page](https://guidelines.raterhub.com/images/PQ.2.2.4s.jpg)
-Video page: the purpose is to share a video about cats.|[SC - Video Page](https://guidelines.raterhub.com/images/EngineerGuideCatsSC.jpg)
-Blog post page: the purpose is to share music used on a TV show.|[SC - Blog Post Page](https://guidelines.raterhub.com/images/PQ.2.2.9s.jpg)
+<div class="examples">
+<div class="example">
+<div class="results">
+<div class="result">
+
+**News article page:** the purpose is to communicate information about an event or news topic.
+
+[SC - News Article](https://guidelines.raterhub.com/images/2.4.news.SC.jpg)  
+(<span style="background-color: #d2d5ec">highlighted in blue</span>)
+
+</div>
+<div class="result">
+
+**Store product page:** the purpose is to sell or give information about the product.
+
+[SC - Shopping Page](https://guidelines.raterhub.com/images/PQ.2.2.4s.jpg)  
+(<span style="background-color: #d2d5ec">highlighted in blue</span>)
+
+</div>
+<div class="result">
+
+**Video page:** the purpose is to share a video about cats.
+
+[SC - Video Page](https://guidelines.raterhub.com/images/EngineerGuideCatsSC.jpg)  
+(<span style="background-color: #d2d5ec">highlighted in blue</span>)
+
+</div>
+<div class="result">
+
+**Blog post page:** the purpose is to share music used on a TV show.
+
+[SC - Blog Post Page](https://guidelines.raterhub.com/images/PQ.2.2.9s.jpg)  
+(<span style="background-color: #d2d5ec">highlighted in blue</span>)
+
+</div>
+</div>
+</div>
+</div>
 
 ### Identifying Advertisements/Monetization (Ads)
 
@@ -120,12 +244,44 @@ Webmasters can choose to display Ads on their page (such as by joining an [adver
 
 **Important:** For the purpose of this guideline, we will consider monetized links of any type to be "Ads." See [here](http://en.wikipedia.org/wiki/Website_monetization) for different types of website monetization.
 
-Type of Page and Purpose|Ads Highlighted in Red
----|---
-News article page: the purpose is to communicate information about an event or news topic.|[Ads - News Article](https://guidelines.raterhub.com/images/2.4.news.Ads.jpg)
-Video page: the purpose is to share a video about cats.|[Ads - Video Page](https://guidelines.raterhub.com/images/EngineerGuideCatsAd.jpg)
-Blog post page: the purpose is to share music used on a TV show.|[Ads - Blog Post Page](https://guidelines.raterhub.com/images/PQ.2.2.9a.jpg)
-Store product page: the purpose is to sell or give information about the product.|[No ads – Shopping Page](https://guidelines.raterhub.com/images/2.2.4-Ads.jpg)
+<div class="examples">
+<div class="example">
+<div class="results">
+<div class="result">
+
+**News article page:** the purpose is to communicate information about an event or news topic.
+
+[Ads - News Article](https://guidelines.raterhub.com/images/2.4.news.Ads.jpg)  
+(<span style="background-color: #ffab91">highlighted in red</span>)
+
+</div>
+<div class="result">
+
+**Video page:** the purpose is to share a video about cats.
+
+[Ads - Video Page](https://guidelines.raterhub.com/images/EngineerGuideCatsAd.jpg)  
+(<span style="background-color: #ffab91">highlighted in red</span>)
+
+</div>
+<div class="result">
+
+**Blog post page:** the purpose is to share music used on a TV show.
+
+[Ads - Blog Post Page](https://guidelines.raterhub.com/images/PQ.2.2.9a.jpg)  
+(<span style="background-color: #ffab91">highlighted in red</span>)
+
+</div>
+<div class="result">
+
+**Store product page:** the purpose is to sell or give information about the product.
+
+[No ads – Shopping Page](https://guidelines.raterhub.com/images/2.2.4-Ads.jpg)  
+(<span style="background-color: #ffab91">highlighted in red</span>)
+
+</div>
+</div>
+</div>
+</div>
 
 ### Summary of the Parts of the Page
 
@@ -139,14 +295,60 @@ On some pages, reviews may be considered MC, and on other pages they may be cons
 
 Do not worry too much about identifying every little part of the page. Think about which parts of the page are the MC. Next, look for the Ads. Anything left over can be considered SC.
 
-Type of Page and Purpose|MC, SC, and Ads Highlighted
----|---
-News article page: the purpose is to communicate information about an event or news topic.|[Summary - News Article](https://guidelines.raterhub.com/images/2.4.news.All.jpg)
-Store product page: the purpose is to sell or give information about the product.|[Summary - Shopping Page](https://guidelines.raterhub.com/images/PQ.2.2.4all.jpg)
-Video page: the purpose is to share a video about cats.|[Summary - Video Page](https://guidelines.raterhub.com/images/EngineerGuideCatsAll.jpg)
-Currency converter page: the purpose is to calculate equivalent amounts in different currencies.|[Summary - Currency Converter](https://guidelines.raterhub.com/images/PQ.2.2.6all.jpg)
-Blog post page: the purpose is to share music used on a TV show.|[Summary - Blog Post Page](https://guidelines.raterhub.com/images/PQ.2.2.9all.jpg)
-Bank login page: the purpose is to allow users to log in to bank online.|[Summary - Bank Login Page](https://guidelines.raterhub.com/images/PQ.2.2.8all.jpg)
+<div class="examples">
+<div class="example">
+<div class="results">
+<div class="result">
+
+**News article page:** the purpose is to communicate information about an event or news topic.
+
+[Summary - News Article](https://guidelines.raterhub.com/images/2.4.news.All.jpg)  
+(<span style="background-color: yellow">MC</span>, <span style="background-color: #d2d5ec">SC</span>, and <span style="background-color: #ffab91">Ads</span> highlighted)
+
+</div>
+<div class="result">
+
+**Store product page:** the purpose is to sell or give information about the product.
+
+[Summary - Shopping Page](https://guidelines.raterhub.com/images/PQ.2.2.4all.jpg)  
+(<span style="background-color: yellow">MC</span>, <span style="background-color: #d2d5ec">SC</span>, and <span style="background-color: #ffab91">Ads</span> highlighted)
+
+</div>
+<div class="result">
+
+**Video page:** the purpose is to share a video about cats.
+
+[Summary - Video Page](https://guidelines.raterhub.com/images/EngineerGuideCatsAll.jpg)  
+(<span style="background-color: yellow">MC</span>, <span style="background-color: #d2d5ec">SC</span>, and <span style="background-color: #ffab91">Ads</span> highlighted)
+
+</div>
+<div class="result">
+
+**Currency converter page:** the purpose is to calculate equivalent amounts in different currencies.
+
+[Summary - Currency Converter](https://guidelines.raterhub.com/images/PQ.2.2.6all.jpg)  
+(<span style="background-color: yellow">MC</span>, <span style="background-color: #d2d5ec">SC</span>, and <span style="background-color: #ffab91">Ads</span> highlighted)
+
+</div>
+<div class="result">
+
+**Blog post page:** the purpose is to share music used on a TV show.
+
+[Summary - Blog Post Page](https://guidelines.raterhub.com/images/PQ.2.2.9all.jpg)  
+(<span style="background-color: yellow">MC</span>, <span style="background-color: #d2d5ec">SC</span>, and <span style="background-color: #ffab91">Ads</span> highlighted)
+
+</div>
+<div class="result">
+
+**Bank login page:** the purpose is to allow users to log in to bank online.
+
+[Summary - Bank Login Page](https://guidelines.raterhub.com/images/PQ.2.2.8all.jpg)  
+(<span style="background-color: yellow">MC</span>, <span style="background-color: #d2d5ec">SC</span>, and <span style="background-color: #ffab91">Ads</span> highlighted)
+
+</div>
+</div>
+</div>
+</div>
 
 ## Understanding the Website
 
@@ -174,11 +376,66 @@ Occasionally, your rating task will include a URL for which there are two or mor
 
 In the following examples, we have included the URL of the page to be evaluated in the rating task, as well as the URL of its associated homepage. We have also included an image that shows where to click on the landing page to navigate to the homepage. In the image, you will see a red box around the link or logo you would click to navigate to the homepage.
 
-URL of the Task Page|Homepage of the Website|Image that shows where to click to get to the homepage
----|---|---
-[http://www.williams-sonoma.com<wbr>/products/shun-premier-7-<wbr>piece-knife-block-set](http://www.williams-sonoma.com/products/shun-premier-7-piece-knife-block-set)|[http://www.williams-sonoma.com](http://www.williams-sonoma.com)|[Williams-Sonoma Homepage](http://www.williams-sonoma.com)<br><br>![Williams Sonoma Logo](../images/img17.jpg)<br><br>This "WILLIAMS-SONOMA" logo shown in the upper center of the page is clickable and takes users to the homepage of the website.
-[http://answers.yahoo.com<wbr>/question/index;_ylt=<wbr>AnAYEU1fED6ncg1jRCFy30kk5XNG;<wbr>_ylv=3?qid=20091214193523AAQqHQS](http://answers.yahoo.com/question/index;_ylt=AnAYEU1fED6ncg1jRCFy30kk5XNG;_ylv=3?qid=20091214193523AAQqHQS)|[http://answers.yahoo.com](http://answers.yahoo.com)<br><br>In this case, we will consider [http://answers.yahoo.com](http://answers.yahoo.com) the homepage, rather than [http://www.yahoo.com](http://www.yahoo.com). Why? Because clicking on the logo takes the user to [http://answers.yahoo.com](http://answers.yahoo.com). In addition, [http://answers.yahoo.com](http://answers.yahoo.com) has information about the Yahoo Answers website. It is very difficult to find specific information about [http://answers.yahoo.com](http://answers.yahoo.com) on the [http://www.yahoo.com](http://www.yahoo.com) homepage.|[Specific Yahoo Answers Page](https://guidelines.raterhub.com/images/PQexamples.3.1.5.jpg)<br><br>![Yahoo! Answers Logo](../images/img18.jpg)<br><br>This "YAHOO ANSWERS" logo in the upper left part of the page is clickable and takes users to the homepage of the website.
-[http://hms.harvard.edu/about-hms/facts-figures](http://hms.harvard.edu/about-hms/facts-figures)|[http://hms.harvard.edu](http://hms.harvard.edu)<br><br>In this case, we will consider the Harvard Medical School page at [http://hms.harvard.edu](http://hms.harvard.edu) to be the homepage, rather than [http://www.harvard.edu](http://www.harvard.edu) (which is the homepage of Harvard University). Clicking the logo at the top of [http://hms.harvard.edu/about-hms/facts-figures](http://hms.harvard.edu/about-hms/facts-figures) takes users to [http://hms.harvard.edu](http://hms.harvard.edu), not to [http://www.harvard.edu](http://www.harvard.edu).|[Harvard Medical School Facts and Figures Page](https://guidelines.raterhub.com/images/HMS.jpg)<br><br>![Harvard Medical School Logo](../images/img19.jpg)<br><br>This "Harvard Medical School" logo in the upper left part of the page is clickable and takes users to the homepage of the Harvard Medical School website.
+<div class="examples">
+<div class="example">
+<div class="results">
+<div class="result">
+
+**Task Page URL:**  
+[http://www.williams-sonoma.com/products/shun-premier-7-piece-knife-block-set](http://www.williams-sonoma.com/products/shun-premier-7-piece-knife-block-set)
+
+**Home page URL:**  
+[http://www.williams-sonoma.com](http://www.williams-sonoma.com)
+
+**Image that shows where to click to get to the homepage:**  
+[Williams-Sonoma Homepage](http://www.williams-sonoma.com)  
+![Williams Sonoma Logo](../images/img17.jpg)  
+This "WILLIAMS-SONOMA" logo shown in the upper center of the page is clickable and takes users to the homepage of the website.
+
+</div>
+</div>
+</div>
+<div class="example">
+<div class="results">
+<div class="result">
+
+**Task Page URL:**  
+[http://answers.yahoo.com/question/index;_ylt=AnAYEU1fED6ncg1jRCFy30kk5XNG;_ylv=3?qid=20091214193523AAQqHQS](http://answers.yahoo.com/question/index;_ylt=AnAYEU1fED6ncg1jRCFy30kk5XNG;_ylv=3?qid=20091214193523AAQqHQS)
+
+**Home page URL:**  
+[http://answers.yahoo.com](http://answers.yahoo.com)
+
+In this case, we will consider [http://answers.yahoo.com](http://answers.yahoo.com) the homepage, rather than [http://www.yahoo.com](http://www.yahoo.com). Why? Because clicking on the logo takes the user to [http://answers.yahoo.com](http://answers.yahoo.com). In addition, [http://answers.yahoo.com](http://answers.yahoo.com) has information about the Yahoo Answers website. It is very difficult to find specific information about [http://answers.yahoo.com](http://answers.yahoo.com) on the [http://www.yahoo.com](http://www.yahoo.com) homepage.
+
+**Image that shows where to click to get to the homepage:**  
+[Specific Yahoo Answers Page](https://guidelines.raterhub.com/images/PQexamples.3.1.5.jpg)  
+![Yahoo! Answers Logo](../images/img18.jpg)  
+This "YAHOO ANSWERS" logo in the upper left part of the page is clickable and takes users to the homepage of the website.
+
+</div>
+</div>
+</div>
+<div class="example">
+<div class="results">
+<div class="result">
+
+**Task Page URL:**  
+[http://hms.harvard.edu/about-hms/facts-figures](http://hms.harvard.edu/about-hms/facts-figures)
+
+**Home page URL:**  
+[http://hms.harvard.edu](http://hms.harvard.edu)
+
+In this case, we will consider the Harvard Medical School page at [http://hms.harvard.edu](http://hms.harvard.edu) to be the homepage, rather than [http://www.harvard.edu](http://www.harvard.edu) (which is the homepage of Harvard University). Clicking the logo at the top of [http://hms.harvard.edu/about-hms/facts-figures](http://hms.harvard.edu/about-hms/facts-figures) takes users to [http://hms.harvard.edu](http://hms.harvard.edu), not to [http://www.harvard.edu](http://www.harvard.edu).
+
+**Image that shows where to click to get to the homepage:**  
+[Harvard Medical School Facts and Figures Page](https://guidelines.raterhub.com/images/HMS.jpg)  
+![Harvard Medical School Logo](../images/img19.jpg)  
+This "Harvard Medical School" logo in the upper left part of the page is clickable and takes users to the homepage of the Harvard Medical School website.
+
+</div>
+</div>
+</div>
+</div>
 
 ### Finding Who is Responsible for the Website and Who Created the Content on the Page
 
@@ -275,27 +532,151 @@ Here is how to research the reputation of the website:
     - <span class="query">"ibm.com" reviews -site:ibm.com</span>: A search for reviews of "ibm.com" that excludes pages on ibm.com.
     - For content creators, try searching for their name or alias.
 
-    > Note: When searching for reputation information, try to find sources that were not written or created by the website, the company itself, or the individual. For example, IBM might have official Facebook or Twitter pages that it closely maintains, which would not be considered independent sources of reputation information about the company. See [here](https://en.wikipedia.org/wiki/Wikipedia:Identifying_and_using_independent_sources) for a Wikipedia article on identifying and using independent sources.
+    *Note: When searching for reputation information, try to find sources that were not written or created by the website, the company itself, or the individual. For example, IBM might have official Facebook or Twitter pages that it closely maintains, which would not be considered independent sources of reputation information about the company. See [here](https://en.wikipedia.org/wiki/Wikipedia:Identifying_and_using_independent_sources) for a Wikipedia article on identifying and using independent sources.*
 
 3. Look for articles, reviews, forum posts, discussions, etc. written by people about the website. For businesses, there are many sources of reputation information and reviews. Here are some examples: [Yelp](https://guidelines.raterhub.com/images/PQ.ReputationResearchExampleWebsite1.jpg), [Better Business Bureau](https://guidelines.raterhub.com/images/PQ.ReputationResearchExampleWebsite3.jpg) (a nonprofit organization that focuses on the trustworthiness of businesses and charities), [Amazon](https://guidelines.raterhub.com/images/PQ.ReputationResearchExample4.jpg), and [Google Shopping](https://guidelines.raterhub.com/images/PQ.ReputationResearchExample5.jpg). You can try searching on specific sites to find reviews. For example, you can try <span class="query">ibm ite:bbb.org</span> or <span class="query">"ibm.com" site:bbb.org</span>.
 
     For content creators, look for biographical data and other sources that are not written by the individual.
 
-    > Note: You will sometimes find high ratings on the Better Business Bureau (BBB) website because there is very little data on the business, not because the business has a positive reputation. However, very low ratings on BBB are usually the result of multiple unresolved complaints. Please consider very low ratings on the BBB site to be evidence for a negative reputation.
+    *Note: You will sometimes find high ratings on the Better Business Bureau (BBB) website because there is very little data on the business, not because the business has a positive reputation. However, very low ratings on BBB are usually the result of multiple unresolved complaints. Please consider very low ratings on the BBB site to be evidence for a negative reputation.*
 
 4. See if there is a Wikipedia article or news article from a well-known news site. Wikipedia can be a good source of information about companies, organizations, and content creators. For example, try <span class="query">ibm site:en.wikipedia.org</span> or <span class="query">"ibm.com" site:en.wikipedia.org</span>. News articles and Wikipedia articles can help you learn about a company and may include information specific to reputation, such as awards and other forms of recognition, or also controversies and issues. Note that some Wikipedia articles include a message warning users that there are disagreements on some of the content, or that the content may be outdated. This may be an indication that additional research is necessary.
 
 Here are some examples of reputation information:
 
-Website|Reputation Information About the Site|Description
----|---|---
-[annualcreditreport.com](https://guidelines.raterhub.com/images/PQ_AnnualCreditReport.jpg)|[Search results for <span class="query">annualcreditreport.com ‑site:annualcreditreport.com</span>](https://guidelines.raterhub.com/images/SearchResultsForannualcreditreport.comminussiteannualcreditreport.com.jpg)<br><br>[Wikipedia article about annualcreditreport.com](https://guidelines.raterhub.com/images/PQ_AnnualCreditReport_Wikipedia.jpg)<br><br>[Wall Street Journal article about annualcreditreport.com](https://guidelines.raterhub.com/images/PQ_annualcreditreport_WSJ.jpg)|**Positive reputation information:** Users in the U.S. can obtain free credit reports on this website by providing their Social Security Number. Note that the Wikipedia article tells us that "AnnualCreditReport.com is the only federally mandated and authorized source for obtaining a free credit report."<br><br>Note: Almost every website will have complaints about customer service, so it is important to look at various sources and reviews in your reputation research.
-[clevelandclinic.org](https://guidelines.raterhub.com/images/PQ_Cleveland_Clinic.jpg)|[Search results for <span class="query">clevelandclinic.org</span>](https://guidelines.raterhub.com/images/SearchResultsforclevelandclinic.org.jpg)<br><br>[Wikipedia article about clevelandclinic.org](https://guidelines.raterhub.com/images/PQ_ClevelandClinic_Wikipedia.jpg)<br><br>[US News & World Report article about the best hospitals in the U.S.](https://guidelines.raterhub.com/images/PQ_ClevelandClinic_USNews.jpg)|**Positive reputation information:** According to Wikipedia, the Cleveland Clinic "is currently regarded as one of the top 4 hospitals in the United States as rated by U.S. News & World Report," which you will also find in the article on the best hospitals in the U.S. Users can trust medical information on this website.
-[csmonitor.com](https://guidelines.raterhub.com/images/PQ.3.5.8.jpg)|[Search results for <span class="query">csmonitor.com ‑site:csmonitor.com</span>](https://guidelines.raterhub.com/images/PQ.3.5.8.ReputationResearchQuery1.jpg)<br><br>[Wikipedia article about The Christian Science Monitor](https://guidelines.raterhub.com/images/RG3.3.5.8.1.jpg)|**Positive reputation information:** Notice the highlighted section in the Wikipedia article about The Christian Science Monitor newspaper, which tells us that the newspaper has won seven Pulitzer Prize awards. From this information, we can infer that the csmonitor.com website has a positive reputation.
-[kernel.org](https://guidelines.raterhub.com/images/kerneldotorg.jpg)|[Search results for <span class="query">kernel.org ‑site:kernel.org</span>](https://guidelines.raterhub.com/images/PQ_Examples_site-kernel.org_Google_Search.jpg)<br><br>[Wikipedia article about kernel.org](https://guidelines.raterhub.com/images/kernel.org_wikipedia.jpg)|**Positive reputation information:** We learn in the Wikipedia article that "Kernel.org is a main repository of source code for the Linux kernel, the base of the popular Linux operating system. It makes all versions of the source code available to all users. It also hosts various other projects, like Google Android. The main purpose of the site is to host a repository for Linux kernel developers and maintainers of Linux distributions."
-[Site selling children's jungle gym](https://guidelines.raterhub.com/images/domeclimber.com.jpg)|[Search to find reputation information](https://guidelines.raterhub.com/images/searchreusltsfordomeclimber.com_site_bbb.org.jpg)<br><br>[Search to find reviews](https://guidelines.raterhub.com/images/SearchResultsDomeClimber.comReviews.jpg)<br><br>[BBB negative review](https://guidelines.raterhub.com/images/DomeClimberBBBReview.jpg)<br><br>[TrustLink negative reviews](https://guidelines.raterhub.com/images/TrustLinkDomeClimberNegativeReviews.jpg)<br><br>[Negative news article](https://guidelines.raterhub.com/images/DupedByDomeClimberArticle.jpg)|**Extremely negative reputation information:** This business has a BBB rating of F (i.e., lowest rating given by BBB). There is a news article about financial fraud. There are many reviews on websites describing users sending money and not receiving anything from various sources.
-[Site selling products related to eyewear](https://guidelines.raterhub.com/images/RG3_3.5-40.jpg)|[Search to find reputation information](https://guidelines.raterhub.com/images/SearchResultsfordecormyeyes.comminussitedecormyeyes.com.jpg)<br><br>[BBB page](https://guidelines.raterhub.com/images/PQ.3.5.5.jpg)<br><br>[Wikipedia article](https://guidelines.raterhub.com/images/PQ_DecorMyEyes_Wikipedia.jpg)<br><br>[New York Times article](https://guidelines.raterhub.com/images/PQ_decormyeyes_NYTimes.jpg)|**Extremely negative/malicious reputation information:** This website engaged in criminal behavior such as physically threatening users.
-[Organization serving the hospitalized veteran community](https://guidelines.raterhub.com/images/PQ.3.5.10.jpg)|[Search to find scams related this organization](https://guidelines.raterhub.com/images/PQ.3.5.10.ReputationResearchQuery2.jpg)<br><br>[Negative review 1](https://guidelines.raterhub.com/images/PQ.3.5.10.ReputationInformation1.jpg)<br><br>[Negative review 2](https://guidelines.raterhub.com/images/PQ.3.5.10.ReputationInformation2.jpg)<br><br>[Negative review 3](https://guidelines.raterhub.com/images/PQ.3.5.10.ReputationInformation3.jpg)<br><br>[Negative review 4](https://guidelines.raterhub.com/images/PQ.3.5.10.ReputationInformation4.jpg)|**Extremely negative reputation information:** There are many detailed negative articles on news sites and charity watchdog sites about this organization describing fraud and financial mishandling.
+<div class="examples">
+<div class="example">
+<div class="results">
+<div class="result">
+
+**Website:**  
+[annualcreditreport.com](https://guidelines.raterhub.com/images/PQ_AnnualCreditReport.jpg)
+
+**Site Reputation:**  
+[Search results for <span class="query">annualcreditreport.com ‑site:annualcreditreport.com</span>](https://guidelines.raterhub.com/images/SearchResultsForannualcreditreport.comminussiteannualcreditreport.com.jpg)  
+[Wikipedia article about annualcreditreport.com](https://guidelines.raterhub.com/images/PQ_AnnualCreditReport_Wikipedia.jpg)  
+[Wall Street Journal article about annualcreditreport.com](https://guidelines.raterhub.com/images/PQ_annualcreditreport_WSJ.jpg)
+
+**Description:**  
+**Positive reputation information:** Users in the U.S. can obtain free credit reports on this website by providing their Social Security Number. Note that the Wikipedia article tells us that "AnnualCreditReport.com is the only federally mandated and authorized source for obtaining a free credit report."
+
+*Note: Almost every website will have complaints about customer service, so it is important to look at various sources and reviews in your reputation research.*
+
+</div>
+</div>
+</div>
+<div class="example">
+<div class="results">
+<div class="result">
+
+**Website:**  
+[clevelandclinic.org](https://guidelines.raterhub.com/images/PQ_Cleveland_Clinic.jpg)
+
+**Site Reputation:**  
+[Search results for <span class="query">clevelandclinic.org</span>](https://guidelines.raterhub.com/images/SearchResultsforclevelandclinic.org.jpg)  
+[Wikipedia article about clevelandclinic.org](https://guidelines.raterhub.com/images/PQ_ClevelandClinic_Wikipedia.jpg)  
+[US News & World Report article about the best hospitals in the U.S.](https://guidelines.raterhub.com/images/PQ_ClevelandClinic_USNews.jpg)
+
+**Description:**  
+**Positive reputation information:** According to Wikipedia, the Cleveland Clinic "is currently regarded as one of the top 4 hospitals in the United States as rated by U.S. News & World Report," which you will also find in the article on the best hospitals in the U.S. Users can trust medical information on this website.
+
+</div>
+</div>
+</div>
+<div class="example">
+<div class="results">
+<div class="result">
+
+**Website:**  
+[csmonitor.com](https://guidelines.raterhub.com/images/PQ.3.5.8.jpg)
+
+**Site Reputation:**  
+[Search results for <span class="query">csmonitor.com ‑site:csmonitor.com</span>](https://guidelines.raterhub.com/images/PQ.3.5.8.ReputationResearchQuery1.jpg)  
+[Wikipedia article about The Christian Science Monitor](https://guidelines.raterhub.com/images/RG3.3.5.8.1.jpg)
+
+**Description:**  
+**Positive reputation information:** Notice the highlighted section in the Wikipedia article about The Christian Science Monitor newspaper, which tells us that the newspaper has won seven Pulitzer Prize awards. From this information, we can infer that the csmonitor.com website has a positive reputation.
+
+</div>
+</div>
+</div>
+<div class="example">
+<div class="results">
+<div class="result">
+
+**Website:**  
+[kernel.org](https://guidelines.raterhub.com/images/kerneldotorg.jpg)
+
+**Site Reputation:**  
+[Search results for <span class="query">kernel.org ‑site:kernel.org</span>](https://guidelines.raterhub.com/images/PQ_Examples_site-kernel.org_Google_Search.jpg)  
+[Wikipedia article about kernel.org](https://guidelines.raterhub.com/images/kernel.org_wikipedia.jpg)
+
+**Description:**  
+**Positive reputation information:** We learn in the Wikipedia article that "Kernel.org is a main repository of source code for the Linux kernel, the base of the popular Linux operating system. It makes all versions of the source code available to all users. It also hosts various other projects, like Google Android. The main purpose of the site is to host a repository for Linux kernel developers and maintainers of Linux distributions."
+
+</div>
+</div>
+</div>
+<div class="example">
+<div class="results">
+<div class="result">
+
+**Website:**  
+[Site selling children's jungle gym](https://guidelines.raterhub.com/images/domeclimber.com.jpg)
+
+**Site Reputation:**  
+[Search to find reputation information](https://guidelines.raterhub.com/images/searchreusltsfordomeclimber.com_site_bbb.org.jpg)  
+[Search to find reviews](https://guidelines.raterhub.com/images/SearchResultsDomeClimber.comReviews.jpg)  
+[BBB negative review](https://guidelines.raterhub.com/images/DomeClimberBBBReview.jpg)  
+[TrustLink negative reviews](https://guidelines.raterhub.com/images/TrustLinkDomeClimberNegativeReviews.jpg)  
+[Negative news article](https://guidelines.raterhub.com/images/DupedByDomeClimberArticle.jpg)
+
+**Description:**  
+**Extremely negative reputation information:** This business has a BBB rating of F (i.e., lowest rating given by BBB). There is a news article about financial fraud. There are many reviews on websites describing users sending money and not receiving anything from various sources.
+
+</div>
+</div>
+</div>
+<div class="example">
+<div class="results">
+<div class="result">
+
+**Website:**  
+[Site selling products related to eyewear](https://guidelines.raterhub.com/images/RG3_3.5-40.jpg)
+
+**Site Reputation:**  
+[Search to find reputation information](https://guidelines.raterhub.com/images/SearchResultsfordecormyeyes.comminussitedecormyeyes.com.jpg)  
+[BBB page](https://guidelines.raterhub.com/images/PQ.3.5.5.jpg)  
+[Wikipedia article](https://guidelines.raterhub.com/images/PQ_DecorMyEyes_Wikipedia.jpg)  
+[New York Times article](https://guidelines.raterhub.com/images/PQ_decormyeyes_NYTimes.jpg)
+
+**Description:**  
+**Extremely negative/malicious reputation information:** This website engaged in criminal behavior such as physically threatening users.
+
+</div>
+</div>
+</div>
+<div class="example">
+<div class="results">
+<div class="result">
+
+**Website:**  
+[Organization serving the hospitalized veteran community](https://guidelines.raterhub.com/images/PQ.3.5.10.jpg)
+
+**Site Reputation:**  
+[Search to find scams related this organization](https://guidelines.raterhub.com/images/PQ.3.5.10.ReputationResearchQuery2.jpg)  
+[Negative review 1](https://guidelines.raterhub.com/images/PQ.3.5.10.ReputationInformation1.jpg)  
+[Negative review 2](https://guidelines.raterhub.com/images/PQ.3.5.10.ReputationInformation2.jpg)  
+[Negative review 3](https://guidelines.raterhub.com/images/PQ.3.5.10.ReputationInformation3.jpg)  
+[Negative review 4](https://guidelines.raterhub.com/images/PQ.3.5.10.ReputationInformation4.jpg)
+
+**Description:**  
+**Extremely negative reputation information:** There are many detailed negative articles on news sites and charity watchdog sites about this organization describing fraud and financial mishandling.
+
+</div>
+</div>
+</div>
+</div>
 
 ### What to Do When You Find No Reputation Information
 

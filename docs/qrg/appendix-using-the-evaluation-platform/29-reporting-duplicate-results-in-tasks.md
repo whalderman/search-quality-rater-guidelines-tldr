@@ -9,9 +9,30 @@ Some duplicate results are automatically detected and will be pre-identified for
 
 This is what these pre-identified dupes look like:
 
-Left Side|Right Side
----|---
-![](../images/img862.jpg)|![](../images/img863.jpg)
+<div class="examples">
+<div class="example">
+<div class="results">
+<div class="result">
+
+**Left Side**
+
+![](../images/img862.jpg)
+
+</div>
+</div>
+</div>
+<div class="example">
+<div class="results">
+<div class="result">
+
+**Right Side**
+
+![](../images/img863.jpg)
+
+</div>
+</div>
+</div>
+</div>
 
 **Please note:** You cannot unselect dupes that have been automatically detected and pre-identified.
 
@@ -29,9 +50,22 @@ Please identify dupes both within the same side and across sides. Even for cross
 
 **Note:** If two result blocks have very different types of content or very different appearances, do not mark them as duplicates even if they have the same landing page URL. For example, these two blocks should not be marked as duplicates of each other.
 
-|||
--|-
-![](../images/img865.jpg)|![](../images/img866.jpg)
+<div class="examples">
+<div class="example">
+<div class="results">
+<div class="result">
+
+![](../images/img865.jpg)
+
+</div>
+<div class="result">
+
+![](../images/img866.jpg)
+
+</div>
+</div>
+</div>
+</div>
 
 ## Reporting Duplicate Results
 
@@ -71,6 +105,6 @@ QUERY: <span class="query">material girl lyrics</span>
 
 URL 1: [http://www.lyricsfreak.com/m/madonna/material+girl_20086925.html](http://www.lyricsfreak.com/m/madonna/material+girl_20086925.html)
 
-URL 2: [http://www.lyrics007.com/Madonna%20Lyrics/Material%20Girl%20Lyrics.html](http://www.lyrics007.com/Madonna%20Lyrics/Material%20Girl%20Lyrics.html)
+URL 2: <a href="http://www.lyrics007.com/Madonna%20Lyrics/Material%20Girl%20Lyrics.html">http://www.lyrics007.com/<wbr>Madonna%20Lyrics/<wbr>Material%20Girl%20Lyrics.html</a>
 
 **Reason:** Even though both pages display the lyrics to the song "Material Girl," users would probably want to have the option to visit both pages so that they could verify the accuracy of the lyrics. Users could benefit by search engines returning more than one page with the lyrics to the song.

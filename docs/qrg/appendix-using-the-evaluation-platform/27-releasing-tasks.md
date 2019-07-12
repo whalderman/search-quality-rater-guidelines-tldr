@@ -20,11 +20,9 @@ Here are some examples for the "lack expertise" and "technical problem" release 
 
 **Lack expertise:** These queries require specialized knowledge and may be difficult for some raters.
 
-Query|General Query Topic
----|---
-<span class="query">cortisol secretion shows a blank pattern of secretion</span>|Scientific query
-<span class="query">minecraft gun and vehicles 1.1 mod installer</span>|Gaming query
-<span class="query">python pandas index like matrix</span>|Technical query
+- <span class="query">cortisol secretion shows a blank pattern of secretion</span>, scientific query
+- <span class="query">minecraft gun and vehicles 1.1 mod installer</span>, gaming query
+- <span class="query">python pandas index like matrix</span>, technical query
 
 **Technical problem:** These result blocks have question marks and other characters where text should be.
 
@@ -32,4 +30,4 @@ Query|General Query Topic
 
 ![](../images/img854.jpg)
 
-> Note: Based on the number and/or type of tasks that you release, you may be asked to provide additional details about the reason for some of the releases.
+*Note: Based on the number and/or type of tasks that you release, you may be asked to provide additional details about the reason for some of the releases.*

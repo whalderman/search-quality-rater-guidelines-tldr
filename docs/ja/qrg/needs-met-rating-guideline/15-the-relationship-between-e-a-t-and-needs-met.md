@@ -24,9 +24,69 @@ Needs Met評価とページ品質評価の割り当てに関するガイダン�
 
 - ページに有益な目的がない場合は、ページのニーズメット評価やページのデザインに関係なく、常に最低のページ品質と評価する必要があります。他の種類の最低ページ品質ページの概要については、「[Lowest評価のページ](../page-quality-rating-guideline/7-lowest-quality-pages)」をご覧ください。
 
-クエリ・ユーザー所在地・ユーザーの意図|リザルトブロック・LP・E-A-T評価・Needs Met評価|説明
----|---|---
-**クエリ：**<br><span class="query">how do electric cars work</span><br><br>**ユーザーの所在地：** テキサス州ダラス<br><br>**ユーザーの意図：** 電気自動車の仕組みを知る|![](../images/img628.jpg)<br>![needs met scale - slightly meets](../images/sm.jpg)![page quality scale - low](../images/low.jpg)|**Page Quality評価：** この内容を声に出して読んでみる。LP上の記事は浅く、意図せずユーモラス。4つの段落があるが、基本的に電気自動車は電気を使用して充電する必要があるのみ。<br><br>**Needs Met評価：** ほとんどのユーザーの役に立たない。
-*〃*|![](../images/img631.jpg)<br>![needs met scale - fails to meet](../images/failsm.jpg)![page quality scale - medium+ - narrow range](../images/medium+narrow.jpg)|**Page Quality評価：** Wikipedia.orgのLPには多くの有益なMCがある。<br><br>**Needs Met評価：** この質問は電気自動車の仕組みを尋ねるが、LPの記事はモビリティスクーターに関するもの。
-**クエリ：**<br><span class="query">symptoms of dehydration</span><br><br>**ユーザーの所在地：** テネシー州メンフィス<br><br>**ユーザーの意図：** 脱水症状について知る|![](../images/img634.jpg)<br>![needs met scale - fails to meet - narrow range](../images/failsm-narrow.jpg)![page quality scale - lowest - narrow range](../images/lowest-narrow.jpg)|**Page Quality評価：** YMYLの話題。このページには質の低いサイトの特徴が多くあり信頼できない。誰がそのコンテンツを書いたか分からず、専門家の権限や証拠がない。MCから気を散らす広告がある。<br><br>**Needs Met評価：** 例え記事が話題になっていても情報は信頼できず、潜在的に誤解を招くため危険。
-*〃*|![](../images/img637.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)![page quality scale - high+ - narrow range](../images/high+narrow.jpg)|**Page Quality評価：** YMYLの話題。非常に権威のある医学Webサイトで信頼性が高く正確なMCを持っている。<br><br>**Needs Met評価：** この結果は、ほとんどのユーザーにとって非常に役立つ。
+<div class="examples">
+
+
+<div class="example">
+
+**クエリ：**<span class="query">how do electric cars work</span>  
+**ユーザーの所在地：**<!-- -->テキサス州ダラス  
+**ユーザーの意図：**<!-- -->電気自動車の仕組みを知る
+
+<div class="results">
+<div class="result">
+
+![](../images/img628.jpg)  
+![needs met scale - slightly meets](../images/sm.jpg)  
+![page quality scale - low](../images/low.jpg)
+
+**Page Quality評価：**<!-- -->この内容を声に出して読んでみる。LP上の記事は浅く、意図せずユーモラス。4つの段落があるが、基本的に電気自動車は電気を使用して充電する必要があるのみ。
+
+**Needs Met評価：**<!-- -->ほとんどのユーザーの役に立たない。
+
+</div>
+<div class="result">
+
+![](../images/img631.jpg)  
+![needs met scale - fails to meet](../images/failsm.jpg)  
+![page quality scale - medium+ - narrow range](../images/medium+narrow.jpg)
+
+**Page Quality評価：**<!-- -->Wikipedia.orgのLPには多くの有益なMCがある。
+
+**Needs Met評価：**<!-- -->この質問は電気自動車の仕組みを尋ねるが、LPの記事はモビリティスクーターに関するもの。
+
+</div>
+</div>
+</div>
+<div class="example">
+
+**クエリ：**<span class="query">symptoms of dehydration</span>  
+**ユーザーの所在地：**<!-- -->テネシー州メンフィス  
+**ユーザーの意図：**<!-- -->脱水症状について知る
+
+<div class="results">
+<div class="result">
+
+![](../images/img634.jpg)  
+![needs met scale - fails to meet - narrow range](../images/failsm-narrow.jpg)  
+![page quality scale - lowest - narrow range](../images/lowest-narrow.jpg)
+
+**Page Quality評価：**<!-- -->YMYLの話題。このページには質の低いサイトの特徴が多くあり信頼できない。誰がそのコンテンツを書いたか分からず、専門家の権限や証拠がない。MCから気を散らす広告がある
+
+**Needs Met評価：**<!-- -->例え記事が話題になっていても情報は信頼できず、潜在的に誤解を招くため危険。
+
+</div>
+<div class="result">
+
+![](../images/img637.jpg)  
+![needs met scale - highly meets](../images/hm.jpg)  
+![page quality scale - high+ - narrow range](../images/high+narrow.jpg)
+
+**Page Quality評価：**<!-- -->YMYLの話題。非常に権威のある医学Webサイトで信頼性が高く正確なMCを持っている。
+
+**Needs Met評価：**<!-- -->この結果は、ほとんどのユーザーにとって非常に役立つ。
+
+</div>
+</div>
+</div>
+</div>

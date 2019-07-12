@@ -5,19 +5,21 @@
 h2 > a
   font-weight inherit
 
-td > img
-  outline solid 1px #555
-  height auto
-  min-width 50%
-  position relative
-  z-index 0
+a
+  word-break break-word
+// td > img
+//   outline solid 1px #555
+//   height auto
+//   min-width 50%
+//   position relative
+//   z-index 0
 //  transition transform .1s, box-shadow .1s .05s, z-index 0.13s
 
 tr:nth-child(2n)
   background-color #ffffff00
 
 th, td
-  border 1px solid #00000022
+  border 1pt solid #00000022
   padding 0.5em 0.5em
 
 th
@@ -69,8 +71,8 @@ a.header-anchor
   border-radius 20px 0 0 0
 
 .query
-  border-left 1px solid #0071ba
-  border-right 1px solid #0071ba
+  border-left 1pt solid #0071ba
+  border-right 1pt solid #0071ba
   border-radius 30px
   height 44px
   margin 0 0.0625rem
@@ -78,10 +80,47 @@ a.header-anchor
   background-color #00000000
   color #004877
 
+.examples
+  margin 1rem 0 1rem 0
+  background linear-gradient(90deg, #0000, #0071ba08 1%, #0071ba08 99%, #0000)
+  border-top .5em solid #0071ba
+  border-bottom .25em solid #0071ba
+  img
+    border 1pt solid
+    border-image linear-gradient(135deg, #bbb, #f4f4f4 12%, #f4f4f4 88%, #bbb) 1
+  .example
+    display flex
+    flex-direction column
+    justify-content center
+    border-bottom 1pt solid #ccc
+    padding 0 1rem
+    border-image linear-gradient(90deg, #0000 1%, #ccc 6%, #ccc 94%, #0000 99%) 1
+    .results
+      display flex
+      justify-content center
+      flex-wrap wrap
+      margin 1rem 0
+    .result
+      display flex
+      flex 1 1 250px
+      max-width 500px
+      flex-direction column
+      padding 1rem 1rem 2rem 1rem
+      margin 0 0.1875rem
+      border 1pt solid
+      border-bottom none
+      border-image linear-gradient(#0071ba80, #0000 95%) 1
+      background linear-gradient(white 95%, #0000)
+      p
+        margin 0.5rem 0
+
+.example:last-child
+  border none
+
 blockquote
   color #036356
   border-left 0.2rem solid #036356
-  background linear-gradient(90deg, #f4f4f4, transparent)
+  background linear-gradient(90deg, #f4f4f4, #0000)
 
 .page-edit .last-updated .time
   color #767676 !important
@@ -91,3 +130,34 @@ blockquote
 
 .page-edit .edit-link a
   color #3f5a75 !important
+
+.table-3-4-3 > table > * > tr
+  > td:nth-child(1)
+    width 30%
+  > td:nth-child(2)
+    width 40%
+
+.table-1-2-1 > table > * > tr
+  > td:nth-child(1)
+    width 25%
+  > td:nth-child(2)
+    width 50%
+
+.table-3-7 > table > * > tr
+  > td:nth-child(1)
+    width 30%
+
+.table-1-1 > table > * > tr
+  > td:nth-child(1)
+    width 50%
+
+.table-1-1-1-1
+  > table > * > tr
+    > td:nth-child(0)
+      width 10%
+    > td:nth-child(1)
+      width 40%
+    > td:nth-child(2)
+      width 30%
+    > td:nth-child(3)
+      width 20%

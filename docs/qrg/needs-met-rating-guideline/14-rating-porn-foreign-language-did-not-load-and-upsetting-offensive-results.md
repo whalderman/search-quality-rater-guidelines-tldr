@@ -6,9 +6,28 @@ You will assign **Porn**, **Foreign Language**, **Did Not Load**, and **Upsettin
 
 Click on the flag name to select it. The flag block will turn red and change the "No" to "Yes." For example, here is a result that shows when the **Porn** flag should be used.
 
-Query and User Intent|Result Block, Flag, Needs Met Rating|Explanation
----|---|---
-**Query:** <span class="query">freeones</span>, English (US)<br><br>**User Location:** Mountain View, California<br><br>**User Intent:** Go to the Freeones website.|![](../images/img565.jpg)<br>![](../images/img566.jpg)<br>![needs met scale - fully meets](../images/fullym.jpg)|This LP is the homepage of the Freeones website, a porn site.<br><br>This result merits a FullyM rating and the Porn flag.
+<div class="examples">
+<div class="example">
+
+**Query:** <span class="query">freeones</span>, English (US)  
+**User Location:** Mountain View, California  
+**User Intent:** Go to the Freeones website.
+
+<div class="results">
+<div class="result">
+
+![](../images/img565.jpg)  
+![](../images/img566.jpg)  
+![needs met scale - fully meets](../images/fullym.jpg)
+
+This LP is the homepage of the Freeones website, a porn site.
+
+This result merits a FullyM rating and the Porn flag.
+
+</div>
+</div>
+</div>
+</div>
 
 ## Porn Flag
 
@@ -31,11 +50,35 @@ The following queries should be considered non‑porn intent queries: <span clas
 
 Remember to assign the **Porn** flag for all porn pages. Use your judgment and represent users in your locale.
 
-Query|User Intent|Landing Page|Rating|Porn Flag?
----|---|---|---|---
-<span class="query">toys</span>, English (US)|Find toys to buy.|[Example](https://guidelines.raterhub.com/images/RG1_6.2-1.jpg)<br><span style="color: red;">Warning – this page is porn.</span>|**FailsM**|Yes
-<span class="query">how tall is a camel</span>, English (US)|Find the answer to this question about camels.|[Example](https://guidelines.raterhub.com/images/RG1_6.2-2.jpg)<br><span style="color: red;">Warning – this page is porn.</span>|**FailsM**|Yes
-<span class="query">car pictures</span>, English (US)|Find pictures of cars.|[Example](https://guidelines.raterhub.com/images/RG1_6.2-3.jpg)<br><span style="color: red;">Warning – this page is porn.</span>|**FailsM**|Yes
+<div class="examples">
+<div class="example">
+
+**Query:** <span class="query">toys</span>, English (US)  
+**User Intent:** Find toys to buy.  
+**Landing Page:** [Example](https://guidelines.raterhub.com/images/RG1_6.2-1.jpg) <span style="color: red;">Warning – this page is porn.</span>  
+**Rating:** **FailsM**  
+**Porn Flag:** Yes
+
+</div>
+<div class="example">
+
+**Query:** <span class="query">how tall is a camel</span>, English (US)  
+**User Intent:** Find the answer to this question about camels.  
+**Landing Page:** [Example](https://guidelines.raterhub.com/images/RG1_6.2-2.jpg) <span style="color: red;">Warning – this page is porn.</span>  
+**Rating:** **FailsM**  
+**Porn Flag:** Yes
+
+</div>
+<div class="example">
+
+**Query:** <span class="query">car pictures</span>, English (US)  
+**User Intent:** Find pictures of cars.  
+**Landing Page:** [Example](https://guidelines.raterhub.com/images/RG1_6.2-3.jpg) <span style="color: red;">Warning – this page is porn.</span>  
+**Rating:** **FailsM**  
+**Porn Flag:** Yes
+
+</div>
+</div>
 
 ### Needs Met Rating for Possible Porn Intent Queries
 
@@ -43,10 +86,26 @@ Some queries have both non‑porn and porn interpretations. For example, the fol
 
 For "possible porn intent" queries, please rate as if the non‑porn interpretation were dominant, even though some or many users may be looking for porn. For example, please rate the English (US) query <span class="query">breast</span> assuming a dominant health or anatomy information intent.
 
-Query|User Intent|Landing Page|Rating|Porn flag?
----|---|---|---|---
-<span class="query">breasts</span>, English (US)|Find anatomy or health information about breasts.|[Example](https://guidelines.raterhub.com/images/RG1_6.2-6.jpg)|**HM**|No
-<span class="query">breasts</span>, English (US)|Find anatomy or health information about breasts.|[Example](https://guidelines.raterhub.com/images/RG1_6.2-7.jpg) <span style="color: red;">Warning – this page is porn.</span>|**FailsM**|Yes
+<div class="examples">
+<div class="example">
+
+**Query:** <span class="query">breasts</span>, English (US)  
+**User Intent:** Find anatomy or health information about breasts.  
+**Landing Page:** [Example](https://guidelines.raterhub.com/images/RG1_6.2-6.jpg)  
+**Rating:** **HM**  
+**Porn Flag:** No
+
+</div>
+<div class="example">
+
+**Query:** <span class="query">breasts</span>, English (US)  
+**User Intent:** Find anatomy or health information about breasts.  
+**Landing Page:** [Example](https://guidelines.raterhub.com/images/RG1_6.2-7.jpg) <span style="color: red;">Warning – this page is porn.</span>  
+**Rating:** **FailsM**  
+**Porn Flag:** Yes
+
+</div>
+</div>
 
 ### Needs Met Rating for Clear Porn Intent Queries
 
@@ -56,12 +115,44 @@ Do not simply rate all porn pages for porn queries as **MM** or **HM**. Even tho
 
 Pages that provide a poor user experience, such as pages that try to download malicious software, should also receive low ratings, even if they have some images appropriate for the query.
 
-Query|User Intent|Landing Page|Rating|Porn Flag?
----|---|---|---|---
-<span class="query">freeones</span>, English (US)|Navigate to the Freeones homepage.|[Example: http://www.freeones.com](https://guidelines.raterhub.com/images/RG1_6.2-10.jpg) <span style="color: red;">Warning – this page is porn.</span>|**FullyM**|Yes
-<span class="query">freeones</span>, English (US)|Navigate to the Freeones homepage.|[Example: http://www.baberoad.com](https://guidelines.raterhub.com/images/RG1_6.2-11.jpg) <span style="color: red;">Warning – this page is porn.</span>|**FailsM**|Yes
-<span class="query">anime sex pictures</span>, English (US)|Find anime sex pictures.|[Example](https://guidelines.raterhub.com/images/RG1_6.2-14.jpg) <span style="color: red;">Warning – this page is porn.</span>| **MM to HM**|Yes
-<span class="query">cheerleader porn</span>, English (US)|Find porn pictures of cheerleaders.|[Example](https://guidelines.raterhub.com/images/RG1_6.2-15.jpg) <span style="color: red;">Warning – this page is porn.</span>|**MM to HM**|Yes
+<div class="examples">
+<div class="example">
+
+**Query:** <span class="query">freeones</span>, English (US)  
+**User Intent:** Navigate to the Freeones homepage.  
+**Landing Page:** [Example: http://www.freeones.com](https://guidelines.raterhub.com/images/RG1_6.2-10.jpg) <span style="color: red;">Warning – this page is porn.</span>  
+**Rating:** **FullyM**  
+**Porn Flag:** Yes
+
+</div>
+<div class="example">
+
+**Query:** <span class="query">freeones</span>, English (US)  
+**User Intent:** Navigate to the Freeones homepage.  
+**Landing Page:** [Example: http://www.baberoad.com](https://guidelines.raterhub.com/images/RG1_6.2-11.jpg) <span style="color: red;">Warning – this page is porn.</span>  
+**Rating:** **FailsM**  
+**Porn Flag:** Yes
+
+</div>
+<div class="example">
+
+**Query:** <span class="query">anime sex pictures</span>, English (US)  
+**User Intent:** Find anime sex pictures.  
+**Landing Page:** [Example](https://guidelines.raterhub.com/images/RG1_6.2-14.jpg) <span style="color: red;">Warning – this page is porn.</span>  
+**Rating:**  **MM to HM**  
+**Porn Flag:** Yes
+
+</div>
+<div class="example">
+
+**Query:** <span class="query">cheerleader porn</span>, English (US)  
+**User Intent:** Find porn pictures of cheerleaders.  
+**Landing Page:** [Example](https://guidelines.raterhub.com/images/RG1_6.2-15.jpg) <span style="color: red;">Warning – this page is porn.</span>  
+**Rating:** **MM to HM**  
+**Porn Flag:** Yes
+
+</div>
+</div>
 
 ## Reporting Illegal Images
 
@@ -97,9 +188,29 @@ For example, most Catalan-speaking users in Spain also speak Spanish. Therefore,
 
 Here is a screenshot of a result block that shows when the **Foreign Language** flag would be used.
 
-Query and User Intent|Result Block and LP, Flag, Needs Met Rating|Explanation
----|---|---
-**Query:** <span class="query">baidu</span><br><br>**Locale:** English (US)<br><br>**User Location:** Anchorage, Alaska<br><br>**User Intent:** Go to the Baidu website.|![search result for the baidu home page](../images/img571.jpg)<br>![foreign language flag enabled](../images/img572.jpg)<br>![needs met scale - fully meets](../images/fullym.jpg)|This LP is the homepage of the Baidu website. The result is the target page of the query, but is in a foreign language (Chinese).<br><br>This result merits a **FullyM** rating and the **Foreign Language** flag.
+<div class="examples">
+<div class="example">
+
+**Query:** <span class="query">baidu</span>  
+**Locale:** English (US)  
+**User Location:** Anchorage, Alaska  
+**User Intent:** Go to the Baidu website.
+
+<div class="results">
+<div class="result">
+
+![search result for the baidu home page](../images/img571.jpg)  
+![foreign language flag enabled](../images/img572.jpg)  
+![needs met scale - fully meets](../images/fullym.jpg)
+
+This LP is the homepage of the Baidu website. The result is the target page of the query, but is in a foreign language (Chinese).
+
+This result merits a **FullyM** rating and the **Foreign Language** flag.
+
+</div>
+</div>
+</div>
+</div>
 
 **Important:**
 
@@ -120,11 +231,62 @@ Videos are often an example where foreign language pages are helpful and desired
 
 If the video is someone talking about the song, band, film, or event, the result probably cannot be understood or enjoyed and should be assigned a **FailsM** rating and the **Foreign Language** flag.
 
-Query and User Intent|Result Block and LP, Needs Met Rating|Explanation
----|---|---
-**Query:** <span class="query">video of celine dion singing s'il suffisait d'aimer</span><br><br>**Locale:** English (US)<br><br>**User Location:** Lansing, Michigan<br><br>**User Intent:** Watch a video of Celine Dion singing this song.|![example of unnecessary foreign language flag](../images/img575.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)|This video is just what English (US) users are looking for, even though the video is not in English. The language of the LP is mostly English (even though the video is in French), so the **Foreign Language** flag is not needed.
-**Query:** <span class="query">alex c</span><br><br>**Locale:** English (US)<br><br>**User Location:** Davenport, Iowa<br><br>**User Intent:** Watch a video or listen to a song by this German composer or find information about him.|![example of unnecessary foreign language flag](../images/img577.jpg)<br>![needs met scale - moderately to moderately+](../images/mm-narrow.jpg)|The query is for the German composer, Alex C. The landing page has a video with one of his songs sung by Y-ass (misspelled as "Yass" in the YouTube title) in German. It would be helpful for some or many English (US) users who type the query, even though it is not in English. The language of the landing page isn't clear. Use your judgment when deciding whether to assign the **Foreign Language** flag.
-**Query:** <span class="query">kasal, kasali, kasalo</span><br><br>**Locale:** English (US)<br><br>**User Location:** Daly City, California<br><br>**User Intent:** Watch a trailer of this Filipino film or find information about it.|![example of unnecessary foreign language flag](../images/img579.jpg)<br>![needs met scale - moderately to moderately+](../images/mm-narrow.jpg)|The query is for "Kasal, Kasali, Kasalo," a Filipino film. The LP is a clip from the movie in Filipino (Tagalog), the language spoken in the Philippines. It would be helpful for many English (US) users who type the query, even though it is not in English. Use your judgment when deciding whether to assign the **Foreign Language** flag.
+<div class="examples">
+<div class="example">
+
+**Query:** <span class="query">video of celine dion singing s'il suffisait d'aimer</span>  
+**Locale:** English (US)  
+**User Location:** Lansing, Michigan  
+**User Intent:** Watch a video of Celine Dion singing this song.
+
+<div class="results">
+<div class="result">
+
+![example of unnecessary foreign language flag](../images/img575.jpg)  
+![needs met scale - highly meets](../images/hm.jpg)
+
+This video is just what English (US) users are looking for, even though the video is not in English. The language of the LP is mostly English (even though the video is in French), so the **Foreign Language** flag is not needed.
+
+</div>
+</div>
+</div>
+<div class="example">
+
+**Query:** <span class="query">alex c</span>  
+**Locale:** English (US)  
+**User Location:** Davenport, Iowa  
+**User Intent:** Watch a video or listen to a song by this German composer or find information about him.
+
+<div class="results">
+<div class="result">
+
+![example of unnecessary foreign language flag](../images/img577.jpg)  
+![needs met scale - moderately to moderately+](../images/mm-narrow.jpg)
+
+The query is for the German composer, Alex C. The landing page has a video with one of his songs sung by Y-ass (misspelled as "Yass" in the YouTube title) in German. It would be helpful for some or many English (US) users who type the query, even though it is not in English. The language of the landing page isn't clear. Use your judgment when deciding whether to assign the **Foreign Language** flag.
+
+</div>
+</div>
+</div>
+<div class="example">
+
+**Query:** <span class="query">kasal, kasali, kasalo</span>  
+**Locale:** English (US)  
+**User Location:** Daly City, California  
+**User Intent:** Watch a trailer of this Filipino film or find information about it.
+
+<div class="results">
+<div class="result">
+
+![example of unnecessary foreign language flag](../images/img579.jpg)  
+![needs met scale - moderately to moderately+](../images/mm-narrow.jpg)
+
+The query is for "Kasal, Kasali, Kasalo," a Filipino film. The LP is a clip from the movie in Filipino (Tagalog), the language spoken in the Philippines. It would be helpful for many English (US) users who type the query, even though it is not in English. Use your judgment when deciding whether to assign the **Foreign Language** flag.
+
+</div>
+</div>
+</div>
+</div>
 
 ## Did Not Load Flag
 
@@ -141,9 +303,28 @@ Assign the **Did Not Load** flag based on the landing page, not the result block
 
 Here is an example of a **Did Not Load** landing page. You cannot tell that the landing page doesn't load by looking at the result block.
 
-Query and User Intent|Result Block and LP, Flag, Needs Met Rating|Explanation
----|---|---
-**Query:** <span class="query">douglas instruments</span><br><br>**User Location:** South Bend, Indiana<br><br>**User Intent:** Navigate to the homepage of this website.|![search result for douglas instruments](../images/img582.jpg)<br>![did not load button selected](../images/img583.jpg)<br>![needs met scale - fails to meet](../images/failsm.jpg)|This page displays a generic 404 message. There is no MC, SC, or Ads on the page.<br><br>This result merits a **FailsM** rating and the **Did Not Load** flag.
+<div class="examples">
+<div class="example">
+
+**Query:** <span class="query">douglas instruments</span>  
+**User Location:** South Bend, Indiana  
+**User Intent:** Navigate to the homepage of this website.
+
+<div class="results">
+<div class="result">
+
+![search result for douglas instruments](../images/img582.jpg)
+![did not load button selected](../images/img583.jpg)
+![needs met scale - fails to meet](../images/failsm.jpg)
+
+This page displays a generic 404 message. There is no MC, SC, or Ads on the page.
+
+This result merits a **FailsM** rating and the **Did Not Load** flag.
+
+</div>
+</div>
+</div>
+</div>
 
 Here are screenshots of other types of landing pages that should be assigned the **Did Not Load** flag: [D1](https://guidelines.raterhub.com/images/RG1_4.6-5.jpg), [D2](https://guidelines.raterhub.com/images/RG1_4.6-6.jpg), [D3](https://guidelines.raterhub.com/images/RG1_4.6-7.jpg).
 
@@ -166,10 +347,46 @@ All result blocks must be given a Needs Met rating. If the landing page truly do
 
 Sometimes the page partially loads or has an error message. Give Needs Met ratings based on how helpful the result is for the query. Error messages can be customized by the webmaster and are part of a well‑functioning website. Sometimes these pages are helpful for the query.
 
-Query and User Intent|Result Block and LP, Needs Met Rating|Explanation
----|---|---
-**Query:** <span class="query">boys pink snow shoes</span><br><br>**User Location:** South Bend, Indiana<br><br>**User Intent:** Find information about or purchase boys' snow shoes.|![search result for boys pink snow shoes](../images/img588.jpg)<br>![needs met scale - fails to meet](../images/failsm.jpg)|The MC has an error message, but the LP has a lot of SC. However, the page has no information about boys pink snow shoes and is unhelpful for the query.<br><br>Do not assign the **Did Not Load** flag.
-**Query:** <span class="query">bible passages</span><br><br>**User Location:** South Bend, Indiana<br><br>**User Intent:** Find specific passages in the bible.|![search result for bible passages](../images/img590.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)|In spite of the customized "No results found" message on the LP, it has links to all passages in the bible, organized by book. It would be very helpful for most users.<br><br>Do not assign the **Did Not Load** flag.
+<div class="examples">
+<div class="example">
+
+**Query:** <span class="query">boys pink snow shoes</span>  
+**User Location:** South Bend, Indiana  
+**User Intent:** Find information about or purchase boys' snow shoes.
+
+<div class="results">
+<div class="result">
+
+![search result for boys pink snow shoes](../images/img588.jpg)
+![needs met scale - fails to meet](../images/failsm.jpg)
+
+The MC has an error message, but the LP has a lot of SC. However, the page has no information about boys pink snow shoes and is unhelpful for the query.
+
+Do not assign the **Did Not Load** flag.
+
+</div>
+</div>
+</div>
+<div class="example">
+
+**Query:** <span class="query">bible passages</span>  
+**User Location:** South Bend, Indiana  
+**User Intent:** Find specific passages in the bible.
+
+<div class="results">
+<div class="result">
+
+![search result for bible passages](../images/img590.jpg)
+![needs met scale - highly meets](../images/hm.jpg)
+
+In spite of the customized "No results found" message on the LP, it has links to all passages in the bible, organized by book. It would be very helpful for most users.
+
+Do not assign the **Did Not Load** flag.
+
+</div>
+</div>
+</div>
+</div>
 
 ## Upsetting‑Offensive Flag
 
@@ -195,14 +412,98 @@ Assign the **Upsetting‑Offensive** flag to results that contain upsetting or o
 
 For example, a result with content that encourages child abuse should be flagged as **Upsetting‑Offensive**. However, an accurate informational page about child abuse (such as child abuse statistics, prevention, how to recognize signs of abuse, etc.) should not be flagged, even though child abuse itself is a sensitive topic that users may find upsetting.
 
-Query and User Intent|Result Block and LP, Flags|Explanation
----|---|---
-**Query:** <span class="query">holocaust history</span><br><br>**Locale:** English (US)<br><br>**User Location:** New York, NY<br><br>**User Intent:** Find historical information about the Holocaust.|![holocaust search result example 1](../images/img593.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)|This result is a discussion of how to convince others that the Holocaust never happened. Because of the direct relationship between Holocaust denial and anti-Semitism, many people would consider it offensive.<br><br>This result should receive the **Upsetting‑Offensive** flag, regardless of what the query was.
-*(Same as above.)*|![holocaust search result example 2](../images/img595.jpg)<br>![not upsetting‑offensive](../images/no-flag.jpg)|While the Holocaust itself is a potentially upsetting topic for some, this result is a factually accurate source of historical information. Furthermore, the page does not exist to promote hate or violence against a group of people, contain racial slurs, or depict graphic violence.<br><br>Do NOT assign the **Upsetting‑Offensive** flag, regardless of what the query was.
-**Query:** <span class="query">racism against blacks</span><br><br>**Locale:** English (US)<br><br>**User Location:** New York, New York<br><br>**User Intent:** Find information, news, or other resources about racism against Black people.|![racism against blacks search result example 1](../images/img598.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)|The purpose of this page is to argue that black people are inferior. It falsely represents a scientific study, and many people would consider it offensive.<br><br>This result should receive the **Upsetting‑Offensive** flag, regardless of what the query was.
-*(Same as above.)*|![racism against blacks search result example 2](../images/img600.jpg)<br>![not upsetting‑offensive](../images/no-flag.jpg)|This Wikipedia page provides a well-informed and historically accurate overview of racism and ethnic discrimination in the U.S.<br><br>Do NOT assign the **Upsetting‑Offensive** flag, regardless of what the query was.
-**Query:** <span class="query">islam</span><br><br>**Locale:** English (US)<br><br>**User Location:** New York, New York<br><br>**User Intent:** Find information about the religion of Islam.|![islam search result example 1](../images/img602.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)|The purpose of this page is to explain the author's belief that Islam is evil. The page seems to exist to promote intolerance or hate, and the content would likely offend many people.<br><br>This result should receive the **Upsetting‑Offensive** flag, regardless of what the query was.
-*(Same as above.)*|![islam search result example 2](../images/img604.jpg)<br>![not upsetting‑offensive](../images/no-flag.jpg)|This is a high-quality article on a reputable site, with an accurate summary of the major beliefs and practices of Islam.<br><br>Do NOT assign the **Upsetting‑Offensive** flag, regardless of what the query was.
+<div class="examples">
+<div class="example">
+
+**Query:** <span class="query">holocaust history</span>  
+**Locale:** English (US)  
+**User Location:** New York, NY  
+**User Intent:** Find historical information about the Holocaust.
+
+<div class="results">
+<div class="result">
+
+![holocaust search result example 1](../images/img593.jpg)  
+![upsetting-offensive](../images/upsetting-offensive.jpg)
+
+This result is a discussion of how to convince others that the Holocaust never happened. Because of the direct relationship between Holocaust denial and anti-Semitism, many people would consider it offensive.
+
+This result should receive the **Upsetting‑Offensive** flag, regardless of what the query was.
+
+</div>
+<div class="result">
+
+![holocaust search result example 2](../images/img595.jpg)  
+![not upsetting‑offensive](../images/no-flag.jpg)
+
+While the Holocaust itself is a potentially upsetting topic for some, this result is a factually accurate source of historical information. Furthermore, the page does not exist to promote hate or violence against a group of people, contain racial slurs, or depict graphic violence.
+
+Do NOT assign the **Upsetting‑Offensive** flag, regardless of what the query was.
+
+</div>
+</div>
+</div>
+<div class="example">
+
+**Query:** <span class="query">racism against blacks</span>  
+**Locale:** English (US)  
+**User Location:** New York, New York  
+**User Intent:** Find information, news, or other resources about racism against Black people.
+
+<div class="results">
+<div class="result">
+
+![racism against blacks search result example 1](../images/img598.jpg)  
+![upsetting-offensive](../images/upsetting-offensive.jpg)
+
+The purpose of this page is to argue that black people are inferior. It falsely represents a scientific study, and many people would consider it offensive.
+
+This result should receive the **Upsetting‑Offensive** flag, regardless of what the query was.
+
+</div>
+<div class="result">
+
+![racism against blacks search result example 2](../images/img600.jpg)  
+![not upsetting‑offensive](../images/no-flag.jpg)
+
+This Wikipedia page provides a well-informed and historically accurate overview of racism and ethnic discrimination in the U.S.
+
+Do NOT assign the **Upsetting‑Offensive** flag, regardless of what the query was.
+
+</div>
+</div>
+</div>
+<div class="example">
+
+**Query:** <span class="query">islam</span>  
+**Locale:** English (US)  
+**User Location:** New York, New York  
+**User Intent:** Find information about the religion of Islam.
+
+<div class="results">
+<div class="result">
+
+![islam search result example 1](../images/img602.jpg)  
+![upsetting-offensive](../images/upsetting-offensive.jpg)
+
+The purpose of this page is to explain the author's belief that Islam is evil. The page seems to exist to promote intolerance or hate, and the content would likely offend many people.
+
+This result should receive the **Upsetting‑Offensive** flag, regardless of what the query was.
+
+</div>
+<div class="result">
+
+![islam search result example 2](../images/img604.jpg)  
+![not upsetting‑offensive](../images/no-flag.jpg)
+
+This is a high-quality article on a reputable site, with an accurate summary of the major beliefs and practices of Islam.
+
+Do NOT assign the **Upsetting‑Offensive** flag, regardless of what the query was.
+
+</div>
+</div>
+</div>
+</div>
 
 ### Needs Met Rating for Upsetting‑Offensive Tolerant Queries
 
@@ -223,19 +524,71 @@ In particular, to receive a **Highly Meets** rating, informational results about
 
 Here are some examples of how to interpret user intent for queries about possibly Upsetting‑Offensive topics.
 
-Query|User Intent and Explanation
----|---
-<span class="query">are women evil</span>, English (US)|Users may want to understand why there is discrimination against women or why people may say "women are evil".
-<span class="query">women are evil</span>, English (US)|Assume the intent for this statement is the same as the question, "are women evil?" Users may want to understand why people would say "women are evil".
-<span class="query">did the holocaust happen?</span>, English (US)|Users want factually accurate information about the Holocaust or information about the issue of Holocaust denial.
-<span class="query">christians worship the devil</span>, English (US)|Users are looking for information about how Christians and the Christian church view the devil and whether Christians worship the devil.
-<span class="query">racist whites</span>, <span class="query">racist blacks</span>, (etc.), English (US)|Users are looking for information about racism among people belonging to the ethnicity mentioned in the query.
+- <span class="query">are women evil</span>, English (US)  
+  - Users may want to understand why there is discrimination against women or why people may say "women are evil".
+- <span class="query">women are evil</span>, English (US)  
+  - Assume the intent for this statement is the same as the question, "are women evil?" Users may want to understand why people would say "women are evil".
+- <span class="query">did the holocaust happen?</span>, English (US)  
+  - Users want factually accurate information about the Holocaust or information about the issue of Holocaust denial.
+- <span class="query">christians worship the devil</span>, English (US)  
+  - Users are looking for information about how Christians and the Christian church view the devil and whether Christians worship the devil.
+- <span class="query">racist whites</span>, <span class="query">racist blacks</span>, etc., English (US)  
+  - Users are looking for information about racism among people belonging to the ethnicity mentioned in the query.
 
 Here are some full rating examples. Remember that you should assign the Upsetting‑Offensive flag to all upsetting/offensive results, even if they satisfy the user intent.
 
-Query and User Intent|Result Block and LP, Needs Met Rating, E‑A‑T Rating, Flags
----|---
-**Query:** <span class="query">holocaust history</span><br><br>**Locale:** English (US)<br><br>**User Location:** Seattle, Washington<br><br>**User Intent:** Find historical information about the Holocaust.<br><br>**Important:** Though there are some upsetting/offensive results on the topic of this query, the query <span class="query">holocaust history</span> should not be considered an Upsetting‑Offensive tolerant query.|![](../images/img608.jpg)<br>![needs met scale - fails to meet](../images/failsm.jpg)![page quality scale - lowest - narrow range](../images/lowest-narrow.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)
-*(Same as above.)*|![](../images/img612.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)![page quality scale - high - narrow range](../images/high-narrow.jpg)<br>![not upsetting‑offensive](../images/no-flag.jpg)
-**Query:** <span class="query">stormfront.org</span><br><br>**Locale:** English (US)<br><br>**User Location:** New York, New York<br><br>**User Intent:** Go to the homepage of the website Stormfront.org.|![](../images/img616.jpg)<br>![needs met scale - fully meets](../images/fullym.jpg)![page quality scale - lowest - narrow range](../images/lowest-narrow.jpg)<br>![upsetting-offensive](../images/upsetting-offensive.jpg)
-*(Same as above.)*|![](../images/img620.jpg)<br>![needs met scale - fails to meet](../images/failsm.jpg)![page quality scale - medium - narrow range](../images/medium-narrow.jpg)<br>![not upsetting‑offensive](../images/no-flag.jpg)
+<div class="examples">
+<div class="example">
+
+**Query:** <span class="query">holocaust history</span>  
+**Locale:** English (US)  
+**User Location:** Seattle, Washington  
+**User Intent:** Find historical information about the Holocaust.  
+**Important:** Though there are some upsetting/offensive results on the topic of this query, the query <span class="query">holocaust history</span> should not be considered an Upsetting‑Offensive tolerant query.
+
+<div class="results">
+<div class="result">
+
+![](../images/img608.jpg)  
+![needs met scale - fails to meet](../images/failsm.jpg)  
+![page quality scale - lowest - narrow range](../images/lowest-narrow.jpg)  
+![upsetting-offensive](../images/upsetting-offensive.jpg)
+
+</div>
+<div class="result">
+
+![](../images/img612.jpg)  
+![needs met scale - highly meets](../images/hm.jpg)  
+![page quality scale - high - narrow range](../images/high-narrow.jpg)  
+![not upsetting‑offensive](../images/no-flag.jpg)
+
+</div>
+</div>
+</div>
+<div class="example">
+
+**Query:** <span class="query">stormfront.org</span>  
+**Locale:** English (US)  
+**User Location:** New York, New York  
+**User Intent:** Go to the homepage of the website Stormfront.org.
+
+<div class="results">
+<div class="result">
+
+![](../images/img616.jpg)  
+![needs met scale - fully meets](../images/fullym.jpg)  
+![page quality scale - lowest - narrow range](../images/lowest-narrow.jpg)  
+![upsetting-offensive](../images/upsetting-offensive.jpg)
+
+</div>
+<div class="result">
+
+![](../images/img620.jpg)  
+![needs met scale - fails to meet](../images/failsm.jpg)  
+![page quality scale - medium - narrow range](../images/medium-narrow.jpg)  
+![not upsetting‑offensive](../images/no-flag.jpg)
+
+</div>
+</div>
+</div>
+</div>
