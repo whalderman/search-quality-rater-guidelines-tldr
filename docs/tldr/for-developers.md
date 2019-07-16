@@ -2,42 +2,37 @@
 
 Here we go over various optimizations that can (and should) be made to a site, as well as some tools that can be used.
 
-> Disclaimer: The following content includes opinions and reasoning from the SEO professionals at [Bruce Clay Japan Inc.](https://bruceclay.jpn.com) These opinions and suggestions attempt to summarize Google's Quality Rater Guidelines, but are **not in any way** endorsed or backed by Google.
+<div class="note">
 
-## Understanding Webpages and Websites
+Disclaimer: The following content includes opinions and reasoning from the SEO professionals at [Bruce Clay Japan Inc.](https://bruceclay.jpn.com) These opinions and suggestions attempt to summarize Google's Quality Rater Guidelines, but are **not in any way** endorsed or backed by Google.
 
-Subdomains made for different purposes (like **finance**.yahoo.com and **sports**.yahoo.com) are more likely to be considered separate websites.
+</div>
 
-Every page on the website must be created with the intention of **helping users**. Building pages to take advantage of users (deceptive ad placement, crypto mining) will negatively affect the site's rank.
+## A Few Quick Tips
 
-Ensure that the `<h1>` tag on each page **accurately summarizes** the page's [main content](/qrg/page-quality-rating-guideline/2-understanding-webpages-and-websites.html#identifying-the-main-content-mc).
+::: tip
 
-::: tip Make sure your site's logo always links to the home page.
-Google uses the logo of a website (if it is hyperlinked) as a strong indicator of a website's home page.
+- Every page on the website must be created with the intention of **helping users**. Building pages to take advantage of users (deceptive ad placement, crypto mining) will negatively affect your site's ability to rank.
+
+- When generating pages with content and information from a database, ensure that the `<h1>` tag on each page **accurately summarizes** the page's [main content](/qrg/page-quality-rating-guideline/2-understanding-webpages-and-websites.html#identifying-the-main-content-mc).
+
+- Google uses the logo of a website (if it is hyperlinked) as a strong indicator of a website's home page.
+
+- If your site or its content creators/authors receive any awards, show them off by linking to them from the site's "About" page.
 :::
 
-For example, if you have a blog/documentation/FAQs/etc. on a separate subdomain, with a website logo pointing to the home page of the separate subdomain, Google is more likely to treat your subdomain and main site as separate -- which is rarely desired.
+## HTTP/2 and Beyond
 
-::: tip Show off those awards.
-If your site has received any awards, show them off by linking to them on the site's "About" page.
-:::
-
-::: tip Automate the optimization of images.
-Images are often a website's biggest use of bandwidth - and bandwidth costs users money.
-
-Save yourself and your users' time by implementing automated image optimization.
-:::
+Many sites have yet to upgrade to newer protocols like HTTP/2 and HTTP/3. 
 
 ## Pages That Should Not Be Indexed
 
 Ideally, the page types below should not be indexed (and oftentimes should not even be crawlable).
 
-> 🤖 = meta robots inclusion/exclusion can be automated
-
-- 🤖 Pages with no content
-- 🤖 Receipt pages
-- 🤖 Search pages (e.g. https://www.bruceclay.com/?s=seo&id=m)
-- 🤖 Q&A pages without any answers
+- Pages with no content
+- Receipt pages
+- Search pages (e.g. [https://www.bruceclay.com/?s=seo&id=m](https://www.bruceclay.com/?s=seo&id=m))
+- Q&A pages without any answers
 - Pages giving dangerous advice
 
 Avoiding indexation simply requires the following meta tag to be added to the page.
@@ -48,13 +43,32 @@ Avoiding indexation simply requires the following meta tag to be added to the pa
 
 If preferred, you could instead use the HTTP `X-Robots-Tag` header:
 
+<div class="note">
+
+This is the only way to remove non-XML files, such as PDFs, from search results.
+
+</div>
+
 ``` http
 X-Robots-Tag: noindex
 ```
 
+## Resource Caching
+
+::: tip Setup cache-control
+Cache-Control
+
+:::
+
 ## Image Optimization
 
-Image optimization is often one of the most tedious, most important areas of optimization.
+::: tip Automate image optimization
+Images are often a website's biggest use of bandwidth - and bandwidth costs users money.
+
+In most parts of the world, and especially regarding cell phones, users do not or cannot pay for unlimited data. Save yourself and your users' time and money by implementing automated image optimization.
+:::
+
+Image optimization is one of the most difficult, yet most important areas of optimization. Instead of image size and mobile responsiveness we focus on image format
 
 ### Image Optimization Libraries
 
@@ -93,3 +107,4 @@ Some image optimization tools and programs include:
 - [XnConvert](https://www.xnview.com/en/xnconvert/) (Mac OS, Windows, *nix)
   - Highly configurable
   - More challenging to use
+  - Able to convert images to modern formats like [`.webp`](https://developers.google.com/speed/webp/) and `.jp2`.
