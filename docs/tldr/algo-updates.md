@@ -4,7 +4,9 @@
 
 > Based on research by [Eric Lancheres](https://www.mytrafficresearch.com/learn/june-2019-google-core-update/).
 
-### Focus on Links
+### High-Level Overview
+
+Focus on links.
 
 ::: tip Increase (through natural means)
 
@@ -21,7 +23,9 @@ Sites with fewer backlinks and referring domains have been damaged by this updat
 
 > Based on research by [Eric Lancheres](https://www.mytrafficresearch.com/learn/march-2019-core-update/).
 
-### Focus on User Experience
+### High-Level Overview
+
+Focus on user experience (UX).
 
 ::: tip Improve
 
