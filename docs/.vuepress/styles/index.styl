@@ -42,33 +42,33 @@ a.header-anchor
 .line-number, code, kbd
   font-family "source-code-pro", "Menlo", "Monaco", "Consolas", "Courier New", "Meiryo", "メイリオ", monospace
 
-.custom-block.danger
-  background-color #ffe6e6
-  border-color #c00
-  color #690000
-  .custom-block-title
-    color #900
-
-.custom-block.warning 
-  background-color #ffe5644d
-  border-color #e7c000
-  color #423700
-  .custom-block-title
-    color #635200
-
-.custom-block.tip
-  background-color #e9f6ff
-  border-color #0071ba
-  color #00356b
-  .custom-block-title
-    color #0051a2
-
-.custom-block.tip, .custom-block.warning, .custom-block.danger
-  padding 0.1rem 1.5rem
-  border-left-width 0.5rem
-  border-left-style solid
-  margin 1rem 0
-  border-radius 20px 0 0 0
+.custom-block
+  &.tip, &.warning, &.danger
+    padding 0.125rem 1.5rem
+    border-left-width 0.25rem
+    border-left-style solid
+    margin 1rem 0
+    border-radius 20px 0 0 0
+    .custom-block-title
+      font-size 110%
+  &.warning 
+    background-color #ffe5644d
+    border-color #e7c000
+    color #423700
+    .custom-block-title
+      color #635200
+  &.tip
+    background-color #e9f6ff
+    border-color #0071ba
+    color #00356b
+    .custom-block-title
+      color #0051a2
+  &.danger
+    background-color #ffe6e6
+    border-color #c00
+    color #690000
+    .custom-block-title
+      color #900
 
 .query
   border-left 1pt solid #0071ba
@@ -117,9 +117,17 @@ a.header-anchor
 .example:last-child
   border none
 
+.note
+  font-size 1rem
+  color #555
+  border-left 0.1875rem solid #dfe2e5
+  margin 1rem 0
+  padding 0 0 0 1rem
+
 blockquote
-  color #036356
-  border-left 0.2rem solid #036356
+  color #333
+  border-left 0.1875rem solid
+  border-image linear-gradient(#ea4335, #ea4335 25%, #fbbc05 25%, #fbbc05 50%, #34a853 50%, #34a853 75%, #4285f4 75%) 1
   background linear-gradient(90deg, #f4f4f4, #0000)
 
 .page-edit .last-updated .time
@@ -130,34 +138,3 @@ blockquote
 
 .page-edit .edit-link a
   color #3f5a75 !important
-
-.table-3-4-3 > table > * > tr
-  > td:nth-child(1)
-    width 30%
-  > td:nth-child(2)
-    width 40%
-
-.table-1-2-1 > table > * > tr
-  > td:nth-child(1)
-    width 25%
-  > td:nth-child(2)
-    width 50%
-
-.table-3-7 > table > * > tr
-  > td:nth-child(1)
-    width 30%
-
-.table-1-1 > table > * > tr
-  > td:nth-child(1)
-    width 50%
-
-.table-1-1-1-1
-  > table > * > tr
-    > td:nth-child(0)
-      width 10%
-    > td:nth-child(1)
-      width 40%
-    > td:nth-child(2)
-      width 30%
-    > td:nth-child(3)
-      width 20%
