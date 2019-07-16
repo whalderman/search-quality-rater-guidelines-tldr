@@ -37,7 +37,7 @@
 ![](../images/img750.jpg)  
 ![needs met scale - highly meets](../images/hm.jpg)  
 ![page quality scale - medium - narrow range](../images/medium-narrow.jpg)  
-このページには、LinkedInというサイトの“Micheal Jordan”という名前のすべてのメンバーが掲載されている。LinkedInは、アメリカの専門家向けの非常に人気のあるSNSである。この結果は、「Micheal Jordan」という名前の情報を見つけようとする多くのユーザーにとって非常に役に立つ。"
+このページには、LinkedInというサイトの「Micheal Jordan」という名前のすべてのメンバーが掲載されている。LinkedInは、アメリカの専門家向けの非常に人気のあるSNSである。この結果は、「Micheal Jordan」という名前の情報を見つけようとする多くのユーザーにとって非常に役に立つ。
 
 </div>
 <div class="result">
