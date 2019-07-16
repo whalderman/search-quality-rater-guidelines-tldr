@@ -9,7 +9,11 @@ meta:
 
 Here we try to keep things as concise as possible, informing you about what to check your site for and which team needs to handle the problem if it isn't obvious.
 
-> Disclaimer: The following content includes opinions and reasoning from the SEO professionals at [Bruce Clay Japan Inc.](https://bruceclay.jpn.com) These opinions and suggestions attempt to summarize Google's Quality Rater Guidelines, but are **not in any way** endorsed or backed by Google.
+<div class="note">
+
+Disclaimer: The following content includes opinions and reasoning from the SEO professionals at [Bruce Clay Japan Inc.](https://bruceclay.jpn.com) These opinions and suggestions attempt to summarize Google's Quality Rater Guidelines, but are **not in any way** endorsed or backed by Google.
+
+</div>
 
 ## General Guidelines Overview
 

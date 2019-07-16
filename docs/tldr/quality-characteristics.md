@@ -38,7 +38,11 @@ The examples listed below are pulled **only** from what we could find within Goo
 
 ## 📖 Encyclopedia Webpages
 
-> Reputation and E-A-T of both the website and the authors of the MC is extremely important.
+<div class="note">
+
+Reputation and E-A-T of both the website and the authors of the MC is extremely important.
+
+</div>
 
 ::: tip High-Quality Characteristics
 
@@ -71,7 +75,11 @@ While error pages may not be the most exciting part of a website, they are still
 
 ## 💵 Financial Pages
 
-> Reputation and E-A-T of both the website and the authors of the MC is extremely important.
+<div class="note">
+
+Reputation and E-A-T of both the website and the authors of the MC is extremely important.
+
+</div>
 
 ::: tip High-Quality Characteristics
 
@@ -85,7 +93,11 @@ While error pages may not be the most exciting part of a website, they are still
 
 ## 💬 Forum and Q&A Webpages
 
-> Reputation and E-A-T of both the website and the authors of the MC is extremely important.
+<div class="note">
+
+Reputation and E-A-T of both the website and the authors of the MC is extremely important.
+
+</div>
 
 ::: tip High-Quality Characteristics
 
@@ -116,7 +128,11 @@ While error pages may not be the most exciting part of a website, they are still
 
 ## ℹ️ Informational Webpages
 
-> Reputation and E-A-T of both the website and the authors of the MC is extremely important.
+<div class="note">
+
+Reputation and E-A-T of both the website and the authors of the MC is extremely important.
+
+</div>
 
 ::: tip High-Quality Characteristics
 
@@ -136,7 +152,11 @@ While error pages may not be the most exciting part of a website, they are still
 
 ## 🏥 Medical Pages
 
-> Reputation and E-A-T of both the website and the authors of the MC is extremely important.
+<div class="note">
+
+Reputation and E-A-T of both the website and the authors of the MC is extremely important.
+
+</div>
 
 ::: tip High-Quality Characteristics
 
@@ -151,7 +171,11 @@ While error pages may not be the most exciting part of a website, they are still
 
 ## 📰 News Webpages
 
-> Reputation and E-A-T of both the website and the authors of the MC is extremely important.
+<div class="note">
+
+Reputation and E-A-T of both the website and the authors of the MC is extremely important.
+
+</div>
 
 ::: tip High-Quality Characteristics
 
@@ -184,7 +208,11 @@ While error pages may not be the most exciting part of a website, they are still
 
 ## 🛒 Shopping Webpages
 
-> For many products, reputation and E-A-T of the website is extremely important.
+<div class="note">
+
+For many products, reputation and E-A-T of the website is extremely important.
+
+</div>
 
 Some example Your Money or Your Life ([YMYL](/qrg/page-quality-rating-guideline/2-understanding-webpages-and-websites.html#your-money-or-your-life-ymyl-pages)) products:
 
@@ -218,7 +246,11 @@ Some example Your Money or Your Life ([YMYL](/qrg/page-quality-rating-guideline/
 
 ## 🎬 Video Webpages
 
-> Reputation and E-A-T of both the website and the creators of the MC is extremely important.
+<div class="note">
+
+Reputation and E-A-T of both the website and the creators of the MC is extremely important.
+
+</div>
 
 ::: tip High-Quality Characteristics
 
