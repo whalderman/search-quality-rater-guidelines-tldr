@@ -48,7 +48,7 @@ We expect Ads and SC to be visible. However, some Ads, SC, or [interstitial page
 
 A single pop­-over Ad or interstitial page with a clear and easy­ to ­use close button is not terribly distracting, though may not be a great user experience. However, difficult to ­close Ads that follow page scrolls, or interstitial pages that require an app download, can be truly distracting and make the MC difficult to use. You can see examples of interstitial pages [here](https://webmasters.googleblog.com/2016/08/helping-users-easily-access-content-on.html).
 
-The content of the Ads, SC, or other features may be distracting as well: sexually suggestive images such as [here](https://guidelines.raterhub.com/images/quotes-page.jpg), grotesque images such as [here](https://guidelines.raterhub.com/images/quotes-page.jpg), and porn Ads on non-porn pages should be considered very distracting.
+The content of the Ads, SC, or other features may be distracting as well: sexually suggestive images such as [here](https://guidelines.raterhub.com/images/CheeseCakeRecipe.jpg), grotesque images such as [here](https://guidelines.raterhub.com/images/quotes-page.jpg), and porn Ads on non-porn pages should be considered very distracting.
 
 Finally, Ads and SC can be distracting if the titles or images of the Ads or SC are shocking or disturbing. [Here](https://guidelines.raterhub.com/images/PQexamples-misleading-titles-Ads-SC.jpg) is an example of a page with shocking and exaggerated titles, images, and text in the Ads and SC.
 

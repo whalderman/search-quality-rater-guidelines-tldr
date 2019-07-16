@@ -48,7 +48,7 @@
 
 ユーザー体験を向上させるものではありませんが、明確で使いやすい閉じるボタンを持つ単一のポップオーバー広告やインターステーシャルページはそれほどひどく気を散らすものではありません。しかし、閉じるのが難しい、ページのスクロールについてくる広告やアプリのダウンロードが必要なインターステーシャルページは、非常に気を散らし、メインコンテンツを使いにくくします。インターステーシャルページの例を[ここ](https://webmaster-ja.googleblog.com/2016/08/helping-users-easily-access-content-on.html)から見ることができます。
 
-広告や補助的コンテンツ、その他の機能の内容もユーザーの気をそらす可能性があります。性的な画像（[例](https://guidelines.raterhub.com/images/quotes-page.jpg)）、グロテスクな画像（[例](https://guidelines.raterhub.com/images/quotes-page.jpg)）を含むものやポルノページ以外でのポルノ広告は非常に気を散らすものと見られます。
+広告や補助的コンテンツ、その他の機能の内容もユーザーの気をそらす可能性があります。性的な画像（[例](https://guidelines.raterhub.com/images/CheeseCakeRecipe.jpg)）、グロテスクな画像（[例](https://guidelines.raterhub.com/images/quotes-page.jpg)）を含むものやポルノページ以外でのポルノ広告は非常に気を散らすものと見られます。
 
 最後に、広告や補助的コンテンツのタイトルや画像が衝撃的または邪魔になるようなものの場合も、それらがユーザーの気をそらすことがあります。[これ](https://guidelines.raterhub.com/images/PQexamples-misleading-titles-Ads-SC.jpg)は広告や補助的コンテンツに表示される衝撃的で誇張されたタイトル、画像、およびテキストを含むページの一例です。
 
