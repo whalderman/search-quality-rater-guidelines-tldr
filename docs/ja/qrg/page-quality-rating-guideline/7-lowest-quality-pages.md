@@ -220,29 +220,29 @@ Webマスターによる維持、管理が全くされていないサイトも�
 
 また、陰謀説について調べてください。事実確認サイトはインターネットによって日々生み出される大量の陰謀説を網羅することができません。陰謀説の中には、相対する情報が不正確であるとするものもあるため、虚偽の情報であると断言できないものもあります。その主張や陰謀説が明らかに不可能で、信頼できる情報源によって検証することができないのであれば、根拠のないものと考えてください。
 
-## Pages that Potentially Deceive Users
+## ユーザーを欺く可能性のあるページ
 
-We will consider a page to be "deceptive" if it may deceive users or trick search engines. All deceptive pages should be rated **Lowest**.
+検索エンジンやユーザーを欺く可能性のあるページは、「欺瞞的」なページとみなされます。欺瞞的なページはすべて**Lowest**の評価が適用されます。
 
-The following sections describe characteristics of deceptive pages. However, no list of deceptive characteristics will be completeーdeceptive websites continue to evolve as users and search engines figure out how they are being tricked.
+以下で、欺瞞的なページの特徴についてお伝えします。しかし、このリストは完全なものではありません。ユーザーや検索エンジンが人々を欺くウェブサイトを発見する一方で、欺瞞的なウェブサイトは進化し続けていきます。
 
-With practice, you will be able to identify deceptive pages accurately.
+練習すれば、欺瞞的なページを正確に識別できます。
 
-### Deceptive Page Purpose
+### 欺瞞的なページの目的
 
-Some pages are deliberately created to deceive users, for example:
+世の中には、意図的にユーザーを欺くために作成されたページが存在します。以下に例をあげます。
 
-- **A webpage or website that impersonates a different site (e.g., copied logo or branding of an **unaffiliated site, URL that mimics another site's name, etc.).
-- **A non-satirical social network profile made by an impersonator.**
-- **A webpage or website that looks like a news source or information page, but in fact has **articles to manipulate users in order to benefit a person, business, government, or other organization politically, monetarily, or otherwise.
-- **A webpage claims to offer an independent review or share other information about a product, but **is in fact created to make money for the owner of the website without attempting to help users. For example, the MC may contain intentionally misleading or inaccurate information created with the sole purpose of getting users to click on monetized links or buy the product.
-- **A website claims to be the personal website of a celebrity, but the website is actually created **to make money for the owner of the website without the permission of the celebrity. For example, the page may have false testimonials for a product and is created for the sole purpose of getting users to click on monetized links or buy the product.
-- **A webpage with a misleading title or a title that has nothing to do with the content on the **page. Users who come to the page expecting content related to the title will feel tricked or deceived.
-- **A webpage or website with deceptive website information. For example, the website may **misrepresent who owns the site, what the website purpose really is, how the content was created, how to contact the site, etc.
+- 別のサイトに偽装したWebページまたはWebサイト（関連のないサイトのロゴや商標の模倣、別のサイトの名前を模したURLなど）
+- なりすましによって作成された非風刺的なソーシャルネットワーク情報
+- 政治的、金銭的、またはその他の方法で、個人、企業、政府、またはその他の組織に利益をもたらすためにユーザーを操作する記事を保有している、ニュースページまたは情報ページのように見えるWebページまたはWebサイト
+- 独自のレビューの掲載や製品に関する情報の提供を謳っているが、実際には金銭授受によってユーザーのためにならない情報を掲載しているウェブサイト（収益のためのリンクや製品を購入させるために作られた、わざと誤解を招く情報や間違った情報を掲載したサイトなど）
+- お金を稼ぐために、本人の許可なく運営している有名人のウェブサイトを騙るサイト（商品の偽の紹介文の記載やメインコンテンツの中に収益のためのリンクや製品を購入させるために作られたサイトなど）
+- 誤解を招くようなタイトルまたはページ上のコンテンツとは無関係のタイトルを含むWebページ。タイトルに関連するコンテンツを期待してページに来たユーザーは、だまされたように感じます。
+- 間違ったWebサイト情報を含むWebページまたはWebサイト（サイトの所有者、Webサイトの目的、コンテンツの作成方法、サイトへの連絡方法などの情報の誤った掲載など）
 
-Any page or website that may deceive or trick users should be rated **Lowest**, regardless of intent. Use the **Lowest** rating even if you cannot see a reason for the deception or even if you think most users wouldn't "fall" for the trick.
+意図的かどうかに関わらず、ユーザーをだます可能性のあるページまたはWebサイトは、**Lowest**評価となります。サイトが詐欺を行う理由が不明な場合や多くのユーザーがだまされないと思われる場合においても、**Lowest**評価が適用されます。
 
-You should also use the **Lowest** rating if you suspect a page is deceptive, even if you're not able to completely confirm it. Please exercise caution and practice good Internet safety skills since deceptive pages may be malicious.
+たとえ確実性がなかったとしても、欺瞞的なページであると考えられるときは**Lowest**評価となります。欺瞞的なページは悪意のあるものである可能性が高いため、注意を払うことやインターネットの安全性に関するスキルを磨くことが必要です。
 
 ### 欺瞞的なページ設計
 
@@ -250,10 +250,10 @@ You should also use the **Lowest** rating if you suspect a page is deceptive, ev
 
 次に挙げるような種類のページはユーザーが期待しているものを得られないため、Googleは欺瞞的なページであるとみなす。ユーザーの役に立つMCを提供する努力が殆ど／全く見られず、意図的にユーザーを操作する設計となっているページは、Lowest評価となる。よくあるタイプの欺瞞的ページの例は、以下の通り。
 
-- ****広告をMCに見せかけるページ。** 実際のMCは最小限に抑えられているか、ユーザーに広告をクリックさせる為に**作られたものである。例えば**嘘の検索ページ**（[例](https://guidelines.raterhub.com/images/PQ.2.3.16.jpg)）。実際は検索結果ページのように見えるリンクの一覧である。リンクのいくつかをクリックすると、そのページが検索エンジンの結果として偽装された単なる広告の集合ページであると分かる。"検索ボックス"もあるが、新しいクエリを入力すると検索結果のように見せかけた違うページ（広告）が表示される。
-- ****広告をサイトのナビゲーションリンクのように偽装しているページ。** 例えば、**嘘のディレクトリページ**（**[例](https://guidelines.raterhub.com/images/PQ.2.1.15.jpg)）。独特な説明文がついていることもあり、個人的に厳選された役に立つリンク集のように見える。実際にはそのリンクは広告であるか、またはサイト内の他の似たページへのリンクである。リンクの説明文は、そのページに無関係である場合もある。
-- ****MCが使用不可、または表示されないページ。** ページの上部（MCの前）に大量の広告があるため、多くのユーザ**ーがMCを見ることが出来ないページや、MCが目に見えないテキストで記載されているページが例として挙げられる。
-- ****Any page designed to trick users into clicking on links**, which may be Ads or other links **intended to serve the needs of the website rather than to the benefit of the user.
+- 広告をMCに見せかけるページ。 実際のMCは最小限に抑えられているか、ユーザーに広告をクリックさせる為に作られたものである。例えば嘘の検索ページ（[例](https://guidelines.raterhub.com/images/PQ.2.3.16.jpg)）。実際は検索結果ページのように見えるリンクの一覧である。リンクのいくつかをクリックすると、そのページが検索エンジンの結果として偽装された単なる広告の集合ページであると分かる。"検索ボックス"もあるが、新しいクエリを入力すると検索結果のように見せかけた違うページ（広告）が表示される。
+- 広告をサイトのナビゲーションリンクのように偽装しているページ。 例えば、嘘のディレクトリページ（[例](https://guidelines.raterhub.com/images/PQ.2.1.15.jpg)）。独特な説明文がついていることもあり、個人的に厳選された役に立つリンク集のように見える。実際にはそのリンクは広告であるか、またはサイト内の他の似たページへのリンクである。リンクの説明文は、そのページに無関係である場合もある。
+- MCが使用不可、または表示されないページ。 ページの上部（MCの前）に大量の広告があるため、多くのユーザーがMCを見ることが出来ないページや、MCが目に見えないテキストで記載されているページが例として挙げられる。
+- ユーザーにリンクをクリックさせるように設計されたページ。ユーザーのためではなく、Webサイトの利益を目的とした広告またはその他のリンクなどがあげられる。
 
 ページをよく見て判断すること。そのページがユーザーの役に立つ為ではなく、広告や収益化に繋がるリンク、怪しいダウンロードリンクなどをユーザーにクリックさせる為に意図的に作成されたページだった場合、**Lowest**評価とすべきである。
 
@@ -311,15 +311,15 @@ MCには、ニビル惑星についてのバチカンの情報や宇宙人の存
 </div>
 <div class="example">
 
-**Webページ／コンテンツの種類：**[Lowest: Potentially misinform users – Unsubstantiated conspiracy theory video](https://guidelines.raterhub.com/images/lizard-m.jpg)（YMYL）
+**Webページ／コンテンツの種類：**[ユーザーの誤解を招く-根拠のない陰謀論ビデオ](https://guidelines.raterhub.com/images/lizard-m.jpg)（YMYL）
 
 <div class="results">
 <div class="result">
 
 **最低の特徴**
 
-- **Presents unsubstantiated conspiracy theories as if the information were factual**
-- **Lowest quality MC: unsubstantiated conspiracy theory**
+- **情報が事実であるかのように、根拠のない陰謀説を提示する**
+- **最低品質なMC：根拠のない陰謀論**
 
 </div>
 <div class="result">
@@ -328,23 +328,23 @@ MCには、ニビル惑星についてのバチカンの情報や宇宙人の存
 
 ![lowest quality][lest]
 
-This video describes the unsubstantiated and outlandish conspiracy theory that shape-shifting lizard people interbred with humans and are now running the world via government, monetary, and religious organizations.
+トカゲの人々が姿を変えて人間と交わり、現在は政治的、経済的、そして宗教的団体を通して世界を牛耳っている、という根拠のない陰謀説を唱えているビデオ。
 
-The video has high production quality, and some viewers may find it funny or entertaining. However, the video could appear to be informational and should be rated Lowest.
+高品質のビデオのため、視聴する人々の中にはそれを面白く感じたりワクワクしたりする人がいるかもしれません。しかし、ビデオは情報源とされる可能性があるため、最低評価とする必要があります。
 
 </div>
 </div>
 </div>
 <div class="example">
 
-**Webページ／コンテンツの種類：**[Lowest: Promotes hate or violence – Hate organization homepage](https://guidelines.raterhub.com/images/stft-m.jpg)
+**Webページ／コンテンツの種類：**[憎悪や暴力の助長-憎悪団体のホームページ](https://guidelines.raterhub.com/images/stft-m.jpg)
 
 <div class="results">
 <div class="result">
 
 **最低の特徴**
 
-- **Promotes hate or violence towards a group of people**
+- **あるグループや人々への憎悪や暴力を助長する**
 
 </div>
 <div class="result">
@@ -353,21 +353,21 @@ The video has high production quality, and some viewers may find it funny or ent
 
 ![lowest quality][lest]
 
-The Stormfront website promotes white supremacist ideology and is considered to be a hate site/group by many organizations and articles, including: Anti-Defamation League, Fox News article, USA Today article, Pew Research Center, etc.
+Stormfrontのウェブサイトは白人至上主義者のイデオロギーを宣伝しており、[Anti-Defamation League](https://guidelines.raterhub.com/images/adl-s.jpg)、[Fox News article](https://guidelines.raterhub.com/images/fn-article.jpg)、[USA Today article](https://guidelines.raterhub.com/images/usat-article.jpg)、[Pew Research Center](https://guidelines.raterhub.com/images/prc.jpg)などの多くの組織や記事において、憎悪サイト/グループと見なされています。
 
 </div>
 </div>
 </div>
 <div class="example">
 
-**Webページ／コンテンツの種類：**[Lowest: Deceptive page purpose – Social media profile](https://guidelines.raterhub.com/images/ten_gop-t.jpg)（YMYL）
+**Webページ／コンテンツの種類：**[欺瞞的なページの目的-ソーシャルメディア情報](https://guidelines.raterhub.com/images/ten_gop-t.jpg)（YMYL）
 
 <div class="results">
 <div class="result">
 
 **最低の特徴**
 
-- **Deceptive purpose: non-satirical page made by an impersonator**
+- **詐欺目的：なりすましによって作成された非風刺的なページ**
 
 </div>
 <div class="result">
@@ -376,7 +376,7 @@ The Stormfront website promotes white supremacist ideology and is considered to 
 
 ![lowest quality][lest]
 
-This Twitter profile page (username TEN_GOP) was created to impersonate the Tennessee Republican Party (username TNGOP). For more information, see this article: Fake Tennessee GOP Twitter account highlighted in indictment of 13 Russians.
+このTwitterプロフィールページ（ユーザー名TEN_GOP）は、テネシー共和党（ユーザー名TNGOP）を装うために作成されました。詳細については、この記事を参照してください：[Fake Tennessee GOP Twitter account highlighted in indictment of 13 Russians](https://guidelines.raterhub.com/images/fake-account.jpg)。
 
 </div>
 </div>
