@@ -356,7 +356,7 @@ The video has high production quality, and some viewers may find it funny or ent
 
 ![lowest quality][lest]
 
-The Stormfront website promotes white supremacist ideology and is considered to be a hate site/group by many organizations and articles, including: Anti-Defamation League, Fox News article, USA Today article, Pew Research Center, etc.
+The Stormfront website promotes white supremacist ideology and is considered to be a hate site/group by many organizations and articles, including: [Anti-Defamation League](https://guidelines.raterhub.com/images/adl-s.jpg), [Fox News article](https://guidelines.raterhub.com/images/fn-article.jpg), [USA Today article](https://guidelines.raterhub.com/images/usat-article.jpg), [Pew Research Center](https://guidelines.raterhub.com/images/prc.jpg), etc.
 
 </div>
 </div>
@@ -379,7 +379,7 @@ The Stormfront website promotes white supremacist ideology and is considered to 
 
 ![lowest quality][lest]
 
-This Twitter profile page (username TEN_GOP) was created to impersonate the Tennessee Republican Party (username TNGOP). For more information, see this article: Fake Tennessee GOP Twitter account highlighted in indictment of 13 Russians.
+This Twitter profile page (username TEN_GOP) was created to impersonate the Tennessee Republican Party (username TNGOP). For more information, see this article: [Fake Tennessee GOP Twitter account highlighted in indictment of 13 Russians](https://guidelines.raterhub.com/images/fake-account.jpg).
 
 </div>
 </div>
