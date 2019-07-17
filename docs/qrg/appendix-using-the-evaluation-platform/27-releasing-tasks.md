@@ -30,4 +30,8 @@ Here are some examples for the "lack expertise" and "technical problem" release 
 
 ![](../images/img854.jpg)
 
-*Note: Based on the number and/or type of tasks that you release, you may be asked to provide additional details about the reason for some of the releases.*
+<div class="note">
+
+Note: Based on the number and/or type of tasks that you release, you may be asked to provide additional details about the reason for some of the releases.
+
+</div>

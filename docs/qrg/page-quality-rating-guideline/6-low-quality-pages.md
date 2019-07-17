@@ -22,7 +22,11 @@ If a page has multiple **Low** quality attributes, a rating lower than **Low** m
 - The website is not an authoritative source for the topic of the page, e.g. tax information on a cooking website.
 - The MC is not trustworthy, e.g. a shopping checkout page that has an insecure connection.
 
-*Note: Websites with user-generated content span the Page Quality rating spectrum. Please pay careful attention to websites that allow users to publish content with little oversight, such as social networking pages, video sharing websites, volunteer-created encyclopedias, article sharing websites, forums, etc. Depending on the topic, pages on these websites may lack E‑A‑T.*
+<div class="note">
+
+Note: Websites with user-generated content span the Page Quality rating spectrum. Please pay careful attention to websites that allow users to publish content with little oversight, such as social networking pages, video sharing websites, volunteer-created encyclopedias, article sharing websites, forums, etc. Depending on the topic, pages on these websites may lack E‑A‑T.
+
+</div>
 
 **Important:** The **Low** rating should be used if the page lacks appropriate E‑A‑T for its purpose.
 

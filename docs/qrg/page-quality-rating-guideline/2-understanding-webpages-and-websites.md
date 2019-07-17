@@ -12,7 +12,11 @@ A **URL** is a character string that your web browser uses to "find" and display
 
 A **website** or **site** is a group of World Wide Web pages usually containing hyperlinks to each other and made available online by an individual, company, educational institution, government, or organization. Popular websites include Facebook, Wikipedia, Yahoo, YouTube, etc.
 
-*Note: In these guidelines, we will use the word "website" to refer to a collection of pages owned and controlled by a single entity (individual, business, etc.). But we will also use "website" to refer to major "independent" sections (or hosts) of some websites that were created to achieve separate purposes. For example, the Yahoo website is organized into different sections (or hosts), such as Yahoo Finance (finance.yahoo.com), Yahoo Mail (mail.yahoo.com), Yahoo Sports (sports.yahoo.com), etc. Each of these has its own purpose. It's OK to refer to each of these sections as a website; for example, the Yahoo Finance website and the Yahoo Sports website. You may also refer to pages on Yahoo Finance or Yahoo Sports as belonging to the Yahoo website.*
+<div class="note">
+
+Note: In these guidelines, we will use the word "website" to refer to a collection of pages owned and controlled by a single entity (individual, business, etc.). But we will also use "website" to refer to major "independent" sections (or hosts) of some websites that were created to achieve separate purposes. For example, the Yahoo website is organized into different sections (or hosts), such as Yahoo Finance (finance.yahoo.com), Yahoo Mail (mail.yahoo.com), Yahoo Sports (sports.yahoo.com), etc. Each of these has its own purpose. It's OK to refer to each of these sections as a website; for example, the Yahoo Finance website and the Yahoo Sports website. You may also refer to pages on Yahoo Finance or Yahoo Sports as belonging to the Yahoo website.
+
+</div>
 
 A **homepage** of a website is the main page of the site. It is usually the first page that users see when the site loads. For example, [http://www.apple.com](http://www.apple.com) is the homepage of the Apple site, [http://www.yahoo.com](http://www.yahoo.com) is the homepage of the Yahoo company site, and [http://finance.yahoo.com](http://finance.yahoo.com) is the homepage of Yahoo Finance. You can usually find the homepage of a website by clicking on a "home" link or logo link on subpages of a website.
 
@@ -532,13 +536,21 @@ Here is how to research the reputation of the website:
     - <span class="query">"ibm.com" reviews -site:ibm.com</span>: A search for reviews of "ibm.com" that excludes pages on ibm.com.
     - For content creators, try searching for their name or alias.
 
-    *Note: When searching for reputation information, try to find sources that were not written or created by the website, the company itself, or the individual. For example, IBM might have official Facebook or Twitter pages that it closely maintains, which would not be considered independent sources of reputation information about the company. See [here](https://en.wikipedia.org/wiki/Wikipedia:Identifying_and_using_independent_sources) for a Wikipedia article on identifying and using independent sources.*
+<div class="note">
+
+    Note: When searching for reputation information, try to find sources that were not written or created by the website, the company itself, or the individual. For example, IBM might have official Facebook or Twitter pages that it closely maintains, which would not be considered independent sources of reputation information about the company. See [here](https://en.wikipedia.org/wiki/Wikipedia:Identifying_and_using_independent_sources) for a Wikipedia article on identifying and using independent sources.
+
+</div>
 
 3. Look for articles, reviews, forum posts, discussions, etc. written by people about the website. For businesses, there are many sources of reputation information and reviews. Here are some examples: [Yelp](https://guidelines.raterhub.com/images/PQ.ReputationResearchExampleWebsite1.jpg), [Better Business Bureau](https://guidelines.raterhub.com/images/PQ.ReputationResearchExampleWebsite3.jpg) (a nonprofit organization that focuses on the trustworthiness of businesses and charities), [Amazon](https://guidelines.raterhub.com/images/PQ.ReputationResearchExample4.jpg), and [Google Shopping](https://guidelines.raterhub.com/images/PQ.ReputationResearchExample5.jpg). You can try searching on specific sites to find reviews. For example, you can try <span class="query">ibm ite:bbb.org</span> or <span class="query">"ibm.com" site:bbb.org</span>.
 
     For content creators, look for biographical data and other sources that are not written by the individual.
 
-    *Note: You will sometimes find high ratings on the Better Business Bureau (BBB) website because there is very little data on the business, not because the business has a positive reputation. However, very low ratings on BBB are usually the result of multiple unresolved complaints. Please consider very low ratings on the BBB site to be evidence for a negative reputation.*
+<div class="note">
+
+    Note: You will sometimes find high ratings on the Better Business Bureau (BBB) website because there is very little data on the business, not because the business has a positive reputation. However, very low ratings on BBB are usually the result of multiple unresolved complaints. Please consider very low ratings on the BBB site to be evidence for a negative reputation.
+
+</div>
 
 4. See if there is a Wikipedia article or news article from a well-known news site. Wikipedia can be a good source of information about companies, organizations, and content creators. For example, try <span class="query">ibm site:en.wikipedia.org</span> or <span class="query">"ibm.com" site:en.wikipedia.org</span>. News articles and Wikipedia articles can help you learn about a company and may include information specific to reputation, such as awards and other forms of recognition, or also controversies and issues. Note that some Wikipedia articles include a message warning users that there are disagreements on some of the content, or that the content may be outdated. This may be an indication that additional research is necessary.
 
@@ -560,7 +572,11 @@ Here are some examples of reputation information:
 **Description:**  
 **Positive reputation information:** Users in the U.S. can obtain free credit reports on this website by providing their Social Security Number. Note that the Wikipedia article tells us that "AnnualCreditReport.com is the only federally mandated and authorized source for obtaining a free credit report."
 
-*Note: Almost every website will have complaints about customer service, so it is important to look at various sources and reviews in your reputation research.*
+<div class="note">
+
+Note: Almost every website will have complaints about customer service, so it is important to look at various sources and reviews in your reputation research.
+
+</div>
 
 </div>
 </div>

@@ -23,7 +23,11 @@ Here are the most important factors to consider when selecting an overall Page Q
 - **Website Information/information about who is responsible for the MC:** Find information about the website as well as the creator of the MC.
 - **Website Reputation/reputation about who is responsible for the MC:** Links to help with reputation research will be provided.
 
-*Note: Some tasks may ask you to view the page on your phone, but to do research (e.g., finding website information and reputation) on your desktop. Other tasks may ask you to do everything on desktop. Please follow instructions in the task.*
+<div class="note">
+
+Note: Some tasks may ask you to view the page on your phone, but to do research (e.g., finding website information and reputation) on your desktop. Other tasks may ask you to do everything on desktop. Please follow instructions in the task.
+
+</div>
 
 ## Expertise, Authoritativeness, and Trustworthiness (E‑A‑T)
 

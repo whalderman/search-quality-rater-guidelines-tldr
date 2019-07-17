@@ -23,15 +23,23 @@ The purpose of the page will help you determine what high quality content means 
 
 The amount of content necessary for the page to be satisfying depends on the topic and purpose of the page. A **High** quality page on a broad topic with a lot of available information will have more content than a **High** quality page on a narrower topic. Here are some examples of pages with a satisfying amount of high quality MC.
 
-- [Siberian Husky Information Page](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/SiberianHusky_Wikipedia.jpg)  
-The Siberian Husky (a breed of dog) is a narrow topic. Although this encyclopedia landing page has less MC than some encyclopedia pages on broader topics, it has a satisfying amount of clearly written, high quality MC.
+- [Siberian Husky Information Page](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/SiberianHusky_Wikipedia.jpg)
 
-- [Kitchen Stand Mixer Shopping Page](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/StandMixerTarget.jpg)  
-This shopping page on a reputable shopping website has a satisfying amount of high quality MC. The page provides the manufacturer's product specs, as well as original product information, over 90 user reviews, shipping and returns information, multiple images of the product, etc.  
-*Note: Some of the MC is behind links on the page ("item details," "item specifications," "guest reviews," etc.). Even though you have to click these links to see the content, it is still considered MC.*
+  The Siberian Husky (a breed of dog) is a narrow topic. Although this encyclopedia landing page has less MC than some encyclopedia pages on broader topics, it has a satisfying amount of clearly written, high quality MC.
 
-- [Movie Review Page](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/MovieReviewNYT.jpg)  
-This movie review written by a movie critic has a satisfying amount of high quality MC. Time, effort, and talent/skill went into writing this movie review.
+- [Kitchen Stand Mixer Shopping Page](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/StandMixerTarget.jpg)
+
+  This shopping page on a reputable shopping website has a satisfying amount of high quality MC. The page provides the manufacturer's product specs, as well as original product information, over 90 user reviews, shipping and returns information, multiple images of the product, etc.
+
+<div class="note">
+
+  Note: Some of the MC is behind links on the page ("item details," "item specifications," "guest reviews," etc.). Even though you have to click these links to see the content, it is still considered MC.
+
+</div>
+
+- [Movie Review Page](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/MovieReviewNYT.jpg)
+
+  This movie review written by a movie critic has a satisfying amount of high quality MC. Time, effort, and talent/skill went into writing this movie review.
 
 ## Clear and Satisfying Website Information: Who is Responsible and Customer Service
 
@@ -458,7 +466,11 @@ The question on the page asks how long people live with cancer. There are many r
 
 This is a detailed article about the American Civil War. The citations support the E‑A‑T of this article.
 
-*Although much of the content is visible on the mobile page, we consider the content under the headings (which you need to expand) to be part of the MC. (To see the screenshot, you will need to zoom in to the image.)*
+<div class="note">
+
+Although much of the content is visible on the mobile page, we consider the content under the headings (which you need to expand) to be part of the MC. (To see the screenshot, you will need to zoom in to the image.)
+
+</div>
 
 </div>
 </div>
