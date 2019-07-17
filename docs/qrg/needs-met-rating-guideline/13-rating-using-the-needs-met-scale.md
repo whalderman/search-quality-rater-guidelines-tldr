@@ -31,7 +31,11 @@ Which part of the result do you rate? It depends on both the query and the resul
 
 #### Special Content Result Block (SCRB)
 
-*Note: Assume that interactive result blocks function as intended. Try to interact with the result block as some links, buttons, or other features in your rating task may work.*
+<div class="note">
+
+Note: Assume that interactive result blocks function as intended. Try to interact with the result block as some links, buttons, or other features in your rating task may work.
+
+</div>
 
 **What to Rate:** The content inside this type of block should always play a large role in your rating. In addition, think about whether a user would click on the link(s) if available, in order to satisfy their user need.  
 
@@ -88,43 +92,73 @@ Here are some examples of Special Content Result Blocks where the block should b
 
 **Query:** <span class="query">utopia animal hospital</span>
 
+<div class="results">
+<div class="result">
+
 ![](../images/img269.jpg)
 
+</div>
+</div>
 </div>
 <div class="example">
 
 **Query:** <span class="query">chicago weather</span>
 
+<div class="results">
+<div class="result">
+
 ![](../images/img270.jpg)
 
+</div>
+</div>
 </div>
 <div class="example">
 
 **Query:** <span class="query">calories in a banana</span>
 
+<div class="results">
+<div class="result">
+
 ![](../images/img271.jpg)
 
+</div>
+</div>
 </div>
 <div class="example">
 
 **Query:** <span class="query">how to find security code on visa</span>
 
+<div class="results">
+<div class="result">
+
 ![](../images/img272.jpg)
 
+</div>
+</div>
 </div>
 <div class="example">
 
 **Query:** <span class="query">how did Lincoln die</span>
 
+<div class="results">
+<div class="result">
+
 ![](../images/img273.jpg)
 
+</div>
+</div>
 </div>
 <div class="example">
 
 **Query:** <span class="query">movies san francisco</span>
 
+<div class="results">
+<div class="result">
+
 ![](../images/img274.jpg)
 
+</div>
+</div>
 </div>
 </div>
 
@@ -146,7 +180,11 @@ You will need to use your judgment to decide whether a result block can **Fully 
 
 **Fully Meets** may apply in other situations as well. Ask yourself whether the result block alone is the perfect and complete result that would fully satisfy all or almost all users. Be conservative when using the **Fully Meets** rating. When in doubt, consider a lower rating.
 
-*Note: If a result block is very close to being fully satisfying, but the block alone may not be sufficient in order to fully satisfy all or almost all users, a rating of **Highly Meets+** may be appropriate.*
+<div class="note">
+
+Note: If a result block is very close to being fully satisfying, but the block alone may not be sufficient in order to fully satisfy all or almost all users, a rating of **Highly Meets+** may be appropriate.*
+
+</div>
 
 Sometimes you have to think about how specific the user need is and will need to make a judgment call on whether it is specific enough to possibly have a **Fully Meets** rating.
 
@@ -319,8 +357,14 @@ The query has clear intent to access CNN news and content. The website has the c
 
 This result **Fully Meets** the user need whether they want the Yelp app or the Yelp website, which are both popular.
 
-*Note: If you see this kind of result, assume that the user has the app installed on their phone.*  
-Clicking on the Yelp link above the logo opens the app directly, and clicking on the "Open on yelp.com" link gives the option of opening the app or website.  
+<div class="note">
+
+Note: If you see this kind of result, assume that the user has the app installed on their phone.
+
+</div>
+
+Clicking on the Yelp link above the logo opens the app directly, and clicking on the "Open on yelp.com" link gives the option of opening the app or website.
+
 ![Explanation for fully meets](../images/img296.jpg)
 
 </div>
@@ -382,7 +426,11 @@ This **Device Action** query is clear and specific: the user wants to open the I
 
 The result block shows that the phone has detected that the app is not installed and gives the option of downloading the app. This result **Fully Meets** the user need.
 
-*Note: Remember that you should assume that queries were issued on an Android device when rating Device Action Result Blocks, unless explicitly stated otherwise in the instructions. Therefore, the Google Play result for this query is appropriate.*
+<div class="note">
+
+Note: Remember that you should assume that queries were issued on an Android device when rating Device Action Result Blocks, unless explicitly stated otherwise in the instructions. Therefore, the Google Play result for this query is appropriate.
+
+</div>
 
 </div>
 </div>
@@ -448,7 +496,11 @@ This Device Action query is clear and specific: the user wants to set the phone'
 
 Chef Chu's is a Chinese restaurant located in the user location. This result block immediately shows the correct phone number with the option to call the number directly on the device—it **Fully Meets** the user intent.
 
-*Note: You must check for accuracy before using the **Fully Meets** rating. You can verify that the phone number in this SCRB is correct by checking Chef Chu's official website.*
+<div class="note">
+
+Note: You must check for accuracy before using the **Fully Meets** rating. You can verify that the phone number in this SCRB is correct by checking Chef Chu's official website.*
+
+</div>
 
 </div>
 </div>
@@ -474,8 +526,11 @@ Location: 2460 E Charleston Rd, Mountain View, CA 94043
 Phone number: (650) 903-0591  
 This **Device Action** query is clear and specific: the user wants to call the nearest Best Buy store. The result block shows the phone in the process of calling the store with the correct phone number—it **Fully Meets** the user need.
 
-*Note: You must check for accuracy before using the **Fully Meets** rating. You can verify that the phone number in this Device Action block is correct by checking Best Buy's official website for the location in Mountain View.*
+<div class="note">
 
+Note: You must check for accuracy before using the **Fully Meets** rating. You can verify that the phone number in this Device Action block is correct by checking Best Buy's official website for the location in Mountain View.
+
+</div>
 </div>
 </div>
 </div>
@@ -559,8 +614,11 @@ The result block displays the complete and correct answer prominently in the res
 
 The result block displays the complete and correct answer prominently in the result block, in a way that is easy for users on mobile devices to read—it Fully Meets the user need.
 
-*Note: Assume that the result shows current information for users.*
+<div class="note">
 
+Note: Assume that the result shows current information for users.
+
+</div>
 </div>
 </div>
 </div>
@@ -598,8 +656,11 @@ The result block displays the complete and correct answer prominently in the res
 The result block displays the complete and correct answer prominently in the result block, in a way that is easy for users on mobile devices to read—it **Fully Meets** the user need.  
 Remember that we consider weather queries, like this one, to be a **Know Simple** query for mobile phone users.
 
-*Note: Assume the result shows current information for users.*
+<div class="note">
 
+Note: Assume the result shows current information for users.
+
+</div>
 </div>
 </div>
 </div>
@@ -618,8 +679,11 @@ Remember that we consider weather queries, like this one, to be a **Know Simple*
 
 The result block displays the complete and correct answer prominently in the result block, in a way that is easy for users on mobile devices to read—it **Fully Meets** the user need.
 
-*Note: Assume that the result shows current information for users.*
+<div class="note">
 
+Note: Assume that the result shows current information for users.
+
+</div>
 </div>
 </div>
 </div>
@@ -674,8 +738,11 @@ The intent is to visit the specific gas station specified by the user. This resu
 
 The result has exactly what the user wants, displaying the lyrics to the specified song clearly and completely inside the result block. The user does not need to click to a new page to see the complete lyrics for this song.
 
-*Note: The lyrics posted on Google Play are licensed.*
+<div class="note">
 
+Note: The lyrics posted on Google Play are licensed.
+
+</div>
 </div>
 </div>
 </div>
@@ -696,8 +763,11 @@ The intent is to find gas stations near the specific user location, represented 
 This result block has a very satisfying list of nearby, popular, and prominent options within one mile of the specific location. This kind of block is especially helpful for users who want to visit the business in person.  
 This result would be very convenient for mobile users who need gas immediately, especially for those who are driving and cannot easily use their phone.
 
-*Note: A range is included because some users would be fully satisfied with these selections, while some users would want more information (e.g., gas prices, hours, distance from location, longer list of options).*
+<div class="note">
 
+Note: A range is included because some users would be fully satisfied with these selections, while some users would want more information (e.g., gas prices, hours, distance from location, longer list of options).
+
+</div>
 </div>
 </div>
 </div>
@@ -717,8 +787,11 @@ This result would be very convenient for mobile users who need gas immediately, 
 The intent is to find coffee shops near the specific user location, represented by the blue dot on the map.  
 This result block has a very satisfying list of nearby, popular, and prominent options within a few miles of the specific location. This kind of block is especially helpful for users who want to visit the business in person. Note that these blocks are interactive—clicking on a coffee shop will give options to call the business, get directions, read reviews, etc.
 
-*Note: A range is included because some users would be fully satisfied with these selections, while some users would want more information (e.g., hours, distance from location, longer list of options).*
+<div class="note">
 
+Note: A range is included because some users would be fully satisfied with these selections, while some users would want more information (e.g., hours, distance from location, longer list of options).
+
+</div>
 </div>
 </div>
 </div>
@@ -738,8 +811,11 @@ This result block has a very satisfying list of nearby, popular, and prominent o
 This block contains a map with the queried address, link to get directions, and specifies the landmark at the well-known address on the map ("The White House").  
 It's not unusual to search for an address (or business) that is far from the user location. Here, the user has explicitly asked for a specific address in a far away place, and this result is very satisfying. For a query this specific, the user location does not change the rating.
 
-*Note: A range is included because some users would be fully satisfied with this result, while some users would want more information (e.g., photos, a brief description).*
+<div class="note">
 
+Note: A range is included because some users would be fully satisfied with this result, while some users would want more information (e.g., photos, a brief description).
+
+</div>
 </div>
 </div>
 </div>
@@ -760,8 +836,11 @@ This block contains a map, link to get directions, departure times for the multi
 
 Since the user is located in the same city as the station, the information in this block is highly satisfying.
 
-*Note: A range is included because some users would be fully satisfied with this result, while some users may want more information (e.g., nearby attractions, ticket prices).*
+<div class="note">
 
+Note: A range is included because some users would be fully satisfied with this result, while some users may want more information (e.g., nearby attractions, ticket prices).
+
+</div>
 </div>
 </div>
 </div>
@@ -810,8 +889,11 @@ Have high standards for the **Highly Meets** rating. This is especially importan
 
 This result shows a complete list of all three locations in the Charlotte area, with information that is especially helpful for users who want to visit the store.
 
-*Note: This result block is not Fully Meets because users who want to go to the website to see coupons, promotions, etc. would have to see additional results.*
+<div class="note">
 
+Note: This result block is not Fully Meets because users who want to go to the website to see coupons, promotions, etc. would have to see additional results.
+
+</div>
 </div>
 </div>
 </div>
@@ -830,8 +912,11 @@ This result shows a complete list of all three locations in the Charlotte area, 
 
 This is the official website for Trader Joe's, which has highly authoritative information on the businesses' stores, promotions, recipes, news, etc.
 
-*Note: This result block is not Fully Meets because users who want information to visit the store have to do a bit of work to find that information—it is not immediately available.*
+<div class="note">
 
+Note: This result block is not Fully Meets because users who want information to visit the store have to do a bit of work to find that information—it is not immediately available.
+
+</div>
 </div>
 </div>
 </div>
@@ -850,8 +935,11 @@ This is the official website for Trader Joe's, which has highly authoritative in
 
 This is the museum's official website and has very helpful information about exhibits, membership, the store, etc.
 
-*Note: This result block is not Fully Meets because users who want information to visit the museum have to do a bit of work to find that information—it is not immediately available.*
+<div class="note">
 
+Note: This result block is not Fully Meets because users who want information to visit the museum have to do a bit of work to find that information—it is not immediately available.
+
+</div>
 </div>
 </div>
 </div>
@@ -870,8 +958,11 @@ This is the museum's official website and has very helpful information about exh
 
 The result block shows information about the museum, and is especially helpful for users who want to visit the museum.
 
-*Note: This result block is not Fully Meets— even though there is a website link,it is not very satisfying for users who want to go to the website because it is not as informative as a web search result block with a title, snippet, and URL.*
+<div class="note">
 
+Note: This result block is not Fully Meets— even though there is a website link,it is not very satisfying for users who want to go to the website because it is not as informative as a web search result block with a title, snippet, and URL.
+
+</div>
 </div>
 </div>
 </div>
@@ -890,8 +981,11 @@ The result block shows information about the museum, and is especially helpful f
 
 The query is the name of a car dealership in New Jersey, which is the only dealership with that name in the user location (Ramsey, New Jersey). The result block shows information about the dealership, and is especially helpful for users who want to visit the business.
 
-*Note: This result block is not Fully Meets— even though there is a website link,it is not very satisfying for users who want to go to the website because it is not as informative as a web search result block with a title, snippet, and URL.*
+<div class="note">
 
+Note: This result block is not Fully Meets— even though there is a website link,it is not very satisfying for users who want to go to the website because it is not as informative as a web search result block with a title, snippet, and URL.
+
+</div>
 </div>
 </div>
 </div>
@@ -910,8 +1004,11 @@ The query is the name of a car dealership in New Jersey, which is the only deale
 
 This is the car dealership's official website and has very helpful information about inventory, financing, etc.
 
-*Note: This result block is not Fully Meets because users who want information to visit the dealership have to do a bit of work to find that information—it is not immediately available.*
+<div class="note">
 
+Note: This result block is not Fully Meets because users who want information to visit the dealership have to do a bit of work to find that information—it is not immediately available.
+
+</div>
 </div>
 </div>
 </div>
@@ -930,8 +1027,11 @@ This is the car dealership's official website and has very helpful information a
 
 There is only one library in the user location (Belmont, Massachusetts). The result block shows information about the library, and is especially helpful for users who want to visit the location.
 
-*Note: This result block is not Fully Meets— even though there is a website link,it is not very satisfying for users who want to go to the website because it is not as informative as a web search result block with a title, snippet, and URL.*
+<div class="note">
 
+Note: This result block is not Fully Meets— even though there is a website link,it is not very satisfying for users who want to go to the website because it is not as informative as a web search result block with a title, snippet, and URL.
+
+</div>
 </div>
 </div>
 </div>
@@ -950,8 +1050,11 @@ There is only one library in the user location (Belmont, Massachusetts). The res
 
 There is only one library in the user location (Belmont, California). The result block shows information about the library, and is especially helpful for users who want to visit the location.
 
-*Note: This result block is not Fully Meets— even though there is a website link,it is not very satisfying for users who want to go to the website because it is not as informative as a web search result block with a title, snippet, and URL.*
+<div class="note">
 
+Note: This result block is not Fully Meets— even though there is a website link,it is not very satisfying for users who want to go to the website because it is not as informative as a web search result block with a title, snippet, and URL.
+
+</div>
 </div>
 </div>
 </div>
@@ -1828,8 +1931,11 @@ This block contains images of the logo for IBM, but these images are not particu
 
 The title of this article makes it appear as though the article describes an impending catastrophe. Yet, the MC states in its third paragraph that Nibiru "doesn't actually exist" and calls believers in it "conspiracy theorists". The title contradicts the content of the article, and as a result could mislead users who don't read the full article.
 
-*Note: The "cost of a click" is high on mobile phones. Results with very misleading or exaggerated titles should be rated Slightly Meets or lower.*
+<div class="note">
 
+Note: The "cost of a click" is high on mobile phones. Results with very misleading or exaggerated titles should be rated Slightly Meets or lower.
+
+</div>
 </div>
 </div>
 </div>
@@ -1881,8 +1987,11 @@ The following should also be rated **Fails to Meet** because they lead to very p
 **User Location:** Pittsfield Charter Township, Michigan  
 **User Intent:** Find information (e.g., pictures, breeds, training details, etc.) related to dogs.
 
-*Note: For this query, it is very unlikely users want to go anywhere in person.*
+<div class="note">
 
+Note: For this query, it is very unlikely users want to go anywhere in person.
+
+</div>
 <div class="results">
 <div class="result">
 
@@ -1903,8 +2012,11 @@ This result block shows visit-in-person information for three different dog care
 **User Location:** Eustis, Florida  
 **User Intent:** Find information about something related to Mike.
 
-*Note: For this query, it is unlikely users want to go anywhere in person.*
+<div class="note">
 
+Note: For this query, it is unlikely users want to go anywhere in person.
+
+</div>
 <div class="results">
 <div class="result">
 
@@ -1925,8 +2037,11 @@ This result block shows visit-in-person information for two businesses that cont
 **User Location:** Tampa, Florida  
 **User Intent:** Find information (e.g., scores, roster, recent news) about a professional baseball team in Florida called Tampa Bay Rays.
 
-*Note: For this query, it is unlikely users want to go anywhere in person.*
+<div class="note">
 
+Note: For this query, it is unlikely users want to go anywhere in person.
+
+</div>
 <div class="results">
 <div class="result">
 
@@ -1934,7 +2049,11 @@ This result block shows visit-in-person information for two businesses that cont
 
 ![fails to meet](../images/failsm-narrow.jpg)
 
-This result block shows information to visit a sports card store in person, which happens to have the baseball team in the name. However, remember that for this query, it is unlikely users want to go anywhere in person. Note: This business was fabricated for the purposes of this example, and does not exist in real life.
+This result block shows information to visit a sports card store in person, which happens to have the baseball team in the name. However, remember that for this query, it is unlikely users want to go anywhere in person. <div class="note">
+
+Note: This business was fabricated for the purposes of this example, and does not exist in real life.
+
+</div>
 
 </div>
 </div>
@@ -1945,8 +2064,11 @@ This result block shows information to visit a sports card store in person, whic
 **User Location:** Wake County, North Carolina  
 **User Intent:** Go to the WRAL website or find other information about the news station in North Carolina.
 
-*Note: Users generally would not go to a news station in person.*
+<div class="note">
 
+Note: Users generally would not go to a news station in person.
+
+</div>
 <div class="results">
 <div class="result">
 
@@ -2138,8 +2260,11 @@ The answer provided in this result block is factually inaccurate. Stairs have be
 
 This result includes several apps to download, with an option to see more apps. The user is looking for information about app developers that are well-known, so it Fails to Meet the user intent.
 
-*Note: Unless you feel the user intent to download an app is strong, results that allow users to download apps are generally less helpful. Mobile users want answers and results right away, at that moment, and may not be able to spend a lot of time downloading and installing apps.*
+<div class="note">
 
+Note: Unless you feel the user intent to download an app is strong, results that allow users to download apps are generally less helpful. Mobile users want answers and results right away, at that moment, and may not be able to spend a lot of time downloading and installing apps.
+
+</div>
 </div>
 </div>
 </div>
@@ -2572,8 +2697,11 @@ Additionally, this is a YMYL query on a medical topic, so accurate and trustwort
 
 Betty White was alive at the time this example was written. This LP is a social media profile page created by an unknown author that was designed to look like a memorial page for Betty White and falsely states that she died. This page is factually inaccurate and deceptive to users, so it should be rated Fails to Meet.  
 
-*Remember: For informational queries/results, it is important to check other reputable sources to determine if the result is factually accurate. A quick online search for [betty white] would allow you to confirm that she was still alive.*
+<div class="note">
 
+Remember: For informational queries/results, it is important to check other reputable sources to determine if the result is factually accurate. A quick online search for [betty white] would allow you to confirm that she was still alive.
+
+</div>
 </div>
 </div>
 </div>
@@ -2592,8 +2720,11 @@ Betty White was alive at the time this example was written. This LP is a social 
 
 Miley Cyrus was alive at the time this example was written. This LP is an article written by an unknown author that was designed to look like a news story and falsely states that she died. Furthermore, the page is found on a low quality website, and the article has not been updated, clarified, or removed even days after having been proven false. This page is factually inaccurate and deceptive to users, so it should be rated Fails to Meet.  
 
-*Remember: Just because a website has the look and feel of a traditional news site does NOT mean that you should consider the reporting to be factually accurate without further research. Watch out for sites that present themselves as news, but were actually created with the intent to mislead or misinform users.*
+<div class="note">
 
+Remember: Just because a website has the look and feel of a traditional news site does NOT mean that you should consider the reporting to be factually accurate without further research. Watch out for sites that present themselves as news, but were actually created with the intent to mislead or misinform users.
+
+</div>
 </div>
 </div>
 </div>
@@ -2612,8 +2743,11 @@ Miley Cyrus was alive at the time this example was written. This LP is an articl
 
 This query is seeking historical information. The LP of this web result is on a well-known white supremacist hate site (read more here or here). The discussion on this page is inaccurate and misleading, since the Holocaust is an extremely well-documented historical event.  
 
-*Remember: Pages that directly contradict well-established historical facts should be rated Fails to Meet, unless the query clearly indicates the user is seeking an alternative viewpoint.*
+<div class="note">
 
+Remember: Pages that directly contradict well-established historical facts should be rated Fails to Meet, unless the query clearly indicates the user is seeking an alternative viewpoint.
+
+</div>
 </div>
 </div>
 </div>
@@ -2632,8 +2766,11 @@ This query is seeking historical information. The LP of this web result is on a 
 
 This LP is a blog post presenting a factually unsupported conspiracy theory that Angela Merkel is the daughter of Adolph Hitler. Because the MC is inaccurate and misleading, it completely Fails to Meet the user intent, even though the topic of the page matches the query.
 
-*Note: A more helpful result for this query might confirm that Adolf Hitler had no children, or provide information on the novel Hitler's Daughter by Jackie French.*
+<div class="note">
 
+Note: A more helpful result for this query might confirm that Adolf Hitler had no children, or provide information on the novel Hitler's Daughter by Jackie French.
+
+</div>
 </div>
 </div>
 </div>
@@ -2652,8 +2789,11 @@ This LP is a blog post presenting a factually unsupported conspiracy theory that
 
 This is a broad query seeking information about Islam. The LP was created for the purpose of stating the author's opinion that Islam is not a religion. The author lacks expertise in the topic; the writing has frequent misspellings, typos, and grammar errors; and the page seems to exist to promote intolerance or hate.
 
-*Remember: Upsetting or offensive results for queries that are not obviously seeking this type of content should be rated Fails to Meet.*
+<div class="note">
 
+Remember: Upsetting or offensive results for queries that are not obviously seeking this type of content should be rated Fails to Meet.
+
+</div>
 </div>
 </div>
 </div>

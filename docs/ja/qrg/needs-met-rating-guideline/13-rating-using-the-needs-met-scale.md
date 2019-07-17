@@ -86,45 +86,81 @@ RB評価対象の例「loveの意味とは」
 <div class="examples">
 <div class="example">
 
-**クエリ：**<span class="query">utopia animal hospital</span>（翻訳：ユートピア動物病院）
+**クエリ：**<span class="query">utopia animal hospital</span>  
+（翻訳：ユートピア動物病院）
+
+<div class="results">
+<div class="result">
 
 ![](../images/img269.jpg)
 
 </div>
+</div>
+</div>
 <div class="example">
 
-**クエリ：**<span class="query">chicago weather</span>（翻訳：シカゴ 天気）
+**クエリ：**<span class="query">chicago weather</span>  
+（翻訳：シカゴ 天気）
+
+<div class="results">
+<div class="result">
 
 ![](../images/img270.jpg)
 
 </div>
+</div>
+</div>
 <div class="example">
 
-**クエリ：**<span class="query">calories in a banana</span>（翻訳：バナナ1本のカロリー）
+**クエリ：**<span class="query">calories in a banana</span>  
+（翻訳：バナナ1本のカロリー）
+
+<div class="results">
+<div class="result">
 
 ![](../images/img271.jpg)
 
 </div>
+</div>
+</div>
 <div class="example">
 
-**クエリ：**<span class="query">how to find security code on visa</span>（翻訳：VISAカードのセキュリティーコードの探し方）
+**クエリ：**<span class="query">how to find security code on visa</span>  
+（翻訳：VISAカードのセキュリティーコードの探し方）
+
+<div class="results">
+<div class="result">
 
 ![](../images/img272.jpg)
 
 </div>
+</div>
+</div>
 <div class="example">
 
-**クエリ：**<span class="query">how did Lincoln die</span>（翻訳：リンカーンの死因は?）
+**クエリ：**<span class="query">how did Lincoln die</span>  
+（翻訳：リンカーンの死因は?）
+
+<div class="results">
+<div class="result">
 
 ![](../images/img273.jpg)
 
 </div>
+</div>
+</div>
 <div class="example">
 
-**クエリ：**<span class="query">movies san francisco</span>（翻訳：映画 サンフランシスコ）
+**クエリ：**<span class="query">movies san francisco</span>  
+（翻訳：映画 サンフランシスコ）
+
+<div class="results">
+<div class="result">
 
 ![](../images/img274.jpg)
 
+</div>
+</div>
 </div>
 </div>
 
