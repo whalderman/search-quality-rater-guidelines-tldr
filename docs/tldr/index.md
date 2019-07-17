@@ -14,6 +14,6 @@ For those tasked with implementing everyone's wishes. Here we go over optimizati
 
 For those designing the client-facing portion of a site or web application. Here we summarize what to avoid when designing a site, and in some cases, what can be done instead.
 
-## [What Makes a Webpage Good or Bad](/tldr/quality-characteristics.html)
+## [High and Low Quality Webpages, TL;DR](/tldr/quality-characteristics.html)
 
 When you have a specific type of webpage or website you'd like to implement some quality control on.
