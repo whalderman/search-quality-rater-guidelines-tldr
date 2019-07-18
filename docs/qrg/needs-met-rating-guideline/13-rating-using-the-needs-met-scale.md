@@ -1309,7 +1309,7 @@ The result block has a good summary of what invasive species are, but some users
 
 ![highly meets](../images/hm.jpg)
 
-For users in Sunnyvale, California, the query [turmeric] could have two different interpretations: a popular restaurant named Turmeric or the spice turmeric. Because the user is located in Sunnyvale, many mobile users are probably looking for the restaurant. However, it is not completely clear because some users may want to find information about the spice. This result about the restaurant has satisfying information for users who want to visit —it Highly Meets the most likely user need.
+For users in Sunnyvale, California, the query <span class="query">turmeric</span> could have two different interpretations: a popular restaurant named Turmeric or the spice turmeric. Because the user is located in Sunnyvale, many mobile users are probably looking for the restaurant. However, it is not completely clear because some users may want to find information about the spice. This result about the restaurant has satisfying information for users who want to visit —it Highly Meets the most likely user need.
 
 </div>
 </div>
@@ -2675,7 +2675,7 @@ The MC of this page is an example of a demonstrably inaccurate news report, incl
 
 ![fails to meet](../images/failsm.jpg)
 
-Despite strong medical consensus linking tobacco to lung cancer—which can be found at authoritative sources by searching [lung cancer and smoking]—this LP claims there is no connection between smoking and cancer by selectively interpreting some experiments done on animals.  
+Despite strong medical consensus linking tobacco to lung cancer—which can be found at authoritative sources by searching <span class="query">lung cancer and smoking</span>—this LP claims there is no connection between smoking and cancer by selectively interpreting some experiments done on animals.  
 
 Additionally, this is a YMYL query on a medical topic, so accurate and trustworthy information is highly important. This page directly contradicts well-established medical consensus and may potentially cause harm to users, so it should be rated Fails to Meet.
 
@@ -2699,7 +2699,7 @@ Betty White was alive at the time this example was written. This LP is a social 
 
 <div class="note">
 
-Remember: For informational queries/results, it is important to check other reputable sources to determine if the result is factually accurate. A quick online search for [betty white] would allow you to confirm that she was still alive.
+Remember: For informational queries/results, it is important to check other reputable sources to determine if the result is factually accurate. A quick online search for <span class="query">betty white</span> would allow you to confirm that she was still alive.
 
 </div>
 </div>
