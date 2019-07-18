@@ -1,19 +1,170 @@
-# Quality Rater Guidelines - Developer Takeaways
+# TL;DR for Developers
 
 Here we go over various optimizations that can (and should) be made to a site, as well as some tools that can be used.
 
-> Disclaimer: The following content includes opinions and reasoning from the SEO professionals at [Bruce Clay Japan Inc.](https://bruceclay.jpn.com) These opinions and suggestions attempt to summarize Google's Quality Rater Guidelines, but are **not in any way** endorsed or backed by Google.
+<div class="note">
 
-## Understanding Webpages and Websites
+Disclaimer: The following content includes opinions and reasoning from the SEO professionals at [Bruce Clay Japan Inc.](https://bruceclay.jpn.com) These opinions and suggestions attempt to summarize Google's Quality Rater Guidelines, but are **not in any way** endorsed or backed by Google.
 
-Subdomains made for different purposes (like **finance**.yahoo.com and **sports**.yahoo.com) are more likely to be considered separate websites.
+</div>
 
-Every page on the website must be created with the intention of **helping users**. Building pages to take advantage of users (deceptive ad placement, crypto mining) will negatively affect the site's rank.
+::: tip A Few Quick Tips
 
-Ensure that the `<h1>` tag on each page **accurately summarizes** the page's [main content](/ja/qrg/page-quality-rating-guideline/2-understanding-webpages-and-websites.html#identifying-the-main-content-mc).
+- Every page on the website must be created with the intention of **helping users**. Building pages to take advantage of users (deceptive ad placement, crypto mining) will negatively affect your site's ability to rank.
 
-::: tip
-Google uses the logo of a website (if it is hyperlinked) as a strong indicator of a website's home page.
+- Ensure that the `<h1>` tag on each page **accurately summarizes** the page's [main content](/qrg/page-quality-rating-guideline/2-understanding-webpages-and-websites.html#identifying-the-main-content-mc).
+
+- The logo of a website (if used as a link) is used as a strong indicator of a website's home page.
+
+- If your site or its content creators/authors receive any awards, show them off by linking to them from the site's "About" page.
 :::
 
-For example, if you have a blog/documentation/FAQs/etc. on a separate subdomain, with a website logo pointing to the home page of the separate subdomain, Google is more likely to treat your subdomain and main site as separate -- which is rarely desired.
+## HTTP/2 and Beyond
+
+::: tip Implement newer protocols (HTTP/2, HTTP/3)
+These newer protocols can significantly reduce the effects of latency by combining requests and making fewer roundtrips.
+:::
+
+Before you upgrade your web server, check the following:
+
+1. **Your website must be using HTTPS.**  
+HTTP/2 and newer cannot be implemented without HTTPS. Fortunately, making a site secure can be automated and done for free using a service like [LetsEncrypt](https://letsencrypt.org/).
+
+2. **Your website must redirect from HTTP to HTTPS**.  
+Ideally using a `301` redirect.
+
+3. **Your web server must be capable of handling the newer protocol.**  
+If your server matches the minimum version requirements listed below, you should be good to go.
+
+   - Apache 2.4.12
+   - NGINX 1.9.5 (without Server Push), 1.13.9 (with Server Push)
+   - IIS 10.0
+   - LiteSpeed 5.0
+
+   For CDNs and less common servers, [see here](https://en.wikipedia.org/wiki/HTTP/2#Server_software).
+
+## Pages That Should Not Be Indexed
+
+::: warning Avoid indexing the following types of pages
+Ideally, the page types below should not be indexed (and oftentimes should not even be crawlable).
+
+- Pages with no content
+- Receipt pages
+- Search pages (e.g. [https://www.bruceclay.com/?s=seo&id=m](https://www.bruceclay.com/?s=seo&id=m))
+- Q&A pages without any answers
+- Pages giving dangerous advice
+:::
+
+Avoiding indexation simply requires the following meta tag to be added to the page.
+
+``` html
+<meta name='robots' content='noindex'>
+```
+
+If preferred, you could instead use the HTTP `X-Robots-Tag` header:
+
+<div class="note">
+
+This is the only way to remove non-XML documents (PDFs, etc.) from search results.
+
+</div>
+
+``` http
+X-Robots-Tag: noindex
+```
+
+## Resource Caching
+
+::: tip Setup cache-control
+Setting the `cache-control` header for larger files (like images and fonts) can significantly increase the browsing speed for returning users.
+:::
+
+A couple of examples for cache-control directives are listed below:
+
+### Apache / LiteSpeed
+
+``` apacheconf
+# in server config, virtual host, directory, or .htaccess
+<filesMatch ".*">
+    Header set Cache-Control "max-age=28800, public, no-transform"
+</filesMatch>
+<filesMatch ".(ico|jpe?g|png|gif)$">
+    Header set Cache-Control "max-age=28800, public, no-transform"
+</filesMatch>
+
+# if using mod_expires
+<IfModule mod_expires.c>
+    ExpiresDefault "access plus 8 hours"
+    ExpiresByType image/* "access plus 1 month"
+</IfModule>
+```
+
+### NGINX
+
+``` nginx
+# all files
+location ~* .*$ {
+    expires 8h;
+    add_header Cache-Control "public, no-transform";
+}
+
+# images
+location ~* \.(png|jpe?g|gif|ico)$ {
+    expires 30d;
+    add_header Cache-Control "public, no-transform"
+}
+```
+
+### IIS
+
+We recommend going through the UI in this case.
+
+## Image Optimization
+
+::: tip Automate image optimization
+Images are often a website's biggest use of bandwidth - and bandwidth costs users money.
+
+In most parts of the world, and especially regarding cell phones, users do not or cannot pay for unlimited data. Save yourself and your users' time and money by implementing automated image optimization.
+:::
+
+Image optimization is one of the most difficult, yet most important areas of optimization. Instead of image size and mobile responsiveness we focus on image format
+
+### Tools and Programs
+
+Some image optimization tools and programs include:
+
+- [E-Mage](https://emage.js.org/) (Mac OS, Windows, *nix)
+  - Only does lossless compression
+  - Easy to use
+  - **Overwrites images**, though this shouldn't be a problem with only lossless conversions
+- [XnConvert](https://www.xnview.com/en/xnconvert/) (Mac OS, Windows, *nix)
+  - Highly configurable
+  - More challenging to use
+  - Can remove unnecessary image meta data
+  - Able to convert images to modern formats like [.webp](https://developers.google.com/speed/webp/) and .jp2.
+
+### Libraries
+
+Some example image optimization libraries include:
+
+#### JPEG
+
+- mozjpeg ([source](https://github.com/mozilla/mozjpeg), [imagemin plugin](https://github.com/imagemin/imagemin-mozjpeg))
+- jpegoptim ([source](https://github.com/tjko/jpegoptim), [imagemin plugin](https://github.com/imagemin/imagemin-jpegoptim))
+- jpegtran ([project page](https://jpegclub.org/reference/reference-sources/), [imagemin plugin](https://github.com/imagemin/imagemin-jpegtran))
+
+#### PNG
+
+- advpng ([part of advancecomp](https://github.com/amadvance/advancecomp), [imagemin plugin](https://github.com/imagemin/imagemin-advpng))
+- optipng ([project page](http://optipng.sourceforge.net/), [imagemin plugin](https://github.com/imagemin/imagemin-optipng))
+- pngcrush ([project page](https://pmt.sourceforge.io/pngcrush/), [imagemin plugin](https://github.com/imagemin/imagemin-pngcrush))
+- pngout ([imagemin plugin](https://github.com/imagemin/imagemin-pngout))
+- zopfli ([source](https://github.com/google/zopfli), [imagemin plugin](https://github.com/imagemin/imagemin-zopfli))
+
+#### SVG
+
+- svgo ([source](https://github.com/svg/svgo), [imagemin plugin](https://github.com/imagemin/imagemin-svgo))
+
+#### GIF
+
+- gifsicle ([source](https://github.com/kohler/gifsicle), [imagemin plugin](https://github.com/imagemin/imagemin-gifsicle))
