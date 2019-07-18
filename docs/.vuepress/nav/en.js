@@ -6,10 +6,16 @@ module.exports = [
 		text: '🔰 TL;DR', link: '/tldr/'
 	},
 	{
-		text: 'Who Made This?', link: '/about/'
+		text: 'About', link: '/about/'
 	},
 	{
-		text: 'Digital Marketing Services', items: [
+		text: 'Need Marketing Help?', items: [
+			{
+				text: 'Japan', items: [
+					{ text: 'English', link: 'https://www.bruceclay.com/jp/' },
+					{ text: 'Japanese', link: 'https://bruceclay.jpn.com/' }
+				]
+			},
 			{
 				text: 'U.S.', items: [
 					{ text: 'English', link: 'https://www.bruceclay.com/' }
@@ -28,12 +34,6 @@ module.exports = [
 			{
 				text: 'India', items: [
 					{ text: 'English', link: 'https://www.bruceclay.com/in/' }
-				]
-			},
-			{
-				text: 'Japan', items: [
-					{ text: 'English', link: 'https://www.bruceclay.com/jp/' },
-					{ text: 'Japanese', link: 'https://bruceclay.jpn.com/' }
 				]
 			},
 			{
