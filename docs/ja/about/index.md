@@ -1,4 +1,4 @@
-# ブルースクレイジャパンは検索可能にした
+# ブルースクレイ・ジャパンは検索可能にした
 
 [ブルースクレイ・ジャパン](https://bruceclay.jpn.com/)は[Bruce Clay Inc.](https://www.bruceclay.com)の日本支社です。
 
@@ -15,7 +15,7 @@ If you're looking for an office targeting a different market, simply use the lin
 ## Unanswered Questions
 
 Still have questions about the Quality Rater Guidelines that remain unanswered?  
-[Send 'em here.](https://docs.google.com/forms/d/e/1FAIpQLSePiGKAUnHPhNvBQVq8V7CUB83q9H0ahO5X_QsmmolRFfcqMg/viewform?usp=sf_link)
+[Send 'em here.](https://docs.google.com/forms/d/e/1FAIpQLSftex23Tnrj_Jox8_8j30k7WZAsvCbkawBs8MEvdj8K5ZF5qQ/viewform?usp=sf_link)
 
 ## Open Source
 
