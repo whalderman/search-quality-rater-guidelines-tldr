@@ -1,20 +1,22 @@
-# The Relationship between E‑A‑T and Needs Met
+# The Relationship between Page Quality and Needs Met
 
 The Needs Met rating is based on _both_ the query and the result. You must carefully think about the query and user intent when assigning a Needs Met rating.
 
 ![](../images/needs-met-na.jpg)
 
-The E‑A‑T rating slider does _not_ depend on the query. Do not think about the query when assigning a E‑A‑T rating to the LP.
+The Page Quality rating slider does _not_ depend on the query. Do not think about the query when assigning a Page Quality rating to the LP.
 
 ![](../images/eat-na.jpg)
 
-Some results don't have a E‑A‑T slider. If a result block has no E‑A‑T rating slider, you do not have to give a E‑A‑T rating. If there is a E‑A‑T slider, please assign a E‑A‑T rating based on the landing page. If you are unable to evaluate the E‑A‑T rating of a **Foreign Language** or **Did Not Load** result, you should assign a **Medium** rating.
+Some results don't have a Page Quality slider. If a result block has no Page Quality rating slider, you do not have to give a Page Quality rating. If there is a Page Quality slider, please assign a Page Quality rating based on the landing page.
 
-Here is some guidance about assigning Needs Met and E‑A‑T ratings:
+If you are unable to evaluate the Page Quality rating of a **Foreign Language** or **Did Not Load** result, you should assign a **Medium** rating.
 
-- Useless results should always be rated **FailsM**, even if the landing page has a high E‑A‑T rating. Useless is useless.
+Here is some guidance about assigning Needs Met and Page Quality ratings:
 
-- On-topic, helpful, but low E‑A‑T results should get lower Needs Met ratings than on-topic, helpful, and high E‑A‑T results. The Needs Met scale encompasses all aspects of "helpfulness," and many users find low E‑A‑T results less helpful than high E‑A‑T results. Your ratings should reflect this.
+- Useless results should always be rated **FailsM**, even if the landing page has a high Page Quality rating. Useless is useless.
+
+- On-topic, helpful, but low Page Quality results should get lower Needs Met ratings than on-topic, helpful, and high Page Quality results. The Needs Met scale encompasses all aspects of "helpfulness," and many users find low Page Quality results less helpful than high Page Quality results. Your ratings should reflect this.
 
 - The **HM** rating should be given to helpful, high Page Quality pages that are a good fit for the query. The **HM** rating may also be used for results that are very helpful, medium quality, and have other very desirable characteristics, such as very recent information.
 
@@ -25,8 +27,6 @@ Here is some guidance about assigning Needs Met and E‑A‑T ratings:
 - Remember that if a page lacks a beneficial purpose, it should always be rated Lowest Page Quality ­ regardless of the page's Needs Met rating or how well­-designed the page may be. Please review [Lowest Quality Pages](../page-quality-rating-guideline/7-lowest-quality-pages) for a summary of other types of Lowest Page Quality pages.
 
 <div class="examples">
-
-
 <div class="example">
 
 **Query:** <span class="query">how do electric cars work</span>  
@@ -40,7 +40,7 @@ Here is some guidance about assigning Needs Met and E‑A‑T ratings:
 ![needs met scale - slightly meets](../images/sm.jpg)  
 ![page quality scale - low](../images/low.jpg)
 
-**Page Quality:** Read this content out loud. The article on the LP is shallow and unintentionally humorous. There are four paragraphs of text, but it basically says that electric cars use electricity and have to be charged.
+**Page Quality:** Read this content out loud. The article on the LP is shallow and unintentionally humorous. The MC has four paragraphs of text, but it basically says that electric cars use electricity and have to be charged. The page also lacks E-A-T. **Low** is an appropriate rating.
 
 **Needs Met:** This page would be helpful for few users.
 
@@ -51,7 +51,7 @@ Here is some guidance about assigning Needs Met and E‑A‑T ratings:
 ![needs met scale - fails to meet](../images/failsm.jpg)  
 ![page quality scale - medium+ - narrow range](../images/medium+narrow.jpg)
 
-**Page Quality:** There is a lot of helpful MC on the landing page on Wikipedia.org.
+**Page Quality:** There is a lot of helpful MC on the landing page on Wikipedia.org. The page has high E-A-T. **Medium+** to **High** is an appropriate rating.
 
 **Needs Met:** The query asks how electric cars work, but the article on the LP is about mobility scooters.
 

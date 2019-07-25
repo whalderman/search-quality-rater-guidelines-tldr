@@ -45,7 +45,7 @@ module.exports = {
 			children: [
 				'/qrg/needs-met-rating-guideline/13-rating-using-the-needs-met-scale',
 				'/qrg/needs-met-rating-guideline/14-rating-porn-foreign-language-did-not-load-and-upsetting-offensive-results',
-				'/qrg/needs-met-rating-guideline/15-the-relationship-between-e-a-t-and-needs-met',
+				'/qrg/needs-met-rating-guideline/15-the-relationship-between-page-quality-and-needs-met',
 				'/qrg/needs-met-rating-guideline/16-rating-queries-with-multiple-interpretations-and-intents',
 				'/qrg/needs-met-rating-guideline/17-specificity-of-queries-and-landing-pages',
 				'/qrg/needs-met-rating-guideline/18-needs-met-rating-and-freshness',
