@@ -76,7 +76,7 @@ Some definitions from Google:
 
 Google makes note of when subdomains and root domains will likely be treated as separate entities (**emphasis** added):
 
-> ...we will consider [the subdomain's top page] the homepage, rather than [the domain's top page]. Why? Because **clicking on the logo takes the user to [the subdomain's top page]**. In addition, [the subdomain's top page] has information about the [subdomain] website. It is **very difficult to find <span style="color: #0071ba">specific</span> information about [the subdomain] on the [domain's] homepage**.
+> ...we will consider [the subdomain's top page] the homepage, rather than [the domain's top page]. Why? Because **clicking on the logo takes the user to [the subdomain's top page]**. In addition, [the subdomain's top page] has information about the [subdomain] website. It is **very difficult to find <span style="text-decoration: underline">specific</span> information about [the subdomain] on the [domain's] homepage**.
 
 Google will judge the reputation of a website based on a range of reputable independent sources (sites like [BBB](https://www.bbb.org/), [Trustpilot](https://www.trustpilot.com/), etc.).
 
@@ -121,7 +121,11 @@ If your company has (or you have) a bad reputation online, Google will be among 
 - ratings from independent organizations
 - customer reviews
 
-> For small businesses, having no reputation online is okay, it will **not** negatively affect your site.
+<div class="note">
+
+For small businesses, having no reputation online is okay, it will **not** negatively affect your site.
+
+</div>
 
 ## Overall Page Quality Rating
 
@@ -311,7 +315,11 @@ Search results are ranked based on how well they fulfill a user's query.
 
 ### Fully Meets
 
-> While fully meeting the needs of users is ideal, these types of queries and their keywords often do not require targeted optimization. We recommend focusing instead on [highly meeting](#highly-meets) queries.
+<div class="note">
+
+While fully meeting the needs of users is ideal, these types of queries and their keywords often do not require targeted optimization. We recommend focusing instead on [highly meeting](#highly-meets) queries.
+
+</div>
 
 A special category in which the search result is an exact and unique match for the query. For example, if somebody in Japan is searching for <mark class="query">Bruce Clay Japan home page</mark>, they are undoubtedly trying to get to [https://bruceclay.jpn.com/](https://bruceclay.jpn.com/).
 
@@ -393,13 +401,17 @@ These pages completely fail to meet/satisfy the needs of users. All or almost al
 
 If a page has [no useful purpose](/tldr/for-everyone.html#understanding-webpages-and-websites), it will not rank.
 
-> [Website queries](/qrg/understanding-mobile-user-needs/12-understanding-mobile-users-queries-and-results.html#website-queries) are an exception to the rule above. However, those queries are not what brings in the money.
+<div class="note">
+
+[Website queries](/qrg/understanding-mobile-user-needs/12-understanding-mobile-users-queries-and-results.html#website-queries) are an exception to the rule above. However, those types of queries do not target new customers.
+
+</div>
 
 ### Queries with Multiple Interpretations and Intents
 
 The primary interpretation for a query will always rank highest.
 
-For example, **most** users searching for <span class="query">[halo](https://www.google.com/search?q=halo)</span> in the U.S. are looking for information about the video game, and as such, pages about the video game will rank higher than pages about the [optical phenomenon](https://en.wikipedia.org/wiki/Halo_(optical_phenomenon)) or the [religious iconography](https://en.wikipedia.org/wiki/Halo_(religious_iconography)).
+For example, **most** users searching for <span class="query">[halo](https://www.google.com/search?q=halo)</span> in the U.S. are looking for information about the video game, and as such, pages about the video game will rank higher than pages about the [optical phenomenon](https://en.wikipedia.org/wiki/Halo_(optical_phenomenon)) or the [thing that floats over your head](https://en.wikipedia.org/wiki/Halo_(religious_iconography)).
 
 ### Needs Met Rating and Freshness
 
@@ -407,7 +419,7 @@ For queries about breaking news, recurring events, current information, or produ
 
 ### Rating Visit in Person Intent Queries
 
-Google takes the type of entity into account when deciding how close "near me" should be. "Nearby" can mean completely different things depending on what the user is looking for. Test the following for examples:
+Google takes the type of entity (what you're searching for) into account when deciding how close "near me" should be. "Nearby" can mean completely different things depending on what the user is looking for. Test the following for examples:
 
 - [gas station near me](https://www.google.com/search?q=gas+station+near+me)
 - [theater near me](https://www.google.com/search?q=theater+near+me)
@@ -416,4 +428,4 @@ Google takes the type of entity into account when deciding how close "near me" s
 
 ### Product Queries: Importance of Browsing and Researching
 
-See [🛒 Shopping Webpages](http://localhost:8080/tldr/quality-characteristics.html#%F0%9F%9B%92-shopping-webpages).
+See [🛒 Shopping Webpages](/tldr/quality-characteristics.html#%F0%9F%9B%92-shopping-webpages).

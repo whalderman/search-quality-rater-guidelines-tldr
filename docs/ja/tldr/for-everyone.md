@@ -419,7 +419,7 @@ For queries about breaking news, recurring events, current information, or produ
 
 ### Rating Visit in Person Intent Queries
 
-Google takes the type of entity into account when deciding how close "near me" should be. "Nearby" can mean completely different things depending on what the user is looking for. Test the following for examples:
+Google takes the type of entity (what you're searching for) into account when deciding how close "near me" should be. "Nearby" can mean completely different things depending on what the user is looking for. Test the following for examples:
 
 - [gas station near me](https://www.google.com/search?q=gas+station+near+me)
 - [theater near me](https://www.google.com/search?q=theater+near+me)
