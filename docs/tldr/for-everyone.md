@@ -67,7 +67,7 @@ Some definitions from Google:
 : Any content on the page that **directly helps the page achieve its purpose** (product details on a product page, ingredients/measurements/directions on a recipe page, etc.).
 
 **Supplementary Content (SC)**
-: Any content that **is not** considered MC or Ads, but **affects (positively or negatively) user experience** (navigation links, related products, spammy comments, etc.).
+: Any content that **is not** considered MC or Ads, but **[positively or negatively] affects user experience** (navigation links, related products, spammy comments, etc.).
 
 **Identifying Advertisements/Monetization (Ads)**
 : Ads is content and/or links that are displayed for the purpose of **monetizing the page**.
@@ -81,13 +81,13 @@ Google makes note of when subdomains and root domains will likely be treated as 
 Google will judge the reputation of a website based on a range of reputable independent sources (sites like [BBB](https://www.bbb.org/), [Trustpilot](https://www.trustpilot.com/), etc.).
 
 ::: tip Be trustworthy.
-Make it as easy as possible for Google to discover who (person/company) is responsible for the website, and who (person/company) created the content (for news/research/information-based pages).
+Make it as easy as possible for Google to discover who (person/company) is responsible for the website, and who (person/company) created the content, especially for news/research/information-based pages.
 
 In general, this implies a more trustworthy website overall.
 :::  
 
-::: tip Include contact information.
-Depending on your type of business, Google expects different types and amounts of contact information. Contact information is very important for websites that handle money (stores, banks, credit card companies, etc.).
+::: tip Include contact information and policies.
+Depending on your type of business, Google expects different types and amounts of contact information and policies. This information is extremely important for any website that handles money (stores, banks, credit card companies, etc.).
 :::
 
 #### Contact Info Suggestions
