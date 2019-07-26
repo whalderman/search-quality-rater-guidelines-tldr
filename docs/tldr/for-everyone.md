@@ -11,7 +11,7 @@ Here we try to keep things as concise as possible, informing you about what to c
 
 <div class="note">
 
-Disclaimer: The following content includes opinions and reasoning from the SEO professionals at [Bruce Clay Japan Inc.](https://bruceclay.jpn.com) These opinions and suggestions attempt to summarize Google's Quality Rater Guidelines, but are **not in any way** endorsed or backed by Google.
+Disclaimer: The following content includes opinions and reasoning from the SEO professionals at [Bruce Clay Japan Inc.](https://bruceclay.jpn.com) These opinions and suggestions are an attempt to summarize Google's Quality Rater Guidelines, but are **not in any way** endorsed or backed by Google.
 
 </div>
 
@@ -63,14 +63,14 @@ Example YMYL pages:
 
 Some definitions from Google:
 
-**Main Content (MC)**
-: Any content on the page that **directly helps the page achieve its purpose** (product details on a product page, ingredients/measurements/directions on a recipe page, etc.).
-
-**Supplementary Content (SC)**
-: Any content that **is not** considered MC or Ads, but **[positively or negatively] affects user experience** (navigation links, related products, spammy comments, etc.).
-
-**Identifying Advertisements/Monetization (Ads)**
-: Ads is content and/or links that are displayed for the purpose of **monetizing the page**.
+> **Main Content (MC)**
+> : Any content on the page that **directly helps the page achieve its purpose** (product details on a product page, ingredients/measurements/directions on a recipe page, etc.).
+>
+> **Supplementary Content (SC)**
+> : Any content that **is not** considered MC or Ads, but **[positively or negatively] affects user experience** (navigation links, related products, spammy comments, etc.).
+>
+> **Identifying Advertisements/Monetization (Ads)**
+> : Any content and/or links that are displayed for the purpose of **monetizing the page**.
 
 ### Understanding Websites
 

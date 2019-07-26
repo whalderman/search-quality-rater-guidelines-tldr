@@ -4,7 +4,7 @@ Here we go over various optimizations that can (and should) be made to a site, a
 
 <div class="note">
 
-Disclaimer: The following content includes opinions and reasoning from the SEO professionals at [Bruce Clay Japan Inc.](https://bruceclay.jpn.com) These opinions and suggestions attempt to summarize Google's Quality Rater Guidelines, but are **not in any way** endorsed or backed by Google.
+Disclaimer: The following content includes opinions and reasoning from the SEO professionals at [Bruce Clay Japan Inc.](https://bruceclay.jpn.com) These opinions and suggestions are an attempt to summarize Google's Quality Rater Guidelines, but are **not in any way** endorsed or backed by Google.
 
 </div>
 

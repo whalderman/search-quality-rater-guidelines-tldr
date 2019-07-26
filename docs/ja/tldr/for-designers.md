@@ -4,7 +4,7 @@ Here we summarize what to avoid when designing a site and, in some cases, what c
 
 <div class="note">
 
-Disclaimer: The following content includes opinions and reasoning from the SEO professionals at [Bruce Clay Japan Inc.](https://bruceclay.jpn.com) These opinions and suggestions attempt to summarize Google's Quality Rater Guidelines, but are **not in any way** endorsed or backed by Google.
+Disclaimer: The following content includes opinions and reasoning from the SEO professionals at [Bruce Clay Japan Inc.](https://bruceclay.jpn.com) These opinions and suggestions are an attempt to summarize Google's Quality Rater Guidelines, but are **not in any way** endorsed or backed by Google.
 
 </div>
 
@@ -16,7 +16,7 @@ Disclaimer: The following content includes opinions and reasoning from the SEO p
 > - We will consider a page to be "deceptive" if it may deceive users or trick search engines. All deceptive pages should be rated **Lowest**.
 > - Any page or website that may deceive or trick users should be rated **Lowest**, regardless of intent.
 
-Listed above, Google mentions many times throughout their guidelines that pages attempting to deceive users or search engines should receive the **Lowest** quality score; they will not rank. As a designer, if you want your website to rank higher within Google, there is only one thing to remember:
+Listed above, Google mentions many times throughout their guidelines that pages attempting to deceive users or search engines should receive the **Lowest** quality score; they will not rank. As the web designer, there is only one thing you need to remember:
 
 ::: danger Do not deceive users
 
@@ -52,7 +52,7 @@ Google also mentions the following as something to avoid:
 
 > - Pages with Ads, SC, or other features that distract from or interrupt the use of the MC should be given a **Low** [page quality] rating.
 
-This points us to a less dangerous, but more common issue with a large portion of websites that depend on ads for income:
+This leads us to a less troubling, but more common issue with a large portion of websites that depend on ads for income:
 
 ::: warning Do not distract users
 

@@ -4,7 +4,7 @@ Here we go over various optimizations that can (and should) be made to a site, a
 
 <div class="note">
 
-Disclaimer: The following content includes opinions and reasoning from the SEO professionals at [Bruce Clay Japan Inc.](https://bruceclay.jpn.com) These opinions and suggestions attempt to summarize Google's Quality Rater Guidelines, but are **not in any way** endorsed or backed by Google.
+Disclaimer: The following content includes opinions and reasoning from the SEO professionals at [Bruce Clay Japan Inc.](https://bruceclay.jpn.com) These opinions and suggestions are an attempt to summarize Google's Quality Rater Guidelines, but are **not in any way** endorsed or backed by Google.
 
 </div>
 
@@ -124,10 +124,18 @@ We recommend going through the UI in this case.
 ::: tip Automate image optimization
 Images are often a website's biggest use of bandwidth - and bandwidth costs users money.
 
-In most parts of the world, and especially regarding cell phones, users do not or cannot pay for unlimited data. Save yourself and your users' time and money by implementing automated image optimization.
+In most parts of the world, and especially regarding cell phones, users do not or cannot pay for unlimited data. Save your users (and yourself) some time and money by implementing automated image optimization.
 :::
 
-Image optimization is one of the most difficult, yet most important areas of optimization. Instead of image size and mobile responsiveness we focus on image format
+Image optimization is one of the most difficult, yet most beneficial areas of optimization for many websites. Instead of image size and mobile responsiveness we focus on image format
+
+::: tip Image ideals
+
+- The size of an image rendered on-page should match it's intrinsic (original) size, especially larger images. If an image is larger than necessary, resize it.
+- Use `.svg` for simple logos and designs.
+- Use modern image formats like `.webp`.
+- Instead of using animated images (`.gif`/`.apng`/`webp`), use a video format for signifcantly smaller file size and load speed.
+:::
 
 ### Tools and Programs
 
