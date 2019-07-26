@@ -532,25 +532,17 @@ Here is how to research the reputation of the website:
 2. Using ibm.com as an example, try one or more of the following searches on Google:
     - <span class="query">ibm -site:ibm.com</span>: A search for IBM that excludes pages on ibm.com.
     - <span class="query">"ibm.com" -site:ibm.com</span>: A search for "ibm.com" that excludes pages on ibm.com.
-    - <span class="query">ibm reviews -site:ibm.com</span> A search for reviews of IBM that excludes pages on ibm.com.
+    - <span class="query">ibm reviews -site:ibm.com</span>: A search for reviews of IBM that excludes pages on ibm.com.
     - <span class="query">"ibm.com" reviews -site:ibm.com</span>: A search for reviews of "ibm.com" that excludes pages on ibm.com.
     - For content creators, try searching for their name or alias.
 
-<div class="note">
-
-    Note: When searching for reputation information, try to find sources that were not written or created by the website, the company itself, or the individual. For example, IBM might have official Facebook or Twitter pages that it closely maintains, which would not be considered independent sources of reputation information about the company. See [here](https://en.wikipedia.org/wiki/Wikipedia:Identifying_and_using_independent_sources) for a Wikipedia article on identifying and using independent sources.
-
-</div>
+    <div class="note">Note: When searching for reputation information, try to find sources that were not written or created by the website, the company itself, or the individual. For example, IBM might have official Facebook or Twitter pages that it closely maintains, which would not be considered independent sources of reputation information about the company. See <a href="https://en.wikipedia.org/wiki/Wikipedia:Identifying_and_using_independent_sources">here</a> for a Wikipedia article on identifying and using independent sources.</div>
 
 3. Look for articles, reviews, forum posts, discussions, etc. written by people about the website. For businesses, there are many sources of reputation information and reviews. Here are some examples: [Yelp](https://guidelines.raterhub.com/images/PQ.ReputationResearchExampleWebsite1.jpg), [Better Business Bureau](https://guidelines.raterhub.com/images/PQ.ReputationResearchExampleWebsite3.jpg) (a nonprofit organization that focuses on the trustworthiness of businesses and charities), [Amazon](https://guidelines.raterhub.com/images/PQ.ReputationResearchExample4.jpg), and [Google Shopping](https://guidelines.raterhub.com/images/PQ.ReputationResearchExample5.jpg). You can try searching on specific sites to find reviews. For example, you can try <span class="query">ibm ite:bbb.org</span> or <span class="query">"ibm.com" site:bbb.org</span>.
 
     For content creators, look for biographical data and other sources that are not written by the individual.
 
-<div class="note">
-
-    Note: You will sometimes find high ratings on the Better Business Bureau (BBB) website because there is very little data on the business, not because the business has a positive reputation. However, very low ratings on BBB are usually the result of multiple unresolved complaints. Please consider very low ratings on the BBB site to be evidence for a negative reputation.
-
-</div>
+    <div class="note">Note: You will sometimes find high ratings on the Better Business Bureau (BBB) website because there is very little data on the business, not because the business has a positive reputation. However, very low ratings on BBB are usually the result of multiple unresolved complaints. Please consider very low ratings on the BBB site to be evidence for a negative reputation.</div>
 
 4. See if there is a Wikipedia article or news article from a well-known news site. Wikipedia can be a good source of information about companies, organizations, and content creators. For example, try <span class="query">ibm site:en.wikipedia.org</span> or <span class="query">"ibm.com" site:en.wikipedia.org</span>. News articles and Wikipedia articles can help you learn about a company and may include information specific to reputation, such as awards and other forms of recognition, or also controversies and issues. Note that some Wikipedia articles include a message warning users that there are disagreements on some of the content, or that the content may be outdated. This may be an indication that additional research is necessary.
 

@@ -538,16 +538,16 @@ Customer reviews can be helpful for assessing the reputation of a store or busin
 2. 例としてibm.comを使用して、Googleで次の検索の1つ以上を試してみる。
     - <span class="query">ibm -site:ibm.com</span>: ibm.com以外でのIBMに関する情報を検索
     - <span class="query">"ibm.com" -site:ibm.com</span>: ibm.com以外でのibm.comに関する情報を検索
-    - <span class="query">ibm reviews -site:ibm.com</span> ibm.com以外でのIBMに関するレビューを検索
+    - <span class="query">ibm reviews -site:ibm.com</span>: ibm.com以外でのIBMに関するレビューを検索
     - <span class="query">"ibm.com" reviews -site:ibm.com</span>: ibm.com以外でのibm.comに関するレビューを検索
 
-    **注：**<!-- -->評判の情報を検索するときは、Webサイトまたは会社自身が作成または作成していないソースで探してみる。例えば、IBMは会社の評判情報の独立した情報源とはみなされない。密接に維持されている公式のFacebookやTwitterのページを持っているかもしれない。独立した情報源の特定と利用に関するWikipediaの記事は[ここ](https://en.wikipedia.org/wiki/Wikipedia:Identifying_and_using_independent_sources)を見る。
+    <div class="note"><b>注：</b>評判の情報を検索するときは、Webサイトまたは会社自身が作成または作成していないソースで探してみる。例えば、IBMは会社の評判情報の独立した情報源とはみなされない。密接に維持されている公式のFacebookやTwitterのページを持っているかもしれない。独立した情報源の特定と利用に関するWikipediaの記事は<a href="https://en.wikipedia.org/wiki/Wikipedia:Identifying_and_using_independent_sources">ここ</a>を見る。</div>
 
-3. Webサイトについて書いた記事、レビュー、フォーラム投稿、ディスカッションなどを探す。企業にとっては、評判情報やレビューには多くの情報源がある。いくつかの例を出すと：[Yelp](https://guidelines.raterhub.com/images/PQ.ReputationResearchExampleWebsite1.jpg)、[Better Business Bureau](https://guidelines.raterhub.com/images/PQ.ReputationResearchExampleWebsite3.jpg)（ビジネスとチャリティーの信頼性に重点を置く非営利組織）、[Amazon](https://guidelines.raterhub.com/images/PQ.ReputationResearchExample4.jpg)、[Googleショッピング](https://guidelines.raterhub.com/images/PQ.ReputationResearchExample5.jpg)は 特定のサイトを検索してレビューを探すことができる。例えば、<span class="query">ibm site:bbb.org</span>または<span class="query">"ibm.com" site：bbb.org</span>を試すことができる。
+3. Webサイトについて書いた記事、レビュー、フォーラム投稿、ディスカッションなどを探す。企業にとっては、評判情報やレビューには多くの情報源がある。いくつかの例を出すと：[Yelp](https://guidelines.raterhub.com/images/PQ.ReputationResearchExampleWebsite1.jpg)、[Better Business Bureau](https://guidelines.raterhub.com/images/PQ.ReputationResearchExampleWebsite3.jpg)（ビジネスとチャリティーの信頼性に重点を置く非営利組織）、[Amazon](https://guidelines.raterhub.com/images/PQ.ReputationResearchExample4.jpg)、[Googleショッピング](https://guidelines.raterhub.com/images/PQ.ReputationResearchExample5.jpg)は 特定のサイトを検索してレビューを探すことができる。例えば、<span class="query">ibm site:bbb.org</span>または<span class="query">"ibm.com" site:bbb.org</span>を試すことができる。
 
     For content creators, look for biographical data and other sources that are not written by the individual.
 
-    **注：**<!-- -->Better Business Bureau（BBB）のWebサイトには高い評価が表示されることがある。ビジネスにはデータが少ないからである。ビジネスが肯定的な評判を持っていることにはならない。しかし、BBBの格付けが非常に低いのは、通常、複数の未解決の苦情の結果である。BBBサイトの非常に低い評価であった否定的な評判の証拠として扱っていく。
+    <div class="note"><b>注：</b>Better Business Bureau（BBB）のWebサイトには高い評価が表示されることがある。ビジネスにはデータが少ないからである。ビジネスが肯定的な評判を持っていることにはならない。しかし、BBBの格付けが非常に低いのは、通常、複数の未解決の苦情の結果である。BBBサイトの非常に低い評価であった否定的な評判の証拠として扱っていく。</div>
 
 4. 有名なニュースサイト、Wikipedia記事またはニュース記事を探す。Wikipediaは、企業や組織を知る良い情報源となる。<span class="query">ibm site:en.wikipedia.org</span>または<span class="query">"ibm.com" site:en.wikipedia.org</span>を試してみる。賞やその他の認定書や論争や問題など、評判に関する情報も含まれている。一部のWikipediaの記事には、コンテンツの一部に意見の不一致がある、またはコンテンツが古くなっている可能性があることを警告するメッセージが表示される。これについては追加の調査が必要であることを示唆している可能性がある。
 
