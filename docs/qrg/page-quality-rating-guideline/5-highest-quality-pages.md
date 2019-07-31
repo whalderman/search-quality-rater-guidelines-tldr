@@ -733,6 +733,6 @@ It is an expert and authoritative source of information about the Tennessee Repu
 </div>
 </div>
 
-[hst]: ../images/highest.jpg
-[h+n]: ../images/high+narrow.jpg
-[h-w]: ../images/high-wide.jpg
+[hst]: /img/qrg/highest.jpg
+[h+n]: /img/qrg/high+narrow.jpg
+[h-w]: /img/qrg/high-wide.jpg

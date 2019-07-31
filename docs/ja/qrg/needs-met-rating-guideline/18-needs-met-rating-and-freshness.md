@@ -33,17 +33,17 @@
 <div class="results">
 <div class="result">
 
-![](../images/img721.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
-![page quality scale - high - narrow range](../images/high-narrow.jpg)  
+![](/img/qrg/img721.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
+![page quality scale - high - narrow range](/img/qrg/high-narrow.jpg)  
 このLPにはローバー（Curiosity）着陸についての記事があり、この例が書かれた日である着陸と同じ日に出版された。
 
 </div>
 <div class="result">
 
-![](../images/img724.jpg)  
-![needs met scale - fails to meet - narrow range](../images/failsm-narrow.jpg)  
-![page quality scale - high - narrow range](../images/high-narrow.jpg)  
+![](/img/qrg/img724.jpg)  
+![needs met scale - fails to meet - narrow range](/img/qrg/failsm-narrow.jpg)  
+![page quality scale - high - narrow range](/img/qrg/high-narrow.jpg)  
 このLPには、火星に着陸する9ヶ月前に公開されたローバー（Curiosity）の打ち上げに関する記事がある。このページのコンテンツは、クエリでは古いとみなされる。
 
 </div>
@@ -58,17 +58,17 @@
 <div class="results">
 <div class="result">
 
-![](../images/img727.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
-![page quality scale - high - narrow range](../images/high-narrow.jpg)  
+![](/img/qrg/img727.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
+![page quality scale - high - narrow range](/img/qrg/high-narrow.jpg)  
 LPには、この例を作成した**当日**である、2012年8月7日のロサンゼルスの交通情報が表示されている。
 
 </div>
 <div class="result">
 
-![](../images/img730.jpg)  
-![needs met scale - fails to meet](../images/failsm.jpg)  
-![page quality scale - high - narrow range](../images/high-narrow.jpg)  
+![](/img/qrg/img730.jpg)  
+![needs met scale - fails to meet](/img/qrg/failsm.jpg)  
+![page quality scale - high - narrow range](/img/qrg/high-narrow.jpg)  
 LPには、この例を作成した**前日**である、2012年8月6日のロサンゼルスの交通情報が表示されている。1日古いだけだが、このクエリに対しては陳腐であり全く役に立たない。
 
 </div>
@@ -83,17 +83,17 @@ LPには、この例を作成した**前日**である、2012年8月6日のロ�
 <div class="results">
 <div class="result">
 
-![](../images/img733.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
-![page quality scale - high - narrow range](../images/high-narrow.jpg)  
+![](/img/qrg/img733.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
+![page quality scale - high - narrow range](/img/qrg/high-narrow.jpg)  
 The New York TimesのWebサイト内のページで、この例を作成した時点では一番近い年の受賞者一覧。
 
 </div>
 <div class="result">
 
-![](../images/img736.jpg)  
-![needs met scale - fails to meet - wide range](../images/failsm-wide.jpg)  
-![page quality scale - high - narrow range](../images/high-narrow.jpg)  
+![](/img/qrg/img736.jpg)  
+![needs met scale - fails to meet - wide range](/img/qrg/failsm-wide.jpg)  
+![page quality scale - high - narrow range](/img/qrg/high-narrow.jpg)  
 BBCのWebサイト内のページで、2006年度の受賞者一覧。このクエリに対しては陳腐すぎる。
 
 </div>
@@ -108,17 +108,17 @@ BBCのWebサイト内のページで、2006年度の受賞者一覧。このク�
 <div class="results">
 <div class="result">
 
-![](../images/img740.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
-![page quality scale - high - wide range](../images/high-wide.jpg)  
+![](/img/qrg/img740.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
+![page quality scale - high - wide range](/img/qrg/high-wide.jpg)  
 Medline Plusは権威性のあるWebサイトで、定期的にコンテンツを更新している。
 
 </div>
 <div class="result">
 
-![](../images/img743.jpg)  
-![needs met scale - slightly meets](../images/sm.jpg)  
-![page quality scale - medium - narrow range](../images/medium-narrow.jpg)  
+![](/img/qrg/img743.jpg)  
+![needs met scale - slightly meets](/img/qrg/sm.jpg)  
+![page quality scale - medium - narrow range](/img/qrg/medium-narrow.jpg)  
 この記事は2006年のもので、医薬に関するクエリに対しては古すぎる。
 
 </div>
@@ -133,9 +133,9 @@ Medline Plusは権威性のあるWebサイトで、定期的にコンテンツ�
 <div class="results">
 <div class="result">
 
-![](../images/img746.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
-![page quality scale - medium- wide range](../images/medium-wide.jpg)  
+![](/img/qrg/img746.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
+![page quality scale - medium- wide range](/img/qrg/medium-wide.jpg)  
 LPには、ユーザーが求めている情報がある。
 
 </div>

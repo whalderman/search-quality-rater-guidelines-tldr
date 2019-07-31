@@ -4,7 +4,7 @@ There are many different kinds of queries and results, but the process of rating
 
 This is what the Needs Met rating slider looks like:
 
-![The Needs Met Rating scale](../images/needs-met-scale.jpg)
+![The Needs Met Rating scale](/img/qrg/needs-met-scale.jpg)
 
 ## Needs Met Ratings
 
@@ -62,7 +62,7 @@ For example, think about the query <span class="query">what does love mean</span
 <div class="results">
 <div class="result">
 
-![what does love mean Special Content Result Block](../images/img266.jpg)
+![what does love mean Special Content Result Block](/img/qrg/img266.jpg)
 
 Most users would probably not click on the Special Content Result Block, because the block contains a large amount of helpful content and has no obvious landing page link associated with it. Therefore, base your rating on the content inside the block itself.
 
@@ -76,7 +76,7 @@ Most users would probably not click on the Special Content Result Block, because
 <div class="results">
 <div class="result">
 
-![what does love mean Web Search Result Block](../images/img267.jpg)
+![what does love mean Web Search Result Block](/img/qrg/img267.jpg)
 
 In this case, users would have to click on the web search result in order to get an answer to the question. Therefore, base your rating on the content of the landing page.
 
@@ -95,7 +95,7 @@ Here are some examples of Special Content Result Blocks where the block should b
 <div class="results">
 <div class="result">
 
-![](../images/img269.jpg)
+![](/img/qrg/img269.jpg)
 
 </div>
 </div>
@@ -107,7 +107,7 @@ Here are some examples of Special Content Result Blocks where the block should b
 <div class="results">
 <div class="result">
 
-![](../images/img270.jpg)
+![](/img/qrg/img270.jpg)
 
 </div>
 </div>
@@ -119,7 +119,7 @@ Here are some examples of Special Content Result Blocks where the block should b
 <div class="results">
 <div class="result">
 
-![](../images/img271.jpg)
+![](/img/qrg/img271.jpg)
 
 </div>
 </div>
@@ -131,7 +131,7 @@ Here are some examples of Special Content Result Blocks where the block should b
 <div class="results">
 <div class="result">
 
-![](../images/img272.jpg)
+![](/img/qrg/img272.jpg)
 
 </div>
 </div>
@@ -143,7 +143,7 @@ Here are some examples of Special Content Result Blocks where the block should b
 <div class="results">
 <div class="result">
 
-![](../images/img273.jpg)
+![](/img/qrg/img273.jpg)
 
 </div>
 </div>
@@ -155,7 +155,7 @@ Here are some examples of Special Content Result Blocks where the block should b
 <div class="results">
 <div class="result">
 
-![](../images/img274.jpg)
+![](/img/qrg/img274.jpg)
 
 </div>
 </div>
@@ -200,9 +200,9 @@ Sometimes you have to think about how specific the user need is and will need to
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img276.jpg)
+![fully meets example](/img/qrg/img276.jpg)
 
-![fully meets](../images/fullym.jpg)
+![fully meets](/img/qrg/fullym.jpg)
 
 **What you might see in the rating task:**  
 Action: Open a specific webpage  
@@ -225,9 +225,9 @@ The query has clear intent to go to amazon.com and the phone is opening the spec
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img279.jpg)
+![fully meets example](/img/qrg/img279.jpg)
 
-![fully meets](../images/fullym.jpg)
+![fully meets](/img/qrg/fullym.jpg)
 
 The query has clear intent to go to the amazon.com website. While there may be other interpretations for the query, the dominant one is by far the website.
 
@@ -243,9 +243,9 @@ The query has clear intent to go to the amazon.com website. While there may be o
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img281.jpg)
+![fully meets example](/img/qrg/img281.jpg)
 
-![fully meets](../images/fullym.jpg)
+![fully meets](/img/qrg/fullym.jpg)
 
 The query has clear intent to go to target.com.
 
@@ -261,9 +261,9 @@ The query has clear intent to go to target.com.
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img283.jpg)
+![fully meets example](/img/qrg/img283.jpg)
 
-![fully meets](../images/fullym.jpg)
+![fully meets](/img/qrg/fullym.jpg)
 
 The query has clear intent to go to the Nordstrom website.
 
@@ -279,9 +279,9 @@ The query has clear intent to go to the Nordstrom website.
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img285.jpg)
+![fully meets example](/img/qrg/img285.jpg)
 
-![fully meets](../images/fullym.jpg)
+![fully meets](/img/qrg/fullym.jpg)
 
 The query has clear intent to go to the IMDb page for Titanic.
 
@@ -297,9 +297,9 @@ The query has clear intent to go to the IMDb page for Titanic.
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img287.jpg)
+![fully meets example](/img/qrg/img287.jpg)
 
-![fully meets](../images/fullym.jpg)
+![fully meets](/img/qrg/fullym.jpg)
 
 Even though this is an imperfect URL query, it's clear the user wants to go to the Yahoo website.
 
@@ -315,9 +315,9 @@ Even though this is an imperfect URL query, it's clear the user wants to go to t
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img289.jpg)
+![fully meets example](/img/qrg/img289.jpg)
 
-![fully meets](../images/fullym.jpg)
+![fully meets](/img/qrg/fullym.jpg)
 
 The query has clear intent to go to the Health section of the cnn.com webpage.
 
@@ -333,9 +333,9 @@ The query has clear intent to go to the Health section of the cnn.com webpage.
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img291.jpg)
+![fully meets example](/img/qrg/img291.jpg)
 
-![fully meets](../images/fullym.jpg)
+![fully meets](/img/qrg/fullym.jpg)
 
 The query has clear intent to access CNN news and content. The website has the content the user is searching for, and fully satisfies the user intent.
 
@@ -351,9 +351,9 @@ The query has clear intent to access CNN news and content. The website has the c
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img294.jpg)
+![fully meets example](/img/qrg/img294.jpg)
 
-![fully meets](../images/fullym.jpg)
+![fully meets](/img/qrg/fullym.jpg)
 
 This result **Fully Meets** the user need whether they want the Yelp app or the Yelp website, which are both popular.
 
@@ -365,7 +365,7 @@ Note: If you see this kind of result, assume that the user has the app installed
 
 Clicking on the Yelp link above the logo opens the app directly, and clicking on the "Open on yelp.com" link gives the option of opening the app or website.
 
-![Explanation for fully meets](../images/img296.jpg)
+![Explanation for fully meets](/img/qrg/img296.jpg)
 
 </div>
 </div>
@@ -379,9 +379,9 @@ Clicking on the Yelp link above the logo opens the app directly, and clicking on
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img297.jpg)
+![fully meets example](/img/qrg/img297.jpg)
 
-![fully meets](../images/fullym.jpg)
+![fully meets](/img/qrg/fullym.jpg)
 
 The query has clear intent to go to the player statistics page for LeBron James on a specific website, basketball-reference.com.
 
@@ -398,9 +398,9 @@ The query has clear intent to go to the player statistics page for LeBron James 
 <div class="result">
 
 **What the user sees:**  
-![fully meets example](../images/img299.jpg)
+![fully meets example](/img/qrg/img299.jpg)
 
-![fully meets](../images/fullym.jpg)
+![fully meets](/img/qrg/fullym.jpg)
 
 **What you might see in the rating task:**  
 Action: Open an app  
@@ -420,9 +420,9 @@ This **Device Action** query is clear and specific: the user wants to open the I
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img301.jpg)
+![fully meets example](/img/qrg/img301.jpg)
 
-![fully meets](../images/fullym.jpg)
+![fully meets](/img/qrg/fullym.jpg)
 
 The result block shows that the phone has detected that the app is not installed and gives the option of downloading the app. This result **Fully Meets** the user need.
 
@@ -445,9 +445,9 @@ Note: Remember that you should assume that queries were issued on an Android dev
 <div class="result">
 
 **What the user sees:**  
-![fully meets example](../images/img304.jpg)
+![fully meets example](/img/qrg/img304.jpg)
 
-![fully meets](../images/fullym.jpg)
+![fully meets](/img/qrg/fullym.jpg)
 
 **What you might see in the rating task:**  
 Action: Open an app  
@@ -468,9 +468,9 @@ This Device Action query is clear and specific: the user wants to open the Faceb
 <div class="result">
 
 **What the user sees:**  
-![fully meets example](../images/img251.jpg)
+![fully meets example](/img/qrg/img251.jpg)
 
-![fully meets](../images/fullym.jpg)
+![fully meets](/img/qrg/fullym.jpg)
 
 **What you might see in the rating task:**  
 Action: Set alarm  
@@ -490,9 +490,9 @@ This Device Action query is clear and specific: the user wants to set the phone'
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img308.jpg)
+![fully meets example](/img/qrg/img308.jpg)
 
-![fully meets](../images/fullym.jpg)
+![fully meets](/img/qrg/fullym.jpg)
 
 Chef Chu's is a Chinese restaurant located in the user location. This result block immediately shows the correct phone number with the option to call the number directly on the device—it **Fully Meets** the user intent.
 
@@ -515,9 +515,9 @@ Note: You must check for accuracy before using the **Fully Meets** rating. You c
 <div class="result">
 
 **What the user sees:**  
-![fully meets example](../images/img310.jpg)
+![fully meets example](/img/qrg/img310.jpg)
 
-![fully meets](../images/fullym.jpg)
+![fully meets](/img/qrg/fullym.jpg)
 
 **What you might see in the rating task:**  
 Action: Make a call  
@@ -544,9 +544,9 @@ Note: You must check for accuracy before using the **Fully Meets** rating. You c
 <div class="result">
 
 **What the user sees:**  
-![fully meets example](../images/img313.jpg)
+![fully meets example](/img/qrg/img313.jpg)
 
-![fully meets](../images/fullym.jpg)
+![fully meets](/img/qrg/fullym.jpg)
 
 **What you might see in the rating task:**  
 Action: Open map  
@@ -567,9 +567,9 @@ This Device Action query is clear and specific: the user wants to see a map of I
 <div class="result">
 
 **What the user sees:**  
-![fully meets example](../images/img315.jpg)
+![fully meets example](/img/qrg/img315.jpg)
 
-![fully meets](../images/fullym.jpg)
+![fully meets](/img/qrg/fullym.jpg)
 
 **What you might see in the rating task:**  
 Action: Navigation  
@@ -590,9 +590,9 @@ This **Device Action** query is clear and specific: the user wants to navigate t
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img317.jpg)
+![fully meets example](/img/qrg/img317.jpg)
 
-![fully meets](../images/fullym.jpg)
+![fully meets](/img/qrg/fullym.jpg)
 
 The result block displays the complete and correct answer prominently in the result block, in a way that is easy for users on mobile devices to read. The block also includes an image showing users exactly where to find the code, and the block Fully Meets the user need.
 
@@ -608,9 +608,9 @@ The result block displays the complete and correct answer prominently in the res
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img320.jpg)
+![fully meets example](/img/qrg/img320.jpg)
 
-![fully meets](../images/fullym.jpg)
+![fully meets](/img/qrg/fullym.jpg)
 
 The result block displays the complete and correct answer prominently in the result block, in a way that is easy for users on mobile devices to read—it Fully Meets the user need.
 
@@ -631,9 +631,9 @@ Note: Assume that the result shows current information for users.
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img322.jpg)
+![fully meets example](/img/qrg/img322.jpg)
 
-![fully meets](../images/fullym.jpg)
+![fully meets](/img/qrg/fullym.jpg)
 
 The result block displays the complete and correct answer prominently in the result block, in a way that is easy for users on mobile devices to read—it Fully Meets the user need.
 
@@ -649,9 +649,9 @@ The result block displays the complete and correct answer prominently in the res
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img324.jpg)
+![fully meets example](/img/qrg/img324.jpg)
 
-![fully meets](../images/fullym.jpg)
+![fully meets](/img/qrg/fullym.jpg)
 
 The result block displays the complete and correct answer prominently in the result block, in a way that is easy for users on mobile devices to read—it **Fully Meets** the user need.  
 Remember that we consider weather queries, like this one, to be a **Know Simple** query for mobile phone users.
@@ -673,9 +673,9 @@ Note: Assume the result shows current information for users.
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img326.jpg)
+![fully meets example](/img/qrg/img326.jpg)
 
-![fully meets](../images/hm+narrow.jpg)
+![fully meets](/img/qrg/hm+narrow.jpg)
 
 The result block displays the complete and correct answer prominently in the result block, in a way that is easy for users on mobile devices to read—it **Fully Meets** the user need.
 
@@ -696,9 +696,9 @@ Note: Assume that the result shows current information for users.
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img329.jpg)
+![fully meets example](/img/qrg/img329.jpg)
 
-![fully meets](../images/hm+narrow.jpg)
+![fully meets](/img/qrg/hm+narrow.jpg)
 
 The result block displays the complete and correct answer prominently in the result block, in a way that is easy for users on mobile devices to read—it **Fully Meets** the user need.
 
@@ -714,9 +714,9 @@ The result block displays the complete and correct answer prominently in the res
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img331.jpg)
+![fully meets example](/img/qrg/img331.jpg)
 
-![fully meets](../images/hm+narrow.jpg)
+![fully meets](/img/qrg/hm+narrow.jpg)
 
 The intent is to visit the specific gas station specified by the user. This result block is for the specified Chevron location, with information to visit this location in person.
 
@@ -732,9 +732,9 @@ The intent is to visit the specific gas station specified by the user. This resu
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img333.jpg)
+![fully meets example](/img/qrg/img333.jpg)
 
-![fully meets](../images/hm+narrow.jpg)
+![fully meets](/img/qrg/hm+narrow.jpg)
 
 The result has exactly what the user wants, displaying the lyrics to the specified song clearly and completely inside the result block. The user does not need to click to a new page to see the complete lyrics for this song.
 
@@ -755,9 +755,9 @@ Note: The lyrics posted on Google Play are licensed.
 <div class="results">
 <div class="result">
 
-![highly meets+ example](../images/img336.jpg)
+![highly meets+ example](/img/qrg/img336.jpg)
 
-![highly meets+ narrow](../images/hm+narrow.jpg)
+![highly meets+ narrow](/img/qrg/hm+narrow.jpg)
 
 The intent is to find gas stations near the specific user location, represented by the blue dot on the map.  
 This result block has a very satisfying list of nearby, popular, and prominent options within one mile of the specific location. This kind of block is especially helpful for users who want to visit the business in person.  
@@ -780,9 +780,9 @@ Note: A range is included because some users would be fully satisfied with these
 <div class="results">
 <div class="result">
 
-![highly meets+ example](../images/img338.jpg)
+![highly meets+ example](/img/qrg/img338.jpg)
 
-![highly meets+ narrow](../images/hm+narrow.jpg)
+![highly meets+ narrow](/img/qrg/hm+narrow.jpg)
 
 The intent is to find coffee shops near the specific user location, represented by the blue dot on the map.  
 This result block has a very satisfying list of nearby, popular, and prominent options within a few miles of the specific location. This kind of block is especially helpful for users who want to visit the business in person. Note that these blocks are interactive—clicking on a coffee shop will give options to call the business, get directions, read reviews, etc.
@@ -804,9 +804,9 @@ Note: A range is included because some users would be fully satisfied with these
 <div class="results">
 <div class="result">
 
-![highly meets+ example](../images/img341.jpg)
+![highly meets+ example](/img/qrg/img341.jpg)
 
-![highly meets+ narrow](../images/hm+narrow.jpg)
+![highly meets+ narrow](/img/qrg/hm+narrow.jpg)
 
 This block contains a map with the queried address, link to get directions, and specifies the landmark at the well-known address on the map ("The White House").  
 It's not unusual to search for an address (or business) that is far from the user location. Here, the user has explicitly asked for a specific address in a far away place, and this result is very satisfying. For a query this specific, the user location does not change the rating.
@@ -828,9 +828,9 @@ Note: A range is included because some users would be fully satisfied with this 
 <div class="results">
 <div class="result">
 
-![highly meets+ example](../images/img343.jpg)
+![highly meets+ example](/img/qrg/img343.jpg)
 
-![highly meets+ narrow](../images/hm+narrow.jpg)
+![highly meets+ narrow](/img/qrg/hm+narrow.jpg)
 
 This block contains a map, link to get directions, departure times for the multiple train lines that operate at this station, link to a detailed schedule (i.e., the "Departure board"), and an option to see more information.
 
@@ -883,9 +883,9 @@ Have high standards for the **Highly Meets** rating. This is especially importan
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img347.jpg)
+![Highly Meets Example](/img/qrg/img347.jpg)
 
-![highly meets+](../images/hm+.jpg)
+![highly meets+](/img/qrg/hm+.jpg)
 
 This result shows a complete list of all three locations in the Charlotte area, with information that is especially helpful for users who want to visit the store.
 
@@ -906,9 +906,9 @@ Note: This result block is not Fully Meets because users who want to go to the w
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img349.jpg)
+![Highly Meets Example](/img/qrg/img349.jpg)
 
-![highly meets+](../images/hm+.jpg)
+![highly meets+](/img/qrg/hm+.jpg)
 
 This is the official website for Trader Joe's, which has highly authoritative information on the businesses' stores, promotions, recipes, news, etc.
 
@@ -929,9 +929,9 @@ Note: This result block is not Fully Meets because users who want information to
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img351.jpg)
+![Highly Meets Example](/img/qrg/img351.jpg)
 
-![highly meets+](../images/hm+.jpg)
+![highly meets+](/img/qrg/hm+.jpg)
 
 This is the museum's official website and has very helpful information about exhibits, membership, the store, etc.
 
@@ -952,9 +952,9 @@ Note: This result block is not Fully Meets because users who want information to
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img354.jpg)
+![Highly Meets Example](/img/qrg/img354.jpg)
 
-![highly meets+](../images/hm+.jpg)
+![highly meets+](/img/qrg/hm+.jpg)
 
 The result block shows information about the museum, and is especially helpful for users who want to visit the museum.
 
@@ -975,9 +975,9 @@ Note: This result block is not Fully Meets— even though there is a website lin
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img356.jpg)
+![Highly Meets Example](/img/qrg/img356.jpg)
 
-![highly meets+](../images/hm+.jpg)
+![highly meets+](/img/qrg/hm+.jpg)
 
 The query is the name of a car dealership in New Jersey, which is the only dealership with that name in the user location (Ramsey, New Jersey). The result block shows information about the dealership, and is especially helpful for users who want to visit the business.
 
@@ -998,9 +998,9 @@ Note: This result block is not Fully Meets— even though there is a website lin
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img358.jpg)
+![Highly Meets Example](/img/qrg/img358.jpg)
 
-![highly meets+](../images/hm+.jpg)
+![highly meets+](/img/qrg/hm+.jpg)
 
 This is the car dealership's official website and has very helpful information about inventory, financing, etc.
 
@@ -1021,9 +1021,9 @@ Note: This result block is not Fully Meets because users who want information to
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img361.jpg)
+![Highly Meets Example](/img/qrg/img361.jpg)
 
-![highly meets+](../images/hm+.jpg)
+![highly meets+](/img/qrg/hm+.jpg)
 
 There is only one library in the user location (Belmont, Massachusetts). The result block shows information about the library, and is especially helpful for users who want to visit the location.
 
@@ -1044,9 +1044,9 @@ Note: This result block is not Fully Meets— even though there is a website lin
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img363.jpg)
+![Highly Meets Example](/img/qrg/img363.jpg)
 
-![highly meets+](../images/hm+.jpg)
+![highly meets+](/img/qrg/hm+.jpg)
 
 There is only one library in the user location (Belmont, California). The result block shows information about the library, and is especially helpful for users who want to visit the location.
 
@@ -1067,9 +1067,9 @@ Note: This result block is not Fully Meets— even though there is a website lin
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img365.jpg)
+![Highly Meets Example](/img/qrg/img365.jpg)
 
-![highly meets narrow](../images/hm-narrow.jpg)
+![highly meets narrow](/img/qrg/hm-narrow.jpg)
 
 The user intent is too broad to have a Fully Meets result. However, this is The Decemberists' official website and has a lot of content including tour dates, music videos, the latest album, etc. The result is uniquely authoritative and most users would be very satisfied by this website.
 
@@ -1085,9 +1085,9 @@ The user intent is too broad to have a Fully Meets result. However, this is The 
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img367.jpg)
+![Highly Meets Example](/img/qrg/img367.jpg)
 
-![highly meets narrow](../images/hm-narrow.jpg)
+![highly meets narrow](/img/qrg/hm-narrow.jpg)
 
 The user intent is too broad to have a Fully Meets result. However, this is Celine Dion's official website and has a lot of content including recent news, show information, music, photos, videos, etc. The result is uniquely authoritative and most users would be very satisfied by this website.
 
@@ -1103,9 +1103,9 @@ The user intent is too broad to have a Fully Meets result. However, this is Celi
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img370.jpg)
+![Highly Meets Example](/img/qrg/img370.jpg)
 
-![highly meets](../images/hm.jpg)
+![highly meets](/img/qrg/hm.jpg)
 
 The user intent is too broad to have a Fully Meets result, and different users may be looking for different things.  
 
@@ -1123,9 +1123,9 @@ This interactive block has a large amount of helpful content for a TV show inclu
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img372.jpg)
+![Highly Meets Example](/img/qrg/img372.jpg)
 
-![highly meets](../images/hm.jpg)
+![highly meets](/img/qrg/hm.jpg)
 
 The LP for this web result has 127 reviews for the restaurant, and is easy to use on a mobile phone. The first three reviews show automatically, and then you can click to see more. This result would be very helpful for many or most users.
 
@@ -1141,9 +1141,9 @@ The LP for this web result has 127 reviews for the restaurant, and is easy to us
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img374.jpg)
+![Highly Meets Example](/img/qrg/img374.jpg)
 
-![highly meets](../images/hm.jpg)
+![highly meets](/img/qrg/hm.jpg)
 
 This is a specific Know Simple query for the name of the current Chancellor of Germany. While the answer is in the description of the web result, it is not displayed prominently in a way that is very easy for mobile users to read.
 
@@ -1159,9 +1159,9 @@ This is a specific Know Simple query for the name of the current Chancellor of G
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img377.jpg)
+![Highly Meets Example](/img/qrg/img377.jpg)
 
-![highly meets](../images/hm.jpg)
+![highly meets](/img/qrg/hm.jpg)
 
 The LP for this web result offers many Broadway tickets for sale, from a highly trustworthy source. While you have to zoom in and scroll to navigate the site, this result would be very helpful for many or most users because it is so highly trustworthy.
 
@@ -1177,9 +1177,9 @@ The LP for this web result offers many Broadway tickets for sale, from a highly 
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img379.jpg)
+![Highly Meets Example](/img/qrg/img379.jpg)
 
-![highly meets](../images/hm.jpg)
+![highly meets](/img/qrg/hm.jpg)
 
 The LP for this mobile-friendly web result offers many kids backpacks for sale. The company is well-known for manufacturing and selling high quality backpacks for kids of different ages. There is a lot of product information and many user reviews for each backpack, in addition to filter options that are easy to use on a phone. This result would be very helpful for many or most users.
 
@@ -1195,9 +1195,9 @@ The LP for this mobile-friendly web result offers many kids backpacks for sale. 
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img381.jpg)
+![Highly Meets Example](/img/qrg/img381.jpg)
 
-![highly meets](../images/hm.jpg)
+![highly meets](/img/qrg/hm.jpg)
 
 The LP for this mobile-friendly web result is part of an authoritative government website and provides a lot of helpful information about poison ivy. This result would be very helpful for many or most users. A few or some users may wish to see additional results.
 
@@ -1213,9 +1213,9 @@ The LP for this mobile-friendly web result is part of an authoritative governmen
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img383.jpg)
+![Highly Meets Example](/img/qrg/img383.jpg)
 
-![highly meets](../images/hm.jpg)
+![highly meets](/img/qrg/hm.jpg)
 
 The LP of this web result is a mobile-friendly Wikipedia article about Michael Jordan. This result would be helpful for many or most users.
 
@@ -1231,9 +1231,9 @@ The LP of this web result is a mobile-friendly Wikipedia article about Michael J
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img385.jpg)
+![Highly Meets Example](/img/qrg/img385.jpg)
 
-![highly meets](../images/hm.jpg)
+![highly meets](/img/qrg/hm.jpg)
 
 Users are looking for good or entertaining dance videos and there are many options online.  
 
@@ -1251,9 +1251,9 @@ There are many on-topic results for this query and this is one very popular vide
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img388.jpg)
+![Highly Meets Example](/img/qrg/img388.jpg)
 
-![highly meets](../images/hm.jpg)
+![highly meets](/img/qrg/hm.jpg)
 
 Seeing images of trestle bridges is very helpful in understanding this type of bridge. In this case, "a picture is worth a thousand words," meaning that a picture may be more helpful than a text description due to the unique design of the bridge.
 
@@ -1269,9 +1269,9 @@ Seeing images of trestle bridges is very helpful in understanding this type of b
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img390.jpg)
+![Highly Meets Example](/img/qrg/img390.jpg)
 
-![highly meets](../images/hm.jpg)
+![highly meets](/img/qrg/hm.jpg)
 
 This block contains many helpful images, and the landing page shows even more images—it Highly Meets the user intent.
 
@@ -1287,9 +1287,9 @@ This block contains many helpful images, and the landing page shows even more im
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img392.jpg)
+![Highly Meets Example](/img/qrg/img392.jpg)
 
-![highly meets](../images/hm.jpg)
+![highly meets](/img/qrg/hm.jpg)
 
 The result block has a good summary of what invasive species are, but some users would probably want to see more information like examples, impact, etc.
 
@@ -1305,9 +1305,9 @@ The result block has a good summary of what invasive species are, but some users
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img394.jpg)
+![Highly Meets Example](/img/qrg/img394.jpg)
 
-![highly meets](../images/hm.jpg)
+![highly meets](/img/qrg/hm.jpg)
 
 For users in Sunnyvale, California, the query <span class="query">turmeric</span> could have two different interpretations: a popular restaurant named Turmeric or the spice turmeric. Because the user is located in Sunnyvale, many mobile users are probably looking for the restaurant. However, it is not completely clear because some users may want to find information about the spice. This result about the restaurant has satisfying information for users who want to visit —it Highly Meets the most likely user need.
 
@@ -1323,9 +1323,9 @@ For users in Sunnyvale, California, the query <span class="query">turmeric</span
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img397.jpg)
+![Highly Meets Example](/img/qrg/img397.jpg)
 
-![highly meets](../images/hm.jpg)
+![highly meets](/img/qrg/hm.jpg)
 
 Even though the user has to re-enter the destination, the result block recognizes that the user was asking for directions from Seattle. The user has to enter the destination manually because the name in the query ("xpppzyfii") is so garbled that there is no good guess as to what the user meant.  
 
@@ -1343,9 +1343,9 @@ Therefore, this block is satisfying because it helps the user correct the reques
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img399.jpg)
+![Highly Meets Example](/img/qrg/img399.jpg)
 
-![highly meets](../images/hm.jpg)
+![highly meets](/img/qrg/hm.jpg)
 
 This is a fan site dedicated to Kristen Wiig. The website has comprehensive info including over 50,000 pictures and 300 video clips, interviews, articles, and more. This website Highly Meets the need of many or most users.
 
@@ -1361,9 +1361,9 @@ This is a fan site dedicated to Kristen Wiig. The website has comprehensive info
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img401.jpg)
+![Highly Meets Example](/img/qrg/img401.jpg)
 
-![moderately meets+ narrow](../images/mm+narrow.jpg)
+![moderately meets+ narrow](/img/qrg/mm+narrow.jpg)
 
 This is a broad query. Different users may be looking for different things.  
 
@@ -1381,9 +1381,9 @@ This result shows multiple tables of images with the letters in the Greek alphab
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img403.jpg)
+![Highly Meets Example](/img/qrg/img403.jpg)
 
-![moderately meets+ narrow](../images/mm+narrow.jpg)
+![moderately meets+ narrow](/img/qrg/mm+narrow.jpg)
 
 This is a broad query for an actress. Different users may be looking for different things.  
 
@@ -1401,9 +1401,9 @@ This result shows recent news about Jennifer Aniston. The articles are timely (a
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img406.jpg)
+![Highly Meets Example](/img/qrg/img406.jpg)
 
-![moderately meets+ narrow](../images/mm+narrow.jpg)
+![moderately meets+ narrow](/img/qrg/mm+narrow.jpg)
 
 This is a broad query for a city. Different users may be looking for different things.  
 
@@ -1421,9 +1421,9 @@ The result contains a wide variety of helpful information such as a map, weather
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img408.jpg)
+![Highly Meets Example](/img/qrg/img408.jpg)
 
-![moderately meets+ narrow](../images/mm+narrow.jpg)
+![moderately meets+ narrow](/img/qrg/mm+narrow.jpg)
 
 This is a broad query for an actress. Different users may be looking for different things.  
 
@@ -1441,9 +1441,9 @@ The result contains a variety of helpful information such as images, brief biogr
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img410.jpg)
+![Highly Meets Example](/img/qrg/img410.jpg)
 
-![moderately meets+ narrow](../images/mm+narrow.jpg)
+![moderately meets+ narrow](/img/qrg/mm+narrow.jpg)
 
 This page provides the requested lyrics on Coldplay's official website. Users can also navigate around the site to listen to the song, explore all albums the song appears on, listen to or view lyrics for other songs on the same album, or learn more about the artist overall.  
 
@@ -1461,9 +1461,9 @@ Additionally, users can trust that the lyrics on the LP are 100% accurate due to
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img413.jpg)
+![Highly Meets Example](/img/qrg/img413.jpg)
 
-![highly meets](../images/hm.jpg)
+![highly meets](/img/qrg/hm.jpg)
 
 The LP for this web result contains authoritative information about the Apollo 11 moon landing on the official website of NASA, which was the organization that oversaw this mission in 1969. The MC has a lot of helpful information and content, including a detailed summary, video footage, and images of the moon landing that users can view and explore. This result would be very helpful for many or most users.
 
@@ -1479,9 +1479,9 @@ The LP for this web result contains authoritative information about the Apollo 1
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img415.jpg)
+![Highly Meets Example](/img/qrg/img415.jpg)
 
-![highly meets](../images/hm.jpg)
+![highly meets](/img/qrg/hm.jpg)
 
 This is an informational query on a fairly broad topic. Different users may be looking for different things, yet accuracy and credibility of the source are important.  
 
@@ -1499,9 +1499,9 @@ This LP is a news article published on a reputable news website. The MC of the a
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img417.jpg)
+![Highly Meets Example](/img/qrg/img417.jpg)
 
-![highly meets](../images/hm.jpg)
+![highly meets](/img/qrg/hm.jpg)
 
 This LP is on a well-known fact-checking and debunking website. The page calls this story "False", then provides a credible explanation of how the authors came to that conclusion, including history of similar urban legends. This result would be very helpful for users seeking to verify the credibility of this rumor.
 
@@ -1517,9 +1517,9 @@ This LP is on a well-known fact-checking and debunking website. The page calls t
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img419.jpg)
+![Highly Meets Example](/img/qrg/img419.jpg)
 
-![moderately meets+ narrow](../images/mm+narrow.jpg)
+![moderately meets+ narrow](/img/qrg/mm+narrow.jpg)
 
 This LP is an opinion piece written by the Editorial Board of the largest newspaper in the U.S. state of Minnesota. The MC of the article expresses well-informed opinions about Fleck's upcoming tenure as head coach, and it would likely be of interest to many or most users when this query was issued.
 
@@ -1535,9 +1535,9 @@ This LP is an opinion piece written by the Editorial Board of the largest newspa
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img422.jpg)
+![Highly Meets Example](/img/qrg/img422.jpg)
 
-![highly meets](../images/hm.jpg)
+![highly meets](/img/qrg/hm.jpg)
 
 This LP is an in-depth review of the queried movie by a film critic at a reputable newspaper. This result would be very helpful for many or most users.
 
@@ -1566,9 +1566,9 @@ A rating of **Moderately Meets** is assigned to results that are helpful and sat
 <div class="results">
 <div class="result">
 
-![moderately meets example](../images/img425.jpg)
+![moderately meets example](/img/qrg/img425.jpg)
 
-![moderately meets](../images/mm.jpg)
+![moderately meets](/img/qrg/mm.jpg)
 
 The LP for this web result is a high-quality page on crunchbase.com—a member site on the TechCrunch network—with a profile of Shutterfly. The MC has a lot of helpful and accurate information about the company and is easy to read on a mobile device. This result would be helpful for many users or very helpful for some.
 
@@ -1584,9 +1584,9 @@ The LP for this web result is a high-quality page on crunchbase.com—a member s
 <div class="results">
 <div class="result">
 
-![moderately meets example](../images/img427.jpg)
+![moderately meets example](/img/qrg/img427.jpg)
 
-![moderately meets](../images/mm.jpg)
+![moderately meets](/img/qrg/mm.jpg)
 
 The LP for this web result contains information about Tom Cruise, which would be helpful for many users or very helpful for some users. The photos and main links can easily be accessed on a phone.  
 
@@ -1604,9 +1604,9 @@ Note that there are many, many pages about Tom Cruise and this result is not hel
 <div class="results">
 <div class="result">
 
-![moderately meets example](../images/img429.jpg)
+![moderately meets example](/img/qrg/img429.jpg)
 
-![moderately meets](../images/mm-narrow.jpg)
+![moderately meets](/img/qrg/mm-narrow.jpg)
 
 This is a broad query for a city. Different users may be looking for different things.  
 
@@ -1624,9 +1624,9 @@ The result shows a map of Seattle, Washington and clicking on the map brings up 
 <div class="results">
 <div class="result">
 
-![moderately meets example](../images/img431.jpg)
+![moderately meets example](/img/qrg/img431.jpg)
 
-![moderately meets](../images/mm.jpg)
+![moderately meets](/img/qrg/mm.jpg)
 
 This result reflects one of several possible user intents, as the query is also the name of a movie, song, musical, and more. However, since the user location is near the school, this result would be very helpful for some users—specifically, users who are looking for the school.
 
@@ -1642,9 +1642,9 @@ This result reflects one of several possible user intents, as the query is also 
 <div class="results">
 <div class="result">
 
-![moderately meets example](../images/img434.jpg)
+![moderately meets example](/img/qrg/img434.jpg)
 
-![moderately meets](../images/mm.jpg)
+![moderately meets](/img/qrg/mm.jpg)
 
 This is a result to download one of the YouTube apps. Mobile users want answers and results right away and may not be able to spend a lot of time downloading and installing apps. It is possible that users want one of the YouTube apps, but it is probably not the dominant intent for mobile users on the go.
 
@@ -1660,9 +1660,9 @@ This is a result to download one of the YouTube apps. Mobile users want answers 
 <div class="results">
 <div class="result">
 
-![moderately meets example](../images/img436.jpg)
+![moderately meets example](/img/qrg/img436.jpg)
 
-![moderately meets](../images/mm.jpg)
+![moderately meets](/img/qrg/mm.jpg)
 
 This result displays the name of Nicaraguan currency. Some users may have their need met by learning the name of the currency, but many users may want images, know the exchange rate, etc. This result would be helpful for many users or very helpful for some users.
 
@@ -1678,9 +1678,9 @@ This result displays the name of Nicaraguan currency. Some users may have their 
 <div class="results">
 <div class="result">
 
-![moderately meets example](../images/img438.jpg)
+![moderately meets example](/img/qrg/img438.jpg)
 
-![moderately meets](../images/mm-narrow.jpg)
+![moderately meets](/img/qrg/mm-narrow.jpg)
 
 The description in this result block may be helpful for users who are already familiar with this area in the United States. Many or most users would probably want to see a map or a clearer description.
 
@@ -1696,9 +1696,9 @@ The description in this result block may be helpful for users who are already fa
 <div class="results">
 <div class="result">
 
-![moderately meets example](../images/img440.jpg)
+![moderately meets example](/img/qrg/img440.jpg)
 
-![moderately meets](../images/mm.jpg)
+![moderately meets](/img/qrg/mm.jpg)
 
 The LP for this lyrics website page has the requested lyrics. There are many lyrics websites on the web and many pages are not 100% accurate. **Moderately Meets** is an appropriate rating for average pages with the requested lyrics.
 
@@ -1714,9 +1714,9 @@ The LP for this lyrics website page has the requested lyrics. There are many lyr
 <div class="results">
 <div class="result">
 
-![moderately meets example](../images/img442.jpg)
+![moderately meets example](/img/qrg/img442.jpg)
 
-![moderately meets](../images/sm+narrow.jpg)
+![moderately meets](/img/qrg/sm+narrow.jpg)
 
 This is Kristen Wiig's official website, but the only content is links to her talent and PR agencies, along with a note that says she is not on any social networking sites. While this information is helpful, many users would want to see more.
 
@@ -1743,9 +1743,9 @@ A rating of **Slightly Meets** is assigned to results that are helpful and satis
 <div class="results">
 <div class="result">
 
-![slightly meets example](../images/img445.jpg)
+![slightly meets example](/img/qrg/img445.jpg)
 
-![slightly meets](../images/sm.jpg)
+![slightly meets](/img/qrg/sm.jpg)
 
 The LP of this mobile-friendly web result has a 2006 article about Britney Spears filing for divorce. This is very old, stale news, making the result helpful for few users.
 
@@ -1761,9 +1761,9 @@ The LP of this mobile-friendly web result has a 2006 article about Britney Spear
 <div class="results">
 <div class="result">
 
-![slightly meets example](../images/img447.jpg)
+![slightly meets example](/img/qrg/img447.jpg)
 
-![slightly meets](../images/sm.jpg)
+![slightly meets](/img/qrg/sm.jpg)
 
 Although the LP has comprehensive information from a reputable source, and is easy to use on a mobile device, the information is about the 2010 Honda Odyssey. This information would be considered stale for the query today, making this result helpful for some or few users.
 
@@ -1779,9 +1779,9 @@ Although the LP has comprehensive information from a reputable source, and is ea
 <div class="results">
 <div class="result">
 
-![slightly meets example](../images/img449.jpg)
+![slightly meets example](/img/qrg/img449.jpg)
 
-![slightly meets](../images/sm.jpg)
+![slightly meets](/img/qrg/sm.jpg)
 
 The LP of this web result is about the movie "Hot Dog," which came out in 1984 and is a minor interpretation of this query. Because this is an unlikely interpretation, this web result would be helpful for few users, even though the landing page has good content from a reputable source, and is easy to use on a mobile device.
 
@@ -1797,9 +1797,9 @@ The LP of this web result is about the movie "Hot Dog," which came out in 1984 a
 <div class="results">
 <div class="result">
 
-![slightly meets example](../images/img451.jpg)
+![slightly meets example](/img/qrg/img451.jpg)
 
-![slightly meets](../images/failsm+narrow.jpg)
+![slightly meets](/img/qrg/failsm+narrow.jpg)
 
 This result provides contact information for one of the two motorcycle shops in Potsdam, New York. It is possible this would be helpful for some users, but many users would be looking for information. Additionally, there is distracting information (a listing for an insurance agent).
 
@@ -1815,9 +1815,9 @@ This result provides contact information for one of the two motorcycle shops in 
 <div class="results">
 <div class="result">
 
-![slightly meets example](../images/img454.jpg)
+![slightly meets example](/img/qrg/img454.jpg)
 
-![slightly meets](../images/sm-narrow.jpg)
+![slightly meets](/img/qrg/sm-narrow.jpg)
 
 This is a Wikipedia page that has birthdays for all U.S. presidents, including Abraham Lincoln. However, his birthday is not prominently displayed and it is not obvious that the answer is there—users have to do some work and search around on the page to find the answer, making SM to SM+ an appropriate rating.
 
@@ -1833,9 +1833,9 @@ This is a Wikipedia page that has birthdays for all U.S. presidents, including A
 <div class="results">
 <div class="result">
 
-![slightly meets example](../images/img456.jpg)
+![slightly meets example](/img/qrg/img456.jpg)
 
-![slightly meets](../images/sm.jpg)
+![slightly meets](/img/qrg/sm.jpg)
 
 The quality of writing in this article, which was created by a person without expertise in marriage or relationship counseling, is poor. Even though the article is about the query, the page is low quality and untrustworthy. It would be helpful for few users.
 
@@ -1851,9 +1851,9 @@ The quality of writing in this article, which was created by a person without ex
 <div class="results">
 <div class="result">
 
-![slightly meets example](../images/img458.jpg)
+![slightly meets example](/img/qrg/img458.jpg)
 
-![slightly meets](../images/sm.jpg)
+![slightly meets](/img/qrg/sm.jpg)
 
 Burke Williams is a day spa that offers many treatments like massage therapy, skin care, etc. While it does have nail care options, it is not a dedicated nail spa.
 
@@ -1869,9 +1869,9 @@ Burke Williams is a day spa that offers many treatments like massage therapy, sk
 <div class="results">
 <div class="result">
 
-![slightly meets example](../images/img460.jpg)
+![slightly meets example](/img/qrg/img460.jpg)
 
-![slightly meets](../images/sm.jpg)
+![slightly meets](/img/qrg/sm.jpg)
 
 This result block does not contain enough information to be fully satisfying and mentions only one type of shark. Most users would need to do further research.
 
@@ -1887,9 +1887,9 @@ This result block does not contain enough information to be fully satisfying and
 <div class="results">
 <div class="result">
 
-![slightly meets example](../images/img462.jpg)
+![slightly meets example](/img/qrg/img462.jpg)
 
-![slightly meets](../images/sm.jpg)
+![slightly meets](/img/qrg/sm.jpg)
 
 The answer in this result block is really confusing. Even if users can figure it out, they would likely still have to click on the link, or go to another website, to confirm the information.  
 
@@ -1907,9 +1907,9 @@ While there is a map, you would have to expand or click on it to see the details
 <div class="results">
 <div class="result">
 
-![slightly meets example](../images/img465.jpg)
+![slightly meets example](/img/qrg/img465.jpg)
 
-![slightly meets](../images/failsm+narrow.jpg)
+![slightly meets](/img/qrg/failsm+narrow.jpg)
 
 This block contains images of the logo for IBM, but these images are not particularly helpful for this query.
 
@@ -1925,9 +1925,9 @@ This block contains images of the logo for IBM, but these images are not particu
 <div class="results">
 <div class="result">
 
-![slightly meets example](../images/img467.jpg)
+![slightly meets example](/img/qrg/img467.jpg)
 
-![slightly meets](../images/failsm+narrow.jpg)
+![slightly meets](/img/qrg/failsm+narrow.jpg)
 
 The title of this article makes it appear as though the article describes an impending catastrophe. Yet, the MC states in its third paragraph that Nibiru "doesn't actually exist" and calls believers in it "conspiracy theorists". The title contradicts the content of the article, and as a result could mislead users who don't read the full article.
 
@@ -1948,9 +1948,9 @@ Note: The "cost of a click" is high on mobile phones. Results with very misleadi
 <div class="results">
 <div class="result">
 
-![slightly meets example](../images/img469.jpg)
+![slightly meets example](/img/qrg/img469.jpg)
 
-![slightly meets](../images/failsm+narrow.jpg)
+![slightly meets](/img/qrg/failsm+narrow.jpg)
 
 While the title of this article implies that something bad or outrageous happened involving Ellen, the actual content of the article is about an anti-aging cosmetic that she is claimed to have used. The content of the page is not related to what the misleading and exaggerated title suggests, so it should be rated Slightly Meets or lower.
 
@@ -1995,9 +1995,9 @@ Note: For this query, it is very unlikely users want to go anywhere in person.
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img472.jpg)
+![fails to meet example](/img/qrg/img472.jpg)
 
-![fails to meet](../images/failsm-narrow.jpg)
+![fails to meet](/img/qrg/failsm-narrow.jpg)
 
 This is a broad informational query for an animal. Different users may be looking for different things.  
 
@@ -2020,9 +2020,9 @@ Note: For this query, it is unlikely users want to go anywhere in person.
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img474.jpg)
+![fails to meet example](/img/qrg/img474.jpg)
 
-![fails to meet](../images/failsm-narrow.jpg)
+![fails to meet](/img/qrg/failsm-narrow.jpg)
 
 This is a broad query and it is unclear exactly what the user is looking for.  
 
@@ -2045,9 +2045,9 @@ Note: For this query, it is unlikely users want to go anywhere in person.
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img477.jpg)
+![fails to meet example](/img/qrg/img477.jpg)
 
-![fails to meet](../images/failsm-narrow.jpg)
+![fails to meet](/img/qrg/failsm-narrow.jpg)
 
 This result block shows information to visit a sports card store in person, which happens to have the baseball team in the name. However, remember that for this query, it is unlikely users want to go anywhere in person. <div class="note">
 
@@ -2072,9 +2072,9 @@ Note: Users generally would not go to a news station in person.
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img479.jpg)
+![fails to meet example](/img/qrg/img479.jpg)
 
-![fails to meet](../images/failsm-narrow.jpg)
+![fails to meet](/img/qrg/failsm-narrow.jpg)
 
 WRAL is a television news station in North Carolina. Users want to go to the website or find information about the station. In this example, clicking on the blocks show information about the businesses' corporate headquarters. Note that television stations (like radio stations, newspapers, etc.) usually have special contact information for the public that is different than their corporate headquarter information. Also, with the query just being the name of the station, it is very unlikely that users want this kind of information.
 
@@ -2090,9 +2090,9 @@ WRAL is a television news station in North Carolina. Users want to go to the web
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img481.jpg)
+![fails to meet example](/img/qrg/img481.jpg)
 
-![fails to meet](../images/failsm-narrow.jpg)
+![fails to meet](/img/qrg/failsm-narrow.jpg)
 
 This result block shows the Texas Farm corporate office, which is not helpful given the user intent—users could not physically go to the company's corporate office to buy or learn about the product. Fertilizer is the kind of product that you would have to buy at a store.
 
@@ -2108,9 +2108,9 @@ This result block shows the Texas Farm corporate office, which is not helpful gi
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img484.jpg)
+![fails to meet example](/img/qrg/img484.jpg)
 
-![fails to meet](../images/failsm.jpg)
+![fails to meet](/img/qrg/failsm.jpg)
 
 This result shows information for a church, an event venue, and the closest airport. However, users clearly want to know details about a specific flight, and there is absolutely no information in the block about the flight. This result Fails to Meet the user intent.
 
@@ -2126,9 +2126,9 @@ This result shows information for a church, an event venue, and the closest airp
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img486.jpg)
+![fails to meet example](/img/qrg/img486.jpg)
 
-![fails to meet](../images/failsm.jpg)
+![fails to meet](/img/qrg/failsm.jpg)
 
 This LP is the homepage of Subaru, a Japanese car company, not a German car company.  
 
@@ -2146,9 +2146,9 @@ The page completely Fails to Meet the user intent and would be helpful for no or
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img488.jpg)
+![fails to meet example](/img/qrg/img488.jpg)
 
-![fails to meet](../images/failsm.jpg)
+![fails to meet](/img/qrg/failsm.jpg)
 
 This LP is the homepage of a pest control company in Australia. U.S. users would need a U.S. company to take care of this problem. There is a mismatch between the page and the locale that makes this result helpful for no users—it completely Fails to Meet the user intent.
 
@@ -2164,9 +2164,9 @@ This LP is the homepage of a pest control company in Australia. U.S. users would
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img490.jpg)
+![fails to meet example](/img/qrg/img490.jpg)
 
-![fails to meet](../images/failsm.jpg)
+![fails to meet](/img/qrg/failsm.jpg)
 
 Although this is a trustworthy website for information about NFL football, this LP does not contain the information requested by the user. This result completely Fails to Meet the user intent.
 
@@ -2182,9 +2182,9 @@ Although this is a trustworthy website for information about NFL football, this 
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img492.jpg)
+![fails to meet example](/img/qrg/img492.jpg)
 
-![fails to meet](../images/failsm.jpg)
+![fails to meet](/img/qrg/failsm.jpg)
 
 This web result (the official homepage of Yellowstone National Park) completely fails to respond to the specific **Device Action** query: to navigate to the park.
 
@@ -2200,9 +2200,9 @@ This web result (the official homepage of Yellowstone National Park) completely 
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img495.jpg)
+![fails to meet example](/img/qrg/img495.jpg)
 
-![fails to meet](../images/failsm.jpg)
+![fails to meet](/img/qrg/failsm.jpg)
 
 The answer in this block is about the cost of education, not salary, which is misleading and doesn't answer the user's query.
 
@@ -2218,9 +2218,9 @@ The answer in this block is about the cost of education, not salary, which is mi
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img497.jpg)
+![fails to meet example](/img/qrg/img497.jpg)
 
-![fails to meet](../images/failsm.jpg)
+![fails to meet](/img/qrg/failsm.jpg)
 
 The answer in this block provides the phone number for the West Point Club, not the Stony Child Development Center located in West Point, New York. This result Fails to Meet the user intent.
 
@@ -2236,9 +2236,9 @@ The answer in this block provides the phone number for the West Point Club, not 
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img499.jpg)
+![fails to meet example](/img/qrg/img499.jpg)
 
-![fails to meet](../images/failsm.jpg)
+![fails to meet](/img/qrg/failsm.jpg)
 
 The answer provided in this result block is factually inaccurate. Stairs have been a common architectural feature of buildings, pathways, outdoor structures, etc. since long before 1948, and they were not invented by a person named Werner Bösendörfer.
 
@@ -2254,9 +2254,9 @@ The answer provided in this result block is factually inaccurate. Stairs have be
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img501.jpg)
+![fails to meet example](/img/qrg/img501.jpg)
 
-![fails to meet](../images/failsm.jpg)
+![fails to meet](/img/qrg/failsm.jpg)
 
 This result includes several apps to download, with an option to see more apps. The user is looking for information about app developers that are well-known, so it Fails to Meet the user intent.
 
@@ -2282,7 +2282,7 @@ Subject:
 Recipient: John  
 Body: I'm running late
 
-![fails to meet](../images/failsm.jpg)
+![fails to meet](/img/qrg/failsm.jpg)
 
 The user clearly wants to send a text message. The Device Action result to "Send an email" is incorrect and completely Fails to Meet user intent.
 
@@ -2302,7 +2302,7 @@ Query Time: 2013-4-23 6:00:12
 Action: Set alarm  
 Alarm Time: 22:43:00
 
-![fails to meet](../images/failsm.jpg)
+![fails to meet](/img/qrg/failsm.jpg)
 
 The user clearly wants weather information. The Device Action result to set an alarm is inappropriate (and even absurd) for this information query. This result completely Fails to Meet the user intent.
 
@@ -2318,9 +2318,9 @@ The user clearly wants weather information. The Device Action result to set an a
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img506.jpg)
+![fails to meet example](/img/qrg/img506.jpg)
 
-![fails to meet](../images/failsm.jpg)
+![fails to meet](/img/qrg/failsm.jpg)
 
 It is extremely unlikely (potentially a no-chance interpretation) that this query is looking for information on a city in Turkey called Batman, given that the user is located in the United States. No or almost no users would be satisfied with this result.
 
@@ -2336,9 +2336,9 @@ It is extremely unlikely (potentially a no-chance interpretation) that this quer
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img508.jpg)
+![fails to meet example](/img/qrg/img508.jpg)
 
-![fails to meet](../images/failsm.jpg)
+![fails to meet](/img/qrg/failsm.jpg)
 
 It is extremely unlikely (potentially a no-chance interpretation) that this query is looking for information on a city in Japan called Obama, given that the user is located in the United States. No or almost no users would be satisfied with this result.
 
@@ -2354,9 +2354,9 @@ It is extremely unlikely (potentially a no-chance interpretation) that this quer
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img510.jpg)
+![fails to meet example](/img/qrg/img510.jpg)
 
-![fails to meet](../images/failsm.jpg)
+![fails to meet](/img/qrg/failsm.jpg)
 
 This result completely fails to satisfy the user intent, which is to find weather information for Paris, Texas, and not Paris, France. No users would be satisfied with this result.
 
@@ -2372,9 +2372,9 @@ This result completely fails to satisfy the user intent, which is to find weathe
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img513.jpg)
+![fails to meet example](/img/qrg/img513.jpg)
 
-![fails to meet](../images/failsm.jpg)
+![fails to meet](/img/qrg/failsm.jpg)
 
 This result does not answer the user's question to show third quarter earnings for GE. No users would be satisfied with this result.
 
@@ -2390,9 +2390,9 @@ This result does not answer the user's question to show third quarter earnings f
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img515.jpg)
+![fails to meet example](/img/qrg/img515.jpg)
 
-![fails to meet](../images/failsm-narrow.jpg)
+![fails to meet](/img/qrg/failsm-narrow.jpg)
 
 This result reflects one of several possible user intents, as the query is also the name of a movie, song, musical, and more.  
 
@@ -2410,9 +2410,9 @@ Since the user location is in Chicago, very few or no users would be interested 
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img517.jpg)
+![fails to meet example](/img/qrg/img517.jpg)
 
-![fails to meet](../images/failsm.jpg)
+![fails to meet](/img/qrg/failsm.jpg)
 
 This result block shows a go kart arcade in Warrington, Pennsylvania, and two other go kart arcades in the surrounding area. These arcades are places to go ride go karts, not purchase them, so the result completely Fails to Meet the user intent. No users would be satisfied with this result.
 
@@ -2428,9 +2428,9 @@ This result block shows a go kart arcade in Warrington, Pennsylvania, and two ot
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img519.jpg)
+![fails to meet example](/img/qrg/img519.jpg)
 
-![fails to meet](../images/failsm.jpg)
+![fails to meet](/img/qrg/failsm.jpg)
 
 Ralphs is a nationwide supermarket chain. These locations are all in San Diego, California, which is a major city south of the user location (about 60 miles away). These results are too far to be helpful.
 
@@ -2446,9 +2446,9 @@ Ralphs is a nationwide supermarket chain. These locations are all in San Diego, 
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img522.jpg)
+![fails to meet example](/img/qrg/img522.jpg)
 
-![fails to meet](../images/failsm.jpg)
+![fails to meet](/img/qrg/failsm.jpg)
 
 Users issuing this query want to go to the Amazon website.  
 
@@ -2466,9 +2466,9 @@ Showing information about how to visit or call the corporate office for an onlin
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img524.jpg)
+![fails to meet example](/img/qrg/img524.jpg)
 
-![fails to meet](../images/failsm.jpg)
+![fails to meet](/img/qrg/failsm.jpg)
 
 A news result is inappropriate and completely unhelpful for this query. No users would be satisfied with this result.
 
@@ -2484,9 +2484,9 @@ A news result is inappropriate and completely unhelpful for this query. No users
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img526.jpg)
+![fails to meet example](/img/qrg/img526.jpg)
 
-![fails to meet](../images/failsm.jpg)
+![fails to meet](/img/qrg/failsm.jpg)
 
 This LP is about the 2004 Australian Open, not the 2008 Australian Open. It does not pay attention to an aspect of the query that is important for satisfying user intent (i.e., 2008). The result Fails to Meet the user intent.
 
@@ -2502,9 +2502,9 @@ This LP is about the 2004 Australian Open, not the 2008 Australian Open. It does
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img528.jpg)
+![fails to meet example](/img/qrg/img528.jpg)
 
-![fails to meet](../images/failsm.jpg)
+![fails to meet](/img/qrg/failsm.jpg)
 
 This LP has information about tooth loss in pike fish and has the words "five years old" on the page. This result Fails to Meet the user intent because it has keyword matches only and would be helpful for no users.
 
@@ -2520,9 +2520,9 @@ This LP has information about tooth loss in pike fish and has the words "five ye
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img530.jpg)
+![fails to meet example](/img/qrg/img530.jpg)
 
-![fails to meet](../images/failsm.jpg)
+![fails to meet](/img/qrg/failsm.jpg)
 
 The translation in the result block is completely wrong and inaccurate.  
 
@@ -2540,9 +2540,9 @@ Mañana means "tomorrow," not "wedding."
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img533.jpg)
+![fails to meet example](/img/qrg/img533.jpg)
 
-![fails to meet](../images/failsm.jpg)
+![fails to meet](/img/qrg/failsm.jpg)
 
 The LP is a humorous blog post about a wife helping her husband to buy a suit. The page mentions "American Express," but is insufficiently related to the query to be helpful for users, so it Fails to Meet the user intent.
 
@@ -2558,9 +2558,9 @@ The LP is a humorous blog post about a wife helping her husband to buy a suit. T
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img535.jpg)
+![fails to meet example](/img/qrg/img535.jpg)
 
-![fails to meet](../images/failsm.jpg)
+![fails to meet](/img/qrg/failsm.jpg)
 
 This LP on about.com has a short article about the Louisville Zoo. The page has a link in the SC titled "Visit Zoo Atlanta On The Cheap Atlanta."  
 
@@ -2578,9 +2578,9 @@ The MC of this page is not about Zoo Atlanta. The link to an article about Zoo A
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img537.jpg)
+![fails to meet example](/img/qrg/img537.jpg)
 
-![fails to meet](../images/failsm.jpg)
+![fails to meet](/img/qrg/failsm.jpg)
 
 This LP has gibberish text. Read this sentence: "How do you make a cigarette symbol on the keyboard? In." The quality of the landing page is so low that the page Fails to Meet the user intent.
 
@@ -2596,14 +2596,14 @@ This LP has gibberish text. Read this sentence: "How do you make a cigarette sym
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img539.jpg)
+![fails to meet example](/img/qrg/img539.jpg)
 
-![fails to meet](../images/failsm.jpg)
+![fails to meet](/img/qrg/failsm.jpg)
 
 This is the official website of the movie "American Beauty". However, the landing page is extremely difficult to use (even seems broken on a mobile phone) and there is no satisfying or helpful content on the page—it Fails to Meet the user intent.  
 QR Code to view the page:
 
-![QR code "American Beauty" official website](../images/img541.jpg)
+![QR code "American Beauty" official website](/img/qrg/img541.jpg)
 
 </div>
 </div>
@@ -2617,9 +2617,9 @@ QR Code to view the page:
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img543.jpg)
+![fails to meet example](/img/qrg/img543.jpg)
 
-![fails to meet](../images/failsm.jpg)
+![fails to meet](/img/qrg/failsm.jpg)
 
 This result shows a NASCAR schedule, but does not have the starting order. The content is not what the user is looking for and Fails to Meet the user intent.
 
@@ -2635,9 +2635,9 @@ This result shows a NASCAR schedule, but does not have the starting order. The c
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img545.jpg)
+![fails to meet example](/img/qrg/img545.jpg)
 
-![fails to meet](../images/failsm.jpg)
+![fails to meet](/img/qrg/failsm.jpg)
 
 Remember that you should check for the factual accuracy of answers. For this result, go to the company's page at http://www.aircanada.com/en/customer care/int/ and select USA to check the number shown here. According to the airline's website, the correct phone number is 1-888-247-2262. Because this answer is incorrect, it should be rated Fails to Meet.
 
@@ -2653,9 +2653,9 @@ Remember that you should check for the factual accuracy of answers. For this res
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img547.jpg)
+![fails to meet example](/img/qrg/img547.jpg)
 
-![fails to meet](../images/failsm.jpg)
+![fails to meet](/img/qrg/failsm.jpg)
 
 The MC of this page is an example of a demonstrably inaccurate news report, including a fictitious quotation by Barack Obama. Because the content is presented as a factual news article, it is inaccurate with an intent to deceive users and should be rated Fails to Meet.
 
@@ -2671,9 +2671,9 @@ The MC of this page is an example of a demonstrably inaccurate news report, incl
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img549.jpg)
+![fails to meet example](/img/qrg/img549.jpg)
 
-![fails to meet](../images/failsm.jpg)
+![fails to meet](/img/qrg/failsm.jpg)
 
 Despite strong medical consensus linking tobacco to lung cancer—which can be found at authoritative sources by searching <span class="query">lung cancer and smoking</span>—this LP claims there is no connection between smoking and cancer by selectively interpreting some experiments done on animals.  
 
@@ -2691,9 +2691,9 @@ Additionally, this is a YMYL query on a medical topic, so accurate and trustwort
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img552.jpg)
+![fails to meet example](/img/qrg/img552.jpg)
 
-![fails to meet](../images/failsm.jpg)
+![fails to meet](/img/qrg/failsm.jpg)
 
 Betty White was alive at the time this example was written. This LP is a social media profile page created by an unknown author that was designed to look like a memorial page for Betty White and falsely states that she died. This page is factually inaccurate and deceptive to users, so it should be rated Fails to Meet.  
 
@@ -2714,9 +2714,9 @@ Remember: For informational queries/results, it is important to check other repu
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img554.jpg)
+![fails to meet example](/img/qrg/img554.jpg)
 
-![fails to meet](../images/failsm.jpg)
+![fails to meet](/img/qrg/failsm.jpg)
 
 Miley Cyrus was alive at the time this example was written. This LP is an article written by an unknown author that was designed to look like a news story and falsely states that she died. Furthermore, the page is found on a low quality website, and the article has not been updated, clarified, or removed even days after having been proven false. This page is factually inaccurate and deceptive to users, so it should be rated Fails to Meet.  
 
@@ -2737,9 +2737,9 @@ Remember: Just because a website has the look and feel of a traditional news sit
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img557.jpg)
+![fails to meet example](/img/qrg/img557.jpg)
 
-![fails to meet](../images/failsm.jpg)
+![fails to meet](/img/qrg/failsm.jpg)
 
 This query is seeking historical information. The LP of this web result is on a well-known white supremacist hate site (read more here or here). The discussion on this page is inaccurate and misleading, since the Holocaust is an extremely well-documented historical event.  
 
@@ -2760,9 +2760,9 @@ Remember: Pages that directly contradict well-established historical facts shoul
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img559.jpg)
+![fails to meet example](/img/qrg/img559.jpg)
 
-![fails to meet](../images/failsm.jpg)
+![fails to meet](/img/qrg/failsm.jpg)
 
 This LP is a blog post presenting a factually unsupported conspiracy theory that Angela Merkel is the daughter of Adolph Hitler. Because the MC is inaccurate and misleading, it completely Fails to Meet the user intent, even though the topic of the page matches the query.
 
@@ -2783,9 +2783,9 @@ Note: A more helpful result for this query might confirm that Adolf Hitler had n
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img561.jpg)
+![fails to meet example](/img/qrg/img561.jpg)
 
-![fails to meet](../images/failsm.jpg)
+![fails to meet](/img/qrg/failsm.jpg)
 
 This is a broad query seeking information about Islam. The LP was created for the purpose of stating the author's opinion that Islam is not a religion. The author lacks expertise in the topic; the writing has frequent misspellings, typos, and grammar errors; and the page seems to exist to promote intolerance or hate.
 

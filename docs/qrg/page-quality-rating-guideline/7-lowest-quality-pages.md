@@ -93,7 +93,7 @@ These things can be difficult to determine, but the following steps may help.
 
 2. Search on Google by pasting the sentence or phrase (surrounded by quotation marks) inside the Google search box. Try a few sentences from the page.
 
-   ![picture of a google search for "dorothy uses the golden cap to summon the winged monkeys"](../images/img108.jpg)
+   ![picture of a google search for "dorothy uses the golden cap to summon the winged monkeys"](/img/qrg/img108.jpg)
 
    Here are some sentences and phrases from [this page](https://guidelines.raterhub.com/images/WizardOfOzExcerpts1.jpg) about "The Wizard of Oz" film and how to search for them.
 
@@ -1149,5 +1149,5 @@ In addition, the "Shipping and Returns" page has the name of another company tha
 </div>
 </div>
 
-[lest]: ../images/lowest.jpg
-[lest-n]: ../images/lowest-narrow.jpg
+[lest]: /img/qrg/lowest.jpg
+[lest-n]: /img/qrg/lowest-narrow.jpg

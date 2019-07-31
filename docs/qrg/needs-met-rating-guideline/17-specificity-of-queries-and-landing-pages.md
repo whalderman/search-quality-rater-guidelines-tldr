@@ -37,9 +37,9 @@ When the query is a broad category, such as <span class="query">cafes</span>, <s
 <div class="results">
 <div class="result">
 
-![](../images/img655.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
-![page quality scale - high+ - narrow range](../images/high+narrow.jpg)
+![](/img/qrg/img655.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
+![page quality scale - high+ - narrow range](/img/qrg/high+narrow.jpg)
 
 Even though there are many options, a page for an individual company that offers different cards could be very helpful.
 
@@ -50,9 +50,9 @@ Even though there are many options, a page for an individual company that offers
 </div>
 <div class="result">
 
-![](../images/img658.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
-![page quality scale - high+ - narrow range](../images/high+narrow.jpg)
+![](/img/qrg/img658.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
+![page quality scale - high+ - narrow range](/img/qrg/high+narrow.jpg)
 
 Even though there are many options, a page for an individual company that offers different cards could be very helpful.
 
@@ -63,9 +63,9 @@ Even though there are many options, a page for an individual company that offers
 </div>
 <div class="result">
 
-![](../images/img661.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
-![page quality scale - high](../images/high.jpg)
+![](/img/qrg/img661.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
+![page quality scale - high](/img/qrg/high.jpg)
 
 This page offers a list of top credit cards in a variety of categories.
 
@@ -76,9 +76,9 @@ This page offers a list of top credit cards in a variety of categories.
 </div>
 <div class="result">
 
-![](../images/img664.jpg)  
-![needs met scale - slightly meets](../images/sm.jpg)  
-![page quality scale - high](../images/high.jpg)
+![](/img/qrg/img664.jpg)  
+![needs met scale - slightly meets](/img/qrg/sm.jpg)  
+![page quality scale - high](/img/qrg/high.jpg)
 
 This page describes a credit card that requires union membership.
 
@@ -98,9 +98,9 @@ This page describes a credit card that requires union membership.
 <div class="results">
 <div class="result">
 
-![](../images/img668.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
-![page quality scale - high](../images/high.jpg)
+![](/img/qrg/img668.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
+![page quality scale - high](/img/qrg/high.jpg)
 
 This is a popular travel aggregator website, and the hotel page on the site can help users find hotels in the U.S. Users can read reviews, compare hotels, or make a reservation.
 
@@ -111,9 +111,9 @@ This is a popular travel aggregator website, and the hotel page on the site can 
 </div>
 <div class="result">
 
-![](../images/img671.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
-![page quality scale - high+ - narrow range](../images/high+narrow.jpg)
+![](/img/qrg/img671.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
+![page quality scale - high+ - narrow range](/img/qrg/high+narrow.jpg)
 
 This is a very popular hotel chain with hotels available in the majority of the U.S. at many different price points.
 
@@ -126,9 +126,9 @@ Even though the list of possible hotel chains is long, the homepage of an indivi
 </div>
 <div class="result">
 
-![](../images/img674.jpg)  
-![](../images/failsm+narrow.jpg)  
-![page quality scale - high+ - narrow range](../images/high+narrow.jpg)
+![](/img/qrg/img674.jpg)  
+![](/img/qrg/failsm+narrow.jpg)  
+![page quality scale - high+ - narrow range](/img/qrg/high+narrow.jpg)
 
 This is the webpage of the Marriott Courtyard hotel in Emeryville, California.
 
@@ -148,8 +148,8 @@ This is the webpage of the Marriott Courtyard hotel in Emeryville, California.
 <div class="results">
 <div class="result">
 
-![](../images/img678.jpg)  
-![needs met scale - highly meets+](../images/hm+.jpg)
+![](/img/qrg/img678.jpg)  
+![needs met scale - highly meets+](/img/qrg/hm+.jpg)
 
 No Page Quality rating required
 
@@ -158,9 +158,9 @@ No Page Quality rating required
 </div>
 <div class="result">
 
-![](../images/img680.jpg)  
-![needs met scale - highly meets+](../images/hm+.jpg)  
-![page quality scale - high - narrow range](../images/high-narrow.jpg)
+![](/img/qrg/img680.jpg)  
+![needs met scale - highly meets+](/img/qrg/hm+.jpg)  
+![page quality scale - high - narrow range](/img/qrg/high-narrow.jpg)
 
 The LP is the Target website.
 
@@ -171,9 +171,9 @@ The LP is the Target website.
 </div>
 <div class="result">
 
-![](../images/img683.jpg)  
-![needs met scale - moderately meets+ - narrow range](../images/mm+narrow.jpg)  
-![page quality scale - high - wide range](../images/high-wide.jpg)
+![](/img/qrg/img683.jpg)  
+![needs met scale - moderately meets+ - narrow range](/img/qrg/mm+narrow.jpg)  
+![page quality scale - high - wide range](/img/qrg/high-wide.jpg)
 
 The LP is the "store locator" page on the Target website.
 
@@ -184,9 +184,9 @@ The LP is the "store locator" page on the Target website.
 </div>
 <div class="result">
 
-![](../images/img686.jpg)  
-![needs met scale - moderately meets+ - narrow range](../images/mm+narrow.jpg)  
-![page quality scale - high - narrow range](../images/high-narrow.jpg)
+![](/img/qrg/img686.jpg)  
+![needs met scale - moderately meets+ - narrow range](/img/qrg/mm+narrow.jpg)  
+![page quality scale - high - narrow range](/img/qrg/high-narrow.jpg)
 
 The LP is the "electronics" page on the Target website.
 
@@ -197,8 +197,8 @@ The LP is the "electronics" page on the Target website.
 </div>
 <div class="result">
 
-![](../images/img690.jpg)  
-![needs met scale - slightly meets - narrow range](../images/sm-narrow.jpg)
+![](/img/qrg/img690.jpg)  
+![needs met scale - slightly meets - narrow range](/img/qrg/sm-narrow.jpg)
 
 No Page Quality rating required
 
@@ -207,9 +207,9 @@ No Page Quality rating required
 </div>
 <div class="result">
 
-![](../images/img692.jpg)  
-![needs met scale - slightly meets](../images/sm.jpg)  
-![page quality scale - high - narrow range](../images/high-narrow.jpg)
+![](/img/qrg/img692.jpg)  
+![needs met scale - slightly meets](/img/qrg/sm.jpg)  
+![page quality scale - high - narrow range](/img/qrg/high-narrow.jpg)
 
 The LP on the Target website is for a specific type of women's pants.
 
@@ -229,9 +229,9 @@ The LP on the Target website is for a specific type of women's pants.
 <div class="results">
 <div class="result">
 
-![](../images/img696.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
-![page quality scale - high+ - narrow range](../images/high+narrow.jpg)
+![](/img/qrg/img696.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
+![page quality scale - high+ - narrow range](/img/qrg/high+narrow.jpg)
 
 This LP has many chicken recipes (with reviews) on a popular recipe website.
 
@@ -242,9 +242,9 @@ This LP has many chicken recipes (with reviews) on a popular recipe website.
 </div>
 <div class="result">
 
-![](../images/img699.jpg)  
-![needs met scale - slightly meets - wide range](../images/sm-wide.jpg)  
-![page quality scale - high+ - narrow range](../images/high+narrow.jpg)
+![](/img/qrg/img699.jpg)  
+![needs met scale - slightly meets - wide range](/img/qrg/sm-wide.jpg)  
+![page quality scale - high+ - narrow range](/img/qrg/high+narrow.jpg)
 
 This LP has a single recipe for chicken parmesan.
 
@@ -255,9 +255,9 @@ This LP has a single recipe for chicken parmesan.
 </div>
 <div class="result">
 
-![](../images/img702.jpg)  
-![needs met scale - slightly meets - wide range](../images/sm-wide.jpg)  
-![page quality scale - high+ - narrow range](../images/high+narrow.jpg)
+![](/img/qrg/img702.jpg)  
+![needs met scale - slightly meets - wide range](/img/qrg/sm-wide.jpg)  
+![page quality scale - high+ - narrow range](/img/qrg/high+narrow.jpg)
 
 This LP has over 25 recipes for fried chicken, a popular chicken dish.
 
@@ -268,9 +268,9 @@ This LP has over 25 recipes for fried chicken, a popular chicken dish.
 </div>
 <div class="result">
 
-![](../images/img705.jpg)  
-![needs met scale - fails to meet](../images/failsm.jpg)  
-![page quality scale - lowest](../images/lowest.jpg)
+![](/img/qrg/img705.jpg)  
+![needs met scale - fails to meet](/img/qrg/failsm.jpg)  
+![page quality scale - lowest](/img/qrg/lowest.jpg)
 
 This is a fake search page for chicken recipes.
 
@@ -290,9 +290,9 @@ This is a fake search page for chicken recipes.
 <div class="results">
 <div class="result">
 
-![](../images/img709.jpg)  
-![needs met scale - highly meets+](../images/hm+.jpg)  
-![page quality scale - high+ - narrow range](../images/high+narrow.jpg)
+![](/img/qrg/img709.jpg)  
+![needs met scale - highly meets+](/img/qrg/hm+.jpg)  
+![page quality scale - high+ - narrow range](/img/qrg/high+narrow.jpg)
 
 This LP is the official website for the museum store.
 
@@ -303,8 +303,8 @@ This LP is the official website for the museum store.
 </div>
 <div class="result">
 
-![](../images/img712.jpg)  
-![needs met scale - moderately meets+ - narrow range](../images/mm+narrow.jpg)
+![](/img/qrg/img712.jpg)  
+![needs met scale - moderately meets+ - narrow range](/img/qrg/mm+narrow.jpg)
 
 No Page Quality rating required
 
@@ -313,9 +313,9 @@ No Page Quality rating required
 </div>
 <div class="result">
 
-![](../images/img714.jpg)  
-![needs met scale - slightly meets](../images/sm.jpg)  
-![page quality scale - high+ - narrow range](../images/high+narrow.jpg)  
+![](/img/qrg/img714.jpg)  
+![needs met scale - slightly meets](/img/qrg/sm.jpg)  
+![page quality scale - high+ - narrow range](/img/qrg/high+narrow.jpg)  
 
 This LP has information about how to volunteer at the museum.
 
@@ -326,8 +326,8 @@ This LP has information about how to volunteer at the museum.
 </div>
 <div class="result">
 
-![](../images/img717.jpg)  
-![needs met scale - fails to meet](../images/failsm.jpg)
+![](/img/qrg/img717.jpg)  
+![needs met scale - fails to meet](/img/qrg/failsm.jpg)
 
 No Page Quality rating required
 

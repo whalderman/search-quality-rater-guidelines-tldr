@@ -22,30 +22,30 @@ As previously mentioned, the user location may not always change our understandi
 <div class="results">
 <div class="result">
 
-![](../images/img792.jpg)  
-![needs met scale - fully meets](../images/fullym.jpg)  
+![](/img/qrg/img792.jpg)  
+![needs met scale - fully meets](/img/qrg/fullym.jpg)  
 This SCRB displays the complete and correct answer prominently in the result block, in a way that is easy for users on mobile devices to read.  
 **Note:** Assume that the result shows current information for users at the time this example was written. If you were rating this task, you would need to verify that the minimum wage rate in this SCRB is accurate for the state of Kansas.
 
 </div>
 <div class="result">
 
-![](../images/img794.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
+![](/img/qrg/img794.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
 This is the official Kansas state website page on minimum wage for Kansas.
 
 </div>
 <div class="result">
 
-![](../images/img796.jpg)  
-![needs met scale - slightly meets - wide range](../images/sm-wide.jpg)  
+![](/img/qrg/img796.jpg)  
+![needs met scale - slightly meets - wide range](/img/qrg/sm-wide.jpg)  
 This LP has the minimum wage rates for all states. It is on the official U.S. Department of Labor website, which has high E‑A‑T on the topic, but it takes some work to find the information specific to Kansas.
 
 </div>
 <div class="result">
 
-![](../images/img798.jpg)  
-![needs met scale - fails to meet - narrow range](../images/failsm-narrow.jpg)  
+![](/img/qrg/img798.jpg)  
+![needs met scale - fails to meet - narrow range](/img/qrg/failsm-narrow.jpg)  
 This is the official California state website page on minimum wage for California.
 
 </div>
@@ -63,15 +63,15 @@ This is the official California state website page on minimum wage for Californi
 <div class="results">
 <div class="result">
 
-![](../images/img801.jpg)  
-![needs met scale - highly meets+](../images/hm+.jpg)  
+![](/img/qrg/img801.jpg)  
+![needs met scale - highly meets+](/img/qrg/hm+.jpg)  
 The LP is a page full of kitten pictures. The result block has a nice assortment of pictures as well that would highly satisfy users.
 
 </div>
 <div class="result">
 
-![](../images/img803.jpg)  
-![needs met scale - fails to meet](../images/failsm.jpg)  
+![](/img/qrg/img803.jpg)  
+![needs met scale - fails to meet](/img/qrg/failsm.jpg)  
 This is a local listing of pets needing homes in the Pittsburgh area. There are no pictures of any pets directly on this page and few pictures on the individual listings.
 
 </div>
@@ -89,15 +89,15 @@ This is a local listing of pets needing homes in the Pittsburgh area. There are 
 <div class="results">
 <div class="result">
 
-![](../images/img805.jpg)  
-![needs met scale - fails to meet](../images/failsm.jpg)  
+![](/img/qrg/img805.jpg)  
+![needs met scale - fails to meet](/img/qrg/failsm.jpg)  
 The user is looking for a job at Google and there is no information in this result block that will help the user explore job opportunities—it Fails to Meet the user need.
 
 </div>
 <div class="result">
 
-![](../images/img807.jpg)  
-![needs met scale - fully meets](../images/fullym.jpg)  
+![](/img/qrg/img807.jpg)  
+![needs met scale - fully meets](/img/qrg/fullym.jpg)  
 This is Google's official page on careers and jobs at Google, where users can search for currently open opportunities. This page is exactly what the user is looking for—it Fully Meets the user need.
 
 </div>

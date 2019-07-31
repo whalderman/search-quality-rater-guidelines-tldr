@@ -2,7 +2,7 @@
 
 どのようなことにスマートフォンを使うか？
 
-![what do mobile users want to do...](../images/img201.jpg)
+![what do mobile users want to do...](/img/qrg/translated/ja/img201.jpg)
 
 様々な用途でスマートフォンは使用され、使用する状況も多種多様である。Web検索をすることや、ある限定の動作をスマートフォンにさせることもある。簡単な作業から、様々な段階を経て完了する作業もある。例えば、「この映画の監督を誰か調べる」というのは簡単な作業であり、「近場で、この映画を上映している映画館を探し、チケットを買うこと、行き方を調べ、ナビ機能を使う」というのは、様々な段階を経た複雑な作業になる。
 
@@ -57,7 +57,7 @@
 
 ## クエリの理解
 
-![a stick figure using a smartphone](../images/img207.jpg)
+![a stick figure using a smartphone](/img/qrg/img207.jpg)
 
 品質評価業務の最初は、クエリを理解すること。「クエリ」とは、ユーザーが文字入力や、音声入力をした際の言葉のことである。
 
@@ -82,7 +82,7 @@
 
 > Note: Examples in the following sections will include a User Location in the form of a city and state. Note that in the actual rating tasks, you will need to infer the User Location based on the map that is provided, as discussed in [Understanding the User Location on the Task Page](/appendix-using-the-evaluation-platform/understanding-the-user-location-on-the-task-page).
 
-![UK and US football](../images/img206.jpg)
+![UK and US football](/img/qrg/translated/ja/img206.jpg)
 
 多くのクエリでは、ユーザーの所在地がクエリ・ユーザーの意図を汲み取ることに影響はない。例えば、<span class="query">facebook.com</span>、<span class="query">子猫の写真</span>、<span class="query">地球と月の距離</span>、<span class="query">母に電話</span>など。評価タスクにユーザー所在地の表示がないものは、所在地とクエリが関係ないと考えて評価を行う。
 
@@ -92,7 +92,7 @@
 
 ユーザーは、具体的な地名を入れて、ユーザーの所在地に関係なく、検索エンジンに「この結果が欲しい」と伝えてくれることがある。このようなクエリ内に含まれた地名を「明示的なロケーション」と呼ぶ。「明示的なロケーション」があると、クエリの理解・解釈は簡単になる。
 
-![explicit location queries](../images/img209.jpg)
+![explicit location queries](/img/qrg/translated/ja/img209.jpg)
 
 「明示的なロケーション」は、ユーザーの所在地と一致する時と、しない時がある。
 
@@ -115,17 +115,17 @@
 
 **クエリ：<span class="query">apple</span>**  
 **ロケール：英語・アメリカ**  
-![interpretation for the query "apple"](../images/img212.jpg)
+![interpretation for the query "apple"](/img/qrg/translated/ja/img212.jpg)
 
 **クエリ：<span class="query">mercury</span>**  
 **ロケール：英語・アメリカ**  
-![interpretation for the query "mercury"](../images/img213.jpg)
+![interpretation for the query "mercury"](/img/qrg/translated/ja/img213.jpg)
 
 ## 時間が経てば、クエリの意味も変わる
 
 クエリは現時点での意味に注意して評価タスクを行う。ユーザーが特に明らかにしていない場合は、話題に関する「現在」「最新」の情報とモデル、「開催時期が一番近い」イベントの情報を求めているとGoogleは仮定する。
 
-![interpretation for the queries "George Bush" and "iPhone"](../images/img215.jpg)
+![interpretation for the queries "George Bush" and "iPhone"](/img/qrg/translated/ja/img215.jpg)
 
 <span class="query">iPhone</span>のクエリの解釈は新規モデルが発表される度に変わる。2007年が最初のリリースで、当時は「iPhone」で検索したユーザーが求めている情報は、iPhone1だった。しかし、現在のユーザーが求めているのは最新のモデルのものや、今後発売されるモデルの情報である。これからも発売されるモデルとともに支配的解釈も変化してくる。
 
@@ -409,8 +409,8 @@
 
 <div class="results">
 
-![query and user intent for chinese restaurants](../images/img220.jpg)  
-![query and user intent for gas stations](../images/img224.jpg)
+![query and user intent for chinese restaurants](/img/qrg/translated/ja/img220.jpg)  
+![query and user intent for gas stations](/img/qrg/translated/ja/img224.jpg)
 
 <div class="result">
 
@@ -425,8 +425,8 @@
 
 <div class="results">
 
-![query and user intent for tom cruise's height](../images/img222.jpg)  
-![query and user intent for iq test](../images/img226.jpg)
+![query and user intent for tom cruise's height](/img/qrg/translated/ja/img222.jpg)  
+![query and user intent for iq test](/img/qrg/translated/ja/img226.jpg)
 
 <div class="result">
 
@@ -439,7 +439,7 @@
 
 また「訪れるの意図があるユーザーもいれば、ないユーザーもいる」というクエリもあります。
 
-![user intent when searching for Walmart](../images/img229.jpg)
+![user intent when searching for Walmart](/img/qrg/translated/ja/img229.jpg)
 
 以下は、そのようなクエリの例です。
 
@@ -459,11 +459,11 @@
 1. サニーヴェールにある「ターメリック」という有名レストラン
 2. 香辛料の「ターメリック（ウコン）」
 
-![query for turmeric in California returning address to restaurant](../images/img232.jpg)
+![query for turmeric in California returning address to restaurant and info about the spice](/img/qrg/img232.jpg)
 
 他の場所ではほとんど、「ターメリックという有名レストラン」は存在しない。その場合、[ターメリック]というクエリには「香辛料のターメリック」という解釈しか成立しなくなる。サニーヴェールのレストラン「ターメリック」が有名なのはサニーヴェールだけであると考えられる。
 
-![query for turmeric in Nebraska returning information about the spice](../images/img234.jpg)
+![query for turmeric in Nebraska returning information about the spice](/img/qrg/img234.jpg)
 
 クエリを分析で、訪れるクエリの意図の有無を判断する時はこのようなことも頭において判断する必要がある。
 
@@ -509,7 +509,7 @@ Web検索のRBを構成するものとして、「タイトル付きリンク」
 <div class="results">
 <div class="result">
 
-![web search result block](../images/img236.jpg)
+![web search result block](/img/qrg/img236.jpg)
 
 </div>
 </div>
@@ -523,7 +523,7 @@ Web検索のRBを構成するものとして、「タイトル付きリンク」
 <div class="results">
 <div class="result">
 
-![web search result block](../images/img237.jpg)
+![web search result block](/img/qrg/img237.jpg)
 
 </div>
 </div>
@@ -554,7 +554,7 @@ Web検索のRBを構成するものとして、「タイトル付きリンク」
 <div class="results">
 <div class="result">
 
-![special content result block](../images/img240.jpg)
+![special content result block](/img/qrg/img240.jpg)
 
 </div>
 </div>
@@ -569,7 +569,7 @@ Web検索のRBを構成するものとして、「タイトル付きリンク」
 <div class="results">
 <div class="result">
 
-![special content result block](../images/img242.jpg)
+![special content result block](/img/qrg/img242.jpg)
 
 </div>
 </div>
@@ -584,7 +584,7 @@ Web検索のRBを構成するものとして、「タイトル付きリンク」
 <div class="results">
 <div class="result">
 
-![special content result block](../images/img243.jpg)
+![special content result block](/img/qrg/img243.jpg)
 
 </div>
 </div>
@@ -598,7 +598,7 @@ Web検索のRBを構成するものとして、「タイトル付きリンク」
 <div class="results">
 <div class="result">
 
-![special content result block](../images/img244.jpg)
+![special content result block](/img/qrg/img244.jpg)
 
 </div>
 </div>
@@ -613,7 +613,7 @@ Web検索のRBを構成するものとして、「タイトル付きリンク」
 <div class="results">
 <div class="result">
 
-![special content result block](../images/img246.jpg)
+![special content result block](/img/qrg/img246.jpg)
 
 </div>
 </div>
@@ -627,7 +627,7 @@ Web検索のRBを構成するものとして、「タイトル付きリンク」
 <div class="results">
 <div class="result">
 
-![special content result block](../images/img247.jpg)
+![special content result block](/img/qrg/img247.jpg)
 
 </div>
 </div>
@@ -649,7 +649,7 @@ Web検索のRBを構成するものとして、「タイトル付きリンク」
 <div class="results">
 <div class="result">
 
-![device action result block](../images/img248.jpg)
+![device action result block](/img/qrg/img248.jpg)
 
 </div>
 </div>
@@ -664,7 +664,7 @@ Web検索のRBを構成するものとして、「タイトル付きリンク」
 <div class="results">
 <div class="result">
 
-![device action result block](../images/img250.jpg)
+![device action result block](/img/qrg/img250.jpg)
 
 </div>
 </div>
@@ -679,7 +679,7 @@ Web検索のRBを構成するものとして、「タイトル付きリンク」
 <div class="results">
 <div class="result">
 
-![device action result block](../images/img251.jpg)
+![device action result block](/img/qrg/img251.jpg)
 
 </div>
 </div>
@@ -694,7 +694,7 @@ Web検索のRBを構成するものとして、「タイトル付きリンク」
 <div class="results">
 <div class="result">
 
-![device action result block](../images/img252.jpg)
+![device action result block](/img/qrg/img252.jpg)
 
 </div>
 </div>
@@ -709,7 +709,7 @@ Web検索のRBを構成するものとして、「タイトル付きリンク」
 <div class="results">
 <div class="result">
 
-![device action result block](../images/img254.jpg)
+![device action result block](/img/qrg/img254.jpg)
 
 </div>
 </div>
@@ -728,7 +728,7 @@ Web検索のRBを構成するものとして、「タイトル付きリンク」
 <div class="examples">
 <div class="example">
 
-![device action query example 1](../images/img255.jpg)
+![device action query example 1](/img/qrg/img255.jpg)
 
 <div class="results">
 <div class="result">
@@ -745,7 +745,7 @@ Web検索のRBを構成するものとして、「タイトル付きリンク」
 </div>
 <div class="example">
 
-![device action query example 2](../images/img257.jpg)
+![device action query example 2](/img/qrg/img257.jpg)
 
 <div class="results">
 <div class="result">
@@ -762,7 +762,7 @@ Web検索のRBを構成するものとして、「タイトル付きリンク」
 </div>
 <div class="example">
 
-![device action query example 3](../images/img258.jpg)
+![device action query example 3](/img/qrg/img258.jpg)
 
 <div class="results">
 <div class="result">
@@ -779,7 +779,7 @@ Web検索のRBを構成するものとして、「タイトル付きリンク」
 </div>
 <div class="example">
 
-![device action query example 4](../images/img260.jpg)
+![device action query example 4](/img/qrg/img260.jpg)
 
 <div class="results">
 <div class="result">
@@ -796,7 +796,7 @@ Web検索のRBを構成するものとして、「タイトル付きリンク」
 </div>
 <div class="example">
 
-![device action query example 5](../images/img261.jpg)
+![device action query example 5](/img/qrg/img261.jpg)
 
 <div class="results">
 <div class="result">

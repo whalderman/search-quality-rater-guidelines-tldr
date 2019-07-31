@@ -2,11 +2,11 @@
 
 Needs Met評価は、クエリと結果の両方に基づいている。Needs Met評価を割り当てるときは、クエリとユーザーの意図について注意深く考える必要がある。
 
-![needs met scale - not applicable](../images/needs-met-na.jpg)
+![needs met scale - not applicable](/img/qrg/needs-met-na.jpg)
 
 Page Quality評価スライダーはクエリに依存しない。LPにPage Quality評価を割り当てる際には、クエリについて考えない。
 
-![page quality scale - not applicable](../images/eat-na.jpg)
+![page quality scale - not applicable](/img/qrg/eat-na.jpg)
 
 一部の結果にはPage Qualityスライダーがない。RBにPage Quality評価スライダーがない場合、Page Quality評価を与える必要はない。Page Qualityスライダーがある場合は、リンク先ページに基づいてPage Qualityの評価を割り当てる。「**外国語**」のPage Quality評価をできない場合や「**読み込めない**」のPage Quality評価をできない場合、**Medium**評価にする。
 
@@ -34,9 +34,9 @@ Needs Met評価とページ品質評価の割り当てに関するガイダン�
 <div class="results">
 <div class="result">
 
-![](../images/img628.jpg)  
-![needs met scale - slightly meets](../images/sm.jpg)  
-![page quality scale - low](../images/low.jpg)
+![](/img/qrg/img628.jpg)  
+![needs met scale - slightly meets](/img/qrg/sm.jpg)  
+![page quality scale - low](/img/qrg/low.jpg)
 
 **Page Quality評価：**<!-- -->この内容を声に出して読んでみる。LP上の記事は浅く、意図せずユーモラス。4つの段落があるが、基本的に電気自動車は電気を使用して充電する必要があるのみ。このページはE-A-Tがない。**低** is an appropriate rating.
 
@@ -45,9 +45,9 @@ Needs Met評価とページ品質評価の割り当てに関するガイダン�
 </div>
 <div class="result">
 
-![](../images/img631.jpg)  
-![needs met scale - fails to meet](../images/failsm.jpg)  
-![page quality scale - medium+ - narrow range](../images/medium+narrow.jpg)
+![](/img/qrg/img631.jpg)  
+![needs met scale - fails to meet](/img/qrg/failsm.jpg)  
+![page quality scale - medium+ - narrow range](/img/qrg/medium+narrow.jpg)
 
 **Page Quality評価：**<!-- -->Wikipedia.orgのLPには多くの有益なMCがある。The page has high E-A-T. **中＋** to **高** is an appropriate rating.
 
@@ -65,9 +65,9 @@ Needs Met評価とページ品質評価の割り当てに関するガイダン�
 <div class="results">
 <div class="result">
 
-![](../images/img634.jpg)  
-![needs met scale - fails to meet - narrow range](../images/failsm-narrow.jpg)  
-![page quality scale - lowest - narrow range](../images/lowest-narrow.jpg)
+![](/img/qrg/img634.jpg)  
+![needs met scale - fails to meet - narrow range](/img/qrg/failsm-narrow.jpg)  
+![page quality scale - lowest - narrow range](/img/qrg/lowest-narrow.jpg)
 
 **Page Quality評価：**<!-- -->YMYLの話題。このページには質の低いサイトの特徴が多くあり信頼できない。誰がそのコンテンツを書いたか分からず、専門家の権限や証拠がない。MCから気を散らす広告がある
 
@@ -76,9 +76,9 @@ Needs Met評価とページ品質評価の割り当てに関するガイダン�
 </div>
 <div class="result">
 
-![](../images/img637.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
-![page quality scale - high+ - narrow range](../images/high+narrow.jpg)
+![](/img/qrg/img637.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
+![page quality scale - high+ - narrow range](/img/qrg/high+narrow.jpg)
 
 **Page Quality評価：**<!-- -->YMYLの話題。非常に権威のある医学Webサイトで信頼性が高く正確なMCを持っている。
 

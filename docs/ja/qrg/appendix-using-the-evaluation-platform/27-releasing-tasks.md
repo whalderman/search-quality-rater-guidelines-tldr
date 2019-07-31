@@ -4,11 +4,11 @@
 
 評価インターフェイスの「Report a Problem/Release this Task」を使って問題とリリースしたタスクを報告する。
 
-![](../images/img850.jpg)
+![](/img/qrg/img850.jpg)
 
 ボタンをクリックすると、以下のような報告・リリース用ホームが表示される。
 
-![](../images/img851.jpg)
+![](/img/qrg/img851.jpg)
 
 このメニューには変更が加えられることがあるので、上に表示されているように変更されることがある。
 
@@ -26,8 +26,8 @@ Please leave a comment explaining the release when it makes sense to provide add
 
 **技術的な問題：**<!-- -->テキストが表示されるべき場所に、クエスチョンマークや他の意味不明な文字が記載されています。
 
-![](../images/img853.jpg)
+![](/img/qrg/img853.jpg)
 
-![](../images/img854.jpg)
+![](/img/qrg/img854.jpg)
 
 **注：**<!-- -->リリースしたタスクの量やタイプによっては、リリース原因の追加説明が必要になることがあります。

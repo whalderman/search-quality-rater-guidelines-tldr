@@ -517,6 +517,6 @@ PQ評価と説明
 </div>
 </div>
 
-[h-n]: ../images/high-narrow.jpg
-[m+n]: ../images/medium+narrow.jpg
-[m+w]: ../images/medium+wide.jpg
+[h-n]: /img/qrg/high-narrow.jpg
+[m+n]: /img/qrg/medium+narrow.jpg
+[m+w]: /img/qrg/medium+wide.jpg

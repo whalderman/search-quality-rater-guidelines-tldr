@@ -393,7 +393,7 @@ In the following examples, we have included the URL of the page to be evaluated 
 
 **Image that shows where to click to get to the homepage:**  
 [Williams-Sonoma Homepage](http://www.williams-sonoma.com)  
-![Williams Sonoma Logo](../images/img17.jpg)  
+![Williams Sonoma Logo](/img/qrg/img17.jpg)  
 This "WILLIAMS-SONOMA" logo shown in the upper center of the page is clickable and takes users to the homepage of the website.
 
 </div>
@@ -413,7 +413,7 @@ In this case, we will consider [http://answers.yahoo.com](http://answers.yahoo.c
 
 **Image that shows where to click to get to the homepage:**  
 [Specific Yahoo Answers Page](https://guidelines.raterhub.com/images/PQexamples.3.1.5.jpg)  
-![Yahoo! Answers Logo](../images/img18.jpg)  
+![Yahoo! Answers Logo](/img/qrg/img18.jpg)  
 This "YAHOO ANSWERS" logo in the upper left part of the page is clickable and takes users to the homepage of the website.
 
 </div>
@@ -433,7 +433,7 @@ In this case, we will consider the Harvard Medical School page at [http://hms.ha
 
 **Image that shows where to click to get to the homepage:**  
 [Harvard Medical School Facts and Figures Page](https://guidelines.raterhub.com/images/HMS.jpg)  
-![Harvard Medical School Logo](../images/img19.jpg)  
+![Harvard Medical School Logo](/img/qrg/img19.jpg)  
 This "Harvard Medical School" logo in the upper left part of the page is clickable and takes users to the homepage of the Harvard Medical School website.
 
 </div>
@@ -473,7 +473,7 @@ Finally, there are some websites that show licensed or syndicated content. This 
 
 Many websites are interested in communicating with their users. There are many reasons that users might have for contacting a website, from reporting problems such as broken pages, to asking for content removal. Many websites offer multiple ways for users to contact the website: email addresses, phone numbers, physical addresses, web contact forms, etc. Sometimes, this contact information is even organized by department and provides the names of individuals to contact.
 
-![L.L. Bean Contact Page](../images/img22.jpg)
+![L.L. Bean Contact Page](/img/qrg/img22.jpg)
 
 The types and amount of contact information needed depend on the type of website. Contact information and customer service information are extremely important for websites that handle money, such as stores, banks, credit card companies, etc. Users need a way to ask questions or get help when a problem occurs.
 

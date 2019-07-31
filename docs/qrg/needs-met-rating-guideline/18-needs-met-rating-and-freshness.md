@@ -35,17 +35,17 @@ Freshness is generally less of a concern for Page Quality rating. "Stale" pages 
 <div class="results">
 <div class="result">
 
-![](../images/img721.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
-![page quality scale - high - narrow range](../images/high-narrow.jpg)  
+![](/img/qrg/img721.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
+![page quality scale - high - narrow range](/img/qrg/high-narrow.jpg)  
 This LP has an article about the "Curiosity" rover landing, published on the same day as the landing, which is the day this example was written.
 
 </div>
 <div class="result">
 
-![](../images/img724.jpg)  
-![needs met scale - fails to meet - narrow range](../images/failsm-narrow.jpg)  
-![page quality scale - high - narrow range](../images/high-narrow.jpg)  
+![](/img/qrg/img724.jpg)  
+![needs met scale - fails to meet - narrow range](/img/qrg/failsm-narrow.jpg)  
+![page quality scale - high - narrow range](/img/qrg/high-narrow.jpg)  
 This LP has an article about the launching of the "Curiosity" rover, published nine months before its landing on Mars. The content on this page would be considered stale for the query.
 
 </div>
@@ -60,17 +60,17 @@ This LP has an article about the launching of the "Curiosity" rover, published n
 <div class="results">
 <div class="result">
 
-![](../images/img727.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
-![page quality scale - high - narrow range](../images/high-narrow.jpg)  
+![](/img/qrg/img727.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
+![page quality scale - high - narrow range](/img/qrg/high-narrow.jpg)  
 This LP shows traffic conditions in Los Angeles on August 7, 2012, which is the day this example was written.
 
 </div>
 <div class="result">
 
-![](../images/img730.jpg)  
-![needs met scale - fails to meet](../images/failsm.jpg)  
-![page quality scale - high - narrow range](../images/high-narrow.jpg)  
+![](/img/qrg/img730.jpg)  
+![needs met scale - fails to meet](/img/qrg/failsm.jpg)  
+![page quality scale - high - narrow range](/img/qrg/high-narrow.jpg)  
 This LP shows traffic conditions in Los Angeles on August 6, 2012. It is stale and useless for the query even though it is only one day old.
 
 </div>
@@ -85,17 +85,17 @@ This LP shows traffic conditions in Los Angeles on August 6, 2012. It is stale a
 <div class="results">
 <div class="result">
 
-![](../images/img733.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
-![page quality scale - high - narrow range](../images/high-narrow.jpg)  
+![](/img/qrg/img733.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
+![page quality scale - high - narrow range](/img/qrg/high-narrow.jpg)  
 This LP on the New York Times website has information about the most recent winner of this prize, based on the date when this example was written.
 
 </div>
 <div class="result">
 
-![](../images/img736.jpg)  
-![needs met scale - fails to meet - wide range](../images/failsm-wide.jpg)  
-![page quality scale - high - narrow range](../images/high-narrow.jpg)  
+![](/img/qrg/img736.jpg)  
+![needs met scale - fails to meet - wide range](/img/qrg/failsm-wide.jpg)  
+![page quality scale - high - narrow range](/img/qrg/high-narrow.jpg)  
 This LP on the BBC website has information about the 2006 winner of this prize. This page is stale for the query.
 
 </div>
@@ -110,17 +110,17 @@ This LP on the BBC website has information about the 2006 winner of this prize. 
 <div class="results">
 <div class="result">
 
-![](../images/img740.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
-![page quality scale - high - wide range](../images/high-wide.jpg)  
+![](/img/qrg/img740.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
+![page quality scale - high - wide range](/img/qrg/high-wide.jpg)  
 Medline Plus is an authoritative website that regularly updates its content.
 
 </div>
 <div class="result">
 
-![](../images/img743.jpg)  
-![needs met scale - slightly meets](../images/sm.jpg)  
-![page quality scale - medium - narrow range](../images/medium-narrow.jpg)  
+![](/img/qrg/img743.jpg)  
+![needs met scale - slightly meets](/img/qrg/sm.jpg)  
+![page quality scale - medium - narrow range](/img/qrg/medium-narrow.jpg)  
 This 2006 article would be considered stale for this medical query.
 
 </div>
@@ -135,9 +135,9 @@ This 2006 article would be considered stale for this medical query.
 <div class="results">
 <div class="result">
 
-![](../images/img746.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
-![page quality scale - medium- wide range](../images/medium-wide.jpg)  
+![](/img/qrg/img746.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
+![page quality scale - medium- wide range](/img/qrg/medium-wide.jpg)  
 This LP has the information users are looking for.
 
 </div>

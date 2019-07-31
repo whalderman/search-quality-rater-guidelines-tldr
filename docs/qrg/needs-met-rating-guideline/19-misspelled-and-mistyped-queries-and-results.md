@@ -34,9 +34,9 @@ Consider the query <span class="query">john stuart</span>, English (US). There i
 
 **User Intent:** There are many people named "Micheal Jordan."
 
-![](../images/img750.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
-![page quality scale - medium - narrow range](../images/medium-narrow.jpg)  
+![](/img/qrg/img750.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
+![page quality scale - medium - narrow range](/img/qrg/medium-narrow.jpg)  
 The page lists all members of the LinkedIn site named "Micheal Jordan." LinkedIn is a very popular social networking website for professionals in the U.S. This result would be very helpful for many or most users trying to find information about someone named "Micheal Jordan."
 
 </div>
@@ -44,9 +44,9 @@ The page lists all members of the LinkedIn site named "Micheal Jordan." LinkedIn
 
 **User Intent:** Helpful results for more prominent people named Micheal Jordan should receive higher ratings than helpful results for less prominent people named Micheal Jordan.
 
-![](../images/img753.jpg)  
-![needs met scale - moderately meets](../images/mm.jpg)  
-![page quality scale - medium](../images/medium.jpg)  
+![](/img/qrg/img753.jpg)  
+![needs met scale - moderately meets](/img/qrg/mm.jpg)  
+![page quality scale - medium](/img/qrg/medium.jpg)  
 LinkedIn page for Mich<span style="color: red">ea</span>l Jordan, a facilities services professional in Atlanta, Georgia.
 
 </div>
@@ -54,9 +54,9 @@ LinkedIn page for Mich<span style="color: red">ea</span>l Jordan, a facilities s
 
 **User Intent:** Because Michael Jordan is such a famous athlete/celebrity, we will consider Michael Jordan to be a minor interpretation.
 
-![](../images/img756.jpg)  
-![](../images/failsm+narrow.jpg)  
-![page quality scale - high - wide range](../images/high-wide.jpg)  
+![](/img/qrg/img756.jpg)  
+![](/img/qrg/failsm+narrow.jpg)  
+![page quality scale - high - wide range](/img/qrg/high-wide.jpg)  
 Michael Jordan's player profile page on the NBA basketball website.
 
 </div>

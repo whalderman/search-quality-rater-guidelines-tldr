@@ -20,9 +20,9 @@ Users may not always plan to buy products online that they are browsing and rese
 <div class="results">
 <div class="result">
 
-![](../images/img779.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
-![page quality scale - high - narrow range](../images/high-narrow.jpg)  
+![](/img/qrg/img779.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
+![page quality scale - high - narrow range](/img/qrg/high-narrow.jpg)  
 このLPには、さまざまなタイプの高精細テレビ（プラズマ、LCD、LED）に関する包括的な情報と、多くの特定のモデルに関するレビューがある。Webサイトには電気製品に関しての役立つ情報とレビューがあることで知られている。
 
 </div>
@@ -37,9 +37,9 @@ Users may not always plan to buy products online that they are browsing and rese
 <div class="results">
 <div class="result">
 
-![](../images/img782.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
-![page quality scale - high - narrow range](../images/high-narrow.jpg)  
+![](/img/qrg/img782.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
+![page quality scale - high - narrow range](/img/qrg/high-narrow.jpg)  
 これは、小さい女の子のジーンズを閲覧して買い物するのに役立つページだ。サイズ3Tのジーンズには多くのオプションがある。これは、ジーンズを販売することで知られている高品質の店だ。
 
 </div>
@@ -54,9 +54,9 @@ Users may not always plan to buy products online that they are browsing and rese
 <div class="results">
 <div class="result">
 
-![](../images/img785.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
-![page quality scale - high - narrow range](../images/high-narrow.jpg)  
+![](/img/qrg/img785.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
+![page quality scale - high - narrow range](/img/qrg/high-narrow.jpg)  
 このLPは非常に評判の良い小売業者からのカフリンクスの大量のコレクションを持っている。たくさんのオプションとスタイルがある。これは閲覧に適したページだ。スタイル、価格帯などを選択する上で便利な機能がある。
 
 </div>
@@ -71,8 +71,8 @@ Users may not always plan to buy products online that they are browsing and rese
 <div class="results">
 <div class="result">
 
-![](../images/img789.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
+![](/img/qrg/img789.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
 This result has a variety of images of the ring, showing different angles and materials. Knowing what the ring looks like is very helpful to users who are researching the product and browsing options that are available.
 
 </div>

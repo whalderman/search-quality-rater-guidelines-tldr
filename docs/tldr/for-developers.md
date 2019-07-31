@@ -127,7 +127,7 @@ Images are often a website's biggest use of bandwidth - and bandwidth costs user
 In most parts of the world, and especially regarding cell phones, users do not or cannot pay for unlimited data. Save your users (and yourself) some time and money by implementing automated image optimization.
 :::
 
-Image optimization is one of the most difficult, yet most beneficial areas of optimization for many websites. Instead of image size and mobile responsiveness we focus on image format
+Image optimization is one of the most difficult, yet most beneficial areas of optimization for many websites.
 
 ::: tip Image ideals
 

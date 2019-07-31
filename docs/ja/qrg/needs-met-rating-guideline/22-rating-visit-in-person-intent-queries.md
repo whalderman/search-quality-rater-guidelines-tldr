@@ -22,8 +22,8 @@
 <div class="results">
 <div class="result">
 
-![](../images/img792.jpg)  
-![needs met scale - fully meets](../images/fullym.jpg)  
+![](/img/qrg/img792.jpg)  
+![needs met scale - fully meets](/img/qrg/fullym.jpg)  
 SCRBでは、一番目立つところに完全で正確な回答を、モバイルユーザーに分かりやすいように表示している。
 
 **注：**<!-- -->この例が書かれた時点で、ユーザーに現在の情報が表示されたとする。この作業を評価した場合は、このSCRBの最低賃金率がカンザス州について正確であることを確認する必要がある。
@@ -31,22 +31,22 @@ SCRBでは、一番目立つところに完全で正確な回答を、モバイ�
 </div>
 <div class="result">
 
-![](../images/img794.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
+![](/img/qrg/img794.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
 カンザス州の最低賃金に関するページである。
 
 </div>
 <div class="result">
 
-![](../images/img796.jpg)  
-![needs met scale - slightly meets - wide range](../images/sm-wide.jpg)  
+![](/img/qrg/img796.jpg)  
+![needs met scale - slightly meets - wide range](/img/qrg/sm-wide.jpg)  
 LPではアメリカの全州の最低賃金を掲載している。労働省公式サイトに掲載されており、このトピックについてのE-A-Tも高いが、カンザスに関する情報をこの中から見つけ出すのは手間がかかる。
 
 </div>
 <div class="result">
 
-![](../images/img798.jpg)  
-![needs met scale - fails to meet - narrow range](../images/failsm-narrow.jpg)  
+![](/img/qrg/img798.jpg)  
+![needs met scale - fails to meet - narrow range](/img/qrg/failsm-narrow.jpg)  
 カリフォルニア州公式サイト内の、カリフォルニア州の最低賃金に関するページである。
 
 </div>
@@ -61,15 +61,15 @@ LPではアメリカの全州の最低賃金を掲載している。労働省公
 <div class="results">
 <div class="result">
 
-![](../images/img801.jpg)  
-![needs met scale - highly meets+](../images/hm+.jpg)  
+![](/img/qrg/img801.jpg)  
+![needs met scale - highly meets+](/img/qrg/hm+.jpg)  
 LPは、子猫の写真がいっぱいのページだ。RBには、ユーザーの満足度が高い写真がある。
 
 </div>
 <div class="result">
 
-![](../images/img803.jpg)  
-![needs met scale - fails to meet](../images/failsm.jpg)  
+![](/img/qrg/img803.jpg)  
+![needs met scale - fails to meet](/img/qrg/failsm.jpg)  
 これは、ピッツバーグエリアに家を必要とするペットのローカルリストだ。このページにペットの写真は一切なく、個々のリストにも写真がほとんどない。
 
 </div>
@@ -84,15 +84,15 @@ LPは、子猫の写真がいっぱいのページだ。RBには、ユーザー�
 <div class="results">
 <div class="result">
 
-![](../images/img805.jpg)  
-![needs met scale - fails to meet](../images/failsm.jpg)  
+![](/img/qrg/img805.jpg)  
+![needs met scale - fails to meet](/img/qrg/failsm.jpg)  
 ユーザーはGoogleで仕事を探していますが、この結果のブロックには、ユーザーが仕事の機会を掘り起こすのに役立つ情報はない。
 
 </div>
 <div class="result">
 
-![](../images/img807.jpg)  
-![needs met scale - fully meets](../images/fullym.jpg)  
+![](/img/qrg/img807.jpg)  
+![needs met scale - fully meets](/img/qrg/fullym.jpg)  
 これはGoogleのキャリアと仕事についての公式ページで、ユーザーは現在開かれている機会を検索できる。このページはユーザーが探していたもので、Fully Meetsになる。
 
 </div>

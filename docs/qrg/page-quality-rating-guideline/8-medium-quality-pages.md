@@ -332,5 +332,5 @@ This page is "mixed" because there is some distracting content that makes it har
 </div>
 </div>
 
-[m]: ../images/medium.jpg
-[m-n]: ../images/medium-narrow.jpg
+[m]: /img/qrg/medium.jpg
+[m-n]: /img/qrg/medium-narrow.jpg

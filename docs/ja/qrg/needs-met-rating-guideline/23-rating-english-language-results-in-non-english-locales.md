@@ -23,15 +23,15 @@
 <div class="results">
 <div class="result">
 
-![](../images/img811.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
+![](/img/qrg/img811.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
 「राजार रवमा」に関するこのヒンディー語ウィキペディアページは、ヒンディー語（IN）ユーザーにとても役立ちます。
 
 </div>
 <div class="result">
 
-![](../images/img813.jpg)  
-![needs met scale - fails to meet - narrow range](../images/failsm-narrow.jpg)  
+![](/img/qrg/img813.jpg)  
+![needs met scale - fails to meet - narrow range](/img/qrg/failsm-narrow.jpg)  
 英語のウィキペディアはヒンディー語と同じコンテンツである。役に立つ画像はいくつかあるが、ほとんどのヒンディー語ユーザーは読めない。
 
 </div>
@@ -47,15 +47,15 @@
 <div class="results">
 <div class="result">
 
-![](../images/img815.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
+![](/img/qrg/img815.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
 バラク・オバマについての韓国語のウィキペディアのページは韓国語ユーザーにとって便利だ。
 
 </div>
 <div class="result">
 
-![](../images/img817.jpg)  
-![needs met scale - fails to meet - narrow range](../images/failsm-narrow.jpg)  
+![](/img/qrg/img817.jpg)  
+![needs met scale - fails to meet - narrow range](/img/qrg/failsm-narrow.jpg)  
 バラク・オバマについての英語のウィキペディアは韓国語と同じコンテンツである。役に立つ画像はいくつかあるが、このページを読める韓国語ユーザはほとんどいない。
 
 </div>
@@ -76,15 +76,15 @@
 <div class="results">
 <div class="result">
 
-![](../images/img820.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
+![](/img/qrg/img820.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
 クエリはラテン文字で書かれているが、多くのヒンディー語ユーザーはヒンディー語での人物の情報が欲しいだろう。ヒンディー語でのウィキペディアのページはヒンディー語ユーザーにとって便利だ。
 
 </div>
 <div class="result">
 
-![](../images/img822.jpg)  
-![needs met scale - fails to meet - narrow range](../images/failsm-narrow.jpg)  
+![](/img/qrg/img822.jpg)  
+![needs met scale - fails to meet - narrow range](/img/qrg/failsm-narrow.jpg)  
 英語のウィキペディアのページはヒンディー語のページと同じコンテンツである。役立つ画像はあるが、このページを読むことのできるヒンディー語ユーザーはほとんどいない。
 
 </div>
@@ -100,15 +100,15 @@
 <div class="results">
 <div class="result">
 
-![](../images/img824.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
+![](/img/qrg/img824.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
 クエリはラテン語で書かれているが、多くの韓国語ユーザーはコリア語のレビューか韓国語のストーリーの映画を買いたい。この韓国語の検索結果は便利だ。
 
 </div>
 <div class="result">
 
-![](../images/img826.jpg)  
-![needs met scale - fails to meet - narrow range](../images/failsm-narrow.jpg)  
+![](/img/qrg/img826.jpg)  
+![needs met scale - fails to meet - narrow range](/img/qrg/failsm-narrow.jpg)  
 英語で書かれたLPは英語を読める人にとって便利だ。役立つ画像はあるが、このページを読むことのできる韓国語ユーザーはほとんどいない。
 
 </div>
@@ -129,15 +129,15 @@
 <div class="results">
 <div class="result">
 
-![](../images/img829.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
+![](/img/qrg/img829.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
 クエリは英語を含んでいるが、ヒンディー語のクエリだ。多くのヒンディー語ユーザーはヒンディー語での結果を期待しており、この記事は便利である。
 
 </div>
 <div class="result">
 
-![](../images/img831.jpg)  
-![needs met scale - fails to meet - narrow range](../images/failsm-narrow.jpg)  
+![](/img/qrg/img831.jpg)  
+![needs met scale - fails to meet - narrow range](/img/qrg/failsm-narrow.jpg)  
 英語のLPは英語を読むことができるユーザーにとって便利なコンテンツだ。しかしこのページを読むことができるヒンディー語ユーザーはほとんどいない。
 
 </div>
@@ -153,15 +153,15 @@
 <div class="results">
 <div class="result">
 
-![](../images/img833.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
+![](/img/qrg/img833.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
 英語を一部含むクエリだが、多くの韓国語ユーザーはサムスンのWebサイトの韓国語ページを期待している。この韓国語の結果ページは便利だ。
 
 </div>
 <div class="result">
 
-![](../images/img835.jpg)  
-![needs met scale - fails to meet - narrow range](../images/failsm-narrow.jpg)  
+![](/img/qrg/img835.jpg)  
+![needs met scale - fails to meet - narrow range](/img/qrg/failsm-narrow.jpg)  
 サムスンの英語のWebサイトのページは便利なコンテンツや画像があるが、このページを読むことのできる韓国語ユーザーはほとんどいない。
 
 </div>
@@ -186,8 +186,8 @@
 <div class="results">
 <div class="result">
 
-![](../images/img838.jpg)  
-![needs met scale - fully meets](../images/fullym.jpg)  
+![](/img/qrg/img838.jpg)  
+![needs met scale - fully meets](/img/qrg/fullym.jpg)  
 これはハーバード大学の公式Webサイトだ。クエリはヒンディー語で書かれているが、ユーザーが何を探していることを明確にした英語サイトだ。ユーザーはこの結果にとても満足するだろう。
 
 </div>
@@ -203,8 +203,8 @@
 <div class="results">
 <div class="result">
 
-![](../images/img840.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
+![](/img/qrg/img840.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
 これはITオペレーションとプログラビングについてのトラブルシューティングのヒントとテクニカル情報を多くもったブログからできている。リンク先ページには、韓国語で手順が書いてあり、英語の正確なコマンドをコンソールに入力する必要があり、操作を回復するために、システムを検索する。このチュートリアルはネットワーキングデバイスを熟知している韓国語ユーザーにとって簡単についていくことができとても便利だ。
 
 </div>
@@ -227,15 +227,15 @@
 <div class="results">
 <div class="result">
 
-![](../images/img843.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
+![](/img/qrg/img843.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
 オバマについて英語で書かれたウィキペディアのページはシンガポールのユーザーにとってとても便利だ。
 
 </div>
 <div class="result">
 
-![](../images/img845.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
+![](/img/qrg/img845.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
 オバマについて中国語で書かれたウィキペディアのページもシンガポールのユーザーにとってとても便利だ。
 
 </div>

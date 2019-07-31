@@ -16,7 +16,7 @@ This is what these pre-identified dupes look like:
 
 **Left Side**
 
-![](../images/img862.jpg)
+![](/img/qrg/img862.jpg)
 
 </div>
 </div>
@@ -27,7 +27,7 @@ This is what these pre-identified dupes look like:
 
 **Right Side**
 
-![](../images/img863.jpg)
+![](/img/qrg/img863.jpg)
 
 </div>
 </div>
@@ -55,12 +55,12 @@ Please identify dupes both within the same side and across sides. Even for cross
 <div class="results">
 <div class="result">
 
-![](../images/img865.jpg)
+![](/img/qrg/img865.jpg)
 
 </div>
 <div class="result">
 
-![](../images/img866.jpg)
+![](/img/qrg/img866.jpg)
 
 </div>
 </div>
@@ -71,11 +71,11 @@ Please identify dupes both within the same side and across sides. Even for cross
 
 When you notice that the results in two or more result blocks are duplicates, please click on the **Select Dupe** link at the top of one of the results. The current result (the result you clicked on) will be highlighted in red at the top of the block.
 
-![](../images/img868.jpg)
+![](/img/qrg/img868.jpg)
 
 You can then check results that are duplicates of the current result, and the checked results will be highlighted in yellow. You must select the "**Dupe of...**" button.
 
-![](../images/img869.jpg)
+![](/img/qrg/img869.jpg)
 
 The duplicate results that you checked will be annotated by "**Dupe of...**" text at the top of the block. After selecting all dupes, click on the **finish selecting dupes** link to return to the normal rating mode. The link's name will change back to **Select Dupes**, and you will be able to report other sets of dupes, if there are any. If you change your mind, you can always uncheck a result.
 

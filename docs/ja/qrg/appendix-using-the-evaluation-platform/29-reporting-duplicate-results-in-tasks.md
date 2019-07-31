@@ -15,7 +15,7 @@
 
 **左側**
 
-![](../images/img862.jpg)
+![](/img/qrg/img862.jpg)
 
 </div>
 </div>
@@ -26,7 +26,7 @@
 
 **右側**
 
-![](../images/img863.jpg)
+![](/img/qrg/img863.jpg)
 
 </div>
 </div>
@@ -54,12 +54,12 @@
 <div class="results">
 <div class="result">
 
-![](../images/img865.jpg)
+![](/img/qrg/img865.jpg)
 
 </div>
 <div class="result">
 
-![](../images/img866.jpg)
+![](/img/qrg/img866.jpg)
 
 </div>
 </div>
@@ -70,11 +70,11 @@
 
 重複した検索結果を発見した場合、どちらかの結果の上部にある「Select Dupe」リンクをクリックします。クリックした検索結果の上部が、赤くマーカーを引いたように強調表示されます。
 
-![](../images/img868.jpg)
+![](/img/qrg/img868.jpg)
 
 先ほどクリックした検索結果と重複している検索結果にチェックを入れることができるようになり、チェックされた検索結果全体が黄色で強調表示されます。右上の「**Dupe of**...」ボタンを選択してください。
 
-![](../images/img869.jpg)
+![](/img/qrg/img869.jpg)
 
 チェックを入れた検索結果の上部には「**Dupe of**...」という説明が入ります。すべての重複にチェックを入れたら、「**finish selecting dupes**」を押すと、通常の評価業務モードに戻り、他の重複結果がある場合は追加で報告することもできます。チェックした内容は、いつでも取り消すことができます。
 

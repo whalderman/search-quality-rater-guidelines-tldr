@@ -1,5 +1,5 @@
 module.exports = {
-	// base: '/test/warren/',
+	base: '/test/warren/',
 	locales: {
 		// The key is the path for the locale to be nested under.
 		// As a special case, the default locale can use '/' as its path.
@@ -15,7 +15,7 @@ module.exports = {
 		}
 	},
 	head: [
-		['link', { rel: 'icon', href: `/img/BCJロゴ.png` }],
+		['link', { rel: 'icon', href: `/img/brand/BCJロゴ.png` }],
 		['meta', { name: 'keywords', content: 'this tag is a waste of time, you know'}]
 	],
 	plugins: [
@@ -43,7 +43,7 @@ module.exports = {
 		}
 	},
 	themeConfig: {
-		logo: '/img/BCJワイドロゴ.svg',
+		logo: '/img/brand/BCJワイドロゴ.svg',
 		repo: 'thewarrman/sqrg-bcj',
 		docsBranch: 'main',
 		editLinks: true,

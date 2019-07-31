@@ -2,7 +2,7 @@
 
 You will assign **Porn**, **Foreign Language**, **Did Not Load**, and **Upsetting‑Offensive** flags to result blocks when appropriate. Some rating tasks may ask you to identify **Not‑for‑Everyone** results. All flags are query-independent, meaning that they do not depend on the query. Here is a screenshot of the flags:
 
-![rating flags](../images/img564.jpg)
+![rating flags](/img/qrg/img564.jpg)
 
 Click on the flag name to select it. The flag block will turn red and change the "No" to "Yes." For example, here is a result that shows when the **Porn** flag should be used.
 
@@ -16,9 +16,9 @@ Click on the flag name to select it. The flag block will turn red and change the
 <div class="results">
 <div class="result">
 
-![](../images/img565.jpg)  
-![](../images/img566.jpg)  
-![needs met scale - fully meets](../images/fullym.jpg)
+![](/img/qrg/img565.jpg)  
+![](/img/qrg/img566.jpg)  
+![needs met scale - fully meets](/img/qrg/fullym.jpg)
 
 This LP is the homepage of the Freeones website, a porn site.
 
@@ -199,9 +199,9 @@ Here is a screenshot of a result block that shows when the **Foreign Language** 
 <div class="results">
 <div class="result">
 
-![search result for the baidu home page](../images/img571.jpg)  
-![foreign language flag enabled](../images/img572.jpg)  
-![needs met scale - fully meets](../images/fullym.jpg)
+![search result for the baidu home page](/img/qrg/img571.jpg)  
+![foreign language flag enabled](/img/qrg/img572.jpg)  
+![needs met scale - fully meets](/img/qrg/fullym.jpg)
 
 This LP is the homepage of the Baidu website. The result is the target page of the query, but is in a foreign language (Chinese).
 
@@ -242,8 +242,8 @@ If the video is someone talking about the song, band, film, or event, the result
 <div class="results">
 <div class="result">
 
-![example of unnecessary foreign language flag](../images/img575.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)
+![example of unnecessary foreign language flag](/img/qrg/img575.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)
 
 This video is just what English (US) users are looking for, even though the video is not in English. The language of the LP is mostly English (even though the video is in French), so the **Foreign Language** flag is not needed.
 
@@ -260,8 +260,8 @@ This video is just what English (US) users are looking for, even though the vide
 <div class="results">
 <div class="result">
 
-![example of unnecessary foreign language flag](../images/img577.jpg)  
-![needs met scale - moderately to moderately+](../images/mm-narrow.jpg)
+![example of unnecessary foreign language flag](/img/qrg/img577.jpg)  
+![needs met scale - moderately to moderately+](/img/qrg/mm-narrow.jpg)
 
 The query is for the German composer, Alex C. The landing page has a video with one of his songs sung by Y-ass (misspelled as "Yass" in the YouTube title) in German. It would be helpful for some or many English (US) users who type the query, even though it is not in English. The language of the landing page isn't clear. Use your judgment when deciding whether to assign the **Foreign Language** flag.
 
@@ -278,8 +278,8 @@ The query is for the German composer, Alex C. The landing page has a video with 
 <div class="results">
 <div class="result">
 
-![example of unnecessary foreign language flag](../images/img579.jpg)  
-![needs met scale - moderately to moderately+](../images/mm-narrow.jpg)
+![example of unnecessary foreign language flag](/img/qrg/img579.jpg)  
+![needs met scale - moderately to moderately+](/img/qrg/mm-narrow.jpg)
 
 The query is for "Kasal, Kasali, Kasalo," a Filipino film. The LP is a clip from the movie in Filipino (Tagalog), the language spoken in the Philippines. It would be helpful for many English (US) users who type the query, even though it is not in English. Use your judgment when deciding whether to assign the **Foreign Language** flag.
 
@@ -313,9 +313,9 @@ Here is an example of a **Did Not Load** landing page. You cannot tell that the 
 <div class="results">
 <div class="result">
 
-![search result for douglas instruments](../images/img582.jpg)
-![did not load button selected](../images/img583.jpg)
-![needs met scale - fails to meet](../images/failsm.jpg)
+![search result for douglas instruments](/img/qrg/img582.jpg)
+![did not load button selected](/img/qrg/img583.jpg)
+![needs met scale - fails to meet](/img/qrg/failsm.jpg)
 
 This page displays a generic 404 message. There is no MC, SC, or Ads on the page.
 
@@ -335,11 +335,11 @@ Additionally, use the **Did Not Load** flag for
 
 Here is an example of a malware warning:
 
-![example malware warning](../images/img585.jpg)
+![example malware warning](/img/qrg/img585.jpg)
 
 Here is an example of a certificate acceptance request:
 
-![example certificate acceptance request](../images/img587.jpg)
+![example certificate acceptance request](/img/qrg/img587.jpg)
 
 ### Needs Met Rating for Did Not Load Results
 
@@ -357,8 +357,8 @@ Sometimes the page partially loads or has an error message. Give Needs Met ratin
 <div class="results">
 <div class="result">
 
-![search result for boys pink snow shoes](../images/img588.jpg)
-![needs met scale - fails to meet](../images/failsm.jpg)
+![search result for boys pink snow shoes](/img/qrg/img588.jpg)
+![needs met scale - fails to meet](/img/qrg/failsm.jpg)
 
 The MC has an error message, but the LP has a lot of SC. However, the page has no information about boys pink snow shoes and is unhelpful for the query.
 
@@ -376,8 +376,8 @@ Do not assign the **Did Not Load** flag.
 <div class="results">
 <div class="result">
 
-![search result for bible passages](../images/img590.jpg)
-![needs met scale - highly meets](../images/hm.jpg)
+![search result for bible passages](/img/qrg/img590.jpg)
+![needs met scale - highly meets](/img/qrg/hm.jpg)
 
 In spite of the customized "No results found" message on the LP, it has links to all passages in the bible, organized by book. It would be very helpful for most users.
 
@@ -423,8 +423,8 @@ For example, a result with content that encourages child abuse should be flagged
 <div class="results">
 <div class="result">
 
-![holocaust search result example 1](../images/img593.jpg)  
-![upsetting-offensive](../images/upsetting-offensive.jpg)
+![holocaust search result example 1](/img/qrg/img593.jpg)  
+![upsetting-offensive](/img/qrg/upsetting-offensive.jpg)
 
 This result is a discussion of how to convince others that the Holocaust never happened. Because of the direct relationship between Holocaust denial and anti-Semitism, many people would consider it offensive.
 
@@ -433,8 +433,8 @@ This result should receive the **Upsetting‑Offensive** flag, regardless of wha
 </div>
 <div class="result">
 
-![holocaust search result example 2](../images/img595.jpg)  
-![not upsetting‑offensive](../images/no-flag.jpg)
+![holocaust search result example 2](/img/qrg/img595.jpg)  
+![not upsetting‑offensive](/img/qrg/no-flag.jpg)
 
 While the Holocaust itself is a potentially upsetting topic for some, this result is a factually accurate source of historical information. Furthermore, the page does not exist to promote hate or violence against a group of people, contain racial slurs, or depict graphic violence.
 
@@ -453,8 +453,8 @@ Do NOT assign the **Upsetting‑Offensive** flag, regardless of what the query w
 <div class="results">
 <div class="result">
 
-![racism against blacks search result example 1](../images/img598.jpg)  
-![upsetting-offensive](../images/upsetting-offensive.jpg)
+![racism against blacks search result example 1](/img/qrg/img598.jpg)  
+![upsetting-offensive](/img/qrg/upsetting-offensive.jpg)
 
 The purpose of this page is to argue that black people are inferior. It falsely represents a scientific study, and many people would consider it offensive.
 
@@ -463,8 +463,8 @@ This result should receive the **Upsetting‑Offensive** flag, regardless of wha
 </div>
 <div class="result">
 
-![racism against blacks search result example 2](../images/img600.jpg)  
-![not upsetting‑offensive](../images/no-flag.jpg)
+![racism against blacks search result example 2](/img/qrg/img600.jpg)  
+![not upsetting‑offensive](/img/qrg/no-flag.jpg)
 
 This Wikipedia page provides a well-informed and historically accurate overview of racism and ethnic discrimination in the U.S.
 
@@ -483,8 +483,8 @@ Do NOT assign the **Upsetting‑Offensive** flag, regardless of what the query w
 <div class="results">
 <div class="result">
 
-![islam search result example 1](../images/img602.jpg)  
-![upsetting-offensive](../images/upsetting-offensive.jpg)
+![islam search result example 1](/img/qrg/img602.jpg)  
+![upsetting-offensive](/img/qrg/upsetting-offensive.jpg)
 
 The purpose of this page is to explain the author's belief that Islam is evil. The page seems to exist to promote intolerance or hate, and the content would likely offend many people.
 
@@ -493,8 +493,8 @@ This result should receive the **Upsetting‑Offensive** flag, regardless of wha
 </div>
 <div class="result">
 
-![islam search result example 2](../images/img604.jpg)  
-![not upsetting‑offensive](../images/no-flag.jpg)
+![islam search result example 2](/img/qrg/img604.jpg)  
+![not upsetting‑offensive](/img/qrg/no-flag.jpg)
 
 This is a high-quality article on a reputable site, with an accurate summary of the major beliefs and practices of Islam.
 
@@ -549,18 +549,18 @@ Here are some full rating examples. Remember that you should assign the Upsettin
 <div class="results">
 <div class="result">
 
-![](../images/img608.jpg)  
-![needs met scale - fails to meet](../images/failsm.jpg)  
-![page quality scale - lowest - narrow range](../images/lowest-narrow.jpg)  
-![upsetting-offensive](../images/upsetting-offensive.jpg)
+![](/img/qrg/img608.jpg)  
+![needs met scale - fails to meet](/img/qrg/failsm.jpg)  
+![page quality scale - lowest - narrow range](/img/qrg/lowest-narrow.jpg)  
+![upsetting-offensive](/img/qrg/upsetting-offensive.jpg)
 
 </div>
 <div class="result">
 
-![](../images/img612.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
-![page quality scale - high - narrow range](../images/high-narrow.jpg)  
-![not upsetting‑offensive](../images/no-flag.jpg)
+![](/img/qrg/img612.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
+![page quality scale - high - narrow range](/img/qrg/high-narrow.jpg)  
+![not upsetting‑offensive](/img/qrg/no-flag.jpg)
 
 </div>
 </div>
@@ -575,18 +575,18 @@ Here are some full rating examples. Remember that you should assign the Upsettin
 <div class="results">
 <div class="result">
 
-![](../images/img616.jpg)  
-![needs met scale - fully meets](../images/fullym.jpg)  
-![page quality scale - lowest - narrow range](../images/lowest-narrow.jpg)  
-![upsetting-offensive](../images/upsetting-offensive.jpg)
+![](/img/qrg/img616.jpg)  
+![needs met scale - fully meets](/img/qrg/fullym.jpg)  
+![page quality scale - lowest - narrow range](/img/qrg/lowest-narrow.jpg)  
+![upsetting-offensive](/img/qrg/upsetting-offensive.jpg)
 
 </div>
 <div class="result">
 
-![](../images/img620.jpg)  
-![needs met scale - fails to meet](../images/failsm.jpg)  
-![page quality scale - medium - narrow range](../images/medium-narrow.jpg)  
-![not upsetting‑offensive](../images/no-flag.jpg)
+![](/img/qrg/img620.jpg)  
+![needs met scale - fails to meet](/img/qrg/failsm.jpg)  
+![page quality scale - medium - narrow range](/img/qrg/medium-narrow.jpg)  
+![not upsetting‑offensive](/img/qrg/no-flag.jpg)
 
 </div>
 </div>

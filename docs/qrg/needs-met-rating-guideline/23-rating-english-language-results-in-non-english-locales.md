@@ -23,15 +23,15 @@ This section includes some examples using Hindi (IN) and Korean (KR) as the loca
 <div class="results">
 <div class="result">
 
-![](../images/img811.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
+![](/img/qrg/img811.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
 This Hindi language Wikipedia page on **राजा रव वमा** is very helpful for Hindi (IN) users.
 
 </div>
 <div class="result">
 
-![](../images/img813.jpg)  
-![needs met scale - fails to meet - narrow range](../images/failsm-narrow.jpg)  
+![](/img/qrg/img813.jpg)  
+![needs met scale - fails to meet - narrow range](/img/qrg/failsm-narrow.jpg)  
 This English Wikipedia page about **राजा रव वमा** has similar content to the Hindi Wikipedia page. Although there are some helpful images on the page, few Hindi users would be able to read this page.
 
 </div>
@@ -48,15 +48,15 @@ This English Wikipedia page about **राजा रव वमा** has similar 
 <div class="results">
 <div class="result">
 
-![result for ko.m.wikipedia.org/wiki/버락_오바마](../images/img815.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
+![result for ko.m.wikipedia.org/wiki/버락_오바마](/img/qrg/img815.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
 This Korean language Wikipedia page on Barack Obama is very helpful for Korean (KR) users.
 
 </div>
 <div class="result">
 
-![result for en.m.wikipedia.org/wiki/Barack_Obama](../images/img817.jpg)  
-![needs met scale - fails to meet - narrow range](../images/failsm-narrow.jpg)  
+![result for en.m.wikipedia.org/wiki/Barack_Obama](/img/qrg/img817.jpg)  
+![needs met scale - fails to meet - narrow range](/img/qrg/failsm-narrow.jpg)  
 This English Wikipedia page about Barack Obama has similar content to the Korean Wikipedia page. Although there are some helpful images on the page, very few Korean users would be able to read this page.
 
 </div>
@@ -77,13 +77,13 @@ Here are two examples where the query includes proper nouns typed in Latin scrip
 <div class="results">
 <div class="result">
 
-![](../images/img820.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)  
+![](/img/qrg/img820.jpg)<br>![needs met scale - highly meets](/img/qrg/hm.jpg)  
 Although the query was typed in Latin script, most Hindi users would want to see information about this person in Hindi. This Hindi language Wikipedia page on Cristiano Ronaldo is very helpful for Hindi IN) users.
 
 </div>
 <div class="result">
 
-![](../images/img822.jpg)<br>![needs met scale - fails to meet - narrow range](../images/failsm-narrow.jpg)  
+![](/img/qrg/img822.jpg)<br>![needs met scale - fails to meet - narrow range](/img/qrg/failsm-narrow.jpg)  
 This English Wikipedia page about Cristiano Ronaldo has similar content to the Hindi Wikipedia page. Although there are some helpful images on the page, few Hindi users would be able to read this page.
 
 </div>
@@ -99,13 +99,13 @@ This English Wikipedia page about Cristiano Ronaldo has similar content to the H
 <div class="results">
 <div class="result">
 
-![](../images/img824.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)  
+![](/img/qrg/img824.jpg)<br>![needs met scale - highly meets](/img/qrg/hm.jpg)  
 Although the query was typed in Latin script, most Korean users would expect to see Korean language reviews or Korean stores for purchasing the movie. This Korean result on a Korean website is very helpful.
 
 </div>
 <div class="result">
 
-![](../images/img826.jpg)<br>![needs met scale - fails to meet - narrow range](../images/failsm-narrow.jpg)  
+![](/img/qrg/img826.jpg)<br>![needs met scale - fails to meet - narrow range](/img/qrg/failsm-narrow.jpg)  
 This English language landing page has helpful content for users who can read English. Although there are some helpful images on the page, very few Korean users would be able to read this page.
 
 </div>
@@ -126,13 +126,13 @@ Here are two additional examples where the query was typed in Latin script (incl
 <div class="results">
 <div class="result">
 
-![](../images/img829.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)  
+![](/img/qrg/img829.jpg)<br>![needs met scale - highly meets](/img/qrg/hm.jpg)  
 Although the query includes some English words, it is a Hindi query typed in Latin script. Most Hindi users would expect to see Hindi results, like this helpful article.
 
 </div>
 <div class="result">
 
-![](../images/img831.jpg)<br>![needs met scale - fails to meet - narrow range](../images/failsm-narrow.jpg)  
+![](/img/qrg/img831.jpg)<br>![needs met scale - fails to meet - narrow range](/img/qrg/failsm-narrow.jpg)  
 This English language landing page has helpful content for users who can read English, but few Hindi (IN) users would be able to read this page.
 
 </div>
@@ -148,13 +148,13 @@ This English language landing page has helpful content for users who can read En
 <div class="results">
 <div class="result">
 
-![](../images/img833.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)  
+![](/img/qrg/img833.jpg)<br>![needs met scale - highly meets](/img/qrg/hm.jpg)  
 Although the query was typed in Latin script and includes some English words, most Korean users would expect to see the Korean page on the Samsung website. This Korean result is very helpful.
 
 </div>
 <div class="result">
 
-![](../images/img835.jpg)<br>![needs met scale - fails to meet - narrow range](../images/failsm-narrow.jpg)  
+![](/img/qrg/img835.jpg)<br>![needs met scale - fails to meet - narrow range](/img/qrg/failsm-narrow.jpg)  
 This English language page on the website of Samsung, the company that makes this tablet, has helpful content. Although there are some helpful images on the page, very few Korean users would be able to read this page.
 
 </div>
@@ -179,7 +179,7 @@ For these queries, users may expect or want to see English results in order to s
 <div class="results">
 <div class="result">
 
-![](../images/img838.jpg)<br>![needs met scale - fully meets](../images/fullym.jpg)  
+![](/img/qrg/img838.jpg)<br>![needs met scale - fully meets](/img/qrg/fullym.jpg)  
 This is the official website of Harvard University. Even though the query was typed in Hindi, this English website is clearly what users are looking for. Users would be fully satisfied by this result.
 
 </div>
@@ -195,7 +195,7 @@ This is the official website of Harvard University. Even though the query was ty
 <div class="results">
 <div class="result">
 
-![](../images/img840.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)  
+![](/img/qrg/img840.jpg)<br>![needs met scale - highly meets](/img/qrg/hm.jpg)  
 This article comes from a blog that contains lots of technical information and troubleshooting tips about IT operations and programming. The landing page provides step-by-step instructions in Korean, along with the exact commands in English that users would need to type into a console in order to recover the operating system for the queried device. This tutorial would be very helpful and easy to follow for Korean users who are familiar with this type of networking device.
 
 </div>
@@ -218,13 +218,13 @@ For example, the Singapore government recognizes four official languages: Englis
 <div class="results">
 <div class="result">
 
-![](../images/img843.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)  
+![](/img/qrg/img843.jpg)<br>![needs met scale - highly meets](/img/qrg/hm.jpg)  
 This Wikipedia page in English about Obama would be very helpful to users in Singapore.
 
 </div>
 <div class="result">
 
-![](../images/img845.jpg)<br>![needs met scale - highly meets](../images/hm.jpg)  
+![](/img/qrg/img845.jpg)<br>![needs met scale - highly meets](/img/qrg/hm.jpg)  
 This Wikipedia page in Chinese about Obama would also be very helpful to users in Singapore.
 
 </div>

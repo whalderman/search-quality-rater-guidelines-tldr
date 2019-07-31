@@ -16,25 +16,25 @@
 <div class="results">
 <div class="result">
 
-![](../images/img760.jpg)  
-![needs met scale - fully meets](../images/fullym.jpg)  
-![page quality scale - high - wide range](../images/high-wide.jpg)  
+![](/img/qrg/img760.jpg)  
+![needs met scale - fully meets](/img/qrg/fullym.jpg)  
+![page quality scale - high - wide range](/img/qrg/high-wide.jpg)  
 This LP is the target of the query.
 
 </div>
 <div class="result">
 
-![](../images/img763.jpg)  
-![needs met scale - moderately meets+ - narrow range](../images/mm+narrow.jpg)  
-![page quality scale - medium- wide range](../images/medium-wide.jpg)  
+![](/img/qrg/img763.jpg)  
+![needs met scale - moderately meets+ - narrow range](/img/qrg/mm+narrow.jpg)  
+![page quality scale - medium- wide range](/img/qrg/medium-wide.jpg)  
 Online coupon codes are very popular in the U.S. and this LP (from a well-known coupon site) displays codes for online purchases on the Pottery Barn website. Users may be interested in coupon codes and this would be very helpful for those shopping online at potterybarn.com, especially frequent shoppers.
 
 </div>
 <div class="result">
 
-![](../images/img766.jpg)  
-![needs met scale - moderately meets+ - narrow range](../images/mm+narrow.jpg)  
-![page quality scale - medium- wide range](../images/medium-wide.jpg)  
+![](/img/qrg/img766.jpg)  
+![needs met scale - moderately meets+ - narrow range](/img/qrg/mm+narrow.jpg)  
+![page quality scale - medium- wide range](/img/qrg/medium-wide.jpg)  
 This LP (from a well-known review site) has reviews of the potterybarn.com website. Users may be interested in reading reviews when considering whether to make purchases at potterybarn.com, especially new shoppers.
 
 </div>
@@ -49,25 +49,25 @@ This LP (from a well-known review site) has reviews of the potterybarn.com websi
 <div class="results">
 <div class="result">
 
-![](../images/img769.jpg)  
-![needs met scale - fully meets](../images/fullym.jpg)  
-![page quality scale - high](../images/high.jpg)  
+![](/img/qrg/img769.jpg)  
+![needs met scale - fully meets](/img/qrg/fullym.jpg)  
+![page quality scale - high](/img/qrg/high.jpg)  
 このURLクエリの対象ページ。
 
 </div>
 <div class="result">
 
-![](../images/img772.jpg)  
-![needs met scale - moderately meets](../images/mm.jpg)  
-![page quality scale - medium - narrow range](../images/medium-narrow.jpg)  
+![](/img/qrg/img772.jpg)  
+![needs met scale - moderately meets](/img/qrg/mm.jpg)  
+![page quality scale - medium - narrow range](/img/qrg/medium-narrow.jpg)  
 このLPはratemyprofessors.comについて2012年8月31日付のHuffington Postの記事だ。記事がガイドラインに追加されたときに新しく発表された。一部のユーザーはこの記事に興味がある。
 
 </div>
 <div class="result">
 
-![](../images/img775.jpg)  
-![needs met scale - fails to meet - wide range](../images/failsm-wide.jpg)  
-![page quality scale - medium+ - narrow range](../images/medium+narrow.jpg)  
+![](/img/qrg/img775.jpg)  
+![needs met scale - fails to meet - wide range](/img/qrg/failsm-wide.jpg)  
+![page quality scale - medium+ - narrow range](/img/qrg/medium+narrow.jpg)  
 このLPは、ratemyprofessors.comのWebサイトに関する2006年4月17日の記事だ。時代遅れの情報に興味を持つユーザーはほとんどまたはまったくいない。
 
 </div>

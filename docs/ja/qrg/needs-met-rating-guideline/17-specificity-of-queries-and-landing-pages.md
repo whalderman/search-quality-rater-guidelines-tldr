@@ -35,9 +35,9 @@
 <div class="results">
 <div class="result">
 
-![](../images/img655.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
-![page quality scale - high+ - narrow range](../images/high+narrow.jpg)
+![](/img/qrg/img655.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
+![page quality scale - high+ - narrow range](/img/qrg/high+narrow.jpg)
 
 異なるカードを提供する多くのカード会社のページで非常に役立つ。
 
@@ -48,9 +48,9 @@
 </div>
 <div class="result">
 
-![](../images/img658.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
-![page quality scale - high+ - narrow range](../images/high+narrow.jpg)
+![](/img/qrg/img658.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
+![page quality scale - high+ - narrow range](/img/qrg/high+narrow.jpg)
 
 異なるカードを提供する多くのカード会社のページで非常に役立つ。
 
@@ -61,9 +61,9 @@
 </div>
 <div class="result">
 
-![](../images/img661.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
-![page quality scale - high](../images/high.jpg)
+![](/img/qrg/img661.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
+![page quality scale - high](/img/qrg/high.jpg)
 
 このページでは、様々なカテゴリのトップクレジットカードのリストを提供している。
 
@@ -74,9 +74,9 @@
 </div>
 <div class="result">
 
-![](../images/img664.jpg)  
-![needs met scale - slightly meets](../images/sm.jpg)  
-![page quality scale - high](../images/high.jpg)
+![](/img/qrg/img664.jpg)  
+![needs met scale - slightly meets](/img/qrg/sm.jpg)  
+![page quality scale - high](/img/qrg/high.jpg)
 
 このページでは、ユニオンメンバーシップを必要とするクレジットカードについて説明している。
 
@@ -96,9 +96,9 @@
 <div class="results">
 <div class="result">
 
-![](../images/img668.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
-![page quality scale - high](../images/high.jpg)
+![](/img/qrg/img668.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
+![page quality scale - high](/img/qrg/high.jpg)
 
 これは人気な旅行Webサイトで、ユーザーがアメリカのホテルを見つける手助けをする。ユーザーはレビューを読むことができ、ホテルを比較し予約することができる。
 
@@ -109,9 +109,9 @@
 </div>
 <div class="result">
 
-![](../images/img671.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
-![page quality scale - high+ - narrow range](../images/high+narrow.jpg)
+![](/img/qrg/img671.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
+![page quality scale - high+ - narrow range](/img/qrg/high+narrow.jpg)
 
 アメリカ国内の大部分で利用でき、幅広い価格帯にも対応しているホテルチェーン。
 
@@ -124,9 +124,9 @@
 </div>
 <div class="result">
 
-![](../images/img674.jpg)  
-![](../images/failsm+narrow.jpg)  
-![page quality scale - high+ - narrow range](../images/high+narrow.jpg)
+![](/img/qrg/img674.jpg)  
+![](/img/qrg/failsm+narrow.jpg)  
+![page quality scale - high+ - narrow range](/img/qrg/high+narrow.jpg)
 
 カリフォルニア州エメリービルの Marriott CourtyardホテルのWebページだ。
 
@@ -146,8 +146,8 @@
 <div class="results">
 <div class="result">
 
-![](../images/img678.jpg)  
-![needs met scale - highly meets+](../images/hm+.jpg)
+![](/img/qrg/img678.jpg)  
+![needs met scale - highly meets+](/img/qrg/hm+.jpg)
 
 Page Quality評価は不要。
 
@@ -156,9 +156,9 @@ Page Quality評価は不要。
 </div>
 <div class="result">
 
-![](../images/img680.jpg)  
-![needs met scale - highly meets+](../images/hm+.jpg)  
-![page quality scale - high - narrow range](../images/high-narrow.jpg)
+![](/img/qrg/img680.jpg)  
+![needs met scale - highly meets+](/img/qrg/hm+.jpg)  
+![page quality scale - high - narrow range](/img/qrg/high-narrow.jpg)
 
 LPはTargetの公式サイト。
 
@@ -169,9 +169,9 @@ LPはTargetの公式サイト。
 </div>
 <div class="result">
 
-![](../images/img683.jpg)  
-![needs met scale - moderately meets+ - narrow range](../images/mm+narrow.jpg)  
-![page quality scale - high - wide range](../images/high-wide.jpg)
+![](/img/qrg/img683.jpg)  
+![needs met scale - moderately meets+ - narrow range](/img/qrg/mm+narrow.jpg)  
+![page quality scale - high - wide range](/img/qrg/high-wide.jpg)
 
 LPはTarget公式サイトの店舗検索ページ。
 
@@ -182,9 +182,9 @@ LPはTarget公式サイトの店舗検索ページ。
 </div>
 <div class="result">
 
-![](../images/img686.jpg)  
-![needs met scale - moderately meets+ - narrow range](../images/mm+narrow.jpg)  
-![page quality scale - high - narrow range](../images/high-narrow.jpg)
+![](/img/qrg/img686.jpg)  
+![needs met scale - moderately meets+ - narrow range](/img/qrg/mm+narrow.jpg)  
+![page quality scale - high - narrow range](/img/qrg/high-narrow.jpg)
 
 LPはTarget公式サイトの「電気機器」ページ。
 
@@ -195,8 +195,8 @@ LPはTarget公式サイトの「電気機器」ページ。
 </div>
 <div class="result">
 
-![](../images/img690.jpg)  
-![needs met scale - slightly meets - narrow range](../images/sm-narrow.jpg)
+![](/img/qrg/img690.jpg)  
+![needs met scale - slightly meets - narrow range](/img/qrg/sm-narrow.jpg)
 
 Page Quality評価は不要。
 
@@ -205,9 +205,9 @@ Page Quality評価は不要。
 </div>
 <div class="result">
 
-![](../images/img692.jpg)  
-![needs met scale - slightly meets](../images/sm.jpg)  
-![page quality scale - high - narrow range](../images/high-narrow.jpg)
+![](/img/qrg/img692.jpg)  
+![needs met scale - slightly meets](/img/qrg/sm.jpg)  
+![page quality scale - high - narrow range](/img/qrg/high-narrow.jpg)
 
 LPはTargetの公式サイト内の、女性向けデニムの商品詳細ページ。
 
@@ -227,9 +227,9 @@ LPはTargetの公式サイト内の、女性向けデニムの商品詳細ペー
 <div class="results">
 <div class="result">
 
-![](../images/img696.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
-![page quality scale - high+ - narrow range](../images/high+narrow.jpg)
+![](/img/qrg/img696.jpg)  
+![needs met scale - highly meets](/img/qrg/hm.jpg)  
+![page quality scale - high+ - narrow range](/img/qrg/high+narrow.jpg)
 
 LPは有名なレシピサイト内にあり、多くのレビュー付きレシピを掲載している。
 
@@ -240,9 +240,9 @@ LPは有名なレシピサイト内にあり、多くのレビュー付きレシ
 </div>
 <div class="result">
 
-![](../images/img699.jpg)  
-![needs met scale - slightly meets - wide range](../images/sm-wide.jpg)  
-![page quality scale - high+ - narrow range](../images/high+narrow.jpg)
+![](/img/qrg/img699.jpg)  
+![needs met scale - slightly meets - wide range](/img/qrg/sm-wide.jpg)  
+![page quality scale - high+ - narrow range](/img/qrg/high+narrow.jpg)
 
 「チキン・パルメザン」のレシピ。
 
@@ -253,9 +253,9 @@ LPは有名なレシピサイト内にあり、多くのレビュー付きレシ
 </div>
 <div class="result">
 
-![](../images/img702.jpg)  
-![needs met scale - slightly meets - wide range](../images/sm-wide.jpg)  
-![page quality scale - high+ - narrow range](../images/high+narrow.jpg)
+![](/img/qrg/img702.jpg)  
+![needs met scale - slightly meets - wide range](/img/qrg/sm-wide.jpg)  
+![page quality scale - high+ - narrow range](/img/qrg/high+narrow.jpg)
 
 フライドチキン(人気のある鶏料理)のレシピが25点以上掲載されている。
 
@@ -266,9 +266,9 @@ LPは有名なレシピサイト内にあり、多くのレビュー付きレシ
 </div>
 <div class="result">
 
-![](../images/img705.jpg)  
-![needs met scale - fails to meet](../images/failsm.jpg)  
-![page quality scale - lowest](../images/lowest.jpg)
+![](/img/qrg/img705.jpg)  
+![needs met scale - fails to meet](/img/qrg/failsm.jpg)  
+![page quality scale - lowest](/img/qrg/lowest.jpg)
 
 鶏料理のレシピ検索結果に偽装した、偽の検索結果ページ。
 
@@ -288,9 +288,9 @@ LPは有名なレシピサイト内にあり、多くのレビュー付きレシ
 <div class="results">
 <div class="result">
 
-![](../images/img709.jpg)  
-![needs met scale - highly meets+](../images/hm+.jpg)  
-![page quality scale - high+ - narrow range](../images/high+narrow.jpg)
+![](/img/qrg/img709.jpg)  
+![needs met scale - highly meets+](/img/qrg/hm+.jpg)  
+![page quality scale - high+ - narrow range](/img/qrg/high+narrow.jpg)
 
 LPは博物館のオフィシャルWebサイト。
 
@@ -301,8 +301,8 @@ LPは博物館のオフィシャルWebサイト。
 </div>
 <div class="result">
 
-![](../images/img712.jpg)  
-![needs met scale - moderately meets+ - narrow range](../images/mm+narrow.jpg)
+![](/img/qrg/img712.jpg)  
+![needs met scale - moderately meets+ - narrow range](/img/qrg/mm+narrow.jpg)
 
 Page Quality評価は不要。
 
@@ -311,9 +311,9 @@ Page Quality評価は不要。
 </div>
 <div class="result">
 
-![](../images/img714.jpg)  
-![needs met scale - slightly meets](../images/sm.jpg)  
-![page quality scale - high+ - narrow range](../images/high+narrow.jpg)
+![](/img/qrg/img714.jpg)  
+![needs met scale - slightly meets](/img/qrg/sm.jpg)  
+![page quality scale - high+ - narrow range](/img/qrg/high+narrow.jpg)
 
 LPは博物館でのボランティアの方法についての情報。
 
@@ -324,8 +324,8 @@ LPは博物館でのボランティアの方法についての情報。
 </div>
 <div class="result">
 
-![](../images/img717.jpg)  
-![needs met scale - fails to meet](../images/failsm.jpg)
+![](/img/qrg/img717.jpg)  
+![needs met scale - fails to meet](/img/qrg/failsm.jpg)
 
 Page Quality評価は不要。
 

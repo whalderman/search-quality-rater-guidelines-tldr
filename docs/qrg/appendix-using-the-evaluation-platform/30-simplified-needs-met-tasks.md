@@ -6,4 +6,4 @@ The greyed-out results (sometimes referred to as "contextual results") are shown
 
 Here is an example:
 
-![](../images/img871.jpg)
+![](/img/qrg/img871.jpg)

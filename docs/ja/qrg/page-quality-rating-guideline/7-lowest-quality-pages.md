@@ -94,7 +94,7 @@ MCの全て／殆どがコピーされたコンテンツであるかどうか、
 
 2. 選んだ文章や語句を引用符で囲み、Googleの検索ボックス内に貼り付けて検索する。ページからいくつかの文章を試してみること。
 
-  ![picture of a google search for "dorothy uses the golden cap to summon the winged monkeys"](../images/img108.jpg)
+  ![picture of a google search for "dorothy uses the golden cap to summon the winged monkeys"](/img/qrg/img108.jpg)
 
   例として"オズの魔法使い"に関する[ページ](https://guidelines.raterhub.com/images/WizardOfOzExcerpts1.jpg)から選んだいくつかの文章と語句、そしてそれらの検索方法を以下にまとめた。
 
@@ -1144,5 +1144,5 @@ MCのないページの例。MCが"欠落"しているのは特定のページ�
 </div>
 </div>
 
-[lest]: ../images/lowest.jpg
-[lest-n]: ../images/lowest-narrow.jpg
+[lest]: /img/qrg/lowest.jpg
+[lest-n]: /img/qrg/lowest-narrow.jpg
