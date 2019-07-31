@@ -53,16 +53,16 @@ If the E‑A‑T of a page is low enough, users cannot or should not use the MC 
 
 Pages exist to share their MC with users. The following pages should be rated **Lowest** because they fail to achieve their purpose:
 
-- **Pages with no MC.**
-- **Pages with a bare minimum of MC that is unhelpful for the purpose of the page.**
+- Pages with no MC.
+- Pages with a bare minimum of MC that is unhelpful for the purpose of the page.
 
 ### Lowest Quality Main Content
 
 The **Lowest** rating applies to any page with Lowest Quality MC. Lowest quality MC is content created with such insufficient time, effort, expertise, talent, and/or skill that it fails to achieve its purpose. The **Lowest** rating should also apply to pages where users cannot benefit from the MC, for example:
 
-- **Informational pages with demonstrably inaccurate MC.**
-- **The MC is so difficult to read, watch, or use, that it takes great effort to understand and use the page.**
-- **Broken functionality of the page due to lack of skill in construction, poor design, or lack of maintenance.**
+- Informational pages with demonstrably inaccurate MC.
+- The MC is so difficult to read, watch, or use, that it takes great effort to understand and use the page.
+- Broken functionality of the page due to lack of skill in construction, poor design, or lack of maintenance.
 
 Have high standards and think about how typical users in your locale would experience the MC on the page. A page may have value to the creator or participants in the discussion, but few to no general users who view it would benefit from the MC.
 
@@ -188,12 +188,12 @@ Use the **Lowest** rating if you suspect a page is malicious, even if you're not
 
 Use the **Lowest** rating if the website and the creators of the MC have a negative or malicious reputation. Here are some examples originally shown in [<span class="query">How to Search for Reputation Information</span>](/page-quality-rating-guideline/understanding-webpages-and-websites.html#how-to-search-for-reputation-information). All pages on these websites should be rated **Lowest** because of the negative or malicious reputation of these websites.
 
-- **[Site selling children's jungle gym](https://guidelines.raterhub.com/images/domeclimber.com.jpg)**
-  - **Negative reputation information:** This business has a [BBB rating](https://guidelines.raterhub.com/images/DomeClimberBBBReview.jpg) of F. There is a news article about financial fraud. There are many reviews on websites describing how users sent money and did not receive anything in return.
-- **[Site selling products related to eyewear](https://guidelines.raterhub.com/images/**RG3_3.5-40.jpg)
-  - **Negative/malicious reputation information:** This website engaged in criminal behavior such as physically threatening users.
-- **[Organization serving the hospitalized veteran community](https://guidelines.raterhub.com/**images/PQ.3.5.10.jpg)
-  - **Negative reputation information:** There are many detailed negative articles on news sites and charity watchdog sites describing fraud and financial mishandling about this organization.
+- [Site selling children's jungle gym](https://guidelines.raterhub.com/images/domeclimber.com.jpg)
+  - Negative reputation information: This business has a [BBB rating](https://guidelines.raterhub.com/images/DomeClimberBBBReview.jpg) of F. There is a news article about financial fraud. There are many reviews on websites describing how users sent money and did not receive anything in return.
+- [Site selling products related to eyewear](https://guidelines.raterhub.com/images/RG3_3.5-40.jpg)
+  - Negative/malicious reputation information: This website engaged in criminal behavior such as physically threatening users.
+- [Organization serving the hospitalized veteran community](https://guidelines.raterhub.com/images/PQ.3.5.10.jpg)
+  - Negative reputation information: There are many detailed negative articles on news sites and charity watchdog sites describing fraud and financial mishandling about this organization.
 
 ## Pages that Potentially Misinform Users
 
@@ -201,15 +201,15 @@ The purpose of an informational page is to communicate accurate information. Ass
 
 The **Lowest** rating must be used for any of the following types of content on pages that could appear to be informational:
 
-- **Demonstrably inaccurate content.**
-- **YMYL content that contradicts well-established expert consensus.**
-- **Debunked or unsubstantiated conspiracy theories.**
+- Demonstrably inaccurate content.
+- YMYL content that contradicts well-established expert consensus.
+- Debunked or unsubstantiated conspiracy theories.
 
 **Lowest** should also be used under these circumstances:
 
-- **The content creator may believe that the conspiracy theory or demonstrably inaccurate content **is correct, or it is unclear whether they do.
-- **The content creators may be deliberately attempting to misinform users.**
-- **The content creators describe, repeat or spread conspiracy theories or demonstrably inaccurate **content without a clear effort to debunk or correct it, regardless of whether the creators believe it to be true. For example, content creators may produce this content in order to make money or gain attention.
+- The content creator may believe that the conspiracy theory or demonstrably inaccurate content is correct, or it is unclear whether they do.
+- The content creators may be deliberately attempting to misinform users.
+- The content creators describe, repeat or spread conspiracy theories or demonstrably inaccurate content without a clear effort to debunk or correct it, regardless of whether the creators believe it to be true. For example, content creators may produce this content in order to make money or gain attention.
 
 Some examples of information that would be found on **Lowest** quality pages include: the moon landings were faked, carrots cure cancer, and the U.S. government is controlled by lizard people. While some of these topics may seem funny, there have been real world consequences from people believing these kinds of internet conspiracy theories and misinformation.
 
