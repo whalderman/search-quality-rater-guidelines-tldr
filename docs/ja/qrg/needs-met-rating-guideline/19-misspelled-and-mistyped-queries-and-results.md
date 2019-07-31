@@ -34,9 +34,9 @@
 
 **ユーザーの意図：**<!-- -->「Micheal Jordan」という名前の人はたくさんいる。
 
-![](/img/qrg/img750.jpg)  
-![needs met scale - highly meets](/img/qrg/hm.jpg)  
-![page quality scale - medium - narrow range](/img/qrg/medium-narrow.jpg)  
+![](../images/img750.jpg)  
+![needs met scale - highly meets](../images/hm.jpg)  
+![page quality scale - medium - narrow range](../images/medium-narrow.jpg)  
 このページには、LinkedInというサイトの「Micheal Jordan」という名前のすべてのメンバーが掲載されている。LinkedInは、アメリカの専門家向けの非常に人気のあるSNSである。この結果は、「Micheal Jordan」という名前の情報を見つけようとする多くのユーザーにとって非常に役に立つ。
 
 </div>
@@ -44,9 +44,9 @@
 
 **ユーザーの意図の続き：**<!-- -->その中でも、有名な「Micheal Jordan」に関する、役に立つ検索結果には、比較的有名ではない「Micheal Jordan」に関するものよりも高い評価を付けること。
 
-![](/img/qrg/img753.jpg)  
-![needs met scale - moderately meets](/img/qrg/mm.jpg)  
-![page quality scale - medium](/img/qrg/medium.jpg)  
+![](../images/img753.jpg)  
+![needs met scale - moderately meets](../images/mm.jpg)  
+![page quality scale - medium](../images/medium.jpg)  
 ジョージア州アトランタの施設サービス専門家、マイケル・ジョーダンのLinkedIn　のページ。
 
 </div>
@@ -54,9 +54,9 @@
 
 **ユーザーの意図の続き：**<!-- -->なぜなら、「Michael Jordan」は有名な選手/有名人であるため、「Michael Jordan」はマイナーな解釈と見なされる。
 
-![](/img/qrg/img756.jpg)  
-![](/img/qrg/failsm+narrow.jpg)  
-![page quality scale - high - wide range](/img/qrg/high-wide.jpg)  
+![](../images/img756.jpg)  
+![](../images/failsm+narrow.jpg)  
+![page quality scale - high - wide range](../images/high-wide.jpg)  
 NBAバスケットボウルのWebサイトのマイケル・ジョーダンの選手プロフィールページだ。
 
 </div>

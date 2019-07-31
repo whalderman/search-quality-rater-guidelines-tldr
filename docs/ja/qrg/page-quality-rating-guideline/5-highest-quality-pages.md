@@ -694,6 +694,6 @@ Wikipediaの記事によるとこの病院は「USニューズ＆ワールド・
 </div>
 </div>
 
-[hst]: /img/qrg/highest.jpg
-[h+n]: /img/qrg/high+narrow.jpg
-[h-w]: /img/qrg/high-wide.jpg
+[hst]: ../images/highest.jpg
+[h+n]: ../images/high+narrow.jpg
+[h-w]: ../images/high-wide.jpg

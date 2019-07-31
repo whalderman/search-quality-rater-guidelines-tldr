@@ -30,16 +30,16 @@ We know the user intent is to accomplish one or the other, but it is unclear whi
 <div class="results">
 <div class="result">
 
-![](/img/qrg/img641.jpg)  
-![needs met scale - highly meets+](/img/qrg/hm+.jpg)
+![](../images/img641.jpg)  
+![needs met scale - highly meets+](../images/hm+.jpg)
 
 The result block shows three popular Target locations in Jacksonville, with information that is especially helpful for users who want to visit the store. This fulfills the user intent to find a nearby Target location.
 
 </div>
 <div class="result">
 
-![](/img/qrg/img643.jpg)  
-![needs met scale - highly meets+](/img/qrg/hm+.jpg)
+![](../images/img643.jpg)  
+![needs met scale - highly meets+](../images/hm+.jpg)
 
 The result is very satisfying and fulfills the user intent to shop online or otherwise use the website.
 
@@ -55,16 +55,16 @@ The result is very satisfying and fulfills the user intent to shop online or oth
 <div class="results">
 <div class="result">
 
-![](/img/qrg/img646.jpg)  
-![needs met scale - highly meets+](/img/qrg/hm+.jpg)
+![](../images/img646.jpg)  
+![needs met scale - highly meets+](../images/hm+.jpg)
 
 The result block shows two nearby DMV locations, with information that is especially helpful for users who want to visit the locations. This fulfills the user intent to find a nearby DMV location.
 
 </div>
 <div class="result">
 
-![](/img/qrg/img648.jpg)  
-![needs met scale - highly meets+](/img/qrg/hm+.jpg)
+![](../images/img648.jpg)  
+![needs met scale - highly meets+](../images/hm+.jpg)
 
 The result is very satisfying and fulfills the user intent to find information or otherwise use the website (e.g., to review a license, pay a fee).
 
@@ -80,16 +80,16 @@ The result is very satisfying and fulfills the user intent to find information o
 <div class="results">
 <div class="result">
 
-![](/img/qrg/img650.jpg)  
-![needs met scale - highly meets+](/img/qrg/hm+.jpg)
+![](../images/img650.jpg)  
+![needs met scale - highly meets+](../images/hm+.jpg)
 
 The result block shows three nearby Citibank locations in the user location of Palo Alto. The information is especially helpful for users who want to visit the bank. This fulfills the user intent to find a nearby Citibank location.
 
 </div>
 <div class="result">
 
-![](/img/qrg/img652.jpg)  
-![needs met scale - highly meets+](/img/qrg/hm+.jpg)
+![](../images/img652.jpg)  
+![needs met scale - highly meets+](../images/hm+.jpg)
 
 The result is very satisfying and fulfills the user intent to do online banking or otherwise use the website.
 

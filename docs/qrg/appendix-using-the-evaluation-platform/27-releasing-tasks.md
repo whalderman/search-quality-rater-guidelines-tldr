@@ -4,11 +4,11 @@ Most raters have difficulty rating some tasks now and then. Some queries are abo
 
 You will report problems and release tasks using the "Report a Problem / Release this Task" button in the rating interface. Here is what the "Report a Problem / Release this Task" button looks like:
 
-![](/img/qrg/img850.jpg)
+![](../images/img850.jpg)
 
 Clicking the red button displays a menu with several reporting and release options:
 
-![](/img/qrg/img851.jpg)
+![](../images/img851.jpg)
 
 Please note that changes are sometimes made to this menu, so it may not look exactly as it appears above.
 
@@ -26,9 +26,9 @@ Here are some examples for the "lack expertise" and "technical problem" release 
 
 **Technical problem:** These result blocks have question marks and other characters where text should be.
 
-![](/img/qrg/img853.jpg)
+![](../images/img853.jpg)
 
-![](/img/qrg/img854.jpg)
+![](../images/img854.jpg)
 
 <div class="note">
 

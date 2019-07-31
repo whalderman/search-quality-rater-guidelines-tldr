@@ -2,7 +2,7 @@
 
 Here is a simplified screenshot of the task acquisition page on the Evaluation Platform. Please note that changes are sometimes made to the appearance of this page, so it may not look exactly as it appears below.
 
-![acquiring tasks example](/img/qrg/img848.jpg)
+![acquiring tasks example](../images/img848.jpg)
 
 A few notes about how to acquire tasks from this page:
 

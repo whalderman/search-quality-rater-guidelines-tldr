@@ -41,7 +41,7 @@
 
 **PQ評価点と説明**
 
-![lowest quality](/img/qrg/lowest.jpg)
+![lowest quality](../images/lowest.jpg)
 
 これは、MCを持たないページの例である。あなたは、MCがないこの特定のページの問題だと思うかもしれないが、実際には、このWebサイトには、同じ方法でMCがない、広告だけを見せる何百ものページがある。このWebサイトは、ほとんどまたは全く役に立たない広告を表示している。最も低い品質と評価される必要がある。
 
@@ -66,7 +66,7 @@
 
 **PQ評価点と説明**
 
-![low quality](/img/qrg/low.jpg)
+![low quality](../images/low.jpg)
 
 このページにはMCはなく、エラーメッセージも表示されない。ミシガンの町の評判の良い新聞社Webサイトである。同サイトに同様のページは存在しない。すべてのナビゲーションリンクが機能し、このページは後で修正された。
 
@@ -89,7 +89,7 @@
 
 **PQ評価点と説明**
 
-![medium quality](/img/qrg/medium.jpg)
+![medium quality](../images/medium.jpg)
 
 訪問しようとしているURLが存在しなくなったことをユーザーに知らせる「カスタム404」ページの例。一部のWebサイトでは、ユーザーに問題を知らせ、役に立つヒントを提供している。
 
@@ -116,7 +116,7 @@
 
 **PQ評価点と説明**
 
-![high narrow quality](/img/qrg/high-narrow.jpg)
+![high narrow quality](../images/high-narrow.jpg)
 
 訪問しようとしているURLが存在しなくなったことをユーザーに知らせる「カスタム404」ページの例。このWebサイトは、問題を説明し、検索ボックスなどの役に立つヒントを提供する十分な誘導がある。
 
@@ -141,7 +141,7 @@
 
 **PQ評価点と説明**
 
-![high+narrow quality](/img/qrg/high+narrow.jpg)
+![high+narrow quality](../images/high+narrow.jpg)
 
 ユーザーが訪問しようとしたURLが存在しないことを知らせる、カスタム404ページの一例。メインコンテンツはイラスト・カートゥーン・Webサイト内検索機能など。メインコンテンツの作成に時間・労力が費やされ、才能が活用されている。
 
@@ -181,7 +181,7 @@
 
 **PQ評価点と説明**
 
-![lowest narrow quality](/img/qrg/lowest-narrow.jpg)
+![lowest narrow quality](../images/lowest-narrow.jpg)
 
 参加者ではなく検索エンジンからこのページを訪れるユーザーの視点から評価する必要がある。質問は言葉に乏しく、理解するのが難しい。回答も言葉が不十分であり、間違った回答が危険な医療手段となり、最低評価のMCとなっている。
 
@@ -205,7 +205,7 @@
 
 **PQ評価点と説明**
 
-![lowest+narrow quality](/img/qrg/lowest+narrow.jpg)
+![lowest+narrow quality](../images/lowest+narrow.jpg)
 
 このページには回答がないだけでなく、広告が表示され、他の質問（誤解を招くほど「関連性の高い回答」というラベルが付けられている）へのリンクが目立つように表示されている。ページには実際には答えがないことに気をつけるのに時間がかかる。虚偽のデザインと答えがないこと、このページのUXは不満足となり、このページでは目的を達成できない。
 
@@ -229,7 +229,7 @@
 
 **PQ評価点と説明**
 
-![lowest+narrow quality](/img/qrg/lowest+narrow.jpg)
+![lowest+narrow quality](../images/lowest+narrow.jpg)
 
 完全に役に立たない "答え"を含めて、MCを確認する。この回答は役に立たないので、Googleはこの質問に答えられないと考える。このページにはMCが不足している。
 
@@ -254,7 +254,7 @@
 
 **PQ評価点と説明**
 
-![low quality](/img/qrg/low.jpg)
+![low quality](../images/low.jpg)
 
 一部のWebサイトでは、殆どすべてのMCの作成をユーザーが行っている場合がある。この場合、MCはユーザーの質問であり、回答がない場合、ページ上のMCの量は不足となる。
 
@@ -277,7 +277,7 @@
 
 **PQ評価点と説明**
 
-![low quality](/img/qrg/low.jpg)
+![low quality](../images/low.jpg)
 
 この質問には94件の回答があり、役に立つと思われる結果がいくつかあるが、トップに表示される答え（「ベストアンサー」と表示されているもの）を含め投稿の多くは間違っているか誤解を招くものである。
 
@@ -300,7 +300,7 @@
 
 **PQ評価点と説明**
 
-![medium narrow quality](/img/qrg/medium-narrow.jpg)
+![medium narrow quality](../images/medium-narrow.jpg)
 
 フォーラムはダンス話題について書いてあり、そして、多くのページにはバレエダンサーのコミュニティからの専門知識がある。投稿者はバレエ靴を日常的に洗濯している経験をして、彼ら自身のおすすめ方法を投稿している。
 
@@ -325,7 +325,7 @@
 
 **PQ評価点と説明**
 
-![medium+ quality](/img/qrg/medium+.jpg)
+![medium+ quality](../images/medium+.jpg)
 
 多くの参加者は、これらの製品との個人的な経験を共有し、特定のモデルがペットの毛にどれだけうまく機能するかなどの詳細を共有している。この製品の参加者自身の経験と、それがどの程度うまく機能しているか、豊富に提供されている。
 
@@ -348,7 +348,7 @@
 
 **PQ評価点と説明**
 
-![medium+ quality](/img/qrg/medium+.jpg)
+![medium+ quality](../images/medium+.jpg)
 
 このページの答えは、Build-A-Bearの従業員によって書かれているので、多少独自性と専門性の答えを提供している。
 
@@ -373,7 +373,7 @@
 
 **PQ評価点と説明**
 
-![medium narrow quality](/img/qrg/medium-narrow.jpg)
+![medium narrow quality](../images/medium-narrow.jpg)
 
 このフォーラムページに最初の投稿した人は、マジックループテクニックを習得する方法についての参考資料を提供している。彼女はまた、古い青いジーンズを使用して、自分バージョンの写真を共有している。Googleは、投稿者を20年以上の靴下を編む経験を持ち、彼女がその話題の専門家であると考えることが出来る。
 
@@ -397,7 +397,7 @@
 
 **PQ評価点と説明**
 
-![high narrow quality](/img/qrg/high-narrow.jpg)
+![high narrow quality](../images/high-narrow.jpg)
 
 このページの質問は、人々が癌でどれくらいの期間生存しているかを聞いている。愛する人が診断後どのくらいの期間生存したかを説明する多くの投稿がある。医療提供はほとんどなく、ページの焦点は個人的な経験を共有することである。多くの結果は誠実でよく書かれている。
 
@@ -421,7 +421,7 @@
 
 **PQ評価点と説明**
 
-![high narrow quality](/img/qrg/high-narrow.jpg)
+![high narrow quality](../images/high-narrow.jpg)
 
 このフォーラムは高級デザイナーの財布に関する議論のためによく知られている。この特定のフォーラムページでは、メンバーはこのブランドのバッグを鑑定する専門知識を持つフォーラム専門家に相談している。これらの専門家は、特定のバッグが本物か偽物かを知ることができる。トップに広告があり、フォーラムメッセージの中に広告があるが、それはMCから気をそらすものではなく、簡単に見つけることができる。
 
@@ -445,7 +445,7 @@
 
 **PQ評価点と説明**
 
-![high narrow quality](/img/qrg/high-narrow.jpg)
+![high narrow quality](../images/high-narrow.jpg)
 
 このフォーラムは、品質保証に関する専門家のコミュニティにとして有名である。回答はページの目的で信頼できるものである。ページには広告があるが、MCを見つけるのは簡単で、「スポンサーリンク」というラベルが付いている。
 
@@ -469,7 +469,7 @@
 
 **PQ評価点と説明**
 
-![high narrow quality](/img/qrg/high-narrow.jpg)
+![high narrow quality](../images/high-narrow.jpg)
 
 このディスカッションでは、特定の水槽（陸上・水中の要素を含んだアクアリウム）の造園に焦点を当てている。水族館で使用されている材料や種の種類については、多くの議論や交流があり、 ポストは専門家に水族館造園のニッチな話題を示している。
 
@@ -493,7 +493,7 @@
 
 **PQ評価点と説明**
 
-![high+narrow quality](/img/qrg/high+narrow.jpg)
+![high+narrow quality](../images/high+narrow.jpg)
 
 このページの目的は、略語の使用に関する質問に答えることである。このWebサイトは、執筆、出版などに関する情報の参照として非常に良い評判を持っている。このページのトピックについては、信頼性が高く、信頼できると考えられる。
 

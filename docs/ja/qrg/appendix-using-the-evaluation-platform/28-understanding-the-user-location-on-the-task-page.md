@@ -9,29 +9,29 @@
 <div class="results">
 <div class="result">
 
-![](/img/qrg/img856.jpg)
+![](../images/img856.jpg)
 
 画面中央の青い点がユーザーの正確な所在地を表しています。  
-![](/img/qrg/img857.jpg)
+![](../images/img857.jpg)
 
 </div>
 <div class="result">
 
-![](/img/qrg/img859.jpg)
+![](../images/img859.jpg)
 
 このように青い半透明の円が表示された場合、ユーザーは青い点にいる可能性が高いですが、円内の別の部分にいる可能性ちあります。
 
 </div>
 <div class="result">
 
-![](/img/qrg/img860.jpg)
+![](../images/img860.jpg)
 
 青い長方形がユーザーのおおまかな所在地を表しています。
 
 </div>
 <div class="result">
 
-![](/img/qrg/img861.jpg)
+![](../images/img861.jpg)
 
 この地図には訪れるリザルトブロックのマーカーであるレスポンスピンが表示されています。タスクに訪れるリザルトブロックが3件表示される場合、レスポンスピンも3本表示されます。
 

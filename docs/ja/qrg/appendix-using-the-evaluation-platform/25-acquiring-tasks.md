@@ -2,7 +2,7 @@
 
 Evaluation Platformの簡易化したタスク受注ページのスクリーンショットだ。Evaluation Platformのデザインは時々変わるので、異なる場合がある。
 
-![acquiring tasks example](/img/qrg/img848.jpg)
+![acquiring tasks example](../images/img848.jpg)
 
 このページからタスクを取得する方法に関するいくつかの注意
 

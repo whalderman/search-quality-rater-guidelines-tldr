@@ -16,27 +16,27 @@ However, websites that offer usage statistics about a website are not usually he
 <div class="results">
 <div class="result">
 
-![](/img/qrg/img760.jpg)  
-![needs met scale - fully meets](/img/qrg/fullym.jpg)  
-![page quality scale - high - wide range](/img/qrg/high-wide.jpg)  
+![](../images/img760.jpg)  
+![needs met scale - fully meets](../images/fullym.jpg)  
+![page quality scale - high - wide range](../images/high-wide.jpg)  
 This LP is the target of the query.
 
 </div>
 
 <div class="result">
 
-![](/img/qrg/img763.jpg)  
-![needs met scale - moderately meets+ - narrow range](/img/qrg/mm+narrow.jpg)  
-![page quality scale - medium- wide range](/img/qrg/medium-wide.jpg)  
+![](../images/img763.jpg)  
+![needs met scale - moderately meets+ - narrow range](../images/mm+narrow.jpg)  
+![page quality scale - medium- wide range](../images/medium-wide.jpg)  
 Online coupon codes are very popular in the U.S. and this LP (from a well-known coupon site) displays codes for online purchases on the Pottery Barn website. Users may be interested in coupon codes and this would be very helpful for those shopping online at potterybarn.com, especially frequent shoppers.
 
 </div>
 
 <div class="result">
 
-![](/img/qrg/img766.jpg)  
-![needs met scale - moderately meets+ - narrow range](/img/qrg/mm+narrow.jpg)  
-![page quality scale - medium- wide range](/img/qrg/medium-wide.jpg)  
+![](../images/img766.jpg)  
+![needs met scale - moderately meets+ - narrow range](../images/mm+narrow.jpg)  
+![page quality scale - medium- wide range](../images/medium-wide.jpg)  
 This LP (from a well-known review site) has reviews of the potterybarn.com website. Users may be interested in reading reviews when considering whether to make purchases at potterybarn.com, especially new shoppers.
 
 </div>
@@ -51,27 +51,27 @@ This LP (from a well-known review site) has reviews of the potterybarn.com websi
 <div class="results">
 <div class="result">
 
-![](/img/qrg/img769.jpg)  
-![needs met scale - fully meets](/img/qrg/fullym.jpg)  
-![page quality scale - high](/img/qrg/high.jpg)  
+![](../images/img769.jpg)  
+![needs met scale - fully meets](../images/fullym.jpg)  
+![page quality scale - high](../images/high.jpg)  
 This LP is the target of the query.
 
 </div>
 
 <div class="result">
 
-![](/img/qrg/img772.jpg)  
-![needs met scale - moderately meets](/img/qrg/mm.jpg)  
-![page quality scale - medium - narrow range](/img/qrg/medium-narrow.jpg)  
+![](../images/img772.jpg)  
+![needs met scale - moderately meets](../images/mm.jpg)  
+![page quality scale - medium - narrow range](../images/medium-narrow.jpg)  
 This LP is a Huffington Post article dated August 31, 2012 about ratemyprofessors.com. The article was newly published when it was added to the guidelines. Some users might be interested in this article.
 
 </div>
 
 <div class="result">
 
-![](/img/qrg/img775.jpg)  
-![needs met scale - fails to meet - wide range](/img/qrg/failsm-wide.jpg)  
-![page quality scale - medium+ - narrow range](/img/qrg/medium+narrow.jpg)  
+![](../images/img775.jpg)  
+![needs met scale - fails to meet - wide range](../images/failsm-wide.jpg)  
+![page quality scale - medium+ - narrow range](../images/medium+narrow.jpg)  
 This LP is an article dated April 17, 2006 about the ratemyprofessors.com website. Few or no users would be interested in this outdated information.
 
 </div>

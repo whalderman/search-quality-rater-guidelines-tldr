@@ -6,5 +6,5 @@ As a Search Quality Rater, you will work on many different types of rating proje
 
 For brevity, we refer to "Search Quality Raters" as "raters" in these guidelines.
 
-![Should I buy an iPhone?](/img/qrg/translated/en/img6.jpg)
-![Is this page trustworthy?](/img/qrg/translated/en/img8.jpg)
+![Should I buy an iPhone?](../images/img6.jpg)
+![Is this page trustworthy?](../images/img8.jpg)

@@ -2,11 +2,11 @@
 
 The Needs Met rating is based on _both_ the query and the result. You must carefully think about the query and user intent when assigning a Needs Met rating.
 
-![](/img/qrg/needs-met-na.jpg)
+![](../images/needs-met-na.jpg)
 
 The Page Quality rating slider does _not_ depend on the query. Do not think about the query when assigning a Page Quality rating to the LP.
 
-![](/img/qrg/eat-na.jpg)
+![](../images/eat-na.jpg)
 
 Some results don't have a Page Quality slider. If a result block has no Page Quality rating slider, you do not have to give a Page Quality rating. If there is a Page Quality slider, please assign a Page Quality rating based on the landing page.
 
@@ -36,9 +36,9 @@ Here is some guidance about assigning Needs Met and Page Quality ratings:
 <div class="results">
 <div class="result">
 
-![](/img/qrg/img628.jpg)  
-![needs met scale - slightly meets](/img/qrg/sm.jpg)  
-![page quality scale - low](/img/qrg/low.jpg)
+![](../images/img628.jpg)  
+![needs met scale - slightly meets](../images/sm.jpg)  
+![page quality scale - low](../images/low.jpg)
 
 **Page Quality:** Read this content out loud. The article on the LP is shallow and unintentionally humorous. The MC has four paragraphs of text, but it basically says that electric cars use electricity and have to be charged. The page also lacks E-A-T. **Low** is an appropriate rating.
 
@@ -47,9 +47,9 @@ Here is some guidance about assigning Needs Met and Page Quality ratings:
 </div>
 <div class="result">
 
-![](/img/qrg/img631.jpg)  
-![needs met scale - fails to meet](/img/qrg/failsm.jpg)  
-![page quality scale - medium+ - narrow range](/img/qrg/medium+narrow.jpg)
+![](../images/img631.jpg)  
+![needs met scale - fails to meet](../images/failsm.jpg)  
+![page quality scale - medium+ - narrow range](../images/medium+narrow.jpg)
 
 **Page Quality:** There is a lot of helpful MC on the landing page on Wikipedia.org. The page has high E-A-T. **Medium+** to **High** is an appropriate rating.
 
@@ -67,9 +67,9 @@ Here is some guidance about assigning Needs Met and Page Quality ratings:
 <div class="results">
 <div class="result">
 
-![](/img/qrg/img634.jpg)  
-![needs met scale - fails to meet - narrow range](/img/qrg/failsm-narrow.jpg)  
-![page quality scale - lowest - narrow range](/img/qrg/lowest-narrow.jpg)
+![](../images/img634.jpg)  
+![needs met scale - fails to meet - narrow range](../images/failsm-narrow.jpg)  
+![page quality scale - lowest - narrow range](../images/lowest-narrow.jpg)
 
 **Page Quality:** This is a YMYL topic. This page has no evidence of medical expertise/authority and is not trustworthy.
 
@@ -78,9 +78,9 @@ Here is some guidance about assigning Needs Met and Page Quality ratings:
 </div>
 <div class="result">
 
-![](/img/qrg/img637.jpg)  
-![needs met scale - highly meets](/img/qrg/hm.jpg)  
-![page quality scale - high+ - narrow range](/img/qrg/high+narrow.jpg)
+![](../images/img637.jpg)  
+![needs met scale - highly meets](../images/hm.jpg)  
+![page quality scale - high+ - narrow range](../images/high+narrow.jpg)
 
 **Page Quality:** This is a YMYL topic. This page is on a highly authoritative medical website and has a lot of reliable and accurate MC. This page is very trustworthy.
 

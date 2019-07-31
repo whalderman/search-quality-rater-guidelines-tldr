@@ -2,7 +2,7 @@
 
 「**ポルノ**」「**外国語**」「**読み込めない**」「**使いにくい**」のいずれかに該当する検索結果には、フラグを立ててください。Some rating tasks may ask you to identify **Not‑for‑Everyone** results. フラグはクエリに依存しません。つまり、フラグはクエリに関係なく立てるようにしてください。下記がフラグのスクリーンショットです。
 
-![rating flags](/img/qrg/img564.jpg)
+![rating flags](../images/img564.jpg)
 
 フラグ名をクリックすると、フラグブロックは赤色に変わり、いいえからはいに変わる。例えば、**ポルノ**フラグを使用する必要がある場合は以下のようになる。
 
@@ -16,9 +16,9 @@
 <div class="results">
 <div class="result">
 
-![](/img/qrg/img565.jpg)  
-![](/img/qrg/img566.jpg)  
-![needs met scale - fully meets](/img/qrg/fullym.jpg)
+![](../images/img565.jpg)  
+![](../images/img566.jpg)  
+![needs met scale - fully meets](../images/fullym.jpg)
 
 LPはポルノサイト「Freeones」のホームページ。
 
@@ -199,9 +199,9 @@ LPの言語が次のいずれかに該当しない場合は、「**外国語**�
 <div class="results">
 <div class="result">
 
-![search result for the baidu home page](/img/qrg/img571.jpg)  
-![foreign language flag enabled](/img/qrg/img572.jpg)  
-![needs met scale - fully meets](/img/qrg/fullym.jpg)
+![search result for the baidu home page](../images/img571.jpg)  
+![foreign language flag enabled](../images/img572.jpg)  
+![needs met scale - fully meets](../images/fullym.jpg)
 
 LPはBaiduのWebサイト。結果はクエリのターゲットページだが外国語（中国語）この結果は**FullyM**評価と外国語フラグに値する。
 
@@ -240,8 +240,8 @@ RBに**外国語**のLPがある場合でもタスクの全てのRBにNeeds Met�
 <div class="results">
 <div class="result">
 
-![example of unnecessary foreign language flag](/img/qrg/img575.jpg)  
-![needs met scale - highly meets](/img/qrg/hm.jpg)
+![example of unnecessary foreign language flag](../images/img575.jpg)  
+![needs met scale - highly meets](../images/hm.jpg)
 
 このビデオは英語ではないにもかかわらずアメリカのユーザーが探しているもの。ビデオはフランス語でもLPの言語はほとんどが英語なので**外国語**のフラグは不要。
 
@@ -258,8 +258,8 @@ RBに**外国語**のLPがある場合でもタスクの全てのRBにNeeds Met�
 <div class="results">
 <div class="result">
 
-![example of unnecessary foreign language flag](/img/qrg/img577.jpg)  
-![needs met scale - moderately to moderately+](/img/qrg/mm-narrow.jpg)
+![example of unnecessary foreign language flag](../images/img577.jpg)  
+![needs met scale - moderately to moderately+](../images/mm-narrow.jpg)
 
 このクエリは、ドイツの作曲家Alex Cのもの。LPにはY‑ass（YouTubeには「Yass」とスペルミス）にドイツ語で歌われた曲が含まれている。英語ではないにもかかわらず英語ユーザーの多くにとって役立つ。LPの言語は明確でないので、**外国語**フラグを割り当てるかどうかを決定するときは評価者の判断。
 
@@ -276,8 +276,8 @@ RBに**外国語**のLPがある場合でもタスクの全てのRBにNeeds Met�
 <div class="results">
 <div class="result">
 
-![example of unnecessary foreign language flag](/img/qrg/img579.jpg)  
-![needs met scale - moderately to moderately+](/img/qrg/mm-narrow.jpg)
+![example of unnecessary foreign language flag](../images/img579.jpg)  
+![needs met scale - moderately to moderately+](../images/mm-narrow.jpg)
 
 クエリはフィリピンの映画のKasal、Kasali、Kasalo。LPはフィリピンの言語であるタガログ語の動画。英語ではないにもかかわらず、クエリを英語ユーザーの多くにとって役立つ。**外国語**フラグを割り当てるかどうかを決定するときは評価者の判断。
 
@@ -311,9 +311,9 @@ RBではなくLPに基づいて「**読み込めない**」フラグを割り当
 <div class="results">
 <div class="result">
 
-![search result for douglas instruments](/img/qrg/img582.jpg)
-![did not load button selected](/img/qrg/img583.jpg)
-![needs met scale - fails to meet](/img/qrg/failsm.jpg)
+![search result for douglas instruments](../images/img582.jpg)
+![did not load button selected](../images/img583.jpg)
+![needs met scale - fails to meet](../images/failsm.jpg)
 
 このページは、一般的な404メッセージが表示され、ページにはMC、SC、広告がない。
 
@@ -333,11 +333,11 @@ RBではなくLPに基づいて「**読み込めない**」フラグを割り当
 
 マルウェアの例
 
-![example malware warning](/img/qrg/img585.jpg)
+![example malware warning](../images/img585.jpg)
 
 次に証明書受諾要求の例
 
-![example certificate acceptance request](/img/qrg/img587.jpg)
+![example certificate acceptance request](../images/img587.jpg)
 
 ### 「読み込めない」検索結果のNeeds Met評価
 
@@ -355,8 +355,8 @@ RBではなくLPに基づいて「**読み込めない**」フラグを割り当
 <div class="results">
 <div class="result">
 
-![search result for boys pink snow shoes](/img/qrg/img588.jpg)  
-![needs met scale - fails to meet](/img/qrg/failsm.jpg)
+![search result for boys pink snow shoes](../images/img588.jpg)  
+![needs met scale - fails to meet](../images/failsm.jpg)
 
 MCにはエラーメッセージが表示されますが、多くのSCもある。しかしながら、このページには男の子のピンクのスノーシューズに関する情報はないため、このクエリは役に立たない。
 
@@ -374,8 +374,8 @@ MCにはエラーメッセージが表示されますが、多くのSCもある�
 <div class="results">
 <div class="result">
 
-![search result for bible passages](/img/qrg/img590.jpg)  
-![needs met scale - highly meets](/img/qrg/hm.jpg)
+![search result for bible passages](../images/img590.jpg)  
+![needs met scale - highly meets](../images/hm.jpg)
 
 LP上にカスタマイズされた「結果が見つかりません」というメッセージがあるのにもかかわらず、聖書のすべての節へのリンクがある。これは、ほとんどのユーザーにとって非常に役に立つ。
 
@@ -421,8 +421,8 @@ In addition, some rating tasks may ask you to identify **Not‑for‑Everyone** 
 <div class="results">
 <div class="result">
 
-![](/img/qrg/img593.jpg)  
-![upsetting-offensive](/img/qrg/upsetting-offensive.jpg)
+![](../images/img593.jpg)  
+![upsetting-offensive](../images/upsetting-offensive.jpg)
 
 ホロコーストは決して起こっていないと他者を説得する方法の議論である。ホロコーストの否定と反ユダヤ主義の直接的な関係のため、多くの人々はこの結果を不快であると感じる。
 
@@ -431,8 +431,8 @@ In addition, some rating tasks may ask you to identify **Not‑for‑Everyone** 
 </div>
 <div class="result">
 
-![](/img/qrg/img593.jpg)  
-![not upsetting‑offensive](/img/qrg/no-flag.jpg)
+![](../images/img593.jpg)  
+![not upsetting‑offensive](../images/no-flag.jpg)
 
 ホロコースト自体が一部の人々にとっては潜在的に動揺するトピックであるが、この結果は事実上正確な歴史的情報源である。加えてこのページは人々に対して憎悪や暴力を促進したり、人種差別を含んだり、生々しい暴力を描写したりすることの為に存在していない。Upsetting­-Offensiveフラグを割り当ててはならない。
 
@@ -449,16 +449,16 @@ In addition, some rating tasks may ask you to identify **Not‑for‑Everyone** 
 <div class="results">
 <div class="result">
 
-![](/img/qrg/img598.jpg)  
-![upsetting-offensive](/img/qrg/upsetting-offensive.jpg)
+![](../images/img598.jpg)  
+![upsetting-offensive](../images/upsetting-offensive.jpg)
 
 このページの目的は、黒人が劣っていると主張することである。誤った科学的研究を示しており、多くの人々がそれを不快であると感じている。この結果にはUpsetting-­Offensiveフラグを割り当てなければならない。
 
 </div>
 <div class="result">
 
-![](/img/qrg/img600.jpg)  
-![not upsetting‑offensive](/img/qrg/no-flag.jpg)
+![](../images/img600.jpg)  
+![not upsetting‑offensive](../images/no-flag.jpg)
 
 このWikipediaのページは、米国における人種差別や民族差別について、よく知られた歴史的に正確な概要を示している。Upsetting-­Offensiveフラグを割り当ててはならない。
 
@@ -475,8 +475,8 @@ In addition, some rating tasks may ask you to identify **Not‑for‑Everyone** 
 <div class="results">
 <div class="result">
 
-![](/img/qrg/img602.jpg)  
-![upsetting-offensive](/img/qrg/upsetting-offensive.jpg)
+![](../images/img602.jpg)  
+![upsetting-offensive](../images/upsetting-offensive.jpg)
 
 このページの目的は、イスラム教を悪だとする著者の信念を説明すること。不寛容や憎悪を促進するために存在しているように見え、多くの人を不快にする可能性がある。
 
@@ -485,8 +485,8 @@ In addition, some rating tasks may ask you to identify **Not‑for‑Everyone** 
 </div>
 <div class="result">
 
-![](/img/qrg/img604.jpg)  
-![not upsetting‑offensive](/img/qrg/no-flag.jpg)
+![](../images/img604.jpg)  
+![not upsetting‑offensive](../images/no-flag.jpg)
 
 これは評判の良いサイト上の高品質な記事。イスラム教の主要な信仰と慣習を正確にまとめたものである。
 
@@ -541,18 +541,18 @@ Upsetting­-Offensiveフラグを割り当ててはならない。
 <div class="results">
 <div class="result">
 
-![](/img/qrg/img608.jpg)  
-![needs met scale - fails to meet](/img/qrg/failsm.jpg)  
-![page quality scale - lowest - narrow range](/img/qrg/lowest-narrow.jpg)  
-![upsetting-offensive](/img/qrg/upsetting-offensive.jpg)
+![](../images/img608.jpg)  
+![needs met scale - fails to meet](../images/failsm.jpg)  
+![page quality scale - lowest - narrow range](../images/lowest-narrow.jpg)  
+![upsetting-offensive](../images/upsetting-offensive.jpg)
 
 </div>
 <div class="result">
 
-![](/img/qrg/img612.jpg)  
-![needs met scale - highly meets](/img/qrg/hm.jpg)  
-![page quality scale - high - narrow range](/img/qrg/high-narrow.jpg)  
-![not upsetting‑offensive](/img/qrg/no-flag.jpg)
+![](../images/img612.jpg)  
+![needs met scale - highly meets](../images/hm.jpg)  
+![page quality scale - high - narrow range](../images/high-narrow.jpg)  
+![not upsetting‑offensive](../images/no-flag.jpg)
 
 </div>
 </div>
@@ -567,18 +567,18 @@ Upsetting­-Offensiveフラグを割り当ててはならない。
 <div class="results">
 <div class="result">
 
-![](/img/qrg/img616.jpg)  
-![needs met scale - fully meets](/img/qrg/fullym.jpg)  
-![page quality scale - lowest - narrow range](/img/qrg/lowest-narrow.jpg)  
-![upsetting-offensive](/img/qrg/upsetting-offensive.jpg)
+![](../images/img616.jpg)  
+![needs met scale - fully meets](../images/fullym.jpg)  
+![page quality scale - lowest - narrow range](../images/lowest-narrow.jpg)  
+![upsetting-offensive](../images/upsetting-offensive.jpg)
 
 </div>
 <div class="result">
 
-![](/img/qrg/img620.jpg)  
-![needs met scale - fails to meet](/img/qrg/failsm.jpg)  
-![page quality scale - medium - narrow range](/img/qrg/medium-narrow.jpg)  
-![not upsetting‑offensive](/img/qrg/no-flag.jpg)
+![](../images/img620.jpg)  
+![needs met scale - fails to meet](../images/failsm.jpg)  
+![page quality scale - medium - narrow range](../images/medium-narrow.jpg)  
+![not upsetting‑offensive](../images/no-flag.jpg)
 
 </div>
 </div>

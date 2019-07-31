@@ -53,16 +53,16 @@ If the E‑A‑T of a page is low enough, users cannot or should not use the MC 
 
 Pages exist to share their MC with users. The following pages should be rated **Lowest** because they fail to achieve their purpose:
 
-- Pages with no MC.
-- Pages with a bare minimum of MC that is unhelpful for the purpose of the page.
+- **Pages with no MC.**
+- **Pages with a bare minimum of MC that is unhelpful for the purpose of the page.**
 
 ### Lowest Quality Main Content
 
 The **Lowest** rating applies to any page with Lowest Quality MC. Lowest quality MC is content created with such insufficient time, effort, expertise, talent, and/or skill that it fails to achieve its purpose. The **Lowest** rating should also apply to pages where users cannot benefit from the MC, for example:
 
-- Informational pages with demonstrably inaccurate MC.
-- The MC is so difficult to read, watch, or use, that it takes great effort to understand and use the page.
-- Broken functionality of the page due to lack of skill in construction, poor design, or lack of maintenance.
+- **Informational pages with demonstrably inaccurate MC.**
+- **The MC is so difficult to read, watch, or use, that it takes great effort to understand and use the page.**
+- **Broken functionality of the page due to lack of skill in construction, poor design, or lack of maintenance.**
 
 Have high standards and think about how typical users in your locale would experience the MC on the page. A page may have value to the creator or participants in the discussion, but few to no general users who view it would benefit from the MC.
 
@@ -93,7 +93,7 @@ These things can be difficult to determine, but the following steps may help.
 
 2. Search on Google by pasting the sentence or phrase (surrounded by quotation marks) inside the Google search box. Try a few sentences from the page.
 
-   ![picture of a google search for "dorothy uses the golden cap to summon the winged monkeys"](/img/qrg/img108.jpg)
+   ![picture of a google search for "dorothy uses the golden cap to summon the winged monkeys"](../images/img108.jpg)
 
    Here are some sentences and phrases from [this page](https://guidelines.raterhub.com/images/WizardOfOzExcerpts1.jpg) about "The Wizard of Oz" film and how to search for them.
 
@@ -188,12 +188,12 @@ Use the **Lowest** rating if you suspect a page is malicious, even if you're not
 
 Use the **Lowest** rating if the website and the creators of the MC have a negative or malicious reputation. Here are some examples originally shown in [<span class="query">How to Search for Reputation Information</span>](/page-quality-rating-guideline/understanding-webpages-and-websites.html#how-to-search-for-reputation-information). All pages on these websites should be rated **Lowest** because of the negative or malicious reputation of these websites.
 
-- [Site selling children's jungle gym](https://guidelines.raterhub.com/images/domeclimber.com.jpg)
-  - Negative reputation information: This business has a [BBB rating](https://guidelines.raterhub.com/images/DomeClimberBBBReview.jpg) of F. There is a news article about financial fraud. There are many reviews on websites describing how users sent money and did not receive anything in return.
-- [Site selling products related to eyewear](https://guidelines.raterhub.com/images/RG3_3.5-40.jpg)
-  - Negative/malicious reputation information: This website engaged in criminal behavior such as physically threatening users.
-- [Organization serving the hospitalized veteran community](https://guidelines.raterhub.com/images/PQ.3.5.10.jpg)
-  - Negative reputation information: There are many detailed negative articles on news sites and charity watchdog sites describing fraud and financial mishandling about this organization.
+- **[Site selling children's jungle gym](https://guidelines.raterhub.com/images/domeclimber.com.jpg)**
+  - **Negative reputation information:** This business has a [BBB rating](https://guidelines.raterhub.com/images/DomeClimberBBBReview.jpg) of F. There is a news article about financial fraud. There are many reviews on websites describing how users sent money and did not receive anything in return.
+- **[Site selling products related to eyewear](https://guidelines.raterhub.com/images/**RG3_3.5-40.jpg)
+  - **Negative/malicious reputation information:** This website engaged in criminal behavior such as physically threatening users.
+- **[Organization serving the hospitalized veteran community](https://guidelines.raterhub.com/**images/PQ.3.5.10.jpg)
+  - **Negative reputation information:** There are many detailed negative articles on news sites and charity watchdog sites describing fraud and financial mishandling about this organization.
 
 ## Pages that Potentially Misinform Users
 
@@ -201,15 +201,15 @@ The purpose of an informational page is to communicate accurate information. Ass
 
 The **Lowest** rating must be used for any of the following types of content on pages that could appear to be informational:
 
-- Demonstrably inaccurate content.
-- YMYL content that contradicts well-established expert consensus.
-- Debunked or unsubstantiated conspiracy theories.
+- **Demonstrably inaccurate content.**
+- **YMYL content that contradicts well-established expert consensus.**
+- **Debunked or unsubstantiated conspiracy theories.**
 
 **Lowest** should also be used under these circumstances:
 
-- The content creator may believe that the conspiracy theory or demonstrably inaccurate content is correct, or it is unclear whether they do.
-- The content creators may be deliberately attempting to misinform users.
-- The content creators describe, repeat or spread conspiracy theories or demonstrably inaccurate content without a clear effort to debunk or correct it, regardless of whether the creators believe it to be true. For example, content creators may produce this content in order to make money or gain attention.
+- **The content creator may believe that the conspiracy theory or demonstrably inaccurate content **is correct, or it is unclear whether they do.
+- **The content creators may be deliberately attempting to misinform users.**
+- **The content creators describe, repeat or spread conspiracy theories or demonstrably inaccurate **content without a clear effort to debunk or correct it, regardless of whether the creators believe it to be true. For example, content creators may produce this content in order to make money or gain attention.
 
 Some examples of information that would be found on **Lowest** quality pages include: the moon landings were faked, carrots cure cancer, and the U.S. government is controlled by lizard people. While some of these topics may seem funny, there have been real world consequences from people believing these kinds of internet conspiracy theories and misinformation.
 
@@ -229,13 +229,13 @@ With practice, you will be able to identify deceptive pages accurately.
 
 Some pages are deliberately created to deceive users, for example:
 
-- A webpage or website that impersonates a different site (e.g., copied logo or branding of an unaffiliated site, URL that mimics another site's name, etc.).
-- A non-satirical social network profile made by an impersonator.
-- A webpage or website that looks like a news source or information page, but in fact has articles to manipulate users in order to benefit a person, business, government, or other organization politically, monetarily, or otherwise.
-- A webpage claims to offer an independent review or share other information about a product, but is in fact created to make money for the owner of the website without attempting to help users. For example, the MC may contain intentionally misleading or inaccurate information created with the sole purpose of getting users to click on monetized links or buy the product.
-- A website claims to be the personal website of a celebrity, but the website is actually created to make money for the owner of the website without the permission of the celebrity. For example, the page may have false testimonials for a product and is created for the sole purpose of getting users to click on monetized links or buy the product.
-- A webpage with a misleading title or a title that has nothing to do with the content on the page. Users who come to the page expecting content related to the title will feel tricked or deceived.
-- A webpage or website with deceptive website information. For example, the website may misrepresent who owns the site, what the website purpose really is, how the content was created, how to contact the site, etc.
+- **A webpage or website that impersonates a different site (e.g., copied logo or branding of an **unaffiliated site, URL that mimics another site's name, etc.).
+- **A non-satirical social network profile made by an impersonator.**
+- **A webpage or website that looks like a news source or information page, but in fact has **articles to manipulate users in order to benefit a person, business, government, or other organization politically, monetarily, or otherwise.
+- **A webpage claims to offer an independent review or share other information about a product, but **is in fact created to make money for the owner of the website without attempting to help users. For example, the MC may contain intentionally misleading or inaccurate information created with the sole purpose of getting users to click on monetized links or buy the product.
+- **A website claims to be the personal website of a celebrity, but the website is actually created **to make money for the owner of the website without the permission of the celebrity. For example, the page may have false testimonials for a product and is created for the sole purpose of getting users to click on monetized links or buy the product.
+- **A webpage with a misleading title or a title that has nothing to do with the content on the **page. Users who come to the page expecting content related to the title will feel tricked or deceived.
+- **A webpage or website with deceptive website information. For example, the website may **misrepresent who owns the site, what the website purpose really is, how the content was created, how to contact the site, etc.
 
 Any page or website that may deceive or trick users should be rated **Lowest**, regardless of intent. Use the **Lowest** rating even if you cannot see a reason for the deception or even if you think most users wouldn't "fall" for the trick.
 
@@ -247,10 +247,10 @@ Some pages are deliberately designed to manipulate users to take an action that 
 
 Here are some common types of deceptively designed pages:
 
-- Pages that disguise Ads as MC. Actual MC may be minimal or created to encourage users to click on the Ads. For example, fake search pages ([example](https://guidelines.raterhub.com/images/PQ.2.3.16.jpg)) that have a list of links that look like a page of search results. If you click on a few of the links, you will see that the page is just a collection of Ads disguised as search engine results. A "search box" is present, but submitting a new query just gives you a different page of Ads disguised as search results.
-- Pages that disguise Ads as website navigation links. For example, fake directory pages ([example](https://guidelines.raterhub.com/images/PQ.2.1.15.jpg)) that look like a personally curated set of helpful links, possibly with unique descriptions. In reality, the links are Ads or links to other similar pages on the site. Sometimes the descriptions of the links are unrelated to the page.
-- Pages where the MC is not usable or visible. For example, a page that has such a large amount of Ads at the top of the page (before the MC), so that most users will not see the MC, or a page where the MC is invisible text.
-- Any page designed to trick users into clicking on links, which may be Ads or other links intended to serve the needs of the website rather than to the benefit of the user.
+- ****Pages that disguise Ads as MC**. Actual MC may be minimal or created to encourage users to **click on the Ads. For example, **fake search pages** ([example](https://guidelines.raterhub.com/images/PQ.2.3.16.jpg)) that have a list of links that look like a page of search results. If you click on a few of the links, you will see that the page is just a collection of Ads disguised as search engine results. A "search box" is present, but submitting a new query just gives you a different page of Ads disguised as search results.
+- ****Pages that disguise Ads as website navigation links**. For example, **fake directory pages** (**[example](https://guidelines.raterhub.com/images/PQ.2.1.15.jpg)) that look like a personally curated set of helpful links, possibly with unique descriptions. In reality, the links are Ads or links to other similar pages on the site. Sometimes the descriptions of the links are unrelated to the page.
+- ****Pages where the MC is not usable or visible**. For example, a page that has such a large **amount of Ads at the top of the page (before the MC), so that most users will not see the MC, or a page where the MC is invisible text.
+- ****Any page designed to trick users into clicking on links**, which may be Ads or other links **intended to serve the needs of the website rather than to the benefit of the user.
 
 Take a good look at the page and use your judgment. If you believe the page was deliberately created to manipulate users to click on Ads, monetized links, questionable download links, etc., rather than help users, the page should be rated **Lowest**.
 
@@ -1149,5 +1149,5 @@ In addition, the "Shipping and Returns" page has the name of another company tha
 </div>
 </div>
 
-[lest]: /img/qrg/lowest.jpg
-[lest-n]: /img/qrg/lowest-narrow.jpg
+[lest]: ../images/lowest.jpg
+[lest-n]: ../images/lowest-narrow.jpg

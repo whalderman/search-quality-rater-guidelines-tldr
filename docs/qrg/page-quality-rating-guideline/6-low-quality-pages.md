@@ -439,5 +439,5 @@ In addition to having no answer, this page has Ads and links to other questions 
 </div>
 </div>
 
-[l]: /img/qrg/low.jpg
-[l+n]: /img/qrg/lowest+narrow.jpg
+[l]: ../images/low.jpg
+[l+n]: ../images/lowest+narrow.jpg

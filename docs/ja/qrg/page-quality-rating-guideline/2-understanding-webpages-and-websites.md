@@ -398,7 +398,7 @@ Webサイトのホームページには、普通サイト内の重要ページ�
 
 **ホームページへの誘導の画像：**  
 [Williams-Sonoma Homepage](http://www.williams-sonoma.com)  
-![Williams Sonoma Logo](/img/qrg/img17.jpg)  
+![Williams Sonoma Logo](../images/img17.jpg)  
 LP左上のロゴをクリックすると、ホームページに遷移
 
 </div>
@@ -418,7 +418,7 @@ LP左上のロゴをクリックすると、ホームページに遷移
 
 **ホームページへの誘導の画像：**  
 [Specific Yahoo Answers Page](https://guidelines.raterhub.com/images/PQexamples.3.1.5.jpg)  
-![Yahoo! Answers Logo](/img/qrg/img18.jpg)  
+![Yahoo! Answers Logo](../images/img18.jpg)  
 LP左上のロゴをクリックすると、ホームページに遷移
 
 </div>
@@ -438,7 +438,7 @@ LP左上のロゴをクリックすると、ホームページに遷移
 
 **ホームページへの誘導の画像：**  
 [Harvard Medical School Facts and Figures Page](https://guidelines.raterhub.com/images/HMS.jpg)  
-![Harvard Medical School Logo](/img/qrg/img19.jpg)  
+![Harvard Medical School Logo](../images/img19.jpg)  
 LP左上のロゴをクリックすると、ホームページに遷移
 
 </div>
@@ -478,7 +478,7 @@ Webサイトは普通、ページ上のコンテンツ作成者を明確にし�
 
 多くのWebサイトは、ユーザーとのコミュニケーションを取りたいと考えている。ページの不具合などの報告から、コンテンツの削除を求めるまで、ユーザーがWebサイトに連絡する理由はたくさんある。多くのWebサイトでは、連絡するための複数の方法（電子メールアドレス、電話番号、物理アドレス、Web連絡フォームなど）を提供している。
 
-![L.L. Bean Contact Page](/img/qrg/img22.jpg)
+![L.L. Bean Contact Page](../images/img22.jpg)
 
 必要な連絡先情報の種類と量は、Webサイトの種類によって異なる。店舗、銀行、クレジットカード会社など、お金を扱うWebサイトでは、連絡先情報と顧客サービス情報が非常に重要である。ユーザーは、問題が発生したときに質問をする、ヘルプを得る手段が必要である。
 

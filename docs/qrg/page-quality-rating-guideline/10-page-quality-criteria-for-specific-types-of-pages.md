@@ -33,7 +33,7 @@ Webpage/Type of Content|Characteristics of the Page|PQ Rating and Explanation
 
 **PQ Rating and Explanation**
 
-![lowest quality](/img/qrg/lowest.jpg)
+![lowest quality](../images/lowest.jpg)
 
 This is an example of a page with no MC. You might think that the MC is "missing" due to a problem with this particular page, but in fact, this website has hundreds of pages that look the same way—no MC, just Ads. This website shows Ads with little or no attempt to help users, and should be rated Lowest quality.
 
@@ -58,7 +58,7 @@ This is an example of a page with no MC. You might think that the MC is "missing
 
 **PQ Rating and Explanation**
 
-![low quality](/img/qrg/low.jpg)
+![low quality](../images/low.jpg)
 
 This page has no MC and no error message. It is an isolated example of a page with no MC or error message on a website for a reputable newspaper for a town in Michigan. All of the navigation links work, and the page was later fixed.
 
@@ -81,7 +81,7 @@ This page has no MC and no error message. It is an isolated example of a page wi
 
 **PQ Rating and Explanation**
 
-![medium quality](/img/qrg/medium.jpg)
+![medium quality](../images/medium.jpg)
 
 This is an example of a "custom 404" page, alerting users that the URL they are trying to visit no longer exists. Some websites do a nice job of alerting users about a problem and providing helpful tips.
 
@@ -108,7 +108,7 @@ This page is on a well-known merchant website with a good reputation. However, t
 
 **PQ Rating and Explanation**
 
-![high narrow quality](/img/qrg/high-narrow.jpg)
+![high narrow quality](../images/high-narrow.jpg)
 
 This is an example of a "custom 404" page, alerting users that the URL they are trying to visit no longer exists. This website does a nice job of explaining the issue and providing helpful tips, including a search box.
 
@@ -133,7 +133,7 @@ This is an example of a "custom 404" page, alerting users that the URL they are 
 
 **PQ Rating and Explanation**
 
-![high+narrow quality](/img/qrg/high+narrow.jpg)
+![high+narrow quality](../images/high+narrow.jpg)
 
 This is an example of a "custom 404" page. These pages are designed to alert users that the URL they are trying to visit no longer exists. The MC of this page is the cartoon, the caption, and the search functionality, which is specific to the content of the website. It is clear that time, effort, and talent was involved in the creation of the MC.
 
@@ -173,7 +173,7 @@ Webpage/Type of Content|Characteristics of the Page|PQ Rating and Explanation
 
 **PQ Rating and Explanation**
 
-![lowest narrow quality](/img/qrg/lowest-narrow.jpg)
+![lowest narrow quality](../images/lowest-narrow.jpg)
 
 We must evaluate this page from the point of view of a user visiting this page from a search engine, rather than a participant. The question is poorly worded and difficult to understand. The answers are poorly worded and have incorrect and potentially dangerous medical advice, making it lowest quality MC.
 
@@ -197,7 +197,7 @@ We must evaluate this page from the point of view of a user visiting this page f
 
 **PQ Rating and Explanation**
 
-![lowest+narrow quality](/img/qrg/lowest+narrow.jpg)
+![lowest+narrow quality](../images/lowest+narrow.jpg)
 
 In addition to having no answer, this page has Ads and links to other questions (misleadingly labeled as "Relevant answers") displayed prominently, which users may mistake for answers to the question. It takes a moment to notice that this page actually has no answer. Deceptive design and lack of an answer make this page a frustratingly poor user experience and cause this page to completely fail to achieve its purpose.
 
@@ -221,7 +221,7 @@ In addition to having no answer, this page has Ads and links to other questions 
 
 **PQ Rating and Explanation**
 
-![lowest+narrow quality](/img/qrg/lowest+narrow.jpg)
+![lowest+narrow quality](../images/lowest+narrow.jpg)
 
 In this example, the MC is boxed in red. Please read the MC, including the completely unhelpful "answer" to the question in the red box. This answer is so unhelpful, we can consider this question to be unanswered. This page has an unsatisfying amount of MC.
 
@@ -246,7 +246,7 @@ In addition to a very unhelpful "answer," the page design makes it difficult to 
 
 **PQ Rating and Explanation**
 
-![low quality](/img/qrg/low.jpg)
+![low quality](../images/low.jpg)
 
 Some websites rely on users to create virtually all of their MC. In this case, the MC is the user's question. If there are no answers, the amount of MC on the page is unsatisfying.
 
@@ -269,7 +269,7 @@ Some websites rely on users to create virtually all of their MC. In this case, t
 
 **PQ Rating and Explanation**
 
-![low quality](/img/qrg/low.jpg)
+![low quality](../images/low.jpg)
 
 There are 94 answers to this question with a few results that seem helpful. Many of the posts are wrong or misleading, including the top answer, which is labeled the "best answer."
 
@@ -292,7 +292,7 @@ There are 94 answers to this question with a few results that seem helpful. Many
 
 **PQ Rating and Explanation**
 
-![medium narrow quality](/img/qrg/medium-narrow.jpg)
+![medium narrow quality](../images/medium-narrow.jpg)
 
 This forum is about dance topics, and many pages have expertise from a community of ballet dancers. On this particular page, participants have everyday experience washing ballet shoes and make recommendations based on their own experiences.
 
@@ -317,7 +317,7 @@ This page is "mixed" because there is some distracting content that makes it har
 
 **PQ Rating and Explanation**
 
-![medium+ quality](/img/qrg/medium+.jpg)
+![medium+ quality](../images/medium+.jpg)
 
 Many participants share their personal experiences with these products, giving details such as how well certain models work with pet hair. There are many descriptions of participants' own experiences with this product and how well it works for them.
 
@@ -340,7 +340,7 @@ Many participants share their personal experiences with these products, giving d
 
 **PQ Rating and Explanation**
 
-![medium+ quality](/img/qrg/medium+.jpg)
+![medium+ quality](../images/medium+.jpg)
 
 The answer on this page is written by an employee of Build-A-Bear, so it offers a somewhat unique and presumably somewhat expert answer.
 
@@ -365,7 +365,7 @@ The page design allows users to read the MC as the Ads are clearly labeled, as w
 
 **PQ Rating and Explanation**
 
-![medium narrow quality](/img/qrg/medium-narrow.jpg)
+![medium narrow quality](../images/medium-narrow.jpg)
 
 The person who posted the first message on this forum page provides a helpful resource on how to master the magic loop technique in knitting. She also shares pictures of her own version using an old pair of blue jeans. With over 20 years of experience knitting socks, we would consider her to be an expert on the topic.
 
@@ -389,7 +389,7 @@ The person who posted the first message on this forum page provides a helpful re
 
 **PQ Rating and Explanation**
 
-![high narrow quality](/img/qrg/high-narrow.jpg)
+![high narrow quality](../images/high-narrow.jpg)
 
 The question on the page asks how long people live with cancer. There are many results describing how long a loved one lived after diagnosis. There is very little medical advice and the focus of the page is sharing personal experience. Many results are heartfelt and well written.
 
@@ -413,7 +413,7 @@ The question on the page asks how long people live with cancer. There are many r
 
 **PQ Rating and Explanation**
 
-![high narrow quality](/img/qrg/high-narrow.jpg)
+![high narrow quality](../images/high-narrow.jpg)
 
 This forum is well-known for discussions on luxury designer purses. On this particular forum page, members are consulting forum experts who have expertise authenticating bags from this brand. These experts can tell if a particular bag is authentic or fake. While there is an ad at the top and a few ads within the forum message, it does not distract from the MC, which is easy to find.
 
@@ -437,7 +437,7 @@ This forum is well-known for discussions on luxury designer purses. On this part
 
 **PQ Rating and Explanation**
 
-![high narrow quality](/img/qrg/high-narrow.jpg)
+![high narrow quality](../images/high-narrow.jpg)
 
 This forum is well-known for its community of experts on quality assurance. The responses are authoritative and trustworthy for the purpose of the page. While there are Ads on the page, it is easy to find the MC and they are clearly labeled as "Sponsored Link."
 
@@ -461,7 +461,7 @@ This forum is well-known for its community of experts on quality assurance. The 
 
 **PQ Rating and Explanation**
 
-![high narrow quality](/img/qrg/high-narrow.jpg)
+![high narrow quality](../images/high-narrow.jpg)
 
 This discussion focuses on landscaping for a particular paludarium (an aquarium with terrestrial and aquatic elements). There is a lot of discussion and interaction between forum members about the types of materials and species used in the aquarium. The posts show expertise in the niche topic of aquarium landscaping.
 
@@ -485,7 +485,7 @@ This discussion focuses on landscaping for a particular paludarium (an aquarium 
 
 **PQ Rating and Explanation**
 
-![high+narrow quality](/img/qrg/high+narrow.jpg)
+![high+narrow quality](../images/high+narrow.jpg)
 
 The purpose of the page is to answer questions about the usage of abbreviations. This website has a very good reputation as a reference for information on writing, publishing, etc. It is considered highly authoritative and trustworthy for the topic of the page.
 

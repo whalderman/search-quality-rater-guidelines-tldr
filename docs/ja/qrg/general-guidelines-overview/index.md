@@ -6,4 +6,4 @@
 
 本ガイドラインでは「検索品質評価者」を省略して「評価者」とする。
 
-![Should I buy an iPhone? Is this page trustworthy?](/img/qrg/translated/ja/img6.jpg)
+![Should I buy an iPhone? Is this page trustworthy?](../images/img6.jpg)

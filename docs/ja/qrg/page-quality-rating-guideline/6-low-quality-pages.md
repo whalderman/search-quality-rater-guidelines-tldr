@@ -395,5 +395,5 @@ Google は大半のWebサイトに対して「Webサイト自体についての�
 </div>
 </div>
 
-[l]: /img/qrg/low.jpg
-[l+n]: /img/qrg/lowest+narrow.jpg
+[l]: ../images/low.jpg
+[l+n]: ../images/lowest+narrow.jpg

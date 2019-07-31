@@ -2,7 +2,7 @@
 
 What do you do on your mobile smartphone?
 
-![what do mobile users want to do...](/img/qrg/translated/en/img201.jpg)
+![what do mobile users want to do...](../images/img201.jpg)
 
 People rely on their phones for many different tasks in different environments. Users may want to search the web or may want to tell the phone to do something specific. Keep in mind that tasks can be simple or complex, and may take multiple steps to complete. For example, a simple task may be to find the director of a movie. A complex task may be to find a movie's showtimes nearby, purchase tickets, get directions, and then use the phone's navigation to go to the theater.
 
@@ -87,7 +87,7 @@ Note: Examples in the following sections will include a User Location in the for
 
 </div>
 
-![UK and US football](/img/qrg/translated/en/img206.jpg)
+![UK and US football](../images/img206.jpg)
 
 For many or most queries, the user location does not change our understanding of the query and user intent. Here are some examples: <span class="query">facebook.com</span>, <span class="query">pictures of kittens</span>, <span class="query">distance between the earth and the moon</span>, <span class="query">call mom</span>. If the task does not display a user location, please evaluate it as a query where the location does not matter and use your judgment.
 
@@ -97,8 +97,8 @@ When is the user location important in understanding query interpretation and us
 
 Sometimes users tell search engines exactly what kinds of results they are looking for by adding the desired location in the query, regardless of their user location. We'll call this location inside the query the "explicit location." The explicit location makes queries much easier to understand and interpret.
 
-![explicit location queries](/img/qrg/translated/en/img209.jpg)
-![explicit location queries](/img/qrg/translated/en/img210.jpg)
+![explicit location queries](../images/img209.jpg)
+![explicit location queries](../images/img210.jpg)
 
 Sometimes the explicit location matches the user location or locale, and sometimes it doesn't.
 
@@ -117,20 +117,20 @@ Many queries have more than one meaning. For example, the query <span class="que
 **Minor Interpretations**
 : Sometimes you will find less common interpretations. These are interpretations that few users have in mind. We will call these _minor interpretations_.
 
-**Query: <span class="query">apple</span>**  
-**Locale: English (US)**  
-![interpretation for the query "apple"](/img/qrg/translated/en/img212.jpg)
+**Query: <span class="query">apple</span>**\
+**Locale: English (US)**
+![interpretation for the query "apple"](../images/img212.jpg)
 
-**Query: <span class="query">mercury</span>**  
-**Locale: English (US)**  
-![interpretation for the query "mercury"](/img/qrg/translated/en/img213.jpg)
+**Query: <span class="query">mercury</span>**\
+**Locale: English (US)**
+![interpretation for the query "mercury"](../images/img213.jpg)
 
 ## Query Meanings Can Change Over Time
 
 Remember to think about the query and its current meaning as you are rating. We will assume users are looking for current information about a topic, the most recent product model, the most recent occurrence of a recurring event, etc., unless otherwise specified by the query.
 
-![interpretation for the query "George Bush"](/img/qrg/translated/en/img215.jpg)
-![interpretation for the query "iphone"](/img/qrg/translated/en/img216.jpg)
+![interpretation for the query "George Bush"](../images/img215.jpg)
+![interpretation for the query "iphone"](../images/img216.jpg)
 
 The interpretation of the query <span class="query">iphone</span>, _English (US)_ has changed over time as new iPhone models are released. The first iPhone was introduced in 2007. Users searching for <span class="query">iphone</span>, *English (US)* at that time were looking for the new (at the time) first iPhone model. Most users now are looking for the most recent or upcoming iPhone model. In the future, new models will come out and the dominant interpretation will change again.
 
@@ -415,14 +415,14 @@ Some queries clearly "ask" for nearby information or nearby results (e.g., busin
 <div class="results">
 <div class="result">
 
-![query for chinese restaurants](/img/qrg/translated/en/img220.jpg)  
-![user intent for chinese restaurants](/img/qrg/translated/en/img221.jpg)
+![query for chinese restaurants](../images/img220.jpg)  
+![user intent for chinese restaurants](../images/img221.jpg)
 
 </div>
 <div class="result">
 
-![query for gas stations](/img/qrg/translated/en/img224.jpg)  
-![user intent for gas stations](/img/qrg/translated/en/img225.jpg)
+![query for gas stations](../images/img224.jpg)  
+![user intent for gas stations](../images/img225.jpg)
 
 </div>
 <div class="result">
@@ -439,14 +439,14 @@ Some queries clearly "ask" for nearby information or nearby results (e.g., busin
 <div class="results">
 <div class="result">
 
-![query for tom cruise's height](/img/qrg/translated/en/img222.jpg)  
-![user intent for tom cruise's height](/img/qrg/translated/en/img223.jpg)
+![query for tom cruise's height](../images/img222.jpg)  
+![user intent for tom cruise's height](../images/img223.jpg)
 
 </div>
 <div class="result">
 
-![query for iq test](/img/qrg/translated/en/img226.jpg)  
-![user intent for iq test](/img/qrg/translated/en/img227.jpg)
+![query for iq test](../images/img226.jpg)  
+![user intent for iq test](../images/img227.jpg)
 
 </div>
 <div class="result">
@@ -460,8 +460,8 @@ Some queries clearly "ask" for nearby information or nearby results (e.g., busin
 
 And some queries could go either way. Some users may want nearby results and others may not.
 
-![](/img/qrg/translated/en/img229.jpg)  
-![](/img/qrg/translated/en/img230.jpg)
+![](../images/img229.jpg)\
+![](../images/img230.jpg)
 
 Here are some examples of queries with both visit-in-person and non-visit-in-person intent:
 
@@ -478,12 +478,12 @@ Here are some examples of queries with both visit-in-person and non-visit-in-per
 
 Sometimes, the user location can change our understanding of the query. For users close to Sunnyvale, California, the query <span class="query">turmeric</span> could have two different interpretations: a popular restaurant named Turmeric or the spice turmeric.
 
-![query for turmeric in California returning address to restaurant](/img/qrg/translated/en/img232.jpg)  
-![query for turmeric in California returning information about the spice](/img/qrg/translated/en/img233.jpg)
+![query for turmeric in California returning address to restaurant](../images/img232.jpg)\
+![query for turmeric in California returning information about the spice](../images/img233.jpg)
 
 In most other user locations, there is no restaurant (or anything else) named Turmeric and there is just one interpretation of the query <span class="query">turmeric</span>: the spice. The Sunnyvale restaurant is not well-known outside of Sunnyvale, California.
 
-![query for turmeric in Nebraska returning information about the spice](/img/qrg/translated/en/img234.jpg)
+![query for turmeric in Nebraska returning information about the spice](../images/img234.jpg)
 
 Use your common sense when thinking about queries and whether they have possible visit-in-person intent.
 
@@ -529,7 +529,7 @@ Web Search Result Blocks typically have a title link, a URL and a "snippet" of t
 <div class="results">
 <div class="result">
 
-![web search result block](/img/qrg/img236.jpg)
+![web search result block](../images/img236.jpg)
 
 </div>
 </div>
@@ -543,7 +543,7 @@ Web Search Result Blocks typically have a title link, a URL and a "snippet" of t
 <div class="results">
 <div class="result">
 
-![web search result block](/img/qrg/img237.jpg)
+![web search result block](../images/img237.jpg)
 
 </div>
 </div>
@@ -574,7 +574,7 @@ Because mobile phones can be difficult to use, SCRBs can help mobile phone users
 <div class="results">
 <div class="result">
 
-![special content result block](/img/qrg/img240.jpg)
+![special content result block](../images/img240.jpg)
 
 </div>
 </div>
@@ -589,7 +589,7 @@ Because mobile phones can be difficult to use, SCRBs can help mobile phone users
 <div class="results">
 <div class="result">
 
-![special content result block](/img/qrg/img242.jpg)
+![special content result block](../images/img242.jpg)
 
 </div>
 </div>
@@ -603,7 +603,7 @@ Because mobile phones can be difficult to use, SCRBs can help mobile phone users
 <div class="results">
 <div class="result">
 
-![special content result block](/img/qrg/img243.jpg)
+![special content result block](../images/img243.jpg)
 
 </div>
 </div>
@@ -617,7 +617,7 @@ Because mobile phones can be difficult to use, SCRBs can help mobile phone users
 <div class="results">
 <div class="result">
 
-![special content result block](/img/qrg/img244.jpg)
+![special content result block](../images/img244.jpg)
 
 </div>
 </div>
@@ -632,7 +632,7 @@ Because mobile phones can be difficult to use, SCRBs can help mobile phone users
 <div class="results">
 <div class="result">
 
-![special content result block](/img/qrg/img246.jpg)
+![special content result block](../images/img246.jpg)
 
 </div>
 </div>
@@ -646,7 +646,7 @@ Because mobile phones can be difficult to use, SCRBs can help mobile phone users
 <div class="results">
 <div class="result">
 
-![special content result block](/img/qrg/img247.jpg)
+![special content result block](../images/img247.jpg)
 
 </div>
 </div>
@@ -670,7 +670,7 @@ A mobile phone should respond to a **Device Action** query and do what the user 
 <div class="results">
 <div class="result">
 
-![device action result block](/img/qrg/img248.jpg)
+![device action result block](../images/img248.jpg)
 
 </div>
 </div>
@@ -685,7 +685,7 @@ A mobile phone should respond to a **Device Action** query and do what the user 
 <div class="results">
 <div class="result">
 
-![device action result block](/img/qrg/img250.jpg)
+![device action result block](../images/img250.jpg)
 
 </div>
 </div>
@@ -700,7 +700,7 @@ A mobile phone should respond to a **Device Action** query and do what the user 
 <div class="results">
 <div class="result">
 
-![device action result block](/img/qrg/img251.jpg)
+![device action result block](../images/img251.jpg)
 
 </div>
 </div>
@@ -715,7 +715,7 @@ A mobile phone should respond to a **Device Action** query and do what the user 
 <div class="results">
 <div class="result">
 
-![device action result block](/img/qrg/img252.jpg)
+![device action result block](../images/img252.jpg)
 
 </div>
 </div>
@@ -730,7 +730,7 @@ A mobile phone should respond to a **Device Action** query and do what the user 
 <div class="results">
 <div class="result">
 
-![device action result block](/img/qrg/img254.jpg)
+![device action result block](../images/img254.jpg)
 
 </div>
 </div>
@@ -748,7 +748,7 @@ Below are some additional examples of **Device Action** queries, along with the 
 <div class="examples">
 <div class="example">
 
-![device action query example 1](/img/qrg/img255.jpg)
+![device action query example 1](../images/img255.jpg)
 
 <div class="results">
 <div class="result">
@@ -765,7 +765,7 @@ The text on the right indicates that the user issued the query at 1:48 PM (13:48
 </div>
 <div class="example">
 
-![device action query example 2](/img/qrg/img257.jpg)
+![device action query example 2](../images/img257.jpg)
 
 <div class="results">
 <div class="result">
@@ -782,7 +782,7 @@ The right side shows the "action text" that you (the rater) might see in the rat
 </div>
 <div class="example">
 
-![device action query example 3](/img/qrg/img258.jpg)
+![device action query example 3](../images/img258.jpg)
 
 <div class="results">
 <div class="result">
@@ -799,7 +799,7 @@ The user wants to dial the number stored for the contact "Dan" on the device. Th
 </div>
 <div class="example">
 
-![device action query example 4](/img/qrg/img260.jpg)
+![device action query example 4](../images/img260.jpg)
 
 <div class="results">
 <div class="result">
@@ -816,7 +816,7 @@ This example shows that the Device Action result taken by the device will be to 
 </div>
 <div class="example">
 
-![device action query example 5](/img/qrg/img261.jpg)
+![device action query example 5](../images/img261.jpg)
 
 <div class="results">
 <div class="result">

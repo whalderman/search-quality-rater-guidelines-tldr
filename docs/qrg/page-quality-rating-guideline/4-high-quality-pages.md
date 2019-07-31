@@ -529,6 +529,6 @@ This discussion focuses on the landscaping for a particular paludarium (an aquar
 </div>
 </div>
 
-[h-n]: /img/qrg/high-narrow.jpg
-[m+n]: /img/qrg/medium+narrow.jpg
-[m+w]: /img/qrg/medium+wide.jpg
+[h-n]: ../images/high-narrow.jpg
+[m+n]: ../images/medium+narrow.jpg
+[m+w]: ../images/medium+wide.jpg

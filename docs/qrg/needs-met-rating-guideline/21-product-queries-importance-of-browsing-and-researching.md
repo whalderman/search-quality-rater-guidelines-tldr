@@ -20,9 +20,9 @@ Often, the results for product queries are YMYL pages. Users need high quality i
 <div class="results">
 <div class="result">
 
-![](/img/qrg/img779.jpg)  
-![needs met scale - highly meets](/img/qrg/hm.jpg)  
-![page quality scale - high - narrow range](/img/qrg/high-narrow.jpg)  
+![](../images/img779.jpg)  
+![needs met scale - highly meets](../images/hm.jpg)  
+![page quality scale - high - narrow range](../images/high-narrow.jpg)  
 This LP has comprehensive information about different types of high definition TVs (plasma, LCD, LED), as well as reviews about many specific models. The website is known for having helpful reviews and information about electronics.
 
 </div>
@@ -38,9 +38,9 @@ This LP has comprehensive information about different types of high definition T
 <div class="results">
 <div class="result">
 
-![](/img/qrg/img782.jpg)  
-![needs met scale - highly meets](/img/qrg/hm.jpg)  
-![page quality scale - high - narrow range](/img/qrg/high-narrow.jpg)  
+![](../images/img782.jpg)  
+![needs met scale - highly meets](../images/hm.jpg)  
+![page quality scale - high - narrow range](../images/high-narrow.jpg)  
 This is a helpful page for browsing and shopping for toddler girls jeans. There are many options for jeans in size 3T. This is a high quality store known for selling jeans.
 
 </div>
@@ -56,9 +56,9 @@ This is a helpful page for browsing and shopping for toddler girls jeans. There 
 <div class="results">
 <div class="result">
 
-![](/img/qrg/img785.jpg)  
-![needs met scale - highly meets](/img/qrg/hm.jpg)  
-![page quality scale - high - narrow range](/img/qrg/high-narrow.jpg)  
+![](../images/img785.jpg)  
+![needs met scale - highly meets](../images/hm.jpg)  
+![page quality scale - high - narrow range](../images/high-narrow.jpg)  
 This LP has a large collection of cufflinks from a very reputable retailer. There are many options and styles. This is a good page for browsing. There are helpful features at the top to choose styles, price ranges, etc.
 
 </div>
@@ -74,8 +74,8 @@ This LP has a large collection of cufflinks from a very reputable retailer. Ther
 <div class="results">
 <div class="result">
 
-![](/img/qrg/img789.jpg)  
-![needs met scale - highly meets](/img/qrg/hm.jpg)  
+![](../images/img789.jpg)  
+![needs met scale - highly meets](../images/hm.jpg)  
 This result has a variety of images of the ring, showing different angles and materials. Knowing what the ring looks like is very helpful to users who are researching the product and browsing options that are available.
 
 </div>

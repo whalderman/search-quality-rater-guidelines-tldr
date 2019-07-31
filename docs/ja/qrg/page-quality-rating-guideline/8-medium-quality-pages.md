@@ -330,5 +330,5 @@ MCの相対的な不足はこのフォーラムの専門性によって釣り合
 </div>
 </div>
 
-[m]: /img/qrg/medium.jpg
-[m-n]: /img/qrg/medium-narrow.jpg
+[m]: ../images/medium.jpg
+[m-n]: ../images/medium-narrow.jpg

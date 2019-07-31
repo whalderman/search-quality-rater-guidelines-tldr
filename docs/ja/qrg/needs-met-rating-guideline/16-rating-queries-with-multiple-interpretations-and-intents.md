@@ -30,16 +30,16 @@
 <div class="results">
 <div class="result">
 
-![](/img/qrg/img641.jpg)  
-![needs met scale - highly meets+](/img/qrg/hm+.jpg)
+![](../images/img641.jpg)  
+![needs met scale - highly meets+](../images/hm+.jpg)
 
 RBにはジャクソンビルの3つのtargetが表示される。この情報は店を訪れるユーザーにとって特に役立つ。これはユーザーが近くのtargetを見つけるという意図を満たす。
 
 </div>
 <div class="result">
 
-![](/img/qrg/img643.jpg)  
-![needs met scale - highly meets+](/img/qrg/hm+.jpg)
+![](../images/img643.jpg)  
+![needs met scale - highly meets+](../images/hm+.jpg)
 
 オンラインで買い物をしたなどの理由でWebサイトを利用しようとしているユーザーの意図を満たしており、結果に非常に満足している。
 
@@ -55,16 +55,16 @@ RBにはジャクソンビルの3つのtargetが表示される。この情報�
 <div class="results">
 <div class="result">
 
-![](/img/qrg/img646.jpg)  
-![needs met scale - highly meets+](/img/qrg/hm+.jpg)
+![](../images/img646.jpg)  
+![needs met scale - highly meets+](../images/hm+.jpg)
 
 RBには、近くの２つのDMVが表示される。この情報は店を訪れるユーザーにとって特に役立つ。これはユーザーが近くのDMVを見つけるという意図を満たす。
 
 </div>
 <div class="result">
 
-![](/img/qrg/img648.jpg)  
-![needs met scale - highly meets+](/img/qrg/hm+.jpg)
+![](../images/img648.jpg)  
+![needs met scale - highly meets+](../images/hm+.jpg)
 
 ユーザーが情報を見つけたり、Webサイトを使用したいという意図を満たしている。
 
@@ -80,16 +80,16 @@ RBには、近くの２つのDMVが表示される。この情報は店を訪れ
 <div class="results">
 <div class="result">
 
-![](/img/qrg/img650.jpg)  
-![needs met scale - highly meets+](/img/qrg/hm+.jpg)
+![](../images/img650.jpg)  
+![needs met scale - highly meets+](../images/hm+.jpg)
 
 RBには、近くの２つのCitibankが表示される。この情報は店を訪れるユーザーにとって特に役立つ。これはユーザーが近くのCitibankを見つけるという意図を満たす。
 
 </div>
 <div class="result">
 
-![](/img/qrg/img652.jpg)  
-![needs met scale - highly meets+](/img/qrg/hm+.jpg)
+![](../images/img652.jpg)  
+![needs met scale - highly meets+](../images/hm+.jpg)
 
 オンライン銀行を使う、またはWebサイトを使用するというユーザーの意図を満たし、結果に非常に満足している。
 

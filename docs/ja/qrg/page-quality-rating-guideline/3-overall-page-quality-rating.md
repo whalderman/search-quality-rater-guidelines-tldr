@@ -7,7 +7,7 @@ Page Quality評価のスケールは以下の通り。
 
 Page Quality 評価を行うにあたって、Page Quality スライドスケール（スライダー）を使用することで全体的なPage Quality評価をつけることができる。そのスライダーは以下の通り。
 
-![Page Quality評価スケールの画像](/img/qrg/page-quality-rating-scale.jpg)
+![Page Quality評価スケールの画像](../images/page-quality-rating-scale.jpg)
 
 上で挙げた5つの評価の他に、**Lowest+**、**Low+**、**Medium+**、**High+**という評価メモリがある。ここでの「+」は「+2分の1」を表す。例えば**Lowest+**は**Lowest**に2分の1だけ評価を+したものとなる。つまり**Lowest+**は**Lowest**と**Low**の中間を、同様に**Low+**は**Low**と**Medium**の中間を意味する。
 
