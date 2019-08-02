@@ -80,9 +80,9 @@
 
 コピーコンテンツの判断には、以下の全てのポイントを考慮します。
 
-- **コピー元が明確で、中身もそのままコピーされている場合** 「ページ全体をコピーしている」「ページの一部をコピーしている」「複数のページをコピーし、1つのページに つなぎ合わせている」などのパターンがあります。「テキストがそのままの形でコピーされている」といったも のは、最も判別しやすいタイプのコピーです。
-- **オリジナルに一部改変を加えたコピー** この場合、オリジナル部分を発見するのが難しくなります。「単語をいくつか改変」「文単位で改変」「特定の単語を、別の単語に置き換え」などのパターンがあります。こうした改変の目的はどの部分がオリジナルの情報源によるものなのかを判別しにくくすることであり、Google はこうしたコンテンツを「最低限の置換によるコピー」と呼びます。
-- **検索結果やニュースフィードのような、変化するコピー元からのコピー** コピー元が動的なコンテンツ（頻繁に中身が変わるコンテンツ）である場合、オリジナルの情報源が見つからないこともあります。そうした場合でも、Google は「コピーコンテンツ」と判断します。
+- **コピー元が明確で、中身もそのままコピーされている場合。**<!-- -->「ページ全体をコピーしている」「ページの一部をコピーしている」「複数のページをコピーし、1つのページにつなぎ合わせている」などのパターンがあります。「テキストがそのままの形でコピーされている」といったものは、最も判別しやすいタイプのコピーです。
+- **オリジナルに一部改変を加えたコピー。**<!-- -->この場合、オリジナル部分を発見するのが難しくなります。「単語をいくつか改変」「文単位で改変」「特定の単語を、別の単語に置き換え」などのパターンがあります。こうした改変の目的はどの部分がオリジナルの情報源によるものなのかを判別しにくくすることであり、Googleはこうしたコンテンツを「最低限の置換によるコピー」と呼びます。
+- **検索結果やニュースフィードのような、変化するコピー元からのコピー。**<!-- -->コピー元が動的なコンテンツ（頻繁に中身が変わるコンテンツ）である場合、オリジナルの情報源が見つからないこともあります。そうした場合でも、Googleは「コピーコンテンツ」と判断します。
 
 **重要：**<!-- -->ページのMCの全て／殆どがコピーされたもの（時間や労力、専門性をかけずに作成され、手動の情報整理やユーザーへの価値提供もないもの）である場合は、**Lowest**評価が適切である。クレジット表記を別のページのコンテンツとしている場合であっても、そのようなページには**Lowest**評価を適用する。
 
@@ -98,15 +98,15 @@ MCの全て／殆どがコピーされたコンテンツであるかどうか、
 
   例として"オズの魔法使い"に関する[ページ](https://guidelines.raterhub.com/images/WizardOfOzExcerpts1.jpg)から選んだいくつかの文章と語句、そしてそれらの検索方法を以下にまとめた。
 
-  - All are convinced by Dorothy that the Wizard can help them too  
+  - <span class="query">All are convinced by Dorothy that the Wizard can help them too</span>  
     引用符のある場合とない場合、どちらも試す：
     - <span class="query">"All are convinced by Dorothy that the Wizard can help them too"</span>
     - <span class="query">All are convinced by Dorothy that the Wizard can help them too</span>
-  - Dorothy uses the Golden Cap to summon the Winged Monkeys  
+  - <span class="query">Dorothy uses the Golden Cap to summon the Winged Monkeys</span>  
     引用符のある場合とない場合、どちらも試す：
     - <span class="query">"Dorothy uses the Golden Cap to summon the Winged Monkeys"</span>
     - <span class="query">Dorothy uses the Golden Cap to summon the Winged Monkeys</span>
-  - revealing an old man who had journeyed to Oz from Omaha long ago in a hot air balloon  
+  - <span class="query">revealing an old man who had journeyed to Oz from Omaha long ago in a hot air balloon</span>  
     引用符のある場合とない場合、どちらも試す：
     - <span class="query">"revealing an old man who had journeyed to Oz from Omaha long ago in a hot air balloon"</span>
     - <span class="query">revealing an old man who had journeyed to Oz from Omaha long ago in a hot air balloon</span>
@@ -191,11 +191,11 @@ Webマスターによる維持、管理が全くされていないサイトも�
 
 ウェブサイトおよびメインコンテンツの作成者に対して否定的または悪意のある評判がある場合は、**Lowest**評価がなされます。[How to Search for Reputation Information](/page-quality-rating-guideline/understanding-webpages-and-websites.html#how-to-search-for-reputation-information)においていくつか例が示されています。否定的または悪意のある評判よって、これらのウェブサイト上の全てのページは**Lowest**評価が適用されます。
 
-- **[子供のジャングルジムを販売するサイト](https://guidelines.raterhub.com/images/domeclimber.com.jpg)**
+- [子供のジャングルジムを販売するサイト](https://guidelines.raterhub.com/images/domeclimber.com.jpg)
   - **否定的な評判：**<!-- -->このビジネスの[BBBにおける評価](https://guidelines.raterhub.com/images/DomeClimberBBBReview.jpg)はFです。金融詐欺に関するニュース記事や、ユーザーがそのように送金し、商品を受け取ることができなかったかなどのレビューが多くあります。
-- **[眼鏡関連商品の販売サイト](https://guidelines.raterhub.com/images/RG3_3.5-40.jpg)**
+- [眼鏡関連商品の販売サイト](https://guidelines.raterhub.com/images/RG3_3.5-40.jpg)
   - **否定的/悪意のある評判：**<!-- -->このウェブサイトは、ユーザーを脅迫するなどの犯罪行為を行っています。
-- **[入院した退役軍人コミュニティに奉仕する組織](https://guidelines.raterhub.com/images/PQ.3.5.10.jpg)**
+- [入院した退役軍人コミュニティに奉仕する組織](https://guidelines.raterhub.com/images/PQ.3.5.10.jpg)
   - **否定的な評判：**<!-- -->ニュースサイトやチャリティーウォッチドッグサイトには詐欺や金銭的ミスなどのこのサイトに対する否定的な記事が多くあります。
 
 ## ユーザーに間違った情報を与える可能性のあるページ
@@ -204,15 +204,15 @@ Webマスターによる維持、管理が全くされていないサイトも�
 
 情報として表示される可能性のあるページにおける以下の種類のコンテンツに対して、**Lowest**評価が適用されます。
 
-- **明らかに不正確なコンテンツ**
-- **定評のある専門家の意見と異なる内容のYMYLコンテンツ**
-- **虚偽であると証明されている、または根拠のない陰謀説**
+- 明らかに不正確なコンテンツ
+- 定評のある専門家の意見と異なる内容のYMYLコンテンツ
+- 虚偽であると証明されている、または根拠のない陰謀説
 
 以下の状況でも、**Lowest**評価が適用されます。
 
-- **コンテンツの作成者が、陰謀論や明らかに不正確なコンテンツが正しいものであると信じている、または真実である**かが不明である場合
-- **コンテンツ作成者が故意にユーザーに間違った情報を与えようとしている場合**
-- **コンテンツ作成者がその情報か正しいものかどうかを確かめずに、陰謀説や明らかに不正確な情報を広めている場**合。例えば、コンテンツ作成者がお金を稼ぐ、または注目を集めるためにコンテンツを制作しているなど。
+- コンテンツの作成者が、陰謀論や明らかに不正確なコンテンツが正しいものであると信じている、または真実であるかが不明である場合
+- コンテンツ作成者が故意にユーザーに間違った情報を与えようとしている場合
+- コンテンツ作成者がその情報か正しいものかどうかを確かめずに、陰謀説や明らかに不正確な情報を広めている場合。例えば、コンテンツ作成者がお金を稼ぐ、または注目を集めるためにコンテンツを制作しているなど。
 
 **最低**品質ページに掲載される情報の例として、月面着陸の偽造、にんじんがガンを治すというデマ、トカゲのような人々によってアメリカ政府が管理されているという噂などがあります。これらのトピックは面白いように思えるかもしれませんが、このようなインターネット上の陰謀説や誤情報を信じる人々が存在したなど、現実世界への影響がありました。
 
