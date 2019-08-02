@@ -122,9 +122,9 @@ We recommend going through the UI in this case.
 ## Image Optimization
 
 ::: tip Automate image optimization
-Images are often a website's biggest use of bandwidth - and bandwidth costs users money.
+Images are often a website's largest use of bandwidth — and bandwidth costs users money.
 
-In most parts of the world, and especially regarding cell phones, users do not or cannot pay for unlimited data. Save your users (and yourself) some time and money by implementing automated image optimization.
+In most parts of the world, and especially when it comes to cell phones, users do not or cannot pay for "unlimited data." Save your users and yourself both time and money by implementing automated image optimization.
 :::
 
 Image optimization is one of the most difficult, yet most beneficial areas of optimization for many websites. Instead of image size and mobile responsiveness we focus on image format
@@ -137,9 +137,9 @@ Image optimization is one of the most difficult, yet most beneficial areas of op
 - Instead of using animated images (`.gif`/`.apng`/`webp`), use a video format for signifcantly smaller file size and load speed.
 :::
 
-### Tools and Programs
+### GUI Tools
 
-Some image optimization tools and programs include:
+Some image compression/conversion tools and programs include:
 
 - [E-Mage](https://emage.js.org/) (Mac OS, Windows, *nix)
   - Only does lossless compression
@@ -151,28 +151,35 @@ Some image optimization tools and programs include:
   - Can remove unnecessary image meta data
   - Able to convert images to modern formats like [.webp](https://developers.google.com/speed/webp/) and .jp2.
 
-### Libraries
+### Command-Line Tools and Libraries
 
 Some example image optimization libraries include:
 
+#### imagemin
+
+[Imagemin](https://github.com/imagemin/imagemin) is a tool for automating the compression of a wide array of image file types. There are multiple compression plugins available (and referenced below) for every popular image format supported on the web.
+
+#### WebP
+
+- [project page](https://developers.google.com/speed/webp/)
+
 #### JPEG
 
-- mozjpeg ([source](https://github.com/mozilla/mozjpeg), [imagemin plugin](https://github.com/imagemin/imagemin-mozjpeg))
-- jpegoptim ([source](https://github.com/tjko/jpegoptim), [imagemin plugin](https://github.com/imagemin/imagemin-jpegoptim))
-- jpegtran ([project page](https://jpegclub.org/reference/reference-sources/), [imagemin plugin](https://github.com/imagemin/imagemin-jpegtran))
+- [mozjpeg](https://github.com/mozilla/mozjpeg), ([imagemin plugin](https://github.com/imagemin/imagemin-mozjpeg))
+- [jpegoptim](https://github.com/tjko/jpegoptim), ([imagemin plugin](https://github.com/imagemin/imagemin-jpegoptim))
+- [jpegtran](https://jpegclub.org/reference/reference-sources/), ([imagemin plugin](https://github.com/imagemin/imagemin-jpegtran))
 
 #### PNG
 
-- advpng ([part of advancecomp](https://github.com/amadvance/advancecomp), [imagemin plugin](https://github.com/imagemin/imagemin-advpng))
-- optipng ([project page](http://optipng.sourceforge.net/), [imagemin plugin](https://github.com/imagemin/imagemin-optipng))
-- pngcrush ([project page](https://pmt.sourceforge.io/pngcrush/), [imagemin plugin](https://github.com/imagemin/imagemin-pngcrush))
-- pngout ([imagemin plugin](https://github.com/imagemin/imagemin-pngout))
-- zopfli ([source](https://github.com/google/zopfli), [imagemin plugin](https://github.com/imagemin/imagemin-zopfli))
+- [advpng](https://github.com/amadvance/advancecomp) (part of advancecomp), ([imagemin plugin](https://github.com/imagemin/imagemin-advpng))
+- [optipng](http://optipng.sourceforge.net/), ([imagemin plugin](https://github.com/imagemin/imagemin-optipng))
+- [pngcrush](https://pmt.sourceforge.io/pngcrush/), ([imagemin plugin](https://github.com/imagemin/imagemin-pngcrush))
+- [zopfli](https://github.com/google/zopfli), ([imagemin plugin](https://github.com/imagemin/imagemin-zopfli))
 
 #### SVG
 
-- svgo ([source](https://github.com/svg/svgo), [imagemin plugin](https://github.com/imagemin/imagemin-svgo))
+- [svgo](https://github.com/svg/svgo), ([imagemin plugin](https://github.com/imagemin/imagemin-svgo))
 
 #### GIF
 
-- gifsicle ([source](https://github.com/kohler/gifsicle), [imagemin plugin](https://github.com/imagemin/imagemin-gifsicle))
+- [gifsicle](https://github.com/kohler/gifsicle), ([imagemin plugin](https://github.com/imagemin/imagemin-gifsicle))
