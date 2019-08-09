@@ -134,7 +134,7 @@ Image optimization is one of the most difficult, yet most beneficial areas of op
 - The size of an image rendered on-page should match it's intrinsic (original) size, especially larger images. If an image is larger than necessary, resize it.
 - Use `.svg` for simple logos and designs.
 - Use modern image formats like `.webp`.
-- Instead of using animated images (`.gif`/`.apng`/`webp`), use a video format for signifcantly smaller file size and load speed.
+- Instead of using animated images (`.gif`/`.apng`/`webp`), use a video format (`.webm`/`.mp4`) for signifcantly smaller file size and increased load speed.
 :::
 
 ### GUI Tools
