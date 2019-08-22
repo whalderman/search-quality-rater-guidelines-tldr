@@ -73,7 +73,7 @@ While error pages may not be the most exciting part of a website, they are still
 - Page is covered in ads
 :::
 
-## 💵 Financial Pages
+## 💴 Financial Pages
 
 <div class="note">
 
