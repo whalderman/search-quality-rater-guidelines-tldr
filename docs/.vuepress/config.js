@@ -44,7 +44,7 @@ module.exports = {
   },
   themeConfig: {
     logo: '/img/BCJワイドロゴ.svg',
-    repo: 'thewarrman/sqrg-bcj',
+    repo: 'thewarrman/search-quality-rater-guidelines-tldr',
     docsBranch: 'main',
     editLinks: true,
     docsDir: 'docs',
