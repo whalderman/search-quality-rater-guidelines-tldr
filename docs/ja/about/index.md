@@ -6,11 +6,11 @@
 
 We've got offices internationally; if you're an international business looking to enter the **Japanese market**, feel free to contact us by phone or through a short questionnaire.
 
-- Available by phone on weekdays（10:00-18:00 JST） - [今すぐ電話](tel:+81354683860)
+- Available by phone on weekdays（10:00-18:00 JST） - [今すぐ電話 📱](tel:+81354683860)
 - [アンケート（日本語）](https://bruceclay.jpn.com/contact/)
-- [アンケート（英語・English）](https://www.bruceclay.com/jp/contactform.htm)
+- [アンケート（英語）](https://www.bruceclay.com/jp/contactform.htm)
 
-If you're looking for an office targeting a different market, simply use the links under **Digital Marketing Services**. **↗**
+If you're looking for an office targeting a different market, simply use the links under **Need Marketing Help? ↗**
 
 ## Unanswered Questions
 
@@ -23,4 +23,4 @@ This project would not have been created without the open source software provid
 
 ## Translations
 
-Small portions of this site's Quality Rater Guidelines translation are sourced from [広岡 謙さん](https://twitter.com/0penkenhiro)のolder translation of the same document.
+Small portions of this site's Quality Rater Guidelines translation were sourced from [広岡さん](https://twitter.com/0penkenhiro)のolder translation of the same document.
