@@ -2,8 +2,6 @@
 
 Here we summarize what to look for on a prospect's site (as told/insinuated by the Quality Rater Guidelines), and how many man-hours certain problems will take to fix.
 
-> Disclaimer: The following content includes opinions and reasoning from the SEO professionals at [Bruce Clay Japan Inc.](https://bruceclay.jpn.com) These opinions and suggestions are an attempt to summarize Google's Quality Rater Guidelines, but are **not in any way** endorsed or backed by Google.
-
 ## Things to Look Out For
 
 ::: warning

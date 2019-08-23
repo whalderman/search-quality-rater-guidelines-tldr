@@ -2,12 +2,6 @@
 
 Here we go over various optimizations that can (and should) be made to a site, as well as some tools that can be used.
 
-<div class="note">
-
-Disclaimer: The following content includes opinions and reasoning from the SEO professionals at [Bruce Clay Japan Inc.](https://bruceclay.jpn.com) These opinions and suggestions are an attempt to summarize Google's Quality Rater Guidelines, but are **not in any way** endorsed or backed by Google.
-
-</div>
-
 ::: tip A Few Quick Tips
 
 - Every page on the website must be created with the intention of **helping users**. Building pages to take advantage of users (deceptive ad placement, crypto mining) will negatively affect your site's ability to rank.

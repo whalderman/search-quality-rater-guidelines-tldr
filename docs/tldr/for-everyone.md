@@ -9,12 +9,6 @@ meta:
 
 Here we try to keep things as concise as possible, informing you about what to check your site for and which team needs to handle the problem if it isn't obvious.
 
-<div class="note">
-
-Disclaimer: The following content includes opinions and reasoning from the SEO professionals at [Bruce Clay Japan Inc.](https://bruceclay.jpn.com) These opinions and suggestions are an attempt to summarize Google's Quality Rater Guidelines, but are **not in any way** endorsed or backed by Google.
-
-</div>
-
 ## General Guidelines Overview
 
 Within Google's search results, pages are ranked based on two things:
@@ -87,7 +81,7 @@ In general, this implies a more trustworthy website overall.
 :::  
 
 ::: tip Include contact information and policies.
-Depending on your type of business, Google expects different types and amounts of contact information and policies. This information is extremely important for any website that handles money (stores, banks, credit card companies, etc.).
+Depending on your type of business, Google expects different types and amounts of contact information and policies. **Providing this information is extremely important for any website that handles money (stores, banks, credit card companies, etc.).**
 :::
 
 #### Contact Info Suggestions
@@ -154,34 +148,7 @@ For pages that have a beneficial purpose, E-A-T is:
 
 ### How to Evoke Expertise, Authority, and Trust
 
-E-A-T is determined differently based on the topic(s) of your website. For guidance based on page and site
-
-#### Medical Site
-
-- Content must be created by and attributed to those with appropriate medical expertise or accreditation.
-- Content must look professional (e.g. no spelling errors)
-- Content must be updated on a regular basis
-
-#### News/Journalism Site
-
-- Content must be produced with [journalistic professionalism](https://en.wikipedia.org/wiki/Journalism_ethics_and_standards#Common_elements)
-- Content must be factually accurate
-- Provide a page detailing the company's editorial policies and review process
-- Must match **well-established** consensus where such a consensus exists
-
-#### Scientific Information Site
-
-- Content must be created by and attributed to those with appropriate medical expertise or accreditation.
-- Must match **well-established** consensus where such a consensus exists
-
-#### Financial/Legal/Tax/etc. Site
-
-- Must be trustworthy (e.g. actively gather good reviews)
-- Maintain and update content regularly
-
-#### Advice, Hobbies, Blog Site
-
-- Content must be written by an expert or some highly experienced person/company
+E-A-T is determined differently based on the topic(s) of your website. For guidance based on page and site type, [see here.](/tldr/quality-characteristics/)
 
 ## High Quality Pages
 
@@ -210,8 +177,8 @@ Highest Quality pages must have at least one of the following characteristics:
 
 - **Exceptionally** high Expertise, Authoritativeness, and Trustworthiness (E-A-T)
   - Formal expertise is important for topics such as medical, financial, or legal advice
-  - everyday expertise is important for topics such as humor or recipes
-  - an expert page on cooking may be a page on a professional chef's website (formal expertise), or it may be someone who posts popular cooking videos on YouTube (everyday expertise)
+  - Everyday expertise is important for topics such as humor or recipes
+  - An expert page on cooking may be a page on a professional chef's website (formal expertise), or it may be someone who posts popular cooking videos on YouTube (everyday expertise)
 - An **exceptional** amount of high or highest quality MC
   - The quality standards change depending on the **purpose of the page** and the **type of content**
 - **Exceptionally** positive reputation for the person or company that created the content
@@ -287,7 +254,7 @@ Medium quality pages are categorized into one of the following:
 ## Page Quality Rating Tasks
 
 ::: tip Maintain high Expertise, Authority, and Trust (E-A-T).
-A page is judged on the reputation and E‑A‑T of **both the website and the creator(s)** of the MC. This is especially important when the page covers a YMYL topic.
+A page is judged on the reputation and E‑A‑T of both the website and the creator(s) of the MC. **This is especially important when the page covers a YMYL topic.**
 :::
 
 ## Understanding Mobile Users, Mobile Queries, and Mobile Results
@@ -296,8 +263,11 @@ A page is judged on the reputation and E‑A‑T of **both the website and the c
 Think about the mobile user when you are designing your site.
 
 - Are forms easy to fill out on mobile?
+  - i.e. Are the entry fields and buttons large and easy to select?
 - Is it easy to navigate the site on mobile?
+  - i.e. Is the global navigation accessible from anywhere on the page? Are links within the content large and easy to tap?
 - Are you answering/solving the mobile user's query as quickly as possible?
+  - i.e. Is the answer to the user's query above-the-fold? Are you not impeding the user with interstitials and/or ads?
 :::
 
 ::: tip Every user query has a goal.

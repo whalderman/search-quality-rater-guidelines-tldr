@@ -2,12 +2,6 @@
 
 Here we summarize what to avoid when designing a site and, in some cases, what can be done instead.
 
-<div class="note">
-
-Disclaimer: The following content includes opinions and reasoning from the SEO professionals at [Bruce Clay Japan Inc.](https://bruceclay.jpn.com) These opinions and suggestions are an attempt to summarize Google's Quality Rater Guidelines, but are **not in any way** endorsed or backed by Google.
-
-</div>
-
 ## What to Avoid
 
 > - Websites and pages that are created with intent to harm users, **deceive users**, or make money with no attempt to help users, should receive the **Lowest** page quality rating.

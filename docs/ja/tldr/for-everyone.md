@@ -9,12 +9,6 @@ meta:
 
 Here we try to keep things as concise as possible, informing you about what to check your site for and which team needs to handle the problem if it isn't obvious.
 
-<div class="note">
-
-Disclaimer: The following content includes opinions and reasoning from the SEO professionals at [Bruce Clay Japan Inc.](https://bruceclay.jpn.com) These opinions and suggestions are an attempt to summarize Google's Quality Rater Guidelines, but are **not in any way** endorsed or backed by Google.
-
-</div>
-
 ## General Guidelines Overview
 
 Within Google's search results, pages are ranked based on two things:
@@ -87,7 +81,7 @@ In general, this implies a more trustworthy website overall.
 :::  
 
 ::: tip Include contact information and policies.
-Depending on your type of business, Google expects different types and amounts of contact information and policies. This information is extremely important for any website that handles money (stores, banks, credit card companies, etc.).
+Depending on your type of business, Google expects different types and amounts of contact information and policies. **Providing this information is extremely important for any website that handles money (stores, banks, credit card companies, etc.).**
 :::
 
 #### Contact Info Suggestions
