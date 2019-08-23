@@ -1,6 +1,6 @@
 # Example High/Low Quality Webpage Characteristics
 
-The examples listed below are pulled **only** from what we could find within Google's [Search Quality Rater Guidelines](/qrg/general-guidelines-overview/), meaning this list of high and low quality webpage characteristics is not exhaustive. There are other characteristics we can infer through experience, but we'd like to keep the maybes out of this document.
+Note that the examples listed below are pulled **only** from what we could find within Google's [Search Quality Rater Guidelines](/qrg/general-guidelines-overview/), meaning this list of high and low quality webpage characteristics is not anywhere near exhaustive.
 
 ## 🕸️ All Webpages
 
@@ -83,6 +83,8 @@ Reputation and E-A-T of both the website and the authors of the MC is extremely 
 
 ::: tip High-Quality Characteristics
 
+- Is trustworthy and highly reviewed
+- Maintains and updates content regularly
 - Website contains contact information
 :::
 
@@ -160,6 +162,9 @@ Reputation and E-A-T of both the website and the authors of the MC is extremely 
 
 ::: tip High-Quality Characteristics
 
+- Content is created by and attributed to those with appropriate medical expertise or accreditation.
+- Content looks professional (e.g. no spelling errors)
+- Content is updated on a regular basis
 - Website contains contact information
 - Matches widely accepted consensus where such a consensus exists
 :::
@@ -179,6 +184,10 @@ Reputation and E-A-T of both the website and the authors of the MC is extremely 
 
 ::: tip High-Quality Characteristics
 
+- Content is produced with [journalistic professionalism](https://en.wikipedia.org/wiki/Journalism_ethics_and_standards#Common_elements)
+- Content is factually accurate
+- Provides a page detailing the company's editorial policies and review process
+- Matches **well-established** consensus where such a consensus exists
 - The author is clearly labeled
 - Opinion pieces are clearly labeled as opinion pieces
 - The Newspaper has received various awards (e.g. Pulitzer Prize)
@@ -194,7 +203,7 @@ Reputation and E-A-T of both the website and the authors of the MC is extremely 
 - Factual inaccuracies
 - Title is inaccurate
 - Contains no citations
-- Author is infamous
+- Author is infamous (has an overall bad reputation)
 :::
 
 ## 🍳 Recipe Pages
@@ -237,10 +246,12 @@ Some example Your Money or Your Life ([YMYL](/qrg/page-quality-rating-guideline/
 - Site includes customer support pages
 :::
 
-## 🤖 Technical Webpages
+## 🤖 Scientific or Technical Webpages
 
 ::: tip High-Quality Characteristics
 
+- Content is created by and attributed to those with appropriate expertise or accreditation.
+- Matches **well-established** consensus where such a consensus exists
 - Documentation is written by the same company that sells the software/hardware
 :::
 

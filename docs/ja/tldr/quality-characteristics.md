@@ -1,6 +1,6 @@
 # Example High/Low Quality Webpage Characteristics
 
-The examples listed below are pulled **only** from what we could find within Google's [Search Quality Rater Guidelines](/qrg/general-guidelines-overview/), meaning this list of high and low quality webpage characteristics is not exhaustive. There are other characteristics we can infer through experience, but we'd like to keep the maybes out of this document.
+The examples listed below are pulled **only** from what we could find within Google's [Search Quality Rater Guidelines](/ja/qrg/general-guidelines-overview/), meaning this list of high and low quality webpage characteristics is not exhaustive.
 
 ## 🕸️ All Webpages
 
