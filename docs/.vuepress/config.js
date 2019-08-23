@@ -52,7 +52,7 @@ module.exports = {
       '/': {
         label: 'English', // label for this language in the 🌐 dropdown
         selectText: '🌐',
-        editLinkText: 'Edit', // text for the edit-on-github link
+        editLinkText: '✍️', // text for the edit-on-github link
         lastUpdated: 'Updated',
         nav: require('./nav/en'),
         sidebar: require('./sidebar/en'),
@@ -61,7 +61,7 @@ module.exports = {
       '/ja/': {
         label: '日本語',
         selectText: '🌐',
-        editLinkText: '編集',
+        editLinkText: '✍️',
         lastUpdated: '前回更新',
         nav: require('./nav/ja'),
         sidebar: require('./sidebar/ja'),
