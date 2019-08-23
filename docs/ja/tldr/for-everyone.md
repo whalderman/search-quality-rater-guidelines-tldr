@@ -148,34 +148,7 @@ For pages that have a beneficial purpose, E-A-T is:
 
 ### How to Evoke Expertise, Authority, and Trust
 
-E-A-T is determined differently based on the topic(s) of your website. For guidance based on page and site
-
-#### Medical Site
-
-- Content must be created by and attributed to those with appropriate medical expertise or accreditation.
-- Content must look professional (e.g. no spelling errors)
-- Content must be updated on a regular basis
-
-#### News/Journalism Site
-
-- Content must be produced with [journalistic professionalism](https://ja.wikipedia.org/wiki/報道倫理#報道倫理の要素)
-- Content must be factually accurate
-- Provide a page detailing the company's editorial policies and review process
-- Must match **well-established** consensus where such a consensus exists
-
-#### Scientific Information Site
-
-- Content must be created by and attributed to those with appropriate medical expertise or accreditation.
-- Must match **well-established** consensus where such a consensus exists
-
-#### Financial/Legal/Tax/etc. Site
-
-- Must be trustworthy (e.g. actively gather good reviews)
-- Maintain and update content regularly
-
-#### Advice, Hobbies, Blog Site
-
-- Content must be written by an expert or some highly experienced person/company
+E-A-T is determined differently based on the topic(s) of your website. For guidance based on page and site type, [see here.](/ja/tldr/quality-characteristics/)
 
 ## High Quality Pages
 
@@ -204,8 +177,8 @@ Highest Quality pages must have at least one of the following characteristics:
 
 - **Exceptionally** high Expertise, Authoritativeness, and Trustworthiness (E-A-T)
   - Formal expertise is important for topics such as medical, financial, or legal advice
-  - everyday expertise is important for topics such as humor or recipes
-  - an expert page on cooking may be a page on a professional chef's website (formal expertise), or it may be someone who posts popular cooking videos on YouTube (everyday expertise)
+  - Everyday expertise is important for topics such as humor or recipes
+  - An expert page on cooking may be a page on a professional chef's website (formal expertise), or it may be someone who posts popular cooking videos on YouTube (everyday expertise)
 - An **exceptional** amount of high or highest quality MC
   - The quality standards change depending on the **purpose of the page** and the **type of content**
 - **Exceptionally** positive reputation for the person or company that created the content
@@ -281,7 +254,7 @@ Medium quality pages are categorized into one of the following:
 ## Page Quality Rating Tasks
 
 ::: tip Maintain high Expertise, Authority, and Trust (E-A-T).
-A page is judged on the reputation and E‑A‑T of **both the website and the creator(s)** of the MC. This is especially important when the page covers a YMYL topic.
+A page is judged on the reputation and E‑A‑T of both the website and the creator(s) of the MC. **This is especially important when the page covers a YMYL topic.**
 :::
 
 ## Understanding Mobile Users, Mobile Queries, and Mobile Results
@@ -290,8 +263,11 @@ A page is judged on the reputation and E‑A‑T of **both the website and the c
 Think about the mobile user when you are designing your site.
 
 - Are forms easy to fill out on mobile?
+  - i.e. Are the entry fields and buttons large and easy to select?
 - Is it easy to navigate the site on mobile?
+  - i.e. Is the global navigation accessible from anywhere on the page? Are links within the content large and easy to tap?
 - Are you answering/solving the mobile user's query as quickly as possible?
+  - i.e. Is the answer to the user's query above-the-fold? Are you not impeding the user with interstitials and/or ads?
 :::
 
 ::: tip Every user query has a goal.
@@ -332,9 +308,9 @@ The search result is helpful for **most** mobile users. Some other users may wan
 
 ::: tip Characteristics of pages that highly satisfy a user's query:
 
-- Content is [high quality](/qrg/page-quality-rating-guideline/4-high-quality-pages.html#characteristics-of-high-quality-pages)
+- Content is [high quality](/ja/qrg/page-quality-rating-guideline/4-high-quality-pages.html#characteristics-of-high-quality-pages)
 - Content is accurate
-- The author or business is [authoritative](/qrg/page-quality-rating-guideline/3-overall-page-quality-rating.html#expertise-authoritativeness-and-trustworthiness-e‑a‑t) for the topic
+- The author or business is [authoritative](/ja/qrg/page-quality-rating-guideline/3-overall-page-quality-rating.html#expertise-authoritativeness-and-trustworthiness-e‑a‑t) for the topic
 - Content is entertaining
 - Content is new and recent (e.g., breaking news on a topic)
 :::
@@ -356,14 +332,14 @@ Helpful for only a few users. Many or most users would want to see more results.
 
 ::: warning Characteristics of pages that only slightly satisfy a user's query:
 
-- The page satisfies a [minor interpretation](/qrg/needs-met-rating-guideline/16-rating-queries-with-multiple-interpretations-and-intents.html#rating-queries-with-multiple-interpretations-and-intents) of a query
-- The page is [low quality](/qrg/page-quality-rating-guideline/6-low-quality-pages.html)
+- The page satisfies a [minor interpretation](/ja/qrg/needs-met-rating-guideline/16-rating-queries-with-multiple-interpretations-and-intents.html#rating-queries-with-multiple-interpretations-and-intents) of a query
+- The page is [low quality](/ja/qrg/page-quality-rating-guideline/6-low-quality-pages.html)
 - The information is outdated
 - Content is inaccurate
 - Content is too specific
 - Content is too broad
 - Too niche for the general population
-- The title is [misleading or exaggerated](/qrg/page-quality-rating-guideline/6-low-quality-pages.html#low-quality-main-content)
+- The title is [misleading or exaggerated](/ja/qrg/page-quality-rating-guideline/6-low-quality-pages.html#low-quality-main-content)
 :::
 
 ### Fails to Meet
@@ -380,10 +356,10 @@ These pages completely fail to meet/satisfy the needs of users. All or almost al
   - Malicious downloads
   - Phishing pages
 - Website impersonates another brand
-- Content attempts to [deceive users](/qrg/page-quality-rating-guideline/7-lowest-quality-pages.html#deceptive-page-purpose)
+- Content attempts to [deceive users](/ja/qrg/page-quality-rating-guideline/7-lowest-quality-pages.html#deceptive-page-purpose)
   - Fake reviews
   - Fake news
-- Provides inaccurate [YMYL information](/qrg/page-quality-rating-guideline/2-understanding-webpages-and-websites.html#your-money-or-your-life-ymyl-pages)
+- Provides inaccurate [YMYL information](/ja/qrg/page-quality-rating-guideline/2-understanding-webpages-and-websites.html#your-money-or-your-life-ymyl-pages)
   - Inaccurate medical information
   - Inaccurate tax information
   - Inaccurate visa/green card information
@@ -393,11 +369,11 @@ These pages completely fail to meet/satisfy the needs of users. All or almost al
 
 ### The Relationship between E‑A‑T and Needs Met
 
-If a page has [no useful purpose](/tldr/for-everyone.html#understanding-webpages-and-websites), it will not rank.
+If a page has [no useful purpose](/ja/tldr/for-everyone.html#understanding-webpages-and-websites), it will not rank.
 
 <div class="note">
 
-[Website queries](/qrg/understanding-mobile-user-needs/12-understanding-mobile-users-queries-and-results.html#website-queries) are an exception to the rule above. However, those types of queries do not target new customers.
+[Website queries](/ja/qrg/understanding-mobile-user-needs/12-understanding-mobile-users-queries-and-results.html#website-queries) are an exception to the rule above. However, those types of queries do not target new customers.
 
 </div>
 
@@ -422,4 +398,4 @@ Google takes the type of entity (what you're searching for) into account when de
 
 ### Product Queries: Importance of Browsing and Researching
 
-See [🛒 Shopping Webpages](/tldr/quality-characteristics.html#%F0%9F%9B%92-shopping-webpages).
+See [🛒 Shopping Webpages](/ja/tldr/quality-characteristics.html#%F0%9F%9B%92-shopping-webpages).
