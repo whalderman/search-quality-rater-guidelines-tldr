@@ -1,3 +1,10 @@
+---
+title: Acquiring Tasks
+meta:
+  - name: description
+    content: Please note that changes are sometimes made to the appearance of this page, so it may not look exactly as it appears on this page.
+---
+
 # Acquiring Tasks
 
 Here is a simplified screenshot of the task acquisition page on the Evaluation Platform. Please note that changes are sometimes made to the appearance of this page, so it may not look exactly as it appears below.

@@ -1,3 +1,10 @@
+---
+title: タスクを取得する
+meta:
+  - name: description
+    content: Evaluation Platformのデザインは時々変わるので、異なる場合がある。
+---
+
 # タスクを取得する
 
 Evaluation Platformの簡易化したタスク受注ページのスクリーンショットだ。Evaluation Platformのデザインは時々変わるので、異なる場合がある。

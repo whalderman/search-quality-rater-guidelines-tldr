@@ -1,3 +1,10 @@
+---
+title: Lowest Quality Pages
+meta:
+  - name: description
+    content: Lowest quality pages include pages that lack purpose, fail to achieve their purpose, potentially spread hate, misinform users, deceive users, or are potentially harmful.
+---
+
 # Lowest Quality Pages
 
 This section describes **Lowest** quality pages. The examples at the end of this section are critical for understanding these concepts, so please review them carefully. As a reminder, here are the steps for doing PQ rating.

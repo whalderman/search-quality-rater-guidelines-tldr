@@ -1,3 +1,10 @@
+---
+title: Rating Porn, Foreign Language, Did Not Load, and Upsetting‑Offensive Results
+meta:
+  - name: description
+    content: Porn, Foreign Language, Did Not Load, and Upsetting‑Offensive flags are assigned to result blocks when appropriate.
+---
+
 # Rating Porn, Foreign Language, Did Not Load, and Upsetting‑Offensive Results
 
 You will assign **Porn**, **Foreign Language**, **Did Not Load**, and **Upsetting‑Offensive** flags to result blocks when appropriate. Some rating tasks may ask you to identify **Not‑for‑Everyone** results. All flags are query-independent, meaning that they do not depend on the query. Here is a screenshot of the flags:

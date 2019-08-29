@@ -1,3 +1,10 @@
+---
+title: Who Made This TL;DR?
+meta:
+  - name: description
+    content: The TL;DRs for Google's Quality Rater Guidelines were created by Bruce Clay Japan Inc and made public in order to save our fellow marketers some time.
+---
+
 # Made Searchable by Bruce Clay Japan
 
 [Bruce Clay Japan Inc.](https://bruceclay.jpn.com/) is the Japanese branch of [Bruce Clay Inc.](https://www.bruceclay.com) *(surprise, surprise)*

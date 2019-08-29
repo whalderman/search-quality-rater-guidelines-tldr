@@ -1,3 +1,10 @@
+---
+title: "Product Queries: Importance of Browsing and Researching"
+meta:
+  - name: description
+    content: Page Quality ratings for product results need extra care and attention. Users need high quality information from authoritative sources when researching products, especially when products are expensive or represent a major investment/important life event.
+---
+
 # Product Queries: Importance of Browsing and Researching
 
 Some product queries, such as <span class="query">ipad reviews</span>, have a clear information-seeking (**Know**) intent. Other product queries, such as <span class="query">buy ipad</span>, have a clear purchase (**Do**) intent. And some product queries, such as <span class="query">ipad store.apple.com</span>, have a clear navigation (**Website**) intent. However, most product queries don't obviously specify one type of intent.

@@ -1,3 +1,10 @@
+---
+title: High Quality Pages
+meta:
+  - name: description
+    content: What makes a High quality page? A High quality page should have a beneficial purpose and achieve that purpose well.
+---
+
 # High Quality Pages
 
 In this section, we will describe characteristics of **High** quality pages and give many examples. Examples help calibrate your ratings, so please review each one.

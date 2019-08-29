@@ -1,3 +1,10 @@
+---
+title: Introduction to Page Quality Rating
+meta:
+  - name: description
+    content: The purpose of a Page Quality rating is to determine how well a page achieves its purpose for a given query.
+---
+
 # Introduction to Page Quality Rating
 
 A Page Quality (PQ) rating task consists of a URL and a grid to record your observations, in order to guide your exploration of the landing page and the website associated with the URL. Ultimately, the goal of Page Quality rating is to evaluate how well the page achieves its purpose. Because different types of websites and webpages can have very different purposes, our expectations and standards for different types of pages are also different.

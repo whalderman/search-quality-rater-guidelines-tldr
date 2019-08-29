@@ -1,3 +1,10 @@
+---
+title: Using the Evaluation Platform
+meta:
+  - name: description
+    content: As a Search Quality Rater, you will work on many different types of rating tasks. This section provides guidance on how to use certain features of the Evaluation Platform that you will encounter frequently in Page Quality (PQ) and Needs Met (NM) rating tasks.
+---
+
 # Overview
 
 The Evaluation Platform is the system you will use to acquire and rate tasks. You can access the Evaluation Platform by going to this link: [http://www.raterhub.com/evaluation/rater](http://www.raterhub.com/evaluation/rater)

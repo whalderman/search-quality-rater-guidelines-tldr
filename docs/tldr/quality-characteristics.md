@@ -40,7 +40,7 @@ Note that the examples listed below are pulled **only** from what we could find 
 
 <div class="note">
 
-Reputation and E-A-T of both the website and the authors of the MC is extremely important.
+Reputation and E‑A‑T of both the website and the authors of the MC is extremely important.
 
 </div>
 
@@ -77,7 +77,7 @@ While error pages may not be the most exciting part of a website, they are still
 
 <div class="note">
 
-Reputation and E-A-T of both the website and the authors of the MC is extremely important.
+Reputation and E‑A‑T of both the website and the authors of the MC is extremely important.
 
 </div>
 
@@ -97,7 +97,7 @@ Reputation and E-A-T of both the website and the authors of the MC is extremely 
 
 <div class="note">
 
-Reputation and E-A-T of both the website and the authors of the MC is extremely important.
+Reputation and E‑A‑T of both the website and the authors of the MC is extremely important.
 
 </div>
 
@@ -132,7 +132,7 @@ Reputation and E-A-T of both the website and the authors of the MC is extremely 
 
 <div class="note">
 
-Reputation and E-A-T of both the website and the authors of the MC is extremely important.
+Reputation and E‑A‑T of both the website and the authors of the MC is extremely important.
 
 </div>
 
@@ -156,7 +156,7 @@ Reputation and E-A-T of both the website and the authors of the MC is extremely 
 
 <div class="note">
 
-Reputation and E-A-T of both the website and the authors of the MC is extremely important.
+Reputation and E‑A‑T of both the website and the authors of the MC is extremely important.
 
 </div>
 
@@ -178,7 +178,7 @@ Reputation and E-A-T of both the website and the authors of the MC is extremely 
 
 <div class="note">
 
-Reputation and E-A-T of both the website and the authors of the MC is extremely important.
+Reputation and E‑A‑T of both the website and the authors of the MC is extremely important.
 
 </div>
 
@@ -219,7 +219,7 @@ Reputation and E-A-T of both the website and the authors of the MC is extremely 
 
 <div class="note">
 
-For many products, reputation and E-A-T of the website is extremely important.
+For many products, reputation and E‑A‑T of the website is extremely important.
 
 </div>
 
@@ -259,7 +259,7 @@ Some example Your Money or Your Life ([YMYL](/qrg/page-quality-rating-guideline/
 
 <div class="note">
 
-Reputation and E-A-T of both the website and the creators of the MC is extremely important.
+Reputation and E‑A‑T of both the website and the creators of the MC is extremely important.
 
 </div>
 

@@ -1,3 +1,10 @@
+---
+title: Low Quality Pages
+meta:
+  - name: description
+    content: Low quality pages do not achieve their purpose well because they are lacking in an important dimension, such as having an unsatisfying amount of content, or because the creator of the content lacks expertise for the purpose of the page.
+---
+
 # Low Quality Pages
 
 **Low** quality pages may have been intended to serve a beneficial purpose. However, **Low** quality pages do not achieve their purpose well because they are lacking in an important dimension, such as having an unsatisfying amount of MC, or because the creator of the MC lacks expertise for the purpose of the page.

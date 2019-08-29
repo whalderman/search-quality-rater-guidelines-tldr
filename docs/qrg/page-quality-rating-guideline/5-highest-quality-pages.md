@@ -1,3 +1,10 @@
+---
+title: Highest Quality Pages
+meta:
+  - name: description
+    content: The distinction between High and Highest quality pages is based on the quality and quantity of main content, as well as the level of reputation, expertise, authoritativeness, and trustworthiness.
+---
+
 # Highest Quality Pages
 
 **Highest** quality pages are created to serve a beneficial purpose and achieve their purpose very well. The distinction between **High** and **Highest** is based on the quality and quantity of MC, as well as the level of reputation and E‑A‑T.

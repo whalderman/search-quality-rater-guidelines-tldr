@@ -1,3 +1,10 @@
+---
+title: Overall Page Quality Rating
+meta:
+  - name: description
+    content: At a high level, assigning a Page Quality rating involves understanding the true purpose of a page and how well the page achieves that purpose for a given query.
+---
+
 # Overall Page Quality Rating
 
 At a high level, here are the steps of Page Quality rating:

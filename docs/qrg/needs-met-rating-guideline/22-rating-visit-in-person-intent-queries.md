@@ -1,3 +1,10 @@
+---
+title: Rating Visit-in-Person Intent Queries
+meta:
+  - name: description
+    content: When there is a user location for a visit-in-person intent query, but a location has not been specified in the query itself, results in or near the user location are still the most helpful.
+---
+
 # Rating Visit-in-Person Intent Queries
 
 When there is a user location for a visit-in-person intent query and a location has not been specified in the query itself, such as <span class="query">chinese restaurants</span> with a user location of **Boston, MA**, results in or near the user location are the most helpful.

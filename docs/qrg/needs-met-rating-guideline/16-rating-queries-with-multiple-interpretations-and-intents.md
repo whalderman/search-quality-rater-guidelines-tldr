@@ -1,3 +1,10 @@
+---
+title: Rating Queries with Multiple Interpretations and Intents
+meta:
+  - name: description
+    content: Some queries really only have one meaning. Other queries truly have different possible meanings. When giving Needs Met ratings for results involving different query interpretations, think about how likely the query interpretation is and how helpful the result is.
+---
+
 # Rating Queries with Multiple Interpretations and Intents
 
 Some queries really only have one meaning. Consider the query <span class="query">iphone</span>, English (US). There may be different user intents for this query (research iPhones, buy an iPhone, go to the iPhone page on Apple's website), but all users are basically referring to the same thing: the phone made by Apple, Inc.

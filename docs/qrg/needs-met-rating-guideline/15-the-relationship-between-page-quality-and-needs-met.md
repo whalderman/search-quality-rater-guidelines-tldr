@@ -1,3 +1,10 @@
+---
+title: The Relationship between Page Quality and Needs Met
+meta:
+  - name: description
+    content: The Needs Met rating is based on both the query and the result. The query and user intent are both evaluated when assigning a Needs Met rating.
+---
+
 # The Relationship between Page Quality and Needs Met
 
 The Needs Met rating is based on _both_ the query and the result. You must carefully think about the query and user intent when assigning a Needs Met rating.
@@ -40,7 +47,7 @@ Here is some guidance about assigning Needs Met and Page Quality ratings:
 ![needs met scale - slightly meets](../images/sm.jpg)  
 ![page quality scale - low](../images/low.jpg)
 
-**Page Quality:** Read this content out loud. The article on the LP is shallow and unintentionally humorous. The MC has four paragraphs of text, but it basically says that electric cars use electricity and have to be charged. The page also lacks E-A-T. **Low** is an appropriate rating.
+**Page Quality:** Read this content out loud. The article on the LP is shallow and unintentionally humorous. The MC has four paragraphs of text, but it basically says that electric cars use electricity and have to be charged. The page also lacks E‑A‑T. **Low** is an appropriate rating.
 
 **Needs Met:** This page would be helpful for few users.
 
@@ -51,7 +58,7 @@ Here is some guidance about assigning Needs Met and Page Quality ratings:
 ![needs met scale - fails to meet](../images/failsm.jpg)  
 ![page quality scale - medium+ - narrow range](../images/medium+narrow.jpg)
 
-**Page Quality:** There is a lot of helpful MC on the landing page on Wikipedia.org. The page has high E-A-T. **Medium+** to **High** is an appropriate rating.
+**Page Quality:** There is a lot of helpful MC on the landing page on Wikipedia.org. The page has high E‑A‑T. **Medium+** to **High** is an appropriate rating.
 
 **Needs Met:** The query asks how electric cars work, but the article on the LP is about mobility scooters.
 

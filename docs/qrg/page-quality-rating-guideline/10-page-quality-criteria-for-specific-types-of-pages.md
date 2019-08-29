@@ -1,3 +1,10 @@
+---
+title: Page Quality Criteria for Specific Types of Pages
+meta:
+  - name: description
+    content: Here are Google's guidelines for rating common page types, including encyclopedia pages (like wikipedia), pages with error messages or no main content, forums, and Q&A pages.
+---
+
 # Page Quality Criteria for Specific Types of Pages
 
 ## Ratings for Encyclopedia Pages
@@ -13,8 +20,6 @@ A Wikipedia article on a non-YMYL topic ([example](https://guidelines.raterhub.c
 Some pages are temporarily broken pages on otherwise functioning websites, while some pages have an explicit error (or custom 404) message. In some cases, pages are missing MC as well. Please think about whether the page offers help for users—did the webmaster spend time, effort, and care on the page?
 
 Here are some examples.
-
-Webpage/Type of Content|Characteristics of the Page|PQ Rating and Explanation
 
 <div class="examples">
 <div class="example">
@@ -153,10 +158,7 @@ Ratings for forum and Q&A pages can be challenging. The most important aspect is
 
 Here are some examples.
 
-Webpage/Type of Content|Characteristics of the Page|PQ Rating and Explanation
-
 <div class="examples">
-
 <div class="example">
 
 **Webpage/Type of Content:** [Q&A page about chest pains and smoking](https://guidelines.raterhub.com/images/ChestPainsSmoking.jpg) (YMYL)

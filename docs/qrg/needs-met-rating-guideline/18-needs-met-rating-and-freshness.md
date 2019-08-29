@@ -1,3 +1,10 @@
+---
+title: Needs Met Rating and Freshness
+meta:
+  - name: description
+    content: Some queries demand very recent or "fresh" information. When a query demands recent content, only pages with current, recent, or updated content should get high Needs Met ratings.
+---
+
 # Needs Met Rating and Freshness
 
 Some queries demand very recent or "fresh" information. Users may be looking for "breaking news," such as an important event or natural disaster happening right now. Here are different types of queries demanding current/recent results.

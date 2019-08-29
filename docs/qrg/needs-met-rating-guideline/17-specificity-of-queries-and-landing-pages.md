@@ -1,3 +1,10 @@
+---
+title: Specificity of Queries and Landing Pages
+meta:
+  - name: description
+    content: Results for specific queries are easier to rate on the Needs Met scale because we know more about what the user is looking for. Giving a Needs Met rating for results for general queries can be difficult.
+---
+
 # Specificity of Queries and Landing Pages
 
 Some queries are very general and some queries are specific. Here are some examples that compare levels of specificity of English (US) queries:

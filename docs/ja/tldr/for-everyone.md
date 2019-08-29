@@ -135,12 +135,12 @@ For small businesses, having no reputation online is okay, it will **not** negat
 Page Quality is mainly determined by these five things:
 
 1. The page's purpose
-2. **E**xpertise, **A**uthoritativeness, and **T**rustworthiness (E-A-T)
+2. **E**xpertise, **A**uthoritativeness, and **T**rustworthiness (E‑A‑T)
 3. The quality and amount of the page's **main content**
 4. Information about the company/person responsible for the **main content**
 5. Reputation of the company/person responsible for the **main content**
 
-For pages that have a beneficial purpose, E-A-T is:
+For pages that have a beneficial purpose, E‑A‑T is:
 
 - The **expertise of the creator** of the main content
 - The **authoritativeness of the creator** of the main content, the **main content itself**, and the **website**.
@@ -148,7 +148,7 @@ For pages that have a beneficial purpose, E-A-T is:
 
 ### How to Evoke Expertise, Authority, and Trust
 
-E-A-T is determined differently based on the topic(s) of your website. For guidance based on page and site type, [see here.](/ja/tldr/quality-characteristics/)
+E‑A‑T is determined differently based on the topic(s) of your website. For guidance based on page and site type, [see here.](/ja/tldr/quality-characteristics/)
 
 ## High Quality Pages
 
@@ -160,10 +160,10 @@ Having no attribution on a page infers that the company as a whole created the c
 
 High Quality pages have the following characteristics:
 
-- High Expertise, Authoritativeness, and Trustworthiness (E-A-T)
+- High Expertise, Authoritativeness, and Trustworthiness (E‑A‑T)
   - Information must be supported by expert consensus if consensus exists
 - A satisfying amount of high quality MC, including a **descriptive or helpful title**
-  - The **E-A-T** of a page **depends significantly on the quality of the MC**
+  - The **E‑A‑T** of a page **depends significantly on the quality of the MC**
   - A high amount of time, effort, expertise, or talent/skill went into making the content
   - Information sites must be factually accurate, clearly written, and comprehensive
   - Shopping sites must allow for easy browsing and easy purchasing
@@ -175,7 +175,7 @@ High Quality pages have the following characteristics:
 
 Highest Quality pages must have at least one of the following characteristics:
 
-- **Exceptionally** high Expertise, Authoritativeness, and Trustworthiness (E-A-T)
+- **Exceptionally** high Expertise, Authoritativeness, and Trustworthiness (E‑A‑T)
   - Formal expertise is important for topics such as medical, financial, or legal advice
   - Everyday expertise is important for topics such as humor or recipes
   - An expert page on cooking may be a page on a professional chef's website (formal expertise), or it may be someone who posts popular cooking videos on YouTube (everyday expertise)
@@ -189,7 +189,7 @@ Highest Quality pages must have at least one of the following characteristics:
 
 Low Quality pages have at least one of the following characteristics:
 
-- Low E-A-T
+- Low E‑A‑T
   - Inadequate expertise on the subject from the website/creator
   - Content subject does not match the theme of the website
   - Unsecure (http) transaction pages
@@ -253,7 +253,7 @@ Medium quality pages are categorized into one of the following:
 
 ## Page Quality Rating Tasks
 
-::: tip Maintain high Expertise, Authority, and Trust (E-A-T).
+::: tip Maintain high Expertise, Authority, and Trust (E‑A‑T).
 A page is judged on the reputation and E‑A‑T of both the website and the creator(s) of the MC. **This is especially important when the page covers a YMYL topic.**
 :::
 

@@ -1,11 +1,17 @@
+---
+title: Reporting Duplicate Results in Tasks
+meta:
+  - name: description
+    content: In some rating tasks, you may be asked to determine whether any results are Duplicates (dupes). This section provides guidance and examples of how to report duplicate results In Needs Met (NM) rating tasks.
+---
+
 # Reporting Duplicate Results in Tasks
 
 In some rating tasks, you may be asked to determine whether any results are Duplicates (dupes). This section provides guidance and examples of how to report duplicate results In Needs Met (NM) rating tasks.
 
 ## Pre-Identified Duplicates
 
-Some duplicate results are automatically detected and will be pre-identified for you. They will be annotated by the text
-"**Same as...**" right below the slider and above the result block.
+Some duplicate results are automatically detected and will be pre-identified for you. They will be annotated by the text "**Same as...**" right below the slider and above the result block.
 
 This is what these pre-identified dupes look like:
 

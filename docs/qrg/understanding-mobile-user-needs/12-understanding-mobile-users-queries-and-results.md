@@ -1,3 +1,10 @@
+---
+title: Understanding Mobile Users, Mobile Queries, and Mobile Results
+meta:
+  - name: description
+    content: Mobile smartphones should make tasks easy, even for mobile users with a small screen device. Users want results right away, at that moment, and may not be able to spend a lot of time to find what they are looking for.
+---
+
 # Understanding Mobile Users, Mobile Queries, and Mobile Results
 
 What do you do on your mobile smartphone?

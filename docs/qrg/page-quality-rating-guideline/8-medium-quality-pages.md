@@ -1,3 +1,10 @@
+---
+title: Medium Quality Pages
+meta:
+  - name: description
+    content: "There are two types of Medium quality pages: those that do nothing well, but nothing wrong, and pages that have both High quality and Low quality characteristics."
+---
+
 # Medium Quality Pages
 
 In this section, we will describe pages that should get the **Medium** quality rating. **Medium** pages have a beneficial purpose and achieve their purpose.

@@ -1,3 +1,10 @@
+---
+title: Rating English Language Results in Non-English Locales
+meta:
+  - name: description
+    content: Your Needs Met ratings should reflect how helpful the result is for users in your locale. When the query is in the language of your locale, assume that users want results in that language.
+---
+
 # Rating English Language Results in Non-English Locales
 
 <span style="color: red">**The following rating guidance is for raters in non-English locales. You may stop reading this section if your task language is English, such as English (US), English (IN), English (NG), etc.**</span>

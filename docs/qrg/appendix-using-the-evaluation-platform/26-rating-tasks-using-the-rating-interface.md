@@ -1,3 +1,10 @@
+---
+title: Rating Tasks Using the Rating Interface
+meta:
+  - name: description
+    content: Before assigning any ratings, please scan the task page to make sure that all result blocks have loaded. Please note that result blocks may be slow to load and/or that the task page may need reloading if there are empty result blocks.
+---
+
 # Rating Tasks Using the Rating Interface
 
 Here is a general outline of the steps you should follow upon acquiring a task:

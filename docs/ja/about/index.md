@@ -1,3 +1,10 @@
+---
+title: このTL;DRを作ったのは誰ですか？
+meta:
+  - name: description
+    content: The TL;DRs for Google's Quality Rater Guidelines were created by Bruce Clay Japan, Inc. and made public in order to save our fellow marketers some time.
+---
+
 # ブルースクレイ・ジャパンは検索可能にした
 
 [ブルースクレイ・ジャパン](https://bruceclay.jpn.com/)は[Bruce Clay Inc.](https://www.bruceclay.com)の日本支社です。
@@ -23,4 +30,4 @@ This project would not have been created without the open source software provid
 
 ## Translations
 
-Small portions of this site's Quality Rater Guidelines translation were sourced from [広岡さん](https://twitter.com/0penkenhiro)のolder translation of the same document.
+Small portions of this site's Japanese translation were sourced from [広岡さん](https://twitter.com/0penkenhiro)のolder translation of the same document.

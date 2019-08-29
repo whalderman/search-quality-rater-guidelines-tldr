@@ -1,3 +1,10 @@
+---
+title: Understanding Webpages and Websites
+meta:
+  - name: description
+    content: The Page Quality rating requires an in-depth understanding of websites. Here we go over the importance of website reputation and the differences between main content, supplementary content, and ads.
+---
+
 # Understanding Webpages and Websites
 
 PQ rating requires an in-depth understanding of websites. We'll start with the basics. Along the way, we'll share important information about Page Quality rating, so please read through this section even if you are a website expert!

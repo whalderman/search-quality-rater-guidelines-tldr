@@ -1,3 +1,10 @@
+---
+title: General Guidelines Overview
+meta:
+  - name: description
+    content: The Search Quality Rater General Guidelines primarily cover ratings for both Page Quality and Needs Met.
+---
+
 # General Guidelines Overview
 
 ## Welcome to the Search Quality Rating Program!
