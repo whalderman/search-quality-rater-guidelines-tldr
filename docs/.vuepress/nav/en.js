@@ -5,9 +5,9 @@ module.exports = [
   {
     text: '🔰 TL;DR', link: '/tldr/'
   },
-  {
-    text: 'About', link: '/about/'
-  },
+  // {
+  //   text: 'About', link: '/about/'
+  // },
   {
     text: 'Need Marketing Help?', items: [
       {

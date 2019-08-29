@@ -5,9 +5,9 @@ module.exports = [
   {
     text: '🔰 TL;DR', link: '/ja/tldr/'
   },
-  {
-    text: 'この情報について', link: '/ja/about/'
-  },
+  // {
+  //   text: 'この情報について', link: '/ja/about/'
+  // },
   {
     text: 'Webマーケティング サービス', items: [
       {
