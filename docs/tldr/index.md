@@ -1,3 +1,10 @@
+---
+title: Choose Your TL;DR
+meta:
+  - name: description
+    content: For those too busy to read hundreds of pages of text and apply it. Choose your TL;DR.
+---
+
 # Quality Rater Guidelines, TL;DR
 
 For those too busy to read hundreds of pages of text and apply it. Choose your starting point:
