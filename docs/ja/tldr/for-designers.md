@@ -1,6 +1,6 @@
 # TL;DR for Designers
 
-Here we summarize what to avoid when designing a site and, in some cases, what can be done instead.
+Here we summarize what to avoid when designing a site.
 
 ## What to Avoid
 
