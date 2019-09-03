@@ -7,7 +7,7 @@ meta:
 
 # Search Quality Rater Guidelines, TL;DR
 
-Here we try to keep things as concise as possible, avoiding information that was written strictly for the Search Quality Raters contracted by Google.
+Here we try to keep things as concise as possible, avoiding information that was written strictly for the Search Quality Raters hired by Google.
 
 ## General Guidelines Overview
 
