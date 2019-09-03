@@ -275,7 +275,7 @@ The page that best answers a given query will rank highest. Keep the following i
 
 - The search intent for a given query can change over time (e.g. searching <span class="query">iphone</span> in 2007 vs today)
   - Older pages become less relevant over time
-- Queries can have multiple meanings (e.g. <mark class="query">apple</mark>)
+- Queries can have multiple meanings (e.g. <span class="query">apple</span>)
   - If the query has a dominant interpretation (in this case "Apple Inc."), pages related to that interpretation will rank highest
 :::
 
@@ -291,7 +291,7 @@ While fully meeting the needs of users is ideal, these types of queries and thei
 
 </div>
 
-A special category in which the search result is an exact and unique match for the query. For example, if somebody in Japan is searching for <mark class="query">Bruce Clay Japan home page</mark>, they are undoubtedly trying to get to [https://bruceclay.jpn.com/](https://bruceclay.jpn.com/).
+A special category in which the search result is an exact and unique match for the query. For example, if somebody in Japan is searching for <span class="query">Bruce Clay Japan home page</span>, they are undoubtedly trying to get to [https://bruceclay.jpn.com/](https://bruceclay.jpn.com/).
 
 This type of result is almost exclusively reserved for **Website** queries and **Know Simple** queries.
 
