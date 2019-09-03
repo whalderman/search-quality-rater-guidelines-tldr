@@ -3,9 +3,9 @@ module.exports = {
     {
       title: 'TL;DR',
       children: [
-        '/ja/tldr/for-everyone',
+        '/ja/tldr/',
         // '/ja/tldr/for-developers',
-        '/ja/tldr/for-designers',
+        // '/ja/tldr/for-designers',
         '/ja/tldr/quality-characteristics'
       ]
     }],

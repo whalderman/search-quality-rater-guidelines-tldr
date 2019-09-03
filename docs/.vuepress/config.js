@@ -48,7 +48,7 @@ module.exports = {
       '/': {
         label: 'English', // label for this language in the 🌐 dropdown
         selectText: '🌐',
-        editLinkText: '✍️', // text for the edit-on-github link
+        editLinkText: 'Edit', // text for the edit-on-github link
         lastUpdated: 'Updated',
         nav: require('./nav/en'),
         sidebar: require('./sidebar/en'),
