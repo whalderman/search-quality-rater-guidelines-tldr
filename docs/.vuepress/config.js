@@ -1,18 +1,14 @@
 module.exports = {
-  base: '/test/warren/',
+  base: '/docs/',
   locales: {
     // The key is the path for the locale to be nested under.
     // As a special case, the default locale can use '/' as its path.
     '/': {
       lang: 'en' // html lang property
-      // title: 'Search Quality Rater Guidelines', // title tag append, highly duplicative
-      // description: 'Learn what Google looks for in high-quality web pages.', // site description
     },
-    '/ja/': {
-      lang: 'ja'
-      // title: '品質評価ガイドライン',
-      // description: 'Googleが高品質のWebページで何を求めているのかを学びます。',
-    }
+    // '/ja/': {
+    //   lang: 'ja'
+    // }
   },
   head: [
     ['link', { rel: 'icon', href: `/img/BCJロゴ.png` }],
@@ -44,10 +40,10 @@ module.exports = {
   },
   themeConfig: {
     logo: '/img/BCJワイドロゴ.svg',
-    repo: 'thewarrman/search-quality-rater-guidelines-tldr',
-    docsBranch: 'main',
-    editLinks: true,
-    docsDir: 'docs',
+    // repo: 'thewarrman/search-quality-rater-guidelines-tldr',
+    // docsBranch: 'main',
+    // editLinks: true,
+    // docsDir: 'docs',
     locales: {
       '/': {
         label: 'English', // label for this language in the 🌐 dropdown
@@ -58,15 +54,15 @@ module.exports = {
         sidebar: require('./sidebar/en'),
         sidebarDepth: 1
       },
-      '/ja/': {
-        label: '日本語',
-        selectText: '🌐',
-        editLinkText: '✍️',
-        lastUpdated: '前回更新',
-        nav: require('./nav/ja'),
-        sidebar: require('./sidebar/ja'),
-        sidebarDepth: 1
-      }
+      // '/ja/': {
+      //   label: '日本語',
+      //   selectText: '🌐',
+      //   editLinkText: '✍️',
+      //   lastUpdated: '前回更新',
+      //   nav: require('./nav/ja'),
+      //   sidebar: require('./sidebar/ja'),
+      //   sidebarDepth: 1
+      // }
     }
   }
 }
