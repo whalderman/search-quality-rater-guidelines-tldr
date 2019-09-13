@@ -89,7 +89,7 @@ Stores and websites that process financial transactions require a high level of 
 <div class="example">
 
 **Type of Webpage:** [Low: News 1](https://guidelines.raterhub.com/images/hngn-article-m.jpg)  
-**Type of Content:** Article about nuclear power
+**Type of Content:** Article about nuclear power (YMYL)
 
 <div class="results">
 <div class="result">
@@ -114,7 +114,7 @@ The writing of this article is unprofessional, including many grammar and punctu
 <div class="example">
 
 **Type of Webpage:** [Low: News 2](https://guidelines.raterhub.com/images/news-article-toxins-m.jpg)  
-**Type of Content:** Article titled "Getting Rid Of Toxins After The Holiday Season"
+**Type of Content:** Article titled "Getting Rid Of Toxins After The Holiday Season" (YMYL)
 
 <div class="results">
 <div class="result">
@@ -134,7 +134,7 @@ The writing of this article is unprofessional, including many grammar and punctu
 
 The title of the article is misleading and does not reflect the actual content of the page. The MC does not explain how to get rid of toxins or what the word "toxins" in the headline refers to.
 
-The content also has many problems: the writing quality is poor, and the article includes meaningless statements such as "water therapy is one of the easiest ways of beauty regimen since it will give enough moisture on the skin". The article fails to cite sources, and there is no evidence of E‑A‑T.
+The content also has many problems: the writing quality is poor, and the article includes meaningless statements such as "water therapy is one of the easiest ways of beauty regimen since it will give enough moisture on the skin." The article fails to cite sources, and there is no evidence of E‑A‑T.
 
 </div>
 </div>
@@ -216,7 +216,7 @@ This content has many problems: inaccurate/meaningless information and complete 
 <div class="example">
 
 **Type of Webpage:** [Low: Article 2](https://guidelines.raterhub.com/images/GingerHealth.jpg)  
-**Type of Content:** Using ginger for your health
+**Type of Content:** Using ginger for your health (YMYL)
 
 <div class="results">
 <div class="result">
@@ -369,7 +369,7 @@ This is an example of distracting and disruptive Ads/SC: there are large Ads in 
 <div class="example">
 
 **Type of Webpage:** [Low: Q&A1](https://guidelines.raterhub.com/images/beliefcustoms.jpg)  
-**Type of Content:** Page about Native American customs
+**Type of Content:** Page about Native American customs（YMYL）
 
 <div class="results">
 <div class="result">

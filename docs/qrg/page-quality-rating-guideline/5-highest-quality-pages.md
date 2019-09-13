@@ -17,11 +17,19 @@ What makes a page **Highest** quality? In addition to the attributes of a **High
 
 ## Very High Quality MC
 
-We will consider the MC of the page to be very high or highest quality when it is created with a high degree of time and effort, and in particular, expertise, talent, and skill—this may provide evidence for the E‑A‑T of the page. Very high quality MC may be created by experts, hobbyists, or even people with everyday expertise. Our standards depend on the purpose of the page and the type of content. However, for news articles and information pages on YMYL topics, there is a high standard for accuracy and well-established medical/scientific/historical consensus where such consensus exists. The **Highest** rating may be justified for pages with a satisfying or comprehensive amount of very high quality MC.
+We will consider the MC of the page to be very high or highest quality when it is created with a high degree of time and effort, and in particular, expertise, talent, and skill—this may provide evidence for the E-A-T of the page. Very high quality MC may be created by experts, hobbyists, or even people with everyday expertise. Our standards depend on the purpose of the page and the type of content. For YMYL topics, there is a high standard for accuracy and well-established medical/scientific/historical consensus where such consensus exists. A factor that often distinguishes very high quality MC is the creation of unique and original content for the specific website. While what constitutes original content may be very different depending on the type of website, here are some examples:
+
+- **For news:** very high quality MC is original reporting that provides information that would not otherwise have been known had the article not revealed it. Original, in-depth, and investigative reporting requires a high degree of skill, time, and effort. Often very high quality news content will include a description of primary sources and other original reporting referenced during the content creation process. Very high quality news content must be accurate and should meet professional journalistic standards.
+- **For artistic content** (videos, images, photography, writing, etc.): very high quality MC is unique and original content created by highly skilled and talented artists or content creators. Such artistic content requires a high degree of skill/talent, time, and effort. If the artistic content is related to a YMYL topic (e.g., artistic content with the purpose of informing or swaying opinion about YMYL topics), YMYL standards should apply.
+- **For informational content:** very high quality MC is original, accurate, comprehensive, clearly communicated, professionally presented, and should reflect expert consensus as appropriate. Expectations for different types of information may vary. For example, scientific papers have a different set of standards than information about a hobby such as stamp collecting. However, all types of very high quality informational content share common attributes of accuracy, comprehensiveness, and clear communication, in addition to meeting standards appropriate to the topic or field.
+
+The **Highest** rating may be justified for pages with a satisfying or comprehensive amount of very high quality MC.
 
 ## Very Positive Reputation
 
-Extensive reputation research is important when giving **Highest** ratings, and is evidence of the E‑A‑T of the page. Very positive reputation is often based on prestigious awards or recommendations from known experts or professional societies on the topic of the page. Wikipedia and other informational sources can be a good starting point for reputation research.
+Extensive reputation research is important when giving **Highest** ratings. Very positive reputation is often based on prestigious awards or recommendations from known experts or professional societies on the topic of the page. Wikipedia and other informational sources can be a good starting point for reputation research.
+
+For YMYL topics especially, careful checks for reputation are required. YMYL reputation should be based on evidence from experts, professional societies, awards, etc. For shopping pages, experts could include people who have used the store's website to make purchases; whereas for medical advice pages, experts should be people or organizations with appropriate medical expertise or accreditation. Please review section 2.3 for a summary of types of YMYL pages/topics.
 
 For some topics, such as humor or recipes, less formal expertise is OK. For these topics, popularity, user engagement, and user reviews can be considered evidence of reputation. For topics that need less formal expertise, websites can be considered to have a positive reputation if they are highly popular and well-loved for their topic or content type, and are focused on helping users.
 
@@ -29,17 +37,17 @@ For some topics, such as humor or recipes, less formal expertise is OK. For thes
 
 **Highest** quality pages and websites have a very high level of expertise or are highly authoritative or highly trustworthy.
 
-Formal expertise is important for topics such as medical, financial, or legal advice. Expertise may be less formal for topics such as recipes or humor. An expert page on cooking may be a page on a professional chef's website, or it may be someone who posts popular cooking videos on YouTube. Please value life experience and "everyday expertise." For some topics, the most expert sources of information are ordinary people sharing their life experiences on personal blogs, forums, reviews, discussions, etc.
+Formal expertise is important for YMYL topics such as medical, financial, or legal advice. Expertise may be less formal for topics such as recipes or humor. An expert page on cooking may be a page on a professional chef's website, or it may be a video from an expert content creator who uploads very high quality cooking videos on YouTube and is one of the most well-known and popular content creators for recipes in their area of expertise. Please value life experience and “everyday expertise” as appropriate. For some topics, the most expert sources of information are ordinary people sharing their life experiences on personal blogs, videos, forums, reviews, discussions, etc.
 
-Think about what expertise, authoritativeness, and trustworthiness mean for the topic of the page. Who are the experts? What makes a source trustworthy for the topic? What makes a website highly authoritative for the topic?
+Think about what expertise, authoritativeness, and trustworthiness mean for the topic of the page. Who are the experts? What makes a source trustworthy for the topic? What makes a website highly authoritative for the topic? Standards for very high E-A-T will differ depending on the topic of the page. YMYL topics will require higher standards.
 
 ## Examples of Highest Quality Pages
 
 <div class="examples">
 <div class="example">
 
-**Type of Webpage:** [Highest: News](https://guidelines.raterhub.com/images/news-last-diplomat-m.jpg)  
-**Type of Content:** Article on a newspaper website
+**Type of Webpage:** [Highest: News 1](https://guidelines.raterhub.com/images/news-last-diplomat-m.jpg)  
+**Type of Content:** Article on a newspaper website (YMYL)
 
 <div class="results">
 <div class="result">
@@ -57,9 +65,37 @@ Think about what expertise, authoritativeness, and trustworthiness mean for the 
 
 ![highest quality][hst]
 
-This is a feature article from a newspaper that has won 40 Pulitzer Prize awards and is the largest newspaper in the U.S. by circulation at the time this example was written.
+This is a feature article from a newspaper that has won numerous awards (such as the Pulitzer Prize, James Beard Award, and Scripps Howard Award).
 
 The page has a comprehensive amount of very high-quality MC, including in-depth reporting by two authors with extensive knowledge and experience in investigative journalism.
+
+</div>
+</div>
+</div>
+<div class="example">
+
+**Type of Webpage:** [Highest: News 2](https://guidelines.raterhub.com/images/news-last-diplomat-m.jpg)  
+**Type of Content:** Article on a newspaper website
+
+<div class="results">
+<div class="result">
+
+**Highest Quality Characteristics**
+
+- Very high level of E-A-T for the purpose of the page, including of the publisher and/or authors for a news article
+- A satisfying or comprehensive amount of very high quality MC for the purpose of the page
+- Very positive reputation (website)
+
+</div>
+<div class="result">
+
+**PQ Rating and Explanation**
+
+![highest quality][hst]
+
+This is an article on a newspaper website that has won a variety of awards including the Pulitzer Prize and the GLAAD Media Award.
+
+The article has a comprehensive amount of very high quality MC that is unique and original, including in-depth investigative reporting by two authors with extensive knowledge and experience in investigative journalism.
 
 </div>
 </div>
@@ -400,33 +436,6 @@ According to [this Wikipedia article](https://guidelines.raterhub.com/images/PQ_
 </div>
 <div class="example">
 
-**Type of Webpage:** [Highest: Entertainment](https://guidelines.raterhub.com/images/NationPage.jpg)  
-**Type of Content:** Humor website
-
-<div class="results">
-<div class="result">
-
-**Highest Quality Characteristics**
-
-- A satisfying or comprehensive amount of very high quality MC
-- Very positive reputation (website)
-
-</div>
-<div class="result">
-
-**PQ Rating and Explanation**
-
-![highest quality][hst]
-
-This comedian has won multiple prestigious awards for his TV show (on the air when the example was written), and this is the homepage of his official website.
-
-Keep in mind that for any type of page, including humor websites, there may be a range of highest quality to lowest quality pages. Therefore, it's important to evaluate the page using the same criteria as all other pages, regardless of what type of page it is.
-
-</div>
-</div>
-</div>
-<div class="example">
-
 **Type of Webpage:** [Highest: Shopping](https://guidelines.raterhub.com/images/BookPack.jpg)  
 **Type of Content:** Backpack shopping page (YMYL)
 
@@ -631,7 +640,7 @@ Even though this user does not seem to be a well-known professional chef, recipe
 
 ![high+narrow quality][h+n]
 
-This is a high quality, professionally produced video on the band's official channel.
+This is a high quality, professionally produced video on the band's official channel. The music video represents unique and original content created by a highly skilled and talented musical artist.
 
 </div>
 </div>
@@ -656,7 +665,7 @@ This is a high quality, professionally produced video on the band's official cha
 
 ![high+narrow quality][h+n]
 
-This is a high quality, popular video. It won the "Golden Kitty Award" for "Best Cat Video On The Internet" at theWalker Art Center's Internet Cat Video Film Festival.
+This is a high quality, popular video. It won the "Golden Kitty Award" for "Best Cat Video On The Internet" at theWalker Art Center's Internet Cat Video Film Festival. The video is unique and original content created with a high degree of time and effort.
 
 </div>
 </div>
@@ -681,7 +690,7 @@ This is a high quality, popular video. It won the "Golden Kitty Award" for "Best
 
 ![high+narrow quality][h+n]
 
-The MC of this video page is an episode of Saturday Night Live on the TV network's official website, making it highly authoritative and trustworthy. Below the main video, there are many other videos that users may be interested in.
+The MC of this video page is an episode of Saturday Night Live on the TV network's official website, making it highly authoritative and trustworthy. The episode represents high quality and original content created by a TV show that has won numerous awards. Below the main video, there are many other videos that users may be interested in.
 
 </div>
 </div>

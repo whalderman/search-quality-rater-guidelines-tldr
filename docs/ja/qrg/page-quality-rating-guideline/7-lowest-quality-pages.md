@@ -161,7 +161,7 @@ Webマスターによる維持、管理が全くされていないサイトも�
 
 ## 嫌悪を拡散させるようなページ
 
-人種または民族、宗教、性別、国籍または市民権、障害、年齢、性障害、社会経済的地位、政治的信念、退役軍人、残虐行為の被害者などの基準に基づく、特定のグループに対する憎悪や暴力を助長するページには**Lowest**評価が付けられます。憎悪や暴力を主張するWebサイトは、現実の世界に害を及ぼす可能性があります。
+Use the Lowest rating for pages that promote hate or violence against a group of people, including but not limited to those grouped on the basis of race or ethnic origin, religion, disability, age, nationality, veteran status, sexual orientation, gender or gender identity. Websites advocating hate or violence can cause real world harm.
 
 憎悪は、扇動的、感情的、または不快な言葉で表現されますが、礼儀正しく、あるいは学術的な言葉で表現されることもあります。
 

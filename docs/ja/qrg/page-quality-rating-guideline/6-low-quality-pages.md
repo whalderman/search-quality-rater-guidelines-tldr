@@ -85,7 +85,7 @@ Google は大半のWebサイトに対して「Webサイト自体についての�
 <div class="example">
 
 **Webページの種類：**[ニュース1](https://guidelines.raterhub.com/images/hngn-article-m.jpg)  
-**コンテンツの種類：**<!-- -->原子力についての記事
+**コンテンツの種類：**<!-- -->原子力についての記事（YMYL）
 
 <div class="results">
 <div class="result">
@@ -108,7 +108,7 @@ Google は大半のWebサイトに対して「Webサイト自体についての�
 <div class="example">
 
 **Webページの種類：**[ニュース2](https://guidelines.raterhub.com/images/news-article-toxins-m.jpg)  
-**コンテンツの種類：**<!-- -->"休暇で溜まった体内毒素を排出する方法"
+**コンテンツの種類：**<!-- -->「休暇で溜まった体内毒素を排出する方法」（YMYL）
 
 <div class="results">
 <div class="result">
@@ -200,7 +200,7 @@ Google は大半のWebサイトに対して「Webサイト自体についての�
 <div class="example">
 
 **Webページの種類：**[記事2](https://guidelines.raterhub.com/images/GingerHealth.jpg)  
-**コンテンツの種類：**<!-- -->「生姜は健康によい」という記事
+**コンテンツの種類：**<!-- -->「生姜は健康によい」という記事（YMYL）
 
 <div class="results">
 <div class="result">
@@ -335,7 +335,7 @@ Google は大半のWebサイトに対して「Webサイト自体についての�
 <div class="example">
 
 **Webページの種類：**[Q&A 1](https://guidelines.raterhub.com/images/beliefcustoms.jpg)  
-**コンテンツの種類：**<!-- -->アメリカ先住民の習慣についてのページ
+**コンテンツの種類：**<!-- -->アメリカ先住民の習慣についてのページ（YMYL）
 
 <div class="results">
 <div class="result">

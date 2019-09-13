@@ -67,7 +67,8 @@ RB評価対象の例「loveの意味とは」
 <div class="results">
 <div class="result">
 
-![what does love mean Special Content RB](../images/img266.jpg)  
+![what does love mean Special Content RB](../images/img266.jpg)
+
 ブロック内には大量の有益なコンテンツが含まれており、LPへのリンクもないため、恐らくユーザーはクリックする必要ない。したがって、ブロック内の内容に基づいて評価する。
 
 </div>
@@ -80,7 +81,8 @@ RB評価対象の例「loveの意味とは」
 <div class="results">
 <div class="result">
 
-![what does love mean Web Search RB](../images/img267.jpg)  
+![what does love mean Web Search RB](../images/img267.jpg)
+
 この場合、ユーザーは回答を得るために、LPへのリンクをクリックする必要がある。したがって、LPのコンテンツに基づいて評価する。
 
 </div>
@@ -207,8 +209,10 @@ RB評価対象の例「loveの意味とは」
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img276.jpg)  
-![rating: fully meets](../images/fullym.jpg)  
+![fully meets example](../images/img276.jpg)
+
+![rating: fully meets](../images/fullym.jpg)
+
 **評価タスクでは以下の文章をおそらく表示：**  
 Action: Open a specific webpage  
 URL: http://www.amazon.com/  
@@ -229,8 +233,10 @@ amazon.comを訪問という明確な意図があり、RBは指定されたWeb�
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img279.jpg)  
-![rating: fully meets](../images/fullym.jpg)  
+![fully meets example](../images/img279.jpg)
+
+![rating: fully meets](../images/fullym.jpg)
+
 amazon.comのWebサイトを訪問という明確な意図がある。他にもあるかもしれないが、多くはamazon.comのWebサイトへ訪問。
 
 </div>
@@ -245,8 +251,10 @@ amazon.comのWebサイトを訪問という明確な意図がある。他にも�
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img281.jpg)  
-![rating: fully meets](../images/fullym.jpg)  
+![fully meets example](../images/img281.jpg)
+
+![rating: fully meets](../images/fullym.jpg)
+
 Target.comを訪問という明確な意図がある。
 
 </div>
@@ -261,8 +269,10 @@ Target.comを訪問という明確な意図がある。
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img283.jpg)  
-![rating: fully meets](../images/fullym.jpg)  
+![fully meets example](../images/img283.jpg)
+
+![rating: fully meets](../images/fullym.jpg)
+
 Nordstormを訪問という明確な意図がある。
 
 </div>
@@ -277,8 +287,10 @@ Nordstormを訪問という明確な意図がある。
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img285.jpg)  
-![rating: fully meets](../images/fullym.jpg)  
+![fully meets example](../images/img285.jpg)
+
+![rating: fully meets](../images/fullym.jpg)
+
 IMDbのタイタニックのページを訪問という明確な意図がある。
 
 </div>
@@ -293,8 +305,10 @@ IMDbのタイタニックのページを訪問という明確な意図がある�
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img287.jpg)  
-![rating: fully meets](../images/fullym.jpg)  
+![fully meets example](../images/img287.jpg)
+
+![rating: fully meets](../images/fullym.jpg)
+
 クエリのURLは不正確だがYahoo!を訪問という明確な意図がある。
 
 </div>
@@ -309,8 +323,10 @@ IMDbのタイタニックのページを訪問という明確な意図がある�
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img289.jpg)  
-![rating: fully meets](../images/fullym.jpg)  
+![fully meets example](../images/img289.jpg)
+
+![rating: fully meets](../images/fullym.jpg)
+
 cnn.comの健康セクションを訪問という明確な意図がある。
 
 </div>
@@ -325,8 +341,10 @@ cnn.comの健康セクションを訪問という明確な意図がある。
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img291.jpg)  
-![rating: fully meets](../images/fullym.jpg)  
+![fully meets example](../images/img291.jpg)
+
+![rating: fully meets](../images/fullym.jpg)
+
 CNNのニュース、コンテンツを訪問という明確な意図がある。ユーザーがCNNのアプリをインストールしているかは不明だが、Webサイトには十分なコンテンツがあるのでユーザーは**完全に満足している**。
 
 </div>
@@ -341,8 +359,10 @@ CNNのニュース、コンテンツを訪問という明確な意図がある�
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img294.jpg)  
-![rating: fully meets](../images/fullym.jpg)  
+![fully meets example](../images/img294.jpg)
+
+![rating: fully meets](../images/fullym.jpg)
+
 この検索結果はYelpアプリまたはYelpのWebサイトの両方が人気があるかどうかに関わらず、ユーザーは完全に満足し**Fully Meets**となる。  
 **注：**<!-- -->このような検索結果が表示された場合、ユーザーが自身の携帯電話にアプリをインストールしていることを前提とする。  
 ロゴの上にある「Yelpリンク」をクリックすると、アプリが直接開き、「Open on yelp.com リンク」はアプリやWebサイトを開く。  
@@ -360,8 +380,10 @@ CNNのニュース、コンテンツを訪問という明確な意図がある�
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img297.jpg)  
-![rating: fully meets](../images/fullym.jpg)  
+![fully meets example](../images/img297.jpg)
+
+![rating: fully meets](../images/fullym.jpg)
+
 basketball-reference.comで、Lebron Jamesの統計ページを訪問という明確な意図がある。
 
 </div>
@@ -376,8 +398,10 @@ basketball-reference.comで、Lebron Jamesの統計ページを訪問という�
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img299.jpg)  
-![rating: fully meets](../images/fullym.jpg)  
+![fully meets example](../images/img299.jpg)
+
+![rating: fully meets](../images/fullym.jpg)
+
 **評価タスクでは以下の文章をおそらく表示：**  
 Action: Open an app  
 App: Instagram|インスタグラムのアプリを起動したいという明確で具体的な機能がある。インスタグラムのアプリを起動しているためユーザーは**完全に満足している**。
@@ -394,10 +418,11 @@ App: Instagram|インスタグラムのアプリを起動したいという明�
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img301.jpg)  
-![rating: fully meets](../images/fullym.jpg)  
-このRBでは、Bingアプリをインストールされていないことが検出され、アプリをダウンロードするオプションが表示されている。この結果は**Fully Meets**に値する。  
-**注：**<!-- -->明示的に指示が記載されていない限り、RBを評価する際に、Android端末を利用したと仮定する。そのため、Google Playの結果は適切である。
+![fully meets example](../images/img301.jpg)
+
+![rating: fully meets](../images/fullym.jpg)
+
+このRBでは、Bingアプリをインストールされていないことが検出され、アプリをダウンロードするオプションが表示されている。この結果は**Fully Meets**に値する。
 
 </div>
 </div>
@@ -411,8 +436,10 @@ App: Instagram|インスタグラムのアプリを起動したいという明�
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img304.jpg)  
-![rating: fully meets](../images/fullym.jpg)  
+![fully meets example](../images/img304.jpg)
+
+![rating: fully meets](../images/fullym.jpg)
+
 **評価タスクでは以下の文章をおそらく表示：**  
 Action: Open an app  
 App: Facebook|Facebookのアプリを起動したいという明確で具体的な機能がある。RBにはFacebokアプリを開くという確認が表示してありユーザーは**完全に満足している**。
@@ -429,8 +456,10 @@ App: Facebook|Facebookのアプリを起動したいという明確で具体的�
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img251.jpg)  
-![rating: fully meets](../images/fullym.jpg)  
+![fully meets example](../images/img251.jpg)
+
+![rating: fully meets](../images/fullym.jpg)
+
 **評価タスクでは以下の文章をおそらく表示：**  
 Action: Set alarm  
 Alarm Time: 5:00 AM|午前５時にアラームを設定という明確で具体的な機能がある。RBでは指定された時刻にアラームを設定する過程が表示されており、ユーザーは**完全に満足している**。
@@ -447,8 +476,10 @@ Alarm Time: 5:00 AM|午前５時にアラームを設定という明確で具体
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img308.jpg)  
-![rating: fully meets](../images/fullym.jpg)  
+![fully meets example](../images/img308.jpg)
+
+![rating: fully meets](../images/fullym.jpg)
+
 Chef Chu’sはユーザーの所在地付近にある中華料理屋。RBでは正しい電話番号を表示し、電話をかけるオプションまで表示されているため、ユーザーは**完全に満足している**。  
 **注：**<!-- -->**Fully Meets**評価を下す前に、「Chef Chu's」の公式サイトで電話番号が正しいことをチェックする必要がある。
 
@@ -464,8 +495,10 @@ Chef Chu’sはユーザーの所在地付近にある中華料理屋。RBでは
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img310.jpg)  
-![rating: fully meets](../images/fullym.jpg)  
+![fully meets example](../images/img310.jpg)
+
+![rating: fully meets](../images/fullym.jpg)
+
 **評価タスクでは以下の文章をおそらく表示：**  
 Action: Make a call  
 Business Name: Best Buy  
@@ -485,8 +518,10 @@ Phone number: (650) 903-0591|「最寄りのBest Buyに電話する」という*
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img313.jpg)  
-![rating: fully meets](../images/fullym.jpg)  
+![fully meets example](../images/img313.jpg)
+
+![rating: fully meets](../images/fullym.jpg)
+
 **評価タスクでは以下の文章をおそらく表示：**  
 Action: Open map  
 Location: Italy|イタリアの地図を見たいという明確で具体的な機能である。RBではGoogleマップで開くためのリンクもあり、ユーザーは**完全に満足している**。
@@ -503,8 +538,10 @@ Location: Italy|イタリアの地図を見たいという明確で具体的な�
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img315.jpg)  
-![rati<!-- --> meets](../images/fullym.jpg)  
+![fully meets example](../images/img315.jpg)
+
+![rati<!-- --> meets](../images/fullym.jpg)
+
 **評価タスクでは以下の文章をおそらく表示：**  
 Action: Navigation  
 Destination: Yosemite National Park  
@@ -522,8 +559,10 @@ Destination Address: Yosemite Village, CA 95389|ヨセミテ国立公園まで�
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img317.jpg)  
-![rating: fully meets](../images/fullym.jpg)  
+![fully meets example](../images/img317.jpg)
+
+![rating: fully meets](../images/fullym.jpg)
+
 RBはモバイル端末のユーザーが読みやすいようにRBに完全で正確な解答を目立つように表示している。コードの場所が正確に示された画像もあり、ユーザーは**完全に満足している**。
 
 </div>
@@ -538,8 +577,10 @@ RBはモバイル端末のユーザーが読みやすいようにRBに完全で�
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img320.jpg)  
-![rating: fully meets](../images/fullym.jpg)  
+![fully meets example](../images/img320.jpg)
+
+![rating: fully meets](../images/fullym.jpg)
+
 RBはモバイル端末のユーザーが読みやすいようにRBに完全で正確な解答を目立つように表示しており、ユーザーは満足している。  
 **注：**<!-- -->現在の情報が表示されているとし評価します。
 
@@ -555,8 +596,10 @@ RBはモバイル端末のユーザーが読みやすいようにRBに完全で�
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img322.jpg)  
-![rating: fully meets](../images/fullym.jpg)  
+![fully meets example](../images/img322.jpg)
+
+![rating: fully meets](../images/fullym.jpg)
+
 RBはモバイル端末のユーザーが読みやすいようにRBに完全で正確な解答を目立つように表示しており、ユーザーは満足している。
 
 </div>
@@ -571,8 +614,10 @@ RBはモバイル端末のユーザーが読みやすいようにRBに完全で�
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img324.jpg)  
-![rating: fully meets](../images/fullym.jpg)  
+![fully meets example](../images/img324.jpg)
+
+![rating: fully meets](../images/fullym.jpg)
+
 RBはユーザーの疑問に完璧かつ正確な答えを表示しており、モバイル端末でも読みやすい。ユーザーの需要に**完全に合致する**。  
 「天気を知る」等のクエリは「**簡単知識**」に分類されることに注意。  
 **注：**<!-- -->RBには「現時点での情報」が表示されていると仮定して評価すること。
@@ -589,8 +634,10 @@ RBはユーザーの疑問に完璧かつ正確な答えを表示しており、
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img326.jpg)  
-![rating: fully meets](../images/hm+narrow.jpg)  
+![fully meets example](../images/img326.jpg)
+
+![rating: fully meets](../images/hm+narrow.jpg)
+
 RBはユーザーの疑問に完璧かつ正確な答えを表示しており、モバイル端末でも読みやすい。ユーザーの需要に**完全に合致する**。  
 **注：**<!-- -->RBには「現時点での情報」が表示されていると仮定して評価すること。
 
@@ -606,8 +653,10 @@ RBはユーザーの疑問に完璧かつ正確な答えを表示しており、
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img329.jpg)  
-![rating: fully meets](../images/hm+narrow.jpg)  
+![fully meets example](../images/img329.jpg)
+
+![rating: fully meets](../images/hm+narrow.jpg)
+
 RBはユーザーの疑問に完璧かつ正確な答えを表示しており、モバイル端末でも読みやすい。ユーザーの需要に**完全に合致する**。
 
 </div>
@@ -622,8 +671,10 @@ RBはユーザーの疑問に完璧かつ正確な答えを表示しており、
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img331.jpg)  
-![rating: fully meets](../images/hm+narrow.jpg)  
+![fully meets example](../images/img331.jpg)
+
+![rating: fully meets](../images/hm+narrow.jpg)
+
 ユーザーは指定した地域の、指定したチェーンのガソリンスタンドに訪問したいと思っている。RBは該当するガソリンスタンドの場所や、実際に訪問するために必要な情報を表示している。
 
 </div>
@@ -638,8 +689,10 @@ RBはユーザーの疑問に完璧かつ正確な答えを表示しており、
 <div class="results">
 <div class="result">
 
-![fully meets example](../images/img333.jpg)  
-![rati<!-- --> meets](../images/hm+narrow.jpg)  
+![fully meets example](../images/img333.jpg)
+
+![rati<!-- --> meets](../images/hm+narrow.jpg)
+
 RBはユーザーが求めている指定された歌詞を正確に表示している。ユーザーはこの全ての歌詞を見るために新しいページをクリックする必要が無い。  
 **注：**<!-- -->Google Playに掲載された歌詞はライセンスが付与されています。
 
@@ -655,8 +708,10 @@ RBはユーザーが求めている指定された歌詞を正確に表示して
 <div class="results">
 <div class="result">
 
-![highly meets+ example](../images/img336.jpg)  
-![rating: highly meets+ narrow](../images/hm+narrow.jpg)  
+![highly meets+ example](../images/img336.jpg)
+
+![rating: highly meets+ narrow](../images/hm+narrow.jpg)
+
 ユーザーは青い点で示された現在地に近いガソリンスタンドを訪問することが目的。  
 RBには特定の場所から1マイル以内の人気のあるガソリンスタンド一覧が表示されており、直接訪れたいユーザーに特に役に立つ。  
 このRBの結果は、すぐにガソリンを必要とするモバイルユーザーで、特に運転していて簡単に電話を使用できないユーザーに対しても非常に便利。  
@@ -674,8 +729,10 @@ RBには特定の場所から1マイル以内の人気のあるガソリンス�
 <div class="results">
 <div class="result">
 
-![highly meets+ example](../images/img338.jpg)  
-![rating: highly meets+ narrow](../images/hm+narrow.jpg)  
+![highly meets+ example](../images/img338.jpg)
+
+![rating: highly meets+ narrow](../images/hm+narrow.jpg)
+
 ユーザーは青い点で示された現在地に近いコーヒーショップを訪問することが目的。  
 RBには特定の場所から数マイル以内の人気のあるコーヒーショップ一覧が表示されており、直接訪れたいユーザーに特に役に立つ。このRBの結果はインタラクティブなもので、コーヒーショップをクリックすると、電話をかける、ルートを取得する、レビューを読む等のオプションが与えられる。  
 **注：**<!-- -->左の評価にはHM+からFullyMまでの幅を設けてある。これは「営業時間」「現在地からの距離」「その他の候補」等、このリスト外の情報を求めるユーザーがいるかもしれないため。
@@ -692,8 +749,10 @@ RBには特定の場所から数マイル以内の人気のあるコーヒーシ
 <div class="results">
 <div class="result">
 
-![highly meets+ example](../images/img341.jpg)  
-![rating: highly meets+ narrow](../images/hm+narrow.jpg)  
+![highly meets+ example](../images/img341.jpg)
+
+![rating: highly meets+ narrow](../images/hm+narrow.jpg)
+
 このRBには<!-- -->地図・道順のリンク、地図上の有名な場所（ホワイトハウス）などのランドマークが表示されている。  
 ユーザーが所在地から遠い住所（ビジネス名など）で検索することは珍しくない。ユーザーは明示的に離れた場所のアドレスを要求しており、この結果に非常にユーザーは満足している。  
 **注：**<!-- -->左の評価にはHM+からFullyMまでの幅を設けてある。これは「写真」「詳細説明」等、このリスト外の情報を求めるユーザーがいるかもしれないため。
@@ -710,8 +769,10 @@ RBには特定の場所から数マイル以内の人気のあるコーヒーシ
 <div class="results">
 <div class="result">
 
-![highly meets+ example](../images/img343.jpg)  
-![rating: highly meets+ narrow](../images/hm+narrow.jpg)  
+![highly meets+ example](../images/img343.jpg)
+
+![rating: highly meets+ narrow](../images/hm+narrow.jpg)
+
 This block contains a map, link to get directions, departure times for the multiple train lines that operate at this station, link to a detailed schedule (i.e., the "Departure board"), and an option to see more information.  
 Since the user is located in the same city as the station, the information in this block is highly satisfying.  
 **注：**<!-- -->A range is included because some users would be fully satisfied with this result, while some users may want more information (e.g., nearby attractions, ticket prices).
@@ -762,8 +823,10 @@ In order to receive a **Highly Meets** rating, information pages such as encyclo
 <div class="result">
 「Webサイトを訪問」のどちらか
 
-![Highly Meets Example](../images/img347.jpg)  
-![highly meets+](../images/hm+.jpg)  
+![Highly Meets Example](../images/img347.jpg)
+
+![highly meets+](../images/hm+.jpg)
+
 RBはシャーロットの3つの場所のリストを表示し、店を訪れるユーザーにとって非常に役に立つ。  
 **注：**<!-- -->クーポンや宣伝などを見るためにWebサイトにアクセスしたいユーザーは、他の結果を必要とする。したがって、FullyM評価を下すことは不可能。
 
@@ -779,8 +842,10 @@ RBはシャーロットの3つの場所のリストを表示し、店を訪れ�
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img349.jpg)  
-![highly meets+](../images/hm+.jpg)  
+![Highly Meets Example](../images/img349.jpg)
+
+![highly meets+](../images/hm+.jpg)
+
 RBは店舗、プロモーション、レシピ、ニュース等の権威ある情報を持つTrader Joe‘ｓの公式Webサイトである。  
 **注：**<!-- -->実店舗を訪問したいユーザーは、このWebサイトを訪問し少しだけ作業しなければならない。したがって、FullyM評価を下すことは不可能。
 
@@ -796,8 +861,10 @@ RBは店舗、プロモーション、レシピ、ニュース等の権威ある
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img351.jpg)  
-![highly meets+](../images/hm+.jpg)  
+![Highly Meets Example](../images/img351.jpg)
+
+![highly meets+](../images/hm+.jpg)
+
 RBは美術館の公式Webサイトであり、展示物、会員、店舗等の非常に有益な情報を掲載している。  
 **注：**<!-- -->実店舗を訪問したいユーザーは、このWebサイトを訪問し少しだけ作業しなければならない。したがって、FullyM評価を下すことは不可能。
 
@@ -813,8 +880,10 @@ RBは美術館の公式Webサイトであり、展示物、会員、店舗等の
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img354.jpg)  
-![highly meets+](../images/hm+.jpg)  
+![Highly Meets Example](../images/img354.jpg)
+
+![highly meets+](../images/hm+.jpg)
+
 RBは美術館の公式Webサイトであり、展示物、会員、店舗等の非常に有益な情報を掲載している。  
 **注：**<!-- -->公式Webサイトへのリンクがあるのにもかかわらず、タイトル・スニペット・URL等を持つ、Web Search RBほど有益でないためWebサイトにアクセスしたいユーザーにとって満足のいく結果は得られない。
 
@@ -830,8 +899,10 @@ RBは美術館の公式Webサイトであり、展示物、会員、店舗等の
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img356.jpg)  
-![highly meets+](../images/hm+.jpg)  
+![Highly Meets Example](../images/img356.jpg)
+
+![highly meets+](../images/hm+.jpg)
+
 このクエリは、ニュージャージ州の自動車販売店の名前で、ユーザー所在地付近で唯一の販売代理店（Ramsey、New Jersey）。RBには販売代理店に関する情報が表示され、訪問したいユーザーにとって非常に役に立つ。  
 **注：**<!-- -->公式Webサイトへのリンクがあるのにもかかわらず、タイトル・スニペット・URL等を持つ、Web Search RBほど有益でないためWebサイトにアクセスしたいユーザーにとって満足のいく結果は得られない。
 
@@ -847,8 +918,10 @@ RBは美術館の公式Webサイトであり、展示物、会員、店舗等の
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img358.jpg)  
-![highly meets+](../images/hm+.jpg)  
+![Highly Meets Example](../images/img358.jpg)
+
+![highly meets+](../images/hm+.jpg)
+
 RBは公式Webサイトであり、在庫、収支情報等についての非常に有益な情報を掲載している。  
 **注：**<!-- -->実店舗を訪問したいユーザーは、このWebサイトを訪問し少しだけ作業しなければならない。したがって、FullyM評価を下すことは不可能。
 
@@ -864,8 +937,10 @@ RBは公式Webサイトであり、在庫、収支情報等についての非常
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img361.jpg)  
-![highly meets+](../images/hm+.jpg)  
+![Highly Meets Example](../images/img361.jpg)
+
+![highly meets+](../images/hm+.jpg)
+
 ユーザーの所在地（マサチューセッツ州ベルモント）には図書館が1つしかない。RBは図書館に関する情報を表示され、訪問したいユーザーにとって非常に役に立つ。  
 **注：**<!-- -->公式Webサイトへのリンクがあるのにもかかわらず、タイトル・スニペット・URL等を持つ、Web Search RBほど有益でないためWebサイトにアクセスしたいユーザーにとって満足のいく結果は得られない。
 
@@ -881,8 +956,10 @@ RBは公式Webサイトであり、在庫、収支情報等についての非常
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img363.jpg)  
-![highly meets+](../images/hm+.jpg)  
+![Highly Meets Example](../images/img363.jpg)
+
+![highly meets+](../images/hm+.jpg)
+
 ユーザーの所在地（マサチューセッツ州ベルモント）には図書館が1つしかない。RBは図書館に関する情報を表示され、訪問したいユーザーにとって非常に役に立つ。  
 **注：**<!-- -->公式Webサイトへのリンクがあるのにもかかわらず、タイトル・スニペット・URL等を持つ、Web Search RBほど有益でないためWebサイトにアクセスしたいユーザーにとって満足のいく結果は得られない。
 
@@ -898,8 +975,10 @@ RBは公式Webサイトであり、在庫、収支情報等についての非常
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img365.jpg)  
-![highly meets narrow](../images/hm-narrow.jpg)  
+![Highly Meets Example](../images/img365.jpg)
+
+![highly meets narrow](../images/hm-narrow.jpg)
+
 ユーザーの意図が広すぎるため、Fully Meets評価を下すことが不可能。ただし、これはThe Decemberistsの公式Webサイトであり、ツアー日時、MV、最新アルバム等のコンテンツを多数掲載している。この結果は権威性が高く、ほとんどのユーザーはこのWebサイトで非常に満足している。
 
 </div>
@@ -914,8 +993,10 @@ RBは公式Webサイトであり、在庫、収支情報等についての非常
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img367.jpg)  
-![highly meets narrow](../images/hm-narrow.jpg)  
+![Highly Meets Example](../images/img367.jpg)
+
+![highly meets narrow](../images/hm-narrow.jpg)
+
 ユーザーの意図が広すぎるため、Fully Meets評価を下すことが不可能。ただし、これはCeline Dionの公式Webサイトであり、公演日時、音楽、写真・動画等のコンテンツを多数掲載している。この結果は権威性が高く、ほとんどのユーザーはこのWebサイトで非常に満足している。
 
 </div>
@@ -930,8 +1011,10 @@ RBは公式Webサイトであり、在庫、収支情報等についての非常
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img370.jpg)  
-![highly meets](../images/hm.jpg)  
+![Highly Meets Example](../images/img370.jpg)
+
+![highly meets](../images/hm.jpg)
+
 The user intent is too broad to have a Fully Meets result, and different users may be looking for different things.  
 This interactive block has a large amount of helpful content for a TV show including a summary, episode and cast information, etc.—this result would be very helpful for many or most users.
 
@@ -947,8 +1030,10 @@ This interactive block has a large amount of helpful content for a TV show inclu
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img372.jpg)  
-![highly meets](../images/hm.jpg)  
+![Highly Meets Example](../images/img372.jpg)
+
+![highly meets](../images/hm.jpg)
+
 このWebの結果のLPにはレストランのレビューが127件あり、モバイルでも簡単に使用できる。最初に3件のレビューが自動的に表示され、クリックすると他のレビューも読めるようになる。多くのユーザーや大部分のユーザーにとって非常に役に立つ。
 
 </div>
@@ -963,8 +1048,10 @@ This interactive block has a large amount of helpful content for a TV show inclu
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img374.jpg)  
-![highly meets](../images/hm.jpg)  
+![Highly Meets Example](../images/img374.jpg)
+
+![highly meets](../images/hm.jpg)
+
 「現在のドイツ首相の名前を知りたい」という簡単知識なクエリ。答えはスニペット内に明示されているが、目立つように表示はされず、モバイルユーザーにとっては少々読みにくい。
 
 </div>
@@ -979,8 +1066,10 @@ This interactive block has a large amount of helpful content for a TV show inclu
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img377.jpg)  
-![highly meets](../images/hm.jpg)  
+![Highly Meets Example](../images/img377.jpg)
+
+![highly meets](../images/hm.jpg)
+
 このWebの結果のLPは、多数のブロードウェイチケットを販売しており、非常に信頼できる。サイトを回遊するにはズーム、スクロールする必要があるが、この結果は非常に信頼性が高いため、多くのユーザーや大部分のユーザーにとって役に立つ。
 
 </div>
@@ -995,8 +1084,10 @@ This interactive block has a large amount of helpful content for a TV show inclu
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img379.jpg)  
-![highly meets](../images/hm.jpg)  
+![Highly Meets Example](../images/img379.jpg)
+
+![highly meets](../images/hm.jpg)
+
 このモバイルフレンドリーなLPは多くの子供用バックパックを販売している。同社は幅広い年代の高品質の子供用バックパックの製造・販売で有名。モバイルで簡単に使用できるフィルタ機能に加え、多くの製品情報と各商品のユーザーレビューがあるため、多くのユーザーや大部分のユーザーにとって非常に役に立つ。
 
 </div>
@@ -1011,8 +1102,10 @@ This interactive block has a large amount of helpful content for a TV show inclu
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img381.jpg)  
-![highly meets](../images/hm.jpg)  
+![Highly Meets Example](../images/img381.jpg)
+
+![highly meets](../images/hm.jpg)
+
 このモバイルフレンドリーなLPは権威ある政府のWebサイトの一部でツタウルシについての多くの有益な情報を掲載しているため、多くのユーザーや大部分のユーザーにとって非常に役に立つ。一部のユーザーは他の結果を必要とする可能性がある。
 
 </div>
@@ -1027,8 +1120,10 @@ This interactive block has a large amount of helpful content for a TV show inclu
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img383.jpg)  
-![highly meets](../images/hm.jpg)  
+![Highly Meets Example](../images/img383.jpg)
+
+![highly meets](../images/hm.jpg)
+
 このモバイルフレンドリーなLP　はMichael JordanについてのWikipediaの記事で多くのユーザーや大部分のユーザーに役立ちます。
 
 </div>
@@ -1043,8 +1138,10 @@ This interactive block has a large amount of helpful content for a TV show inclu
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img385.jpg)  
-![highly meets](../images/hm.jpg)  
+![Highly Meets Example](../images/img385.jpg)
+
+![highly meets](../images/hm.jpg)
+
 ユーザーは良質で面白いダンスのビデオを探していて、求めている動画は多い。  
 RBもその一つであり、過去10年間のダンススタイルを披露するコメディアンの非常に人気のある動画である。
 
@@ -1060,8 +1157,10 @@ RBもその一つであり、過去10年間のダンススタイルを披露す�
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img388.jpg)  
-![highly meets](../images/hm.jpg)  
+![Highly Meets Example](../images/img388.jpg)
+
+![highly meets](../images/hm.jpg)
+
 Seeing images of trestle bridges is very helpful in understanding this type of bridge. In this case, "a picture is worth a thousand words," meaning that a picture may be more helpful than a text description due to the unique design of the bridge.
 
 </div>
@@ -1076,8 +1175,10 @@ Seeing images of trestle bridges is very helpful in understanding this type of b
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img390.jpg)  
-![highly meets](../images/hm.jpg)  
+![Highly Meets Example](../images/img390.jpg)
+
+![highly meets](../images/hm.jpg)
+
 RBには多数の有益な画像が表示され、LPには更に多くの画像が表示されるため、ユーザーは満足している。
 
 </div>
@@ -1092,8 +1193,10 @@ RBには多数の有益な画像が表示され、LPには更に多くの画像�
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img392.jpg)  
-![highly meets](../images/hm.jpg)  
+![Highly Meets Example](../images/img392.jpg)
+
+![highly meets](../images/hm.jpg)
+
 RBは概要が分かりやすく解説されているが、一部のユーザーは「例」「影響」などの情報をもっと必要としているはず。
 
 </div>
@@ -1108,8 +1211,10 @@ RBは概要が分かりやすく解説されているが、一部のユーザー
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img394.jpg)  
-![highly meets](../images/hm.jpg)  
+![Highly Meets Example](../images/img394.jpg)
+
+![highly meets](../images/hm.jpg)
+
 サニーヴェールのユーザーには、「香辛料のターメリックについて知りたい」という意図と「サニーヴェールにある『ターメリック』というレストランについて知りたい」といういずれかの意図が存在する。この例ではユーザーがサニーヴェールにいるため、レストランの意図が強いだろう。しかし香辛料の意図があるユーザーも一定数いる可能性があるため、HM評価が妥当。
 
 </div>
@@ -1124,8 +1229,10 @@ RBは概要が分かりやすく解説されているが、一部のユーザー
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img397.jpg)  
-![highly meets](../images/hm.jpg)  
+![Highly Meets Example](../images/img397.jpg)
+
+![highly meets](../images/hm.jpg)
+
 Even though the user has to re-enter the destination, the RB recognizes that the user was asking for directions from Seattle. The user has to enter the destination manually because the name in the query ("xpppzyfii") is so garbled that there is no good guess as to what the user meant.  
 Therefore, this block is satisfying because it helps the user correct the request and then immediately get the desired directions.
 
@@ -1141,8 +1248,10 @@ Therefore, this block is satisfying because it helps the user correct the reques
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img399.jpg)  
-![highly meets](../images/hm.jpg)  
+![Highly Meets Example](../images/img399.jpg)
+
+![highly meets](../images/hm.jpg)
+
 LPはKristen Wiigのファンサイト。このWebサイトには50,000点以上の写真と300点以上の動画、インタビュー、記事などが掲載されており、多くのユーザーまたは大部分のユーザーが満足している。
 
 </div>
@@ -1157,8 +1266,10 @@ LPはKristen Wiigのファンサイト。このWebサイトには50,000点以上
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img401.jpg)  
-![moderately meets+ narrow](../images/mm+narrow.jpg)  
+![Highly Meets Example](../images/img401.jpg)
+
+![moderately meets+ narrow](../images/mm+narrow.jpg)
+
 This is a broad query. Different users may be looking for different things.  
 This result shows multiple tables of images with the letters in the Greek alphabet. This result would be helpful for many users. Some users may wish to see additional results.
 
@@ -1174,8 +1285,10 @@ This result shows multiple tables of images with the letters in the Greek alphab
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img403.jpg)  
-![moderately meets+ narrow](../images/mm+narrow.jpg)  
+![Highly Meets Example](../images/img403.jpg)
+
+![moderately meets+ narrow](../images/mm+narrow.jpg)
+
 このクエリはこの女優についての意図の広いクエリ。ユーザーによって必要とする情報は異なる可能性がある。  
 RBはジェニファーアニストンに関する最新のニュースを表示している。各記事はタイムリーで、比較的に面白く、ただの日常的な情報ではない。多くのユーザーは役に立つが、一部のユーザーは他の情報が必要な可能性がある。
 
@@ -1191,8 +1304,10 @@ RBはジェニファーアニストンに関する最新のニュースを表示
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img406.jpg)  
-![moderately meets+ narrow](../images/mm+narrow.jpg)  
+![Highly Meets Example](../images/img406.jpg)
+
+![moderately meets+ narrow](../images/mm+narrow.jpg)
+
 このクエリはこの都市についての意図の広いクエリ。ユーザーによって必要とする情報は異なる可能性がある。  
 RBには地図・天気・名所等の様々な有益な情報が掲載されており、近くのイベントや市内のについての情報を株に表示するオプションがあるMM+からHMの評価が相応しい。
 
@@ -1208,8 +1323,10 @@ RBには地図・天気・名所等の様々な有益な情報が掲載されて
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img408.jpg)  
-![moderately meets+ narrow](../images/mm+narrow.jpg)  
+![Highly Meets Example](../images/img408.jpg)
+
+![moderately meets+ narrow](../images/mm+narrow.jpg)
+
 このクエリはこの女優についての意図の広いクエリ。ユーザーによって必要とする情報は異なる可能性がある。  
 The result contains a variety of helpful information such as images, brief biography, recent movies, and an option to see more. Moderately Meets+ to Highly Meets is an appropriate rating for this result.
 
@@ -1225,8 +1342,10 @@ The result contains a variety of helpful information such as images, brief biogr
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img410.jpg)  
-![moderately meets+ narrow](../images/mm+narrow.jpg)  
+![Highly Meets Example](../images/img410.jpg)
+
+![moderately meets+ narrow](../images/mm+narrow.jpg)
+
 This page provides the requested lyrics on Coldplay's official website. Users can also navigate around the site to listen to the song, explore all albums the song appears on, listen to or view lyrics for other songs on the same album, or learn more about the artist overall.  
 Additionally, users can trust that the lyrics on the LP are 100% accurate due to the uniquely authoritative nature of the source, which makes this result very helpful for many or most users.
 
@@ -1242,8 +1361,10 @@ Additionally, users can trust that the lyrics on the LP are 100% accurate due to
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img413.jpg)  
-![highly meets](../images/hm.jpg)  
+![Highly Meets Example](../images/img413.jpg)
+
+![highly meets](../images/hm.jpg)
+
 The LP for this web result contains authoritative information about the Apollo 11 moon landing on the official website of NASA, which was the organization that oversaw this mission in 1969. The MC has a lot of helpful information and content, including a detailed summary, video footage, and images of the moon landing that users can view and explore. This result would be very helpful for many or most users.
 
 </div>
@@ -1258,8 +1379,10 @@ The LP for this web result contains authoritative information about the Apollo 1
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img415.jpg)  
-![highly meets](../images/hm.jpg)  
+![Highly Meets Example](../images/img415.jpg)
+
+![highly meets](../images/hm.jpg)
+
 This is an informational query on a fairly broad topic. Different users may be looking for different things, yet accuracy and credibility of the source are important.  
 This LP is a news article published on a reputable news website. The MC of the article covers recent efforts to reform STEM education in the U.S., and it includes citations from expert sources. This result would be helpful for many or most users.
 
@@ -1275,8 +1398,10 @@ This LP is a news article published on a reputable news website. The MC of the a
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img417.jpg)  
-![highly meets](../images/hm.jpg)  
+![Highly Meets Example](../images/img417.jpg)
+
+![highly meets](../images/hm.jpg)
+
 This LP is on a well-known fact-checking and debunking website. The page calls this story "False", then provides a credible explanation of how the authors came to that conclusion, including history of similar urban legends. This result would be very helpful for users seeking to verify the credibility of this rumor.
 
 </div>
@@ -1291,8 +1416,10 @@ This LP is on a well-known fact-checking and debunking website. The page calls t
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img419.jpg)  
-![moderately meets+ narrow](../images/mm+narrow.jpg)  
+![Highly Meets Example](../images/img419.jpg)
+
+![moderately meets+ narrow](../images/mm+narrow.jpg)
+
 This LP is an opinion piece written by the Editorial Board of the largest newspaper in the U.S. state of Minnesota. The MC of the article expresses well-informed opinions about Fleck's upcoming tenure as head coach, and it would likely be of interest to many or most users when this query was issued.
 
 </div>
@@ -1307,8 +1434,10 @@ This LP is an opinion piece written by the Editorial Board of the largest newspa
 <div class="results">
 <div class="result">
 
-![Highly Meets Example](../images/img422.jpg)  
-![highly meets](../images/hm.jpg)  
+![Highly Meets Example](../images/img422.jpg)
+
+![highly meets](../images/hm.jpg)
+
 This LP is an in-depth review of the queried movie by a film critic at a reputable newspaper. This result would be very helpful for many or most users.
 
 </div>
@@ -1338,8 +1467,10 @@ This LP is an in-depth review of the queried movie by a film critic at a reputab
 <div class="results">
 <div class="result">
 
-![moderately meets example](../images/img425.jpg)  
-![moderately meets](../images/mm.jpg)  
+![moderately meets example](../images/img425.jpg)
+
+![moderately meets](../images/mm.jpg)
+
 LPは高品質なTechCrunchネットワークのメンバーサイトでcrunchbase.comに掲載されたShutterflyの概要ページ。同社に関する多くの有益かつ正確な情報がありモバイルデバイスでも使いやすい。多くのユーザーは役に立ち、一部のユーザーは非常に役に立つ。
 
 </div>
@@ -1354,8 +1485,10 @@ LPは高品質なTechCrunchネットワークのメンバーサイトでcrunchba
 <div class="results">
 <div class="result">
 
-![moderately meets example](../images/img427.jpg)  
-![moderately meets](../images/mm.jpg)  
+![moderately meets example](../images/img427.jpg)
+
+![moderately meets](../images/mm.jpg)
+
 LPはトム･クルーズに関する情報を含む。多くのユーザーは役に立ち、一部のユーザーは非常に役に立つ。写真やメインリンクはモバイルでも使いやすい。  
 トム･クルーズに関する数多くのページが存在するため、HMには不十分。
 
@@ -1371,8 +1504,10 @@ LPはトム･クルーズに関する情報を含む。多くのユーザーは
 <div class="results">
 <div class="result">
 
-![moderately meets example](../images/img429.jpg)  
-![moderately meets](../images/mm-narrow.jpg)  
+![moderately meets example](../images/img429.jpg)
+
+![moderately meets](../images/mm-narrow.jpg)
+
 このクエリはこの都市についての意図の広いクエリ。ユーザーによって必要とする情報は異なる可能性がある。  
 RBはワシントン州シアトルの地図を表示し、地図をクリックすると詳細の地図を表示させることも可能。一部のユーザーの役に立つ場合がある。
 
@@ -1388,8 +1523,10 @@ RBはワシントン州シアトルの地図を表示し、地図をクリック
 <div class="results">
 <div class="result">
 
-![moderately meets example](../images/img431.jpg)  
-![moderately meets](../images/mm.jpg)  
+![moderately meets example](../images/img431.jpg)
+
+![moderately meets](../images/mm.jpg)
+
 この結果はクエリが映画・歌・ミュージカル等の名前であるためいくつかの可能性の中から1つを反映している。しかし、ユーザーの所在地が学校から近いことを考えると、このRBは一部のユーザーの役に立ち、この学校を探しているユーザーに特に役立つ可能性がある。
 
 </div>
@@ -1404,8 +1541,10 @@ RBはワシントン州シアトルの地図を表示し、地図をクリック
 <div class="results">
 <div class="result">
 
-![moderately meets example](../images/img434.jpg)  
-![moderately meets](../images/mm.jpg)  
+![moderately meets example](../images/img434.jpg)
+
+![moderately meets](../images/mm.jpg)
+
 This is a result to download one of the YouTube apps. Mobile users want answers and results right away and may not be able to spend a lot of time downloading and installing apps. It is possible that users want one of the YouTube apps, but it is probably not the dominant intent for mobile users on the go.
 
 </div>
@@ -1420,8 +1559,10 @@ This is a result to download one of the YouTube apps. Mobile users want answers 
 <div class="results">
 <div class="result">
 
-![moderately meets example](../images/img436.jpg)  
-![moderately meets](../images/mm.jpg)  
+![moderately meets example](../images/img436.jpg)
+
+![moderately meets](../images/mm.jpg)
+
 RBには、ニカラグアの通貨単位名が表示されている。一部のユーザーは通貨単位名を知ることで満足するが、多くのユーザーが画像を必要とし、為替レートなど知っている可能性がある。
 
 </div>
@@ -1436,8 +1577,10 @@ RBには、ニカラグアの通貨単位名が表示されている。一部の
 <div class="results">
 <div class="result">
 
-![moderately meets example](../images/img438.jpg)  
-![moderately meets](../images/mm-narrow.jpg)  
+![moderately meets example](../images/img438.jpg)
+
+![moderately meets](../images/mm-narrow.jpg)
+
 RBの説明はアメリカのこの分野に精通しているユーザーにとって役に立つ。多くのユーザーや大部分のユーザは、地図や明確な説明を必要としている可能性がある。
 
 </div>
@@ -1452,8 +1595,10 @@ RBの説明はアメリカのこの分野に精通しているユーザーにと
 <div class="results">
 <div class="result">
 
-![moderately meets example](../images/img440.jpg)  
-![moderately meets](../images/mm.jpg)  
+![moderately meets example](../images/img440.jpg)
+
+![moderately meets](../images/mm.jpg)
+
 LPはこの曲の歌詞を掲載したページ。同様の歌詞サイトが多くあるが、100％正確とは限らない。要求された歌詞を含むページだが、平均的なページなのでMMが相応しい。
 
 </div>
@@ -1468,8 +1613,10 @@ LPはこの曲の歌詞を掲載したページ。同様の歌詞サイトが多
 <div class="results">
 <div class="result">
 
-![moderately meets example](../images/img442.jpg)  
-![moderately meets](../images/sm+narrow.jpg)  
+![moderately meets example](../images/img442.jpg)
+
+![moderately meets](../images/sm+narrow.jpg)
+
 LPはKristen Wiigの公式Webサイトですが、事務所サイトへのリンクと彼女がSNSを一切利用していないというメモ以外のコンテンツは存在しない。この情報は参考にはなるが、多くのユーザーはより多くの情報を見たいと考える。
 
 </div>
@@ -1486,8 +1633,6 @@ LPはKristen Wiigの公式Webサイトですが、事務所サイトへのリン
 ### Slightly Meets評価（SM）の例
 
 <div class="examples">
-
-
 <div class="example">
 
 **クエリ：**<span class="query">britney spears</span>  
@@ -1497,8 +1642,10 @@ LPはKristen Wiigの公式Webサイトですが、事務所サイトへのリン
 <div class="results">
 <div class="result">
 
-![slightly meets example](../images/img445.jpg)  
-![slightly meets](../images/sm.jpg)  
+![slightly meets example](../images/img445.jpg)
+
+![slightly meets](../images/sm.jpg)
+
 LPはモバイルフレンドリーだが、2006年の彼女の離婚に関する記事。これは非常に古いニュースのため、ごく一部のユーザーにしか役に立たない。
 
 </div>
@@ -1513,8 +1660,10 @@ LPはモバイルフレンドリーだが、2006年の彼女の離婚に関す�
 <div class="results">
 <div class="result">
 
-![slightly meets example](../images/img447.jpg)  
-![slightly meets](../images/sm.jpg)  
+![slightly meets example](../images/img447.jpg)
+
+![slightly meets](../images/sm.jpg)
+
 LPは評判の高い情報源からの包括的な情報で、モバイルデバイスでも使いやすいが、2010年モデルに関する情報である。この情報は現在のクエリでは時代遅れと見なされ、一部のユーザーまたは少数のユーザーにしか役に立たない
 
 </div>
@@ -1529,8 +1678,10 @@ LPは評判の高い情報源からの包括的な情報で、モバイルデバ
 <div class="results">
 <div class="result">
 
-![slightly meets example](../images/img449.jpg)  
-![slightly meets](../images/sm.jpg)  
+![slightly meets example](../images/img449.jpg)
+
+![slightly meets](../images/sm.jpg)
+
 LPは1984年の映画「Hot Dog」ついてのものであり、これはクエリのマイナーな解釈である。LPは信頼できる優れたコンテンツがあり、モバイルデバイスでも使いやすいが、これは考えにくい解釈であり、この結果はほとんどのユーザーには役に立たない。
 
 </div>
@@ -1545,8 +1696,10 @@ LPは1984年の映画「Hot Dog」ついてのものであり、これはクエ�
 <div class="results">
 <div class="result">
 
-![slightly meets example](../images/img451.jpg)  
-![slightly meets](../images/failsm+narrow.jpg)  
+![slightly meets example](../images/img451.jpg)
+
+![slightly meets](../images/failsm+narrow.jpg)
+
 RBはポツダムにある2つのバイクショップのうち1つを掲載している。一部のユーザーには役に立つが多くのユーザーはより多くの情報を探している。2番目の掲載は保険代理店で全くの無関係。
 
 </div>
@@ -1561,8 +1714,10 @@ RBはポツダムにある2つのバイクショップのうち1つを掲載し�
 <div class="results">
 <div class="result">
 
-![slightly meets example](../images/img454.jpg)  
-![slightly meets](../images/sm-narrow.jpg)  
+![slightly meets example](../images/img454.jpg)
+
+![slightly meets](../images/sm-narrow.jpg)
+
 LPはリンカーンを含む、全アメリカ大統領の生年月日が掲載されているWikipediaのページ。RB・LPともにリンカーンの誕生日を明示しておらず、リンカーンの誕生日が掲載されているか明確ではない。ユーザーはページを検索して答えを出す必要があるのでSM～SM+が相応しい。
 
 </div>
@@ -1577,8 +1732,10 @@ LPはリンカーンを含む、全アメリカ大統領の生年月日が掲載
 <div class="results">
 <div class="result">
 
-![slightly meets example](../images/img456.jpg)  
-![slightly meets](../images/sm.jpg)  
+![slightly meets example](../images/img456.jpg)
+
+![slightly meets](../images/sm.jpg)
+
 LPの記事は結婚・夫婦関係についての専門知識を持たない人が作成したため質が悪い。記事はクエリの意図に関するものだが、ページは低品質で信頼性が無いため、ごく少数のユーザーにしか役に立たない。
 
 </div>
@@ -1593,8 +1750,10 @@ LPの記事は結婚・夫婦関係についての専門知識を持たない人
 <div class="results">
 <div class="result">
 
-![slightly meets example](../images/img458.jpg)  
-![slightly meets](../images/sm.jpg)  
+![slightly meets example](../images/img458.jpg)
+
+![slightly meets](../images/sm.jpg)
+
 RBに掲載された店はマッサージ・スキンケアなどを提供する総合スパ施設。ネイルケアもオプションとしてはあるが、ネイルスパの専門店ではない。
 
 </div>
@@ -1609,8 +1768,10 @@ RBに掲載された店はマッサージ・スキンケアなどを提供する
 <div class="results">
 <div class="result">
 
-![slightly meets example](../images/img460.jpg)  
-![slightly meets](../images/sm.jpg)  
+![slightly meets example](../images/img460.jpg)
+
+![slightly meets](../images/sm.jpg)
+
 RBに掲載された店はマッサージ・スキンケアなどを提供する総合スパ施設。ネイルケアもオプションとしてはあるが、ネイルスパの専門店ではない。
 
 </div>
@@ -1625,8 +1786,10 @@ RBに掲載された店はマッサージ・スキンケアなどを提供する
 <div class="results">
 <div class="result">
 
-![slightly meets example](../images/img462.jpg)  
-![slightly meets](../images/sm.jpg)  
+![slightly meets example](../images/img462.jpg)
+
+![slightly meets](../images/sm.jpg)
+
 RBの情報では、どの地域で210番を使っているのかとても読み取りづらい。確実に「ここが210を使っている」と断定するためにはRB内のリンクをクリックするか、他の方法で追加調査しないといけない。地図も掲載されているが、拡大しないと役に立たない。
 
 </div>
@@ -1641,8 +1804,10 @@ RBの情報では、どの地域で210番を使っているのかとても読み
 <div class="results">
 <div class="result">
 
-![slightly meets example](../images/img465.jpg)  
-![slightly meets](../images/failsm+narrow.jpg)  
+![slightly meets example](../images/img465.jpg)
+
+![slightly meets](../images/failsm+narrow.jpg)
+
 RBにはIBMのロゴが複数掲載されているが、このクエリには大して役に立たない。
 
 </div>
@@ -1657,26 +1822,12 @@ RBにはIBMのロゴが複数掲載されているが、このクエリには大
 <div class="results">
 <div class="result">
 
-![slightly meets example](../images/img467.jpg)  
-![slightly meets](../images/failsm+narrow.jpg)  
+![slightly meets example](../images/img467.jpg)
+
+![slightly meets](../images/failsm+narrow.jpg)
+
 The title of this article makes it appear as though the article describes an impending catastrophe. Yet, the MC states in its third paragraph that Nibiru "doesn't actually exist" and calls believers in it "conspiracy theorists". The title contradicts the content of the article, and as a result could mislead users who don't read the full article.  
 **注：**<!-- -->The "cost of a click" is high on mobile phones. Results with very misleading or exaggerated titles should be rated Slightly Meets or lower.
-
-</div>
-</div>
-</div>
-<div class="example">
-
-**クエリ：**<span class="query">ellen degeneres news</span>  
-**ユーザーの所在地：**<!-- -->カリフォルニア州アナハイム  
-**ユーザーの意図：**<!-- -->Find recent news about the comedian/actress Ellen DeGeneres.
-
-<div class="results">
-<div class="result">
-
-![slightly meets example](../images/img469.jpg)  
-![slightly meets](../images/failsm+narrow.jpg)  
-While the title of this article implies that something bad or outrageous happened involving Ellen, the actual content of the article is about an anti-aging cosmetic that she is claimed to have used. The content of the page is not related to what the misleading and exaggerated title suggests, so it should be rated Slightly Meets or lower.
 
 </div>
 </div>
@@ -1705,8 +1856,6 @@ The following should also be rated **Fails to Meet** because they lead to very p
 ### Fails to Meet評価（FailsM）の例
 
 <div class="examples">
-
-
 <div class="example">
 
 **クエリ：**<span class="query">dogs</span>  
@@ -1717,8 +1866,10 @@ The following should also be rated **Fails to Meet** because they lead to very p
 <div class="result">
 **注：**<!-- -->このクエリに「店舗などを訪問する」意図があるとは考えがたい
 
-![fails to meet example](../images/img472.jpg)  
-![fail<!-- -->](../images/failsm-narrow.jpg)  
+![fails to meet example](../images/img472.jpg)
+
+![fail<!-- -->](../images/failsm-narrow.jpg)
+
 クエリの意図は広く、ユーザーによって求める情報も異なる。  
 RBはユーザーの近所にある犬のケア施設3軒を表示している。クエリの意図が広いため、「店舗などを訪問する」意図があるとは考えにくい。
 
@@ -1735,8 +1886,10 @@ RBはユーザーの近所にある犬のケア施設3軒を表示している�
 <div class="result">
 **注：**<!-- -->このクエリに「店舗などを訪問する」意図があるとは考えがたい
 
-![fails to meet example](../images/img474.jpg)  
-![fails to meet](../images/failsm-narrow.jpg)  
+![fails to meet example](../images/img474.jpg)
+
+![fails to meet](../images/failsm-narrow.jpg)
+
 クエリの意図は広く、ユーザーによって求める情報も異なる。  
 RBは「Mike」を含むビジネス2軒を表示している。クエリの意図が広いため、ユーザーがこれらのビジネスを探していた可能性は極めて低い。
 
@@ -1753,8 +1906,10 @@ RBは「Mike」を含むビジネス2軒を表示している。クエリの意�
 <div class="result">
 **注：**<!-- -->このクエリではユーザーが実在の場所に足を運ぶという意図があるとは考えにくい
 
-![fails to meet example](../images/img477.jpg)  
-![fails to meet](../images/failsm-narrow.jpg)  
+![fails to meet example](../images/img477.jpg)
+
+![fails to meet](../images/failsm-narrow.jpg)
+
 RBには同チームの名前が入ったスポーツカードショップを訪問するための情報が表示されている。このクエリではユーザーが直接訪問したいという意図は考えにくい。  
 **注：**<!-- -->この企業は解説目的に作成されたもので、実在しない。
 
@@ -1771,8 +1926,10 @@ RBには同チームの名前が入ったスポーツカードショップを訪
 <div class="result">
 **注：**<!-- -->ユーザーは一般的にTV局を訪問することはない
 
-![fails to meet example](../images/img479.jpg)  
-![fails to meet](../images/failsm-narrow.jpg)  
+![fails to meet example](../images/img479.jpg)
+
+![fails to meet](../images/failsm-narrow.jpg)
+
 WRALはノースカロライナにあるTVニュース局。ユーザーは「公式Webサイトにアクセスしたり、局に関する情報を探している。  
 この例では、RBをクリックすると、TV局の本社に関する情報が掲載されている。TV局（新聞社やラジオ局等）は一般向けの本社の情報とは異なる特別な連絡先情報を公開している。単にWRALの名前であるクエリのため、ユーザーがこの情報を求めていることはほとんど無い。
 
@@ -1788,8 +1945,10 @@ WRALはノースカロライナにあるTVニュース局。ユーザーは「�
 <div class="results">
 <div class="result">
 
-![fail<!-- --> example](../images/img481.jpg)  
-![fails to meet](../images/failsm-narrow.jpg)  
+![fail<!-- --> example](../images/img481.jpg)
+
+![fails to meet](../images/failsm-narrow.jpg)
+
 RBにはテキサスファーム社のオフィスが掲載されているが、ユーザーの意図と合致せず、ユーザーがオフィスに出向いても製品を購入または肥料について学ぶことはできない。肥料は店で購入しなければならない製品。
 
 </div>
@@ -1804,8 +1963,10 @@ RBにはテキサスファーム社のオフィスが掲載されているが、
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img484.jpg)  
-![fail<!-- -->](../images/failsm.jpg)  
+![fails to meet example](../images/img484.jpg)
+
+![fail<!-- -->](../images/failsm.jpg)
+
 RBには教会、イベント会場、最寄りの空港の情報を表示している。ユーザーは明確に特定のフライトについての情報を求めているがRBには全く無い。この結果FailsMが相応しい。
 
 </div>
@@ -1820,8 +1981,10 @@ RBには教会、イベント会場、最寄りの空港の情報を表示して
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img486.jpg)  
-![fails to meet](../images/failsm.jpg)  
+![fails to meet example](../images/img486.jpg)
+
+![fails to meet](../images/failsm.jpg)
+
 LPはドイツ<!-- -->本の自動車会社のスバルのホームページ。  
 ユーザーを完全に満足させておらずFailsMが相応しい。
 
@@ -1837,8 +2000,10 @@ LPはドイツ<!-- -->本の自動車会社のスバルのホームページ。
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img488.jpg)  
-![fails to meet](../images/failsm.jpg)  
+![fails to meet example](../images/img488.jpg)
+
+![fails to meet](../images/failsm.jpg)
+
 LPはオーストラリアの害虫・害獣駆除会社のホームページで、アメリカにいるユーザーがこの問題を処理するのにはアメリカの会社が必要。ページとロケーるとの間に不一致があるため、この結果はユーザーを完全に満足させておらずFailsMが相応しい。
 
 </div>
@@ -1853,8 +2018,10 @@ LPはオーストラリアの害虫・害獣駆除会社のホームページで
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img490.jpg)  
-![fails to meet](../images/failsm.jpg)  
+![fails to meet example](../images/img490.jpg)
+
+![fails to meet](../images/failsm.jpg)
+
 LPはNFLに関する信頼できるWebサイトだが、ユーザーが要求した情報(2001年の)は掲載されていない。この結果はユーザーを完全に満足させていない。
 
 </div>
@@ -1869,8 +2036,10 @@ LPはNFLに関する信頼できるWebサイトだが、ユーザーが要求し
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img492.jpg)  
-![fails to meet](../images/failsm.jpg)  
+![fails to meet example](../images/img492.jpg)
+
+![fails to meet](../images/failsm.jpg)
+
 LPは同公園の公式ホームページで、これは機能クエリであり、「ナビしてほしい」という需要に全く合致しない。
 
 </div>
@@ -1885,8 +2054,10 @@ LPは同公園の公式ホームページで、これは機能クエリであり
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img495.jpg)  
-![fails to meet](../images/failsm.jpg)  
+![fails to meet example](../images/img495.jpg)
+
+![fails to meet](../images/failsm.jpg)
+
 RBは給与ではなく教育費で、誤解を招きやすく、ユーザーの質問に答えていない。
 
 </div>
@@ -1901,8 +2072,10 @@ RBは給与ではなく教育費で、誤解を招きやすく、ユーザーの
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img497.jpg)  
-![fails to meet](../images/failsm.jpg)  
+![fails to meet example](../images/img497.jpg)
+
+![fails to meet](../images/failsm.jpg)
+
 RBはストーニー児童発達支援センターではなくウェストポイントクラブの電話番号。この結果はユーザーを完全に満足させられないためFailsMが相応しい。
 
 </div>
@@ -1917,8 +2090,10 @@ RBはストーニー児童発達支援センターではなくウェストポイ
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img499.jpg)  
-![fails to meet](../images/failsm.jpg)  
+![fails to meet example](../images/img499.jpg)
+
+![fails to meet](../images/failsm.jpg)
+
 The answer provided in this RB is factually inaccurate. Stairs have been a common architectural feature of buildings, pathways, outdoor structures, etc. since long before 1948, and they were not invented by a person named Werner Bösendörfer.
 
 </div>
@@ -1933,8 +2108,10 @@ The answer provided in this RB is factually inaccurate. Stairs have been a commo
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img501.jpg)  
-![fails to meet](../images/failsm.jpg)  
+![fails to meet example](../images/img501.jpg)
+
+![fails to meet](../images/failsm.jpg)
+
 This result includes several apps to download, with an option to see more apps. The user is looking for information about app developers that are well-known, so it Fails to Meet the user intent.  
 **注：**<!-- -->Unless you feel the user intent to download an app is strong, results that allow users to download apps are generally less helpful. Mobile users want answers and results right away, at that moment, and may not be able to spend a lot of time downloading and installing apps.
 
@@ -1954,7 +2131,8 @@ Subject:
 Recipient: John  
 Body: I'm running late
 
-![fails to meet](../images/failsm.jpg)  
+![fails to meet](../images/failsm.jpg)
+
 ユーザーは明らかにテキストメッセージを送信したいのにEメールを送信という機能は正しくないためユーザーを完全に満足させられていない。
 
 </div>
@@ -1972,7 +2150,8 @@ Query Time: 2013-4-23 6:00:12
 Action: Set alarm  
 Alarm Time: 22:43:00
 
-![fails to meet](../images/failsm.jpg)  
+![fails to meet](../images/failsm.jpg)
+
 ユーザーは明確に気象情報を望んでいるのに、アラームを設定するという機能は不適切。(さらには不条理)ユーザーを完全に満足させられていない。
 
 </div>
@@ -1987,8 +2166,10 @@ Alarm Time: 22:43:00
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img506.jpg)  
-![fails to meet](../images/failsm.jpg)  
+![fails to meet example](../images/img506.jpg)
+
+![fails to meet](../images/failsm.jpg)
+
 ユーザーがアメリカにいることを考慮すると、トルコの都市のバットマンに関する情報を求めている可能性はほとんどない。この結果に満足するユーザーはほとんどいない。
 
 </div>
@@ -2003,8 +2184,10 @@ Alarm Time: 22:43:00
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img508.jpg)  
-![fails to meet](../images/failsm.jpg)  
+![fails to meet example](../images/img508.jpg)
+
+![fails to meet](../images/failsm.jpg)
+
 ユーザーがアメリカにいることを考慮すると、日本の都市のオバマに関する情報を求めている可能性はほとんどない。この結果に満足するユーザーはゼほとんどいない。
 
 </div>
@@ -2019,8 +2202,10 @@ Alarm Time: 22:43:00
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img510.jpg)  
-![fails to meet](../images/failsm.jpg)  
+![fails to meet example](../images/img510.jpg)
+
+![fails to meet](../images/failsm.jpg)
+
 この結果はフランスのパリではなく、テキサス州のパリの気象情報を知りたいというユーザーの意図に不一致。この結果に満足するユーザーはいない。
 
 </div>
@@ -2035,8 +2220,10 @@ Alarm Time: 22:43:00
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img513.jpg)  
-![fails to meet](../images/failsm.jpg)  
+![fails to meet example](../images/img513.jpg)
+
+![fails to meet](../images/failsm.jpg)
+
 この結果は、GEの第3四半期の収支を見たいというユーザーの質問に一切答えていない。この結果に満足するユーザーはいない。
 
 </div>
@@ -2051,8 +2238,10 @@ Alarm Time: 22:43:00
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img515.jpg)  
-![fails to meet](../images/failsm-narrow.jpg)  
+![fails to meet example](../images/img515.jpg)
+
+![fails to meet](../images/failsm-narrow.jpg)
+
 RBではいくつかの可能性のある解釈の1つから同名の学校を反映した。  
 しかしユーザーはイリノイ州シカゴにいるためこの都市でよく知られていないこの学校に関する情報が欲しいユーザーはほとんどいない。ロサンゼルス以外の人々がこの学校を探している可能性はほとんどない。
 
@@ -2068,8 +2257,10 @@ RBではいくつかの可能性のある解釈の1つから同名の学校を�
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img517.jpg)  
-![fails to meet](../images/failsm.jpg)  
+![fails to meet example](../images/img517.jpg)
+
+![fails to meet](../images/failsm.jpg)
+
 RBは周辺の2件のゴーカートのコースで、これらはゴーカートを走らせる場所で購入する場所ではないので、ユーザーの意図に完全に不一致。この結果にユーザーは満足しないのでFailsMに相応しい。
 
 </div>
@@ -2084,8 +2275,10 @@ RBは周辺の2件のゴーカートのコースで、これらはゴーカー�
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img519.jpg)  
-![fails to meet](../images/failsm.jpg)  
+![fails to meet example](../images/img519.jpg)
+
+![fails to meet](../images/failsm.jpg)
+
 Ralphsはアメリカ全土にあるスーパーマーケットチェーン。RBは全てカリフォルニア州サンディエゴのRalphsの店舗でユーザーの所在地から約60マイル離れたところにある。これらの結果はあまりにも参考にならない。
 
 </div>
@@ -2100,8 +2293,10 @@ Ralphsはアメリカ全土にあるスーパーマーケットチェーン。RB
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img522.jpg)  
-![fails to meet](../images/failsm.jpg)  
+![fails to meet example](../images/img522.jpg)
+
+![fails to meet](../images/failsm.jpg)
+
 ユーザーの意図はAmazonのWebサイトにアクセスすることでRBはAmazonのオフィスの住所・電話番号を表示しているので役に立たない。ほとんどのユーザーはオンライン企業のオフィスを訪問しない。オフィス自体も一般公開されていない。模試オフィスに訪問するユーザーがいる場合、Amazon社員から情報を入手しているだろうし、そうでなければより具体的なクエリを使用する必要がある。
 
 </div>
@@ -2116,8 +2311,10 @@ Ralphsはアメリカ全土にあるスーパーマーケットチェーン。RB
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img524.jpg)  
-![fails to meet](../images/failsm.jpg)  
+![fails to meet example](../images/img524.jpg)
+
+![fails to meet](../images/failsm.jpg)
+
 RBは不一致で全く役に立たない。この結果に満足するユーザーはいない。
 
 </div>
@@ -2132,8 +2329,10 @@ RBは不一致で全く役に立たない。この結果に満足するユーザ
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img526.jpg)  
-![fails to meet](../images/failsm.jpg)  
+![fails to meet example](../images/img526.jpg)
+
+![fails to meet](../images/failsm.jpg)
+
 LPは2008年ではなく、2004年の全豪オープンである。ユーザーの意図(2008)と不一致である。クエリの重要な点を落としているのでこの結果に満足するユーザーはいない。
 
 </div>
@@ -2148,8 +2347,10 @@ LPは2008年ではなく、2004年の全豪オープンである。ユーザー�
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img528.jpg)  
-![fails to meet](../images/failsm.jpg)  
+![fails to meet example](../images/img528.jpg)
+
+![fails to meet](../images/failsm.jpg)
+
 LPは「5歳」というキーワードを含んだ魚の歯が抜けたという記事。キーワードが一致しているだけでユーザーの役には立たない。
 
 </div>
@@ -2164,8 +2365,10 @@ LPは「5歳」というキーワードを含んだ魚の歯が抜けたとい�
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img530.jpg)  
-![fails to meet](../images/failsm.jpg)  
+![fails to meet example](../images/img530.jpg)
+
+![fails to meet](../images/failsm.jpg)
+
 RBの翻訳は完全に間違っている。  
 Mañanaは結婚ではなく明日を意味する。
 
@@ -2181,26 +2384,11 @@ Mañanaは結婚ではなく明日を意味する。
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img533.jpg)  
-![fails to meet](../images/failsm.jpg)  
+![fails to meet example](../images/img533.jpg)
+
+![fails to meet](../images/failsm.jpg)
+
 LPは夫がスーツを買うのを、助ける妻についてのユーモラスな記事。「アメリカンエキスプレス」と記載されているが、ユーザーにとって役に立つクエリとの関連性が不十分であるため**FailsM**評価が相応しい。
-
-</div>
-</div>
-</div>
-<div class="example">
-
-**クエリ：**<span class="query">zoo atlanta</span>  
-**ユーザーの所在地：**<!-- -->テキサス州デントン  
-**ユーザーの意図：**<!-- -->アトランタ動物園の公式サイトを訪問
-
-<div class="results">
-<div class="result">
-
-![fails to meet example](../images/img535.jpg)  
-![fails to meet](../images/failsm.jpg)  
-about.comのこのLPはルイビル動物園に関する短い記事。  
-LPのMCはアトランタ動物園とは関係なく、アトランタ動物園に関する記事へのリンクはSC内にあり、多くのユーザーはこのリンクに気付かない。この結果、FailsMより上の評価はされるべきでない。
 
 </div>
 </div>
@@ -2214,8 +2402,10 @@ LPのMCはアトランタ動物園とは関係なく、アトランタ動物園�
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img537.jpg)  
-![fails to meet](../images/failsm.jpg)  
+![fails to meet example](../images/img537.jpg)
+
+![fails to meet](../images/failsm.jpg)
+
 LPには「キーボード上でたばこのシンボルを生成するための方法は？」といった意味不明な文章の羅列がある。低品質なFailsMページである。
 
 </div>
@@ -2230,8 +2420,10 @@ LPには「キーボード上でたばこのシンボルを生成するための
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img539.jpg)  
-![fails to meet](../images/failsm.jpg)  
+![fails to meet example](../images/img539.jpg)
+
+![fails to meet](../images/failsm.jpg)
+
 LPはこの映画の**公式サイト**。しかし、LPは非常に使いにくく（スマートフォンからは壊れているように見える）、有益なコンテンツが全くない。ユーザーの意図を全く満たせていない。  
 **参考：**<!-- -->LPのQRコード  
 ![QR code "American Beauty" official website](../images/img541.jpg)
@@ -2248,8 +2440,10 @@ LPはこの映画の**公式サイト**。しかし、LPは非常に使いにく
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img543.jpg)  
-![fails to meet](../images/failsm.jpg)  
+![fails to meet example](../images/img543.jpg)
+
+![fails to meet](../images/failsm.jpg)
+
 RBはナスカーのスケジュールは掲載しているが、「出走順」について掲載はない。コンテンツはユーザーが探しているものとは異なるため、FailsMが相応しい。
 
 </div>
@@ -2264,8 +2458,10 @@ RBはナスカーのスケジュールは掲載しているが、「出走順」
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img545.jpg)  
-![fails to meet](../images/failsm.jpg)  
+![fails to meet example](../images/img545.jpg)
+
+![fails to meet](../images/failsm.jpg)
+
 評価するにあたり、事実上の正確さを確認することが必須である。この結果を得るには、同社のページにアクセスして「USA」を選択し、表示される番号を確認する。公式サイトによと、正しい電話番号は1-888-247-2262。RBは正確ではないため**FailsM**評価にする必要がある。
 
 </div>
@@ -2280,8 +2476,10 @@ RBはナスカーのスケジュールは掲載しているが、「出走順」
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img547.jpg)  
-![fails to meet](../images/failsm.jpg)  
+![fails to meet example](../images/img547.jpg)
+
+![fails to meet](../images/failsm.jpg)
+
 The MC of this page is an example of a demonstrably inaccurate news report, including a fictitious quotation by Barack Obama. Because the content is presented as a factual news article, it is inaccurate with an intent to deceive users and should be rated Fails to Meet.
 
 </div>
@@ -2296,8 +2494,10 @@ The MC of this page is an example of a demonstrably inaccurate news report, incl
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img549.jpg)  
-![fails to meet](../images/failsm.jpg)  
+![fails to meet example](../images/img549.jpg)
+
+![fails to meet](../images/failsm.jpg)
+
 Despite strong medical consensus linking tobacco to lung cancer—which can be found at authoritative sources by searching [lung cancer and smoking]—this LP claims there is no connection between smoking and cancer by selectively interpreting some experiments done on animals.  
 Additionally, this is a YMYL query on a medical topic, so accurate and trustworthy information is highly important. This page directly contradicts well-established medical consensus and may potentially cause harm to users, so it should be rated Fails to Meet.
 
@@ -2313,8 +2513,10 @@ Additionally, this is a YMYL query on a medical topic, so accurate and trustwort
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img552.jpg)  
-![fails to meet](../images/failsm.jpg)  
+![fails to meet example](../images/img552.jpg)
+
+![fails to meet](../images/failsm.jpg)
+
 Betty White was alive at the time this example was written. This LP is a social media profile page created by an unknown author that was designed to look like a memorial page for Betty White and falsely states that she died. This page is factually inaccurate and deceptive to users, so it should be rated Fails to Meet.  
 *Remember: For informational queries/results, it is important to check other reputable sources to determine if the result is factually accurate. A quick online search for [betty white] would allow you to confirm that she was still alive.*
 
@@ -2330,8 +2532,10 @@ Betty White was alive at the time this example was written. This LP is a social 
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img554.jpg)  
-![fails to meet](../images/failsm.jpg)  
+![fails to meet example](../images/img554.jpg)
+
+![fails to meet](../images/failsm.jpg)
+
 Miley Cyrus was alive at the time this example was written. This LP is an article written by an unknown author that was designed to look like a news story and falsely states that she died. Furthermore, the page is found on a low quality website, and the article has not been updated, clarified, or removed even days after having been proven false. This page is factually inaccurate and deceptive to users, so it should be rated Fails to Meet.  
 *Remember: Just because a website has the look and feel of a traditional news site does NOT mean that you should consider the reporting to be factually accurate without further research. Watch out for sites that present themselves as news, but were actually created with the intent to mislead or misinform users.*
 
@@ -2347,8 +2551,10 @@ Miley Cyrus was alive at the time this example was written. This LP is an articl
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img557.jpg)  
-![fails to meet](../images/failsm.jpg)  
+![fails to meet example](../images/img557.jpg)
+
+![fails to meet](../images/failsm.jpg)
+
 This query is seeking historical information. The LP of this web result is on a well-known white supremacist hate site (read more here or here). The discussion on this page is inaccurate and misleading, since the Holocaust is an extremely well-documented historical event.  
 *Remember: Pages that directly contradict well-established historical facts should be rated Fails to Meet, unless the query clearly indicates the user is seeking an alternative viewpoint.*
 
@@ -2364,8 +2570,10 @@ This query is seeking historical information. The LP of this web result is on a 
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img559.jpg)  
-![fails to meet](../images/failsm.jpg)  
+![fails to meet example](../images/img559.jpg)
+
+![fails to meet](../images/failsm.jpg)
+
 This LP is a blog post presenting a factually unsupported conspiracy theory that Angela Merkel is the daughter of Adolph Hitler. Because the MC is inaccurate and misleading, it completely Fails to Meet the user intent, even though the topic of the page matches the query.  
 **注：**<!-- -->A more helpful result for this query might confirm that Adolf Hitler had no children, or provide information on the novel Hitler's Daughter by Jackie French.
 
@@ -2381,8 +2589,10 @@ This LP is a blog post presenting a factually unsupported conspiracy theory that
 <div class="results">
 <div class="result">
 
-![fails to meet example](../images/img561.jpg)  
-![fails to meet](../images/failsm.jpg)  
+![fails to meet example](../images/img561.jpg)
+
+![fails to meet](../images/failsm.jpg)
+
 This is a broad query seeking information about Islam. The LP was created for the purpose of stating the author's opinion that Islam is not a religion. The author lacks expertise in the topic; the writing has frequent misspellings, typos, and grammar errors; and the page seems to exist to promote intolerance or hate.  
 *Remember: Upsetting or offensive results for queries that are not obviously seeking this type of content should be rated Fails to Meet.*
 

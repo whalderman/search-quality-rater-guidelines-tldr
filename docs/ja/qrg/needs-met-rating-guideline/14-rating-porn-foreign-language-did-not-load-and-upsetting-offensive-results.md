@@ -407,7 +407,7 @@ In addition, some rating tasks may ask you to identify **Not‑for‑Everyone** 
 
 動揺させるまたは不快にさせるコンテンツは一般的に以下のものを含む：
 
-- 人種、民族性、宗教、性別、国籍または市民権、身体障害、年齢、性的嗜好、退役軍人の地位を含む（これに限定はされないが）基準に基づいた人々の集団に対して憎悪や暴力を促進するコンテンツ
+- Content that promotes hate or violence against a group of people, including but not limited to those grouped on the basis of race or ethnic origin, religion, disability, age, nationality, veteran status, sexual orientation, gender or gender identity.
 - 人種差別や極めて不快な用語を含むコンテンツ
 - 動物虐待や児童虐待を含む生々しい暴力
 - 有害な活動に関する明示的なハウツー情報（人身売買や暴行に関するハウツーなど）

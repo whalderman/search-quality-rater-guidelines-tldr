@@ -86,7 +86,7 @@ PQ評価と説明
 
 ![high narrow quality][h-n]
 
-この新聞は、過去7回、ピュリッツァー賞を受賞している。
+This is the homepage of a newspaper that has won several Pulitzer Prizes and Overseas Press Club awards. This newspaper has a positive reputation for its objective reporting.
 
 </div>
 </div>
@@ -112,7 +112,7 @@ PQ評価と説明
 
 ![high narrow quality][h-n]
 
-これはピュリッツァー賞を10回受賞した新聞社のサイトの記事である。十分な量のハイクオリティなMCがある。広告もあるが、広告は広告として明確にラベル付けがされているため、MCは見つけやすい。
+This is an article on a newspaper website that has won many Pulitzer Prize awards and has a positive reputation for its investigative journalism. There is a satisfying amount of high quality MC. While there are Ads on the page, the MC is easy to find and the Ads are clearly labeled as Ads.
 
 </div>
 </div>
@@ -264,7 +264,7 @@ PQ評価と説明
 
 ![high narrow quality][h-n]
 
-これはピュリッツァー賞を100回以上受賞している新聞のブログ記事である。このブログ記事の作成者は、育児問題の専門家として知られている。彼女はこのメディアに加え、他のメディアのWebサイトにも定期的に投稿している。
+This is a blog post on a newspaper that has won a variety of awards, such as the Pulitzer Prize, George Polk Award, Peabody Award, etc. The author of this blog post has become known as an expert on parenting issues. She is a regular contributor to this and other media websites.
 
 </div>
 </div>

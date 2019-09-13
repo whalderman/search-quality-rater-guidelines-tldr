@@ -105,7 +105,7 @@ PQ評価を行う上で、Webサイトについて深く理解することが必
 
 ## YMYLページ（金銭・人生に関するページ）
 
-ユーザーの将来的な幸福・健康・金銭的な安定性に関する可能性ページによってはある。GoogleはこのようなページをYMYL（Your Money or Your Life）ページと呼ぶ。以下その代表例をまとめた。
+人物の将来的な幸福・健康・金銭的な安定性に関する可能性ページによってはある。GoogleはこのようなページをYMYL（Your Money or Your Life）ページと呼ぶ。以下その代表例をまとめた。
 
 - 商品の売買・金銭の受け渡し：ショップ・銀行など、オンラインでの購入・送金・支払い機能があるページ（オンラインストアやネットバンキングページ）。
 - 財産に関する情報：投資・税・退職金運用・家の購入・学費支払・生命保険などの助言や情報に関するページ。
@@ -114,7 +114,7 @@ PQ評価を行う上で、Webサイトについて深く理解することが必
 - ニュースまたは、市民に知らせる公共/公式のページでの重要な情報：地方/国家の政府が出す人、法律、災害対応サービス、政府プログラム、社会サービス、国際事象、ビジネス、政治、科学、技術などの重要なトピックに関するニュースに関するページ（全てのページがYMYLになるわけではないことに注意する。自分自身の判断と経験で判断する。）。
 - その他：養子縁組・車の安全性など、「金銭・生命に重大な影響を与えうる情報」全般。
 
-YMYLページに関して、Googleの評価基準は厳しくなる。品質の悪いYMYLページは、ユーザーの生活である幸福・健康・金銭的な安定性を害する可能性がある。
+YMYLページに関して、Googleの評価基準は厳しくなる。品質の悪いYMYLページは、人物の生活である幸福・健康・金銭的な安定性を害する可能性がある。
 
 ## ページのコンテンツを理解する
 
@@ -467,6 +467,7 @@ Webサイトは普通、ページ上のコンテンツ作成者を明確にし�
 - アーティスト、作家、ミュージシャン、その他のオリジナルのコンテンツ制作者は、通常、知られて評価されたいため
 - 財団は支援やボランティアを必要とするため
 - 高品質の店舗では、ユーザーがオンラインで安心して購入できるようにするため
+- Websites want users to be able to distinguish between content created by themselves versus content that was added by other users.
 
 ほとんどのWebサイトには、サイトの所有者に関する情報を提供する「お問い合わせ」または「当サイトについて」などのページがある。そして、多くの企業には、会社概要、業務内容、求人情報などのWebサイトやブログがある。GoogleとMarriottの両方がこれの例であり、他にも多くの例がある。
 
@@ -479,7 +480,7 @@ Webサイトは普通、ページ上のコンテンツ作成者を明確にし�
 
 一部のWebサイトでは、企業や組織がWebサイトを管理して、多数のユーザーがページのMCを作成していることもある。例えば、FacebookはFacebookのWebサイトを管理しているが、コンテンツを作成はユーザーがFacebookページに行う。WikipediaはWikipediaの財団がWebサイトを管理しているが、記事のコンテンツはそれぞれユーザーが作成している。ユーザーが作成したコンテンツを含む他のWebサイトには、YouTube、TwitterなどのソーシャルネットワーキングWebサイト、記事を公開するWebサイト、Q＆Aサイト、フォーラムなどがある。これらのWebサイトについては、各ページを見て、 そのページのコンテンツの作成者を判断する必要がある。
 
-最後に、ライセンスまたはシンジケートにより同一のコンテンツを複数のWebサイトで表示することがある。これは、Webサイトがコンテンツの作成者にお金を払っていること、ビジネス関係があることを意味する。このような場合、コンテンツがWebサイトで作成されていなくても、ライセンスまたはシンジケートされたコンテンツの責任はWebサイト自体にあると見なされる。
+Finally, there are some websites that show licensed or syndicated content. This means that the website has paid money or has some business relationship with the creator of the content. In these cases, we will consider the website to carry responsibility for the quality of licensed or syndicated content, even if it wasn’t created by the website itself.
 
 ### 「当サイトについて」「連絡先」「お客様サービス」などの見つけ方
 
@@ -515,7 +516,7 @@ Webサイトの評判は、Webサイトが何で最も知られているかを�
 
 店舗には頻繁にユーザー評価をつけるため、実際に店舗で買い物をしているユーザーの評価に基づいて店舗の評判を理解していく。Googleは、多数の肯定的なユーザー評価を肯定的な評判の証拠とみなす。
 
-他の種類のWebサイトにも様々な評判の形がある。例えば、新聞のWebサイトがジャーナリズム賞を受賞していることがある。ピューリッツァー賞など有名な賞は肯定的な評価に大きく影響する。
+Many other kinds of websites have reputations as well. For example, you might find that a newspaper (with an associated website) has won journalistic awards. Prestigious awards, such as the Pulitzer Prize award, or a history of high quality original reporting are strong evidence of positive reputation.
 
 高いレベルの権威性や専門知識が必要な場合、Webサイトの評判は、専門家の意見によって判断する必要がある。専門家から評価されることは、非常に肯定的な評判に大きく影響する。
 

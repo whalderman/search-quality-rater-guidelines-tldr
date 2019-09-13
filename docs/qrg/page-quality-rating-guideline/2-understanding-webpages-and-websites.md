@@ -103,16 +103,17 @@ To calculate equivalent amounts in different currencies.
 
 ## Your Money or Your Life (YMYL) Pages
 
-Some types of pages could potentially impact the future happiness, health, financial stability, or safety of users. We call such pages "Your Money or Your Life" pages, or YMYL. The following are examples of YMYL pages:
+Some types of pages or topics could potentially impact a person’s future happiness, health, financial stability, or safety. We call such pages "Your Money or Your Life" pages, or YMYL. The following are examples of YMYL topics:
 
-- **Shopping or financial transaction pages:** webpages that allow users to make purchases, transfer money, pay bills, etc. online (such as online stores and online banking pages).
-- **Financial information pages:** webpages that provide advice or information about investments, taxes, retirement planning, home purchase, paying for college, buying insurance, etc.
-- **Medical information pages:** webpages that provide advice or information about health, drugs, specific diseases or conditions, mental health, nutrition, etc.
-- **Legal information pages:** webpages that provide legal advice or information on topics such as divorce, child custody, creating a will, becoming a citizen, etc.
-- **News articles or public/official information pages important for having an informed citizenry:** webpages that include information about local/state/national government processes, policies, people, and laws; disaster response services; government programs and social services; news about important topics such as international events, business, politics, science, and technology; etc. Please use your judgment and knowledge of your locale. Keep in mind that not all news articles are necessarily considered YMYL.
-- **Other:** there are many other topics that you may consider YMYL, such as child adoption, car safety information, etc. Please use your judgment.
+- **News and current events:** news about important topics such as international events, business, politics, science, technology, etc. Keep in mind that not all news articles are necessarily considered YMYL (e.g., sports, entertainment, and everyday lifestyle topics are generally not YMYL). Please use your judgment and knowledge of your locale.
+- **Civics, government, and law:** information important to maintaining an informed citizenry, such as information about voting, government agencies, public institutions, social services, and legal issues (e.g., divorce, child custody, adoption, creating a will, etc.).
+- **Finance:** financial advice or information regarding investments, taxes, retirement planning, loans, banking, or insurance, particularly webpages that allow people to make purchases or transfer money online.
+- **Shopping:** information about or services related to research or purchase of goods/services, particularly webpages that allow people to make purchases online.
+- **Health and safety:** advice or information about medical issues, drugs, hospitals, emergency preparedness, how dangerous an activity is, etc.
+- **Groups of people:** information about or claims related to groups of people, including but not limited to those grouped on the basis of race or ethnic origin, religion, disability, age, nationality, veteran status, sexual orientation, gender or gender identity.
+- **Other:** there are many other topics related to big decisions or important aspects of people’s lives which thus may be considered YMYL, such as fitness and nutrition, housing information, choosing a college, finding a job, etc. Please use your judgment.
 
-We have very high Page Quality rating standards for YMYL pages because low quality YMYL pages could potentially negatively impact users' happiness, health, financial stability, or safety.
+We have very high Page Quality rating standards for YMYL pages because low quality YMYL pages could potentially negatively impact a person's happiness, health, financial stability, or safety.
 
 ## Understanding Webpage Content
 
@@ -462,6 +463,7 @@ Websites are usually very clear about who created the content on the page. There
 - Artists, authors, musicians, and other original content creators usually want to be known and appreciated.
 - Foundations often want support and even volunteers.
 - High quality stores want users to feel comfortable buying online.
+- Websites want users to be able to distinguish between content created by themselves versus content that was added by other users.
 
 Most websites have "contact us" or "about us" or "about" pages that provide information about who owns the site. Many companies have an entire website or blog devoted to who they are and what they are doing, what jobs are available, etc. Google and Marriott are both examples of this, and there are many others:
 
@@ -474,7 +476,7 @@ Often a business or organization is responsible for the content of a website, no
 
 On some websites, users create the MC of many pages, while the business or organization itself maintains the website. The company Facebook is responsible for the Facebook website, but individuals create the content on their personal Facebook pages. The company Wikipedia is responsible for the Wikipedia website, but individuals create article content. Other websites with user-generated content include YouTube, Twitter, other social networking websites, other article publishing websites, Q&A websites, forums, etc. For these websites, you must look at each page to determine the author(s) or creator(s) of the content on that page.
 
-Finally, there are some websites that show licensed or syndicated content. This means that the website has paid money or has some business relationship with the creator of the content. In these cases, we will consider the website itself to be responsible for the licensed or syndicated content, even if it wasn't created by the website.
+Finally, there are some websites that show licensed or syndicated content. This means that the website has paid money or has some business relationship with the creator of the content. In these cases, we will consider the website to carry responsibility for the quality of licensed or syndicated content, even if it wasn’t created by the website itself.
 
 ### Finding About Us, Contact Information, and Customer Service Information
 
@@ -510,7 +512,7 @@ Use reputation research to find out what real users, as well as experts, think a
 
 Stores frequently have user ratings, which can help you understand a store's reputation based on the reports of people who actually shop there. We consider a large number of positive user reviews as evidence of positive reputation.
 
-Many other kinds of websites have reputations as well. For example, you might find that a newspaper website has won journalistic awards. Prestigious awards, such as the Pulitzer Prize award, are strong evidence of positive reputation.
+Many other kinds of websites have reputations as well. For example, you might find that a newspaper (with an associated website) has won journalistic awards. Prestigious awards, such as the Pulitzer Prize award, or a history of high quality original reporting are strong evidence of positive reputation.
 
 When a high level of authoritativeness or expertise is needed, the reputation of a website should be judged on what expert opinions have to say. Recommendations from expert sources, such as professional societies, are strong evidence of very positive reputation.
 

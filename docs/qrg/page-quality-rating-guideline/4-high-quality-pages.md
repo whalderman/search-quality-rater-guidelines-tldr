@@ -89,7 +89,7 @@ Think about the topic of the page. What kind of expertise is required for the pa
 
 ![high narrow quality][h-n]
 
-This newspaper has won seven Pulitzer Prize awards.
+This is the homepage of a newspaper that has won several Pulitzer Prizes and Overseas Press Club awards. This newspaper has a positive reputation for its objective reporting.
 
 </div>
 </div>
@@ -115,7 +115,7 @@ This newspaper has won seven Pulitzer Prize awards.
 
 ![high narrow quality][h-n]
 
-This is an article on a newspaper website that has won ten Pulitzer Prize awards. There is a satisfying amount of high quality MC. While there are Ads on the page, the MC is easy to find and the Ads are clearly labeled as Ads.
+This is an article on a newspaper website that has won many Pulitzer Prize awards and has a positive reputation for its investigative journalism. There is a satisfying amount of high quality MC. While there are Ads on the page, the MC is easy to find and the Ads are clearly labeled as Ads.
 
 </div>
 </div>
@@ -268,7 +268,7 @@ This is the News and Updates section of a local preservation center selling poul
 
 ![high narrow quality][h-n]
 
-This is a blog post on a newspaper that has won over 100 Pulitzer Prize awards. The author of this blog post has become known as an expert on parenting issues. She is a regular contributor to this and other media websites.
+This is a blog post on a newspaper that has won a variety of awards, such as the Pulitzer Prize, George Polk Award, Peabody Award, etc. The author of this blog post has become known as an expert on parenting issues. She is a regular contributor to this and other media websites.
 
 </div>
 </div>

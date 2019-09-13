@@ -433,12 +433,6 @@ This **Device Action** query is clear and specific: the user wants to open the I
 
 The result block shows that the phone has detected that the app is not installed and gives the option of downloading the app. This result **Fully Meets** the user need.
 
-<div class="note">
-
-Note: Remember that you should assume that queries were issued on an Android device when rating Device Action Result Blocks, unless explicitly stated otherwise in the instructions. Therefore, the Google Play result for this query is appropriate.
-
-</div>
-
 </div>
 </div>
 </div>
@@ -1946,24 +1940,6 @@ Note: The "cost of a click" is high on mobile phones. Results with very misleadi
 </div>
 </div>
 </div>
-<div class="example">
-
-**Query:** <span class="query">ellen degeneres news</span>  
-**User Location:** Anaheim, California  
-**User Intent:** Find recent news about the comedian/actress Ellen DeGeneres.
-
-<div class="results">
-<div class="result">
-
-![slightly meets example](../images/img469.jpg)
-
-![slightly meets](../images/failsm+narrow.jpg)
-
-While the title of this article implies that something bad or outrageous happened involving Ellen, the actual content of the article is about an anti-aging cosmetic that she is claimed to have used. The content of the page is not related to what the misleading and exaggerated title suggests, so it should be rated Slightly Meets or lower.
-
-</div>
-</div>
-</div>
 </div>
 
 ## Fails to Meet (FailsM)
@@ -2552,26 +2528,6 @@ Mañana means "tomorrow," not "wedding."
 ![fails to meet](../images/failsm.jpg)
 
 The LP is a humorous blog post about a wife helping her husband to buy a suit. The page mentions "American Express," but is insufficiently related to the query to be helpful for users, so it Fails to Meet the user intent.
-
-</div>
-</div>
-</div>
-<div class="example">
-
-**Query:** <span class="query">zoo atlanta</span>  
-**User Location:** Denton, Texas  
-**User Intent:** Go to the Zoo Atlanta website.
-
-<div class="results">
-<div class="result">
-
-![fails to meet example](../images/img535.jpg)
-
-![fails to meet](../images/failsm.jpg)
-
-This LP on about.com has a short article about the Louisville Zoo. The page has a link in the SC titled "Visit Zoo Atlanta On The Cheap Atlanta."  
-
-The MC of this page is not about Zoo Atlanta. The link to an article about Zoo Atlanta is in the SC and many users would never notice this link. This result should not be rated above Fails to Meet.
 
 </div>
 </div>

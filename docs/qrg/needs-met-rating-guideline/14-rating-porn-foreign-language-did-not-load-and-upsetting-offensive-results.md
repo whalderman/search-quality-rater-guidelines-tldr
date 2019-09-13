@@ -409,7 +409,7 @@ Assign the **Upsetting‑Offensive** flag to results that contain upsetting or o
 
 **Upsetting‑Offensive** content typically includes the following:
 
-- Content that promotes hate or violence against a group of people based on criteria including (but not limited to) race or ethnicity, religion, gender, nationality or citizenship, disability, age, sexual orientation, or veteran status.
+- Content that promotes hate or violence against a group of people, including but not limited to those grouped on the basis of race or ethnic origin, religion, disability, age, nationality, veteran status, sexual orientation, gender or gender identity.
 - Content with racial slurs or extremely offensive terminology without context or beneficial purpose.
 - Depiction of graphic violence without context or beneficial purpose.
 - Explicit how-to information about harmful activities (e.g., how-tos on human trafficking or violent assault).

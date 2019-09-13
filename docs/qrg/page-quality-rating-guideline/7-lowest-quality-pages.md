@@ -160,7 +160,7 @@ We'll consider a comment or forum discussion to be "spammed" if there are posts 
 
 ## Pages that Potentially Spread Hate
 
-Use the **Lowest** rating for pages that promote hate or violence against a group of people based on criteria includingーbut not limited toーrace or ethnicity, religion, gender, nationality or citizenship, disability, age, sexual orientation, socio-economic status, political beliefs, veteran status, victims of atrocities, etc. Websites advocating hate or violence can cause real world harm.
+Use the Lowest rating for pages that promote hate or violence against a group of people, including but not limited to those grouped on the basis of race or ethnic origin, religion, disability, age, nationality, veteran status, sexual orientation, gender or gender identity. Websites advocating hate or violence can cause real world harm.
 
 Hate may be expressed in inflammatory, emotional, or hateful-sounding language, but may also be expressed in polite or even academic-sounding language.
 

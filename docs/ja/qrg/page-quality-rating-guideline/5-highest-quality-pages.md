@@ -17,11 +17,19 @@ meta:
 
 ## 極めてハイクオリティなMC
 
-Googleは多くの時間と労力、そして何より専門知識、才能、技術を使って作成されたMCに**高**品質、**最高**品質を付与する。これらの評価はページのE‑A‑Tの証明になり得る。非常にハイクオリティなMCは、専門家、愛好家、時には日々の生活の中で専門性を得た人々によって作成されることもある。基準はページの目的とコンテンツの種類によって異なる。しかしながら、YMYLに関するニュース記事や情報ページの場合は、その正確性に対して、医学的／科学的／歴史的に確立した合意に基づいた高い基準がある。「**Highest**評価」は十分な量または分かりやすさを備える非常にハイクオリティなMCに対して付与され得るものである。
+We will consider the MC of the page to be very high or highest quality when it is created with a high degree of time and effort, and in particular, expertise, talent, and skill—this may provide evidence for the E-A-T of the page. Very high quality MC may be created by experts, hobbyists, or even people with everyday expertise. Our standards depend on the purpose of the page and the type of content. For YMYL topics, there is a high standard for accuracy and well-established medical/scientific/historical consensus where such consensus exists. A factor that often distinguishes very high quality MC is the creation of unique and original content for the specific website. While what constitutes original content may be very different depending on the type of website, here are some examples:
+
+- **For news:** very high quality MC is original reporting that provides information that would not otherwise have been known had the article not revealed it. Original, in-depth, and investigative reporting requires a high degree of skill, time, and effort. Often very high quality news content will include a description of primary sources and other original reporting referenced during the content creation process. Very high quality news content must be accurate and should meet professional journalistic standards.
+- **For artistic content** (videos, images, photography, writing, etc.): very high quality MC is unique and original content created by highly skilled and talented artists or content creators. Such artistic content requires a high degree of skill/talent, time, and effort. If the artistic content is related to a YMYL topic (e.g., artistic content with the purpose of informing or swaying opinion about YMYL topics), YMYL standards should apply.
+- **For informational content:** very high quality MC is original, accurate, comprehensive, clearly communicated, professionally presented, and should reflect expert consensus as appropriate. Expectations for different types of information may vary. For example, scientific papers have a different set of standards than information about a hobby such as stamp collecting. However, all types of very high quality informational content share common attributes of accuracy, comprehensiveness, and clear communication, in addition to meeting standards appropriate to the topic or field.
+
+「**Highest**評価」は十分な量または分かりやすさを備える非常にハイクオリティなMCに対して付与され得るものである。
 
 ## 極めて高い評判
 
-評判の調査は「**Highest**評価」を与える際に重要であり、ページのE‑A‑Tを証明するものとなる。非常に良い評判は、有名な専門家や専門団体からの推薦や名誉ある賞に基づいていることがしばしばある。ウィキペディアやその他の情報源は、評判を調査する良い出発点となり得る。
+Extensive reputation research is important when giving **Highest** ratings. Very positive reputation is often based on prestigious awards or recommendations from known experts or professional societies on the topic of the page. Wikipedia and other informational sources can be a good starting point for reputation research.
+
+For YMYL topics especially, careful checks for reputation are required. YMYL reputation should be based on evidence from experts, professional societies, awards, etc. For shopping pages, experts could include people who have used the store's website to make purchases; whereas for medical advice pages, experts should be people or organizations with appropriate medical expertise or accreditation. Please review section 2.3 for a summary of types of YMYL pages/topics.
 
 ユーモアやレシピなどいくつかのトピックに関しては、公式の専門知識は殆ど無くてもよい。これらのトピックでは、人気、ユーザーエンゲージメント、ユーザーレビューをサイトの評判を示す証拠とみなすことができる。正式な専門知識を必要としないトピックの場合、人気が高く、トピックやコンテンツがユーザーに愛されており、ユーザー支援に力を入れているWebサイトであれば高い評判を得ていると考えることができる。
 
@@ -38,8 +46,8 @@ Googleは多くの時間と労力、そして何より専門知識、才能、�
 <div class="examples">
 <div class="example">
 
-**Webページ：**[ニュース](https://guidelines.raterhub.com/images/news-last-diplomat-m.jpg)  
-**コンテンツの種類：**<!-- -->新聞社のWebサイトの記事
+**Webページ：**[ニュース1](https://guidelines.raterhub.com/images/news-last-diplomat-m.jpg)  
+**コンテンツの種類：**<!-- -->新聞社のWebサイトの記事（YMYL）
 
 <div class="results">
 <div class="result">
@@ -55,8 +63,10 @@ Googleは多くの時間と労力、そして何より専門知識、才能、�
 
 **PQ評価と説明**
 
-![highest quality][hst]  
-これはピュリッツァー賞を40回受賞し、この例が書かれた時点でアメリカ最高の売上を誇る新聞社の特集記事である。  
+![highest quality][hst]
+
+This is a feature article from a newspaper that has won numerous awards (such as the Pulitzer Prize, James Beard Award, and Scripps Howard Award).
+
 このページには分かりやすく非常にハイクオリティなMCがある。調査報道に関する幅広い知識と経験をもつ2人の記者による詳しい報道など。
 
 </div>
@@ -81,8 +91,38 @@ Googleは多くの時間と労力、そして何より専門知識、才能、�
 
 **PQ評価と説明**
 
-![high+narrow quality][h+n]  
+![high+narrow quality][h+n]
+
 このページは、都市伝説やネット上の噂、出処が不明だったり怪しかったりするその他の話を網羅する、有名な事実確認および暴露サイトのものである。人魚に関するドキュメンタリー映画の主張を検証しようとするユーザーが十分に満足できる量のMCがある。このWebサイトはYMYLでない話の暴露に関して評判も良く、高いレベルの専門知識を有している。そのため、ユーザーはこのページの情報を信用することができる。
+
+</div>
+</div>
+</div>
+<div class="example">
+
+**Type of Webpage:** [Highest: News 2](https://guidelines.raterhub.com/images/news-last-diplomat-m.jpg)
+
+**Type of Content:** Article on a newspaper website
+
+<div class="results">
+<div class="result">
+
+**Highest Quality Characteristics**
+
+- Very high level of E-A-T for the purpose of the page, including of the publisher and/or authors for a news article
+- A satisfying or comprehensive amount of very high quality MC for the purpose of the page
+- Very positive reputation (website)
+
+</div>
+<div class="result">
+
+**PQ Rating and Explanation**
+
+![highest quality][hst]
+
+This is an article on a newspaper website that has won a variety of awards including the Pulitzer Prize and the GLAAD Media Award.
+
+The article has a comprehensive amount of very high quality MC that is unique and original, including in-depth investigative reporting by two authors with extensive knowledge and experience in investigative journalism.
 
 </div>
 </div>
@@ -106,7 +146,8 @@ Googleは多くの時間と労力、そして何より専門知識、才能、�
 
 **PQ評価と説明**
 
-![high+narrow quality][h+n]  
+![high+narrow quality][h+n]
+
 このページには、ボールガウンのウェディングドレスに興味のあるユーザーが十分に満足できる量のMCがある。このページは豊富な写真や価格帯やスタイルなどで見るオプションがあり、とても満足できるものとなっている。このページは結婚式のプランニングで人気のあるサイトに掲載されている。
 
 </div>
@@ -130,7 +171,8 @@ Googleは多くの時間と労力、そして何より専門知識、才能、�
 
 **PQ評価と説明**
 
-![highest quality][hst]  
+![highest quality][hst]
+
 このページには、交通警報やサイトの他の部分へのリンクなどの追加情報を含む、ヨセミテ国立公園に関する有用な情報が豊富に掲載されている。このページは公式の国立公園のサイトのものなので、独自の権威性を持つ。
 
 </div>
@@ -154,7 +196,8 @@ Googleは多くの時間と労力、そして何より専門知識、才能、�
 
 **PQ評価と説明**
 
-![highest quality][hst]  
+![highest quality][hst]
+
 このページは、目的に応じた有用で非常にハイクオリティなMCが十分にある。ソフトウェアを生産する会社の公式サイトのページであるため、非常に権威性が高い。
 
 </div>
@@ -178,8 +221,10 @@ Googleは多くの時間と労力、そして何より専門知識、才能、�
 
 **PQ評価と説明**
 
-![highest quality][hst]  
-Wikipediaの記事を以下に記す。「Kernel.orgは、人気のあるLinuxオペレーティングシステムの基盤であるLinuxカーネルのソースコードの主要リポジトリである。すべてのユーザーがあらゆるバージョンのソースコードを利用できる。…（中略）…サイトの主な目的は、Linuxカーネル開発者およびLinuxの配布担当者用のリポジトリをホストすること。」  
+![highest quality][hst]
+
+Wikipediaの記事を以下に記す。「Kernel.orgは、人気のあるLinuxオペレーティングシステムの基盤であるLinuxカーネルのソースコードの主要リポジトリである。すべてのユーザーがあらゆるバージョンのソースコードを利用できる。…（中略）…サイトの主な目的は、Linuxカーネル開発者およびLinuxの配布担当者用のリポジトリをホストすること。」
+
 このWebサイトは、Linuxに関する最も権威のある情報源である。
 
 </div>
@@ -203,7 +248,8 @@ Wikipediaの記事を以下に記す。「Kernel.orgは、人気のあるLinux�
 
 **PQ評価と説明**
 
-![highest quality][hst]  
+![highest quality][hst]
+
 アメリカのユーザーがこのサイトに社会保障番号を入力すると、無料の信用報告書を入手することができる。Wikipediaの記事によると、このサイトは「無料の信用報告書を入手するための連邦政府が指定した唯一の公認ソース」である。
 
 </div>
@@ -227,7 +273,8 @@ Wikipediaの記事を以下に記す。「Kernel.orgは、人気のあるLinux�
 
 **PQ評価と説明**
 
-![highest quality][hst]  
+![highest quality][hst]
+
 このページの目的は所得税の申告フォームの提供と納税証明書の発行。このWebサイトは税金を扱うアメリカ連邦の政府機関を代表しているため、独自の権威性と信頼性を持つ。
 
 </div>
@@ -252,7 +299,8 @@ Wikipediaの記事を以下に記す。「Kernel.orgは、人気のあるLinux�
 
 **PQ評価と説明**
 
-![high+narrow quality][h+n]  
+![high+narrow quality][h+n]
+
 これは受賞歴のある雑誌のWebサイト上にある、非常にハイクオリティで詳細な記事である。
 
 </div>
@@ -277,7 +325,8 @@ Wikipediaの記事を以下に記す。「Kernel.orgは、人気のあるLinux�
 
 **PQ評価と説明**
 
-![high wide quality][h-w]  
+![high wide quality][h-w]
+
 この雑誌はアーティストやバンドに関するコンテンツとして非常に有名で、特にミュージシャンへのインタビューでは高い評価を得ている。ハイクオリティなMCが大量にある。
 
 </div>
@@ -301,7 +350,8 @@ Wikipediaの記事を以下に記す。「Kernel.orgは、人気のあるLinux�
 
 **PQ評価と説明**
 
-![highest quality][hst]  
+![highest quality][hst]
+
 ページの目的は、オンラインで利用可能なBMI（Body Mass Index）計算機の提供。機能的で使いやすい仕様となっている。このWebサイトは国立衛生研究所の一部の機関を代表している。非常に評判もよく、医学的トピックに関して専門家となっている。
 
 </div>
@@ -325,7 +375,8 @@ Wikipediaの記事を以下に記す。「Kernel.orgは、人気のあるLinux�
 
 **PQ評価と説明**
 
-![highest quality][hst]  
+![highest quality][hst]
+
 非営利の医療研究グループによる信頼性・権威性のあるサイト上の髄膜炎に関する参考ページ。このサイトは医療情報を得るためには最良のWebリソースの1つであるという評判を得ている。
 
 </div>
@@ -349,7 +400,8 @@ Wikipediaの記事を以下に記す。「Kernel.orgは、人気のあるLinux�
 
 **PQ評価と説明**
 
-![highest quality][hst]  
+![highest quality][hst]
+
 信頼性と権威性のある医学的サイト上のインフルエンザに関する参考ページ。このサイトはこのタイプの医療情報を得るためには最良のWebリソースの1つであるという評判を得ている。
 
 </div>
@@ -372,33 +424,9 @@ Wikipediaの記事を以下に記す。「Kernel.orgは、人気のあるLinux�
 
 **PQ評価と説明**
 
-![highest quality][hst]  
+![highest quality][hst]
+
 Wikipediaの記事によるとこの病院は「USニューズ＆ワールド・レポート（雑誌）の中で、現在アメリカでトップ4に入る病院の1つであると評価されている」。ユーザーはこのサイトの医療情報を信用することができる。
-
-</div>
-</div>
-</div>
-<div class="example">
-
-**Webページ：**[娯楽](https://guidelines.raterhub.com/images/NationPage.jpg)  
-**コンテンツの種類：**<!-- -->ユーモアサイト
-
-<div class="results">
-<div class="result">
-
-**最高品質の特徴**
-
-- 十分な量か分かりやすさを備える非常にハイクオリティなMC
-- 非常に良い評判（Webサイト）
-
-</div>
-<div class="result">
-
-**PQ評価と説明**
-
-![highest quality][hst]  
-あるコメディアンの公式Webサイト。彼は出演したテレビ番組（この例が書かれた時に放送された）で、複数の名誉ある賞を受賞している。  
-どのような種類のページであっても、**最高**品質なものから**最低**品質なものまで存在することを忘れてはならない。ユーモアサイトも例外ではない。したがって、ページの種類に関わらず、全てのページにおいて同じ基準を用いて評価することが重要である。
 
 </div>
 </div>
@@ -422,8 +450,10 @@ Wikipediaの記事によるとこの病院は「USニューズ＆ワールド・
 
 **PQ評価と説明**
 
-![high+narrow quality][h+n]  
-このページの目的は、特定のタイプの通学用バックパックに関する情報を提供し、ユーザーがそれらを購入できるようにすることである。600のユーザーレビューに加え、たくさんの有用な製品情報が掲載されている。  
+![high+narrow quality][h+n]
+
+このページの目的は、特定のタイプの通学用バックパックに関する情報を提供し、ユーザーがそれらを購入できるようにすることである。600のユーザーレビューに加え、たくさんの有用な製品情報が掲載されている。
+
 このバックパックを製造しているのはこのお店であり、製品に関する高い専門性を有する。そのためこのサイトには権威性がある。加えてこのお店は市場で最もハイクオリティで最も人気のあるバックパックの1つを生産しており、評価が高い。
 
 </div>
@@ -448,7 +478,8 @@ Wikipediaの記事によるとこの病院は「USニューズ＆ワールド・
 
 **PQ評価と説明**
 
-![high+narrow quality][h+n]  
+![high+narrow quality][h+n]
+
 このページにはログイン機能があるだけではない。ユーザーのログイン情報も明示されている。人気のある大銀行であり、評判も良い。
 
 </div>
@@ -472,7 +503,8 @@ Wikipediaの記事によるとこの病院は「USニューズ＆ワールド・
 
 **PQ評価と説明**
 
-![high+narrow quality][h+n]  
+![high+narrow quality][h+n]
+
 複数のチャリティー評価団体によると、これは非常に評判の良いチャリティーである。
 
 </div>
@@ -497,9 +529,12 @@ Wikipediaの記事によるとこの病院は「USニューズ＆ワールド・
 
 **PQ評価と説明**
 
-![high+narrow quality][h+n]  
-カスタム404エラーページの一例。訪問しようとしているURLが存在しないことをユーザーに知らせるように設計されている。MCはサイトコンテンツ独自の漫画、キャプション、検索機能。時間、労力、才能を駆使して作られたことは明らかである。  
-ここの出版物は非常によい評価をえており、中でも漫画はよく知られている。  
+![high+narrow quality][h+n]
+
+カスタム404エラーページの一例。訪問しようとしているURLが存在しないことをユーザーに知らせるように設計されている。MCはサイトコンテンツ独自の漫画、キャプション、検索機能。時間、労力、才能を駆使して作られたことは明らかである。
+
+ここの出版物は非常によい評価をえており、中でも漫画はよく知られている。
+
 どのような種類のページであっても**最高**品質なものから**最低**品質なものまで存在することを忘れてはならない。エラーページも例外ではない。したがって、ページの種類に関わらず、全てのページにおいて同じ基準を用いて評価することが重要である。
 
 </div>
@@ -523,7 +558,8 @@ Wikipediaの記事によるとこの病院は「USニューズ＆ワールド・
 
 **PQ評価と説明**
 
-![high+narrow quality][h+n]  
+![high+narrow quality][h+n]
+
 大学の公式サイトに掲載された、詳細なキャンパスマップ。高い権威性を持つ情報源である。地図にはすべての建物、立体駐車場、駐車場、建設中の場所などが記載されている。
 
 </div>
@@ -547,8 +583,10 @@ Wikipediaの記事によるとこの病院は「USニューズ＆ワールド・
 
 **PQ評価と説明**
 
-![high+narrow quality][h+n]  
-このサイトは最も人気のあるレシピサイトの1つである。レシピの作者は南部料理を専門とする有名なシェフである。  
+![high+narrow quality][h+n]
+
+このサイトは最も人気のあるレシピサイトの1つである。レシピの作者は南部料理を専門とする有名なシェフである。
+
 このページには、多数のレシピのユーザーレビュー、詳細な調理時間情報、「レシピボックス」機能などがある。
 
 </div>
@@ -572,7 +610,8 @@ Wikipediaの記事によるとこの病院は「USニューズ＆ワールド・
 
 **PQ評価と説明**
 
-![high+narrow quality][h+n]  
+![high+narrow quality][h+n]
+
 レシピの作成者は有名なプロの料理人ではないようだが、「レシピ」は日常の専門性を活かすことのできるトピックである。このブログの著者は他にも様々なチョコチップクッキーを作るのに挑戦し、そのレシピをブログに掲載している。そうして出来上がった大量のハイクオリティなMCが、彼女の専門性を証明している。
 
 </div>
@@ -596,8 +635,9 @@ Wikipediaの記事によるとこの病院は「USニューズ＆ワールド・
 
 **PQ評価と説明**
 
-![high+narrow quality][h+n]  
-これはプロが作成したハイクオリティなMVである。バンドの公式チャンネルで公開された。
+![high+narrow quality][h+n]
+
+これはプロが作成したハイクオリティなMVである。バンドの公式チャンネルで公開された。The music video represents unique and original content created by a highly skilled and talented musical artist.
 
 </div>
 </div>
@@ -620,8 +660,9 @@ Wikipediaの記事によるとこの病院は「USニューズ＆ワールド・
 
 **PQ評価と説明**
 
-![high+narrow quality][h+n]  
-ハイクオリティで人気のある動画。Walker Art Center主催のInternet Cat Video Film Festivalにて、最も良い猫ビデオに贈られる"Golden Kitty Award"を受賞している。
+![high+narrow quality][h+n]
+
+ハイクオリティで人気のある動画。Walker Art Center主催のInternet Cat Video Film Festivalにて、最も良い猫ビデオに贈られる"Golden Kitty Award"を受賞している。The video is unique and original content created with a high degree of time and effort.
 
 </div>
 </div>
@@ -644,8 +685,9 @@ Wikipediaの記事によるとこの病院は「USニューズ＆ワールド・
 
 **PQ評価と説明**
 
-![high+narrow quality][h+n]  
-このページのMCはテレビ局の公式サイトで公開されている「サタデーナイトライブ」の動画である。高い権威性と信頼性をもつ。メインの動画の下には、ユーザーの興味に合わせて他の動画を多数表示している。
+![high+narrow quality][h+n]
+
+このページのMCはテレビ局の公式サイトで公開されている「サタデーナイトライブ」の動画である。高い権威性と信頼性をもつ。The episode represents high quality and original content created by a TV show that has won numerous awards. メインの動画の下には、ユーザーの興味に合わせて他の動画を多数表示している。
 
 </div>
 </div>
@@ -668,7 +710,8 @@ Wikipediaの記事によるとこの病院は「USニューズ＆ワールド・
 
 **PQ評価と説明**
 
-![high+narrow quality][h+n]  
+![high+narrow quality][h+n]
+
 このページの目的は、略語の使い方に関する質問に答えることである。このサイトは執筆、出版などに関する情報の参考ページとして非常に高い評価を得ている。このページのトピックは、高い権威性と信頼性があると考えられる。
 
 </div>
@@ -692,8 +735,10 @@ Wikipediaの記事によるとこの病院は「USニューズ＆ワールド・
 
 **PQ評価と説明**
 
-![high+narrow quality][h+n]  
-これはテネシー州共和党（TNGOP）の公式Twitterアカウントである。（TNGOP）  
+![high+narrow quality][h+n]
+
+これはテネシー州共和党（TNGOP）の公式Twitterアカウントである。（TNGOP）
+
 テネシー州共和党に関する情報の専門家であり、権威性のある情報源でもある。
 
 </div>
