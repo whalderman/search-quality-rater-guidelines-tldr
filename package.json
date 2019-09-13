@@ -1,5 +1,5 @@
 {
-	"name": "qrg-bci",
+	"name": "search-quality-rater-guidelines-tldr",
 	"main": "index.js",
 	"repository": "https://github.com/thewarrman/qrg-bci.git",
 	"author": "Warren Halderman <halderman.warren@gmail.com>",
@@ -18,11 +18,11 @@
 	},
 	"devDependencies": {},
 	"dependencies": {
-		"@vuepress/plugin-google-analytics": "^1.0.3",
+		"@vuepress/plugin-google-analytics": "^1.0.4",
 		"markdown-it-abbr": "^1.0.4",
 		"markdown-it-deflist": "^2.0.3",
 		"moment": "^2.24.0",
-		"vuepress": "^1.0.3",
+		"vuepress": "^1.0.4",
 		"vuepress-plugin-clean-urls": "^1.0.3",
 		"vuepress-plugin-container": "^2.0.2"
 	}
