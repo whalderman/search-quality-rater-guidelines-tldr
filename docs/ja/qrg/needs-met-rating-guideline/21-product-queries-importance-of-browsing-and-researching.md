@@ -5,6 +5,13 @@ meta:
     content: 製品の結果に対するPQ評価には、特別な注意と注意が必要だ。商品を探すとき、ユーザーは権威性のある情報源からの質の高い情報が必要で、特に、製品が高価であるか、または重要な投資/重要な生活イベントを表す場合である。
 ---
 
+<div class="note">
+
+**注**：このページの翻訳はまだ完了していません。  
+　　翻訳を手伝いたい場合は、ページの下部のリンクを使用できます。
+
+</div>
+
 # 製品クエリ：閲覧と調査の重要性
 
 <span class="query">ipad reviews</span>のような情報を探す（**知識**）意図が明白な商品名クエリがあれば、<span class="query">buy ipad</span>のような購入する（**Do**）意図が明白な商品名クエリもある。そして<span class="query">ipad store.apple.com</span>のようなWebサイトを訪れる（**Website**）意図が明白な商品名クエリもある。しかしながら、多くの商品名クエリは1つのタイプの意図を持っていない。
@@ -29,7 +36,8 @@ Users may not always plan to buy products online that they are browsing and rese
 
 ![](../images/img779.jpg)  
 ![needs met scale - highly meets](../images/hm.jpg)  
-![page quality scale - high - narrow range](../images/high-narrow.jpg)  
+![page quality scale - high - narrow range](../images/high-narrow.jpg)
+
 このLPには、さまざまなタイプの高精細テレビ（プラズマ、LCD、LED）に関する包括的な情報と、多くの特定のモデルに関するレビューがある。Webサイトには電気製品に関しての役立つ情報とレビューがあることで知られている。
 
 </div>
@@ -46,7 +54,8 @@ Users may not always plan to buy products online that they are browsing and rese
 
 ![](../images/img782.jpg)  
 ![needs met scale - highly meets](../images/hm.jpg)  
-![page quality scale - high - narrow range](../images/high-narrow.jpg)  
+![page quality scale - high - narrow range](../images/high-narrow.jpg)
+
 これは、小さい女の子のジーンズを閲覧して買い物するのに役立つページだ。サイズ3Tのジーンズには多くのオプションがある。これは、ジーンズを販売することで知られている高品質の店だ。
 
 </div>
@@ -63,7 +72,8 @@ Users may not always plan to buy products online that they are browsing and rese
 
 ![](../images/img785.jpg)  
 ![needs met scale - highly meets](../images/hm.jpg)  
-![page quality scale - high - narrow range](../images/high-narrow.jpg)  
+![page quality scale - high - narrow range](../images/high-narrow.jpg)
+
 このLPは非常に評判の良い小売業者からのカフリンクスの大量のコレクションを持っている。たくさんのオプションとスタイルがある。これは閲覧に適したページだ。スタイル、価格帯などを選択する上で便利な機能がある。
 
 </div>
@@ -79,7 +89,8 @@ Users may not always plan to buy products online that they are browsing and rese
 <div class="result">
 
 ![](../images/img789.jpg)  
-![needs met scale - highly meets](../images/hm.jpg)  
+![needs met scale - highly meets](../images/hm.jpg)
+
 This result has a variety of images of the ring, showing different angles and materials. Knowing what the ring looks like is very helpful to users who are researching the product and browsing options that are available.
 
 </div>

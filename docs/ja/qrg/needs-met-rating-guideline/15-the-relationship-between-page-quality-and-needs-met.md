@@ -45,7 +45,7 @@ Needs Met評価とページ品質評価の割り当てに関するガイダン�
 ![needs met scale - slightly meets](../images/sm.jpg)  
 ![page quality scale - low](../images/low.jpg)
 
-**Page Quality評価：**<!-- -->この内容を声に出して読んでみる。LP上の記事は浅く、意図せずユーモラス。4つの段落があるが、基本的に電気自動車は電気を使用して充電する必要があるのみ。このページはE‑A‑Tがない。**低** is an appropriate rating.
+**Page Quality評価：**<!-- -->この内容を声に出して読んでみる。LP上の記事は浅く、意図せずユーモラス。4つの段落があるが、基本的に電気自動車は電気を使用して充電する必要があるのみ。このページはE‑A‑Tがない。**低**は適切な評価です。
 
 **Needs Met評価：**<!-- -->ほとんどのユーザーの役に立たない。
 
@@ -56,7 +56,7 @@ Needs Met評価とページ品質評価の割り当てに関するガイダン�
 ![needs met scale - fails to meet](../images/failsm.jpg)  
 ![page quality scale - medium+ - narrow range](../images/medium+narrow.jpg)
 
-**Page Quality評価：**<!-- -->Wikipedia.orgのLPには多くの有益なMCがある。The page has high E‑A‑T. **中＋** to **高** is an appropriate rating.
+**Page Quality評価：**<!-- -->Wikipedia.orgのLPには多くの有益なMCがある。The page has high E‑A‑T. **中＋**または**高**は適切な評価です。
 
 **Needs Met評価：**<!-- -->この質問は電気自動車の仕組みを尋ねるが、LPの記事はモビリティスクーターに関するもの。
 

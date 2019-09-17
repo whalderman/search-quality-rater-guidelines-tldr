@@ -6,9 +6,9 @@ module.exports = {
     '/': {
       lang: 'en' // html lang property
     },
-    // '/ja/': {
-    //   lang: 'ja'
-    // }
+    '/ja/': {
+      lang: 'ja'
+    }
   },
   head: [
     ['link', { rel: 'icon', href: `/img/BCJロゴ.png` }],
@@ -48,21 +48,21 @@ module.exports = {
       '/': {
         label: 'English', // label for this language in the 🌐 dropdown
         selectText: '🌐',
-        editLinkText: 'Edit', // text for the edit-on-github link
+        editLinkText: 'Edit this page on GitHub', // text for the edit-on-github link
         lastUpdated: 'Updated',
         nav: require('./nav/en'),
         sidebar: require('./sidebar/en'),
         sidebarDepth: 1
       },
-      // '/ja/': {
-      //   label: '日本語',
-      //   selectText: '🌐',
-      //   editLinkText: '✍️',
-      //   lastUpdated: '前回更新',
-      //   nav: require('./nav/ja'),
-      //   sidebar: require('./sidebar/ja'),
-      //   sidebarDepth: 1
-      // }
+      '/ja/': {
+        label: '日本語',
+        selectText: '🌐',
+        editLinkText: 'GitHubでこのページを編集',
+        lastUpdated: '前回更新',
+        nav: require('./nav/ja'),
+        sidebar: require('./sidebar/ja'),
+        sidebarDepth: 1
+      }
     }
   }
 }

@@ -5,6 +5,13 @@ meta:
     content: クエリが正常に読み込めるURLであるならば、評価はFully Meetsであるか、Fails to Meetになるのではないか？と尋ねるがそれはNoだ。URLクエリでも、他の評価に当てはまる役に立つ検索結果はある。
 ---
 
+<div class="note">
+
+**注**：このページの翻訳はまだ完了していません。  
+　　翻訳を手伝いたい場合は、ページの下部のリンクを使用できます。
+
+</div>
+
 # URLクエリに対する、Fully Meets評価以外の検索結果
 
 評価者は時々、「クエリが正常に読み込めるURLであるならば、評価は**Fully Meets**であるか、**Fails to Meet**になるのではないか？」と尋ねるがそれはNoだ。URLクエリでも、他の評価に当てはまる役に立つ検索結果はある。
@@ -25,7 +32,8 @@ meta:
 
 ![](../images/img760.jpg)  
 ![needs met scale - fully meets](../images/fullym.jpg)  
-![page quality scale - high - wide range](../images/high-wide.jpg)  
+![page quality scale - high - wide range](../images/high-wide.jpg)
+
 This LP is the target of the query.
 
 </div>
@@ -33,7 +41,8 @@ This LP is the target of the query.
 
 ![](../images/img763.jpg)  
 ![needs met scale - moderately meets+ - narrow range](../images/mm+narrow.jpg)  
-![page quality scale - medium- wide range](../images/medium-wide.jpg)  
+![page quality scale - medium- wide range](../images/medium-wide.jpg)
+
 Online coupon codes are very popular in the U.S. and this LP (from a well-known coupon site) displays codes for online purchases on the Pottery Barn website. Users may be interested in coupon codes and this would be very helpful for those shopping online at potterybarn.com, especially frequent shoppers.
 
 </div>
@@ -41,7 +50,8 @@ Online coupon codes are very popular in the U.S. and this LP (from a well-known 
 
 ![](../images/img766.jpg)  
 ![needs met scale - moderately meets+ - narrow range](../images/mm+narrow.jpg)  
-![page quality scale - medium- wide range](../images/medium-wide.jpg)  
+![page quality scale - medium- wide range](../images/medium-wide.jpg)
+
 This LP (from a well-known review site) has reviews of the potterybarn.com website. Users may be interested in reading reviews when considering whether to make purchases at potterybarn.com, especially new shoppers.
 
 </div>
@@ -58,7 +68,8 @@ This LP (from a well-known review site) has reviews of the potterybarn.com websi
 
 ![](../images/img769.jpg)  
 ![needs met scale - fully meets](../images/fullym.jpg)  
-![page quality scale - high](../images/high.jpg)  
+![page quality scale - high](../images/high.jpg)
+
 このURLクエリの対象ページ。
 
 </div>
@@ -66,7 +77,8 @@ This LP (from a well-known review site) has reviews of the potterybarn.com websi
 
 ![](../images/img772.jpg)  
 ![needs met scale - moderately meets](../images/mm.jpg)  
-![page quality scale - medium - narrow range](../images/medium-narrow.jpg)  
+![page quality scale - medium - narrow range](../images/medium-narrow.jpg)
+
 このLPはratemyprofessors.comについて2012年8月31日付のHuffington Postの記事だ。記事がガイドラインに追加されたときに新しく発表された。一部のユーザーはこの記事に興味がある。
 
 </div>
@@ -74,7 +86,8 @@ This LP (from a well-known review site) has reviews of the potterybarn.com websi
 
 ![](../images/img775.jpg)  
 ![needs met scale - fails to meet - wide range](../images/failsm-wide.jpg)  
-![page quality scale - medium+ - narrow range](../images/medium+narrow.jpg)  
+![page quality scale - medium+ - narrow range](../images/medium+narrow.jpg)
+
 このLPは、ratemyprofessors.comのWebサイトに関する2006年4月17日の記事だ。時代遅れの情報に興味を持つユーザーはほとんどまたはまったくいない。
 
 </div>
