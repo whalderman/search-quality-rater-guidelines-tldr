@@ -1,3 +1,10 @@
+---
+title: Example High/Low Quality Webpage Characteristics
+meta:
+  - name: description
+    content: What makes a webpage high or low-quality from Google's point of view? We've gathered key points from Google's own Search Quality Rater Guidelines and organized them here.
+---
+
 # Example High/Low Quality Webpage Characteristics
 
 Note that the examples listed below are pulled **only** from what we could find within Google's [Search Quality Rater Guidelines](/qrg/general-guidelines-overview/), meaning this list of high and low quality webpage characteristics is not anywhere near exhaustive.

@@ -1,10 +1,3 @@
----
-title: TL;DR for Developers
-meta:
-  - name: description
-    content: For those too busy to read hundreds of pages of text and apply it. Choose your TL;DR.
----
-
 # TL;DR for Developers
 
 Here we go over various optimizations that can (and should) be made to a site, as well as some tools that can be used.
