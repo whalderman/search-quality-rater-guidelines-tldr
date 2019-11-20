@@ -17,13 +17,6 @@ module.exports = {
   plugins: [
     ['@vuepress/google-analytics', {
       ga: 'UA-27119256-1'
-    }],
-    ['@vuepress/last-updated', {
-      transformer: (timestamp, lang) => {
-        const moment = require('moment');
-        moment.locale(lang);
-        return moment(timestamp).fromNow();
-      }
     }]
   ],
   evergreen: true, // target newer browsers only
