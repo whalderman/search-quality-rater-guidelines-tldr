@@ -17,13 +17,6 @@ module.exports = {
   plugins: [
     ['@vuepress/google-analytics', {
       ga: 'UA-27119256-1'
-    }],
-    ['@vuepress/last-updated', {
-      transformer: (timestamp, lang) => {
-        const moment = require('moment');
-        moment.locale(lang);
-        return moment(timestamp).fromNow();
-      }
     }]
   ],
   evergreen: true, // target newer browsers only
@@ -49,7 +42,7 @@ module.exports = {
         label: 'English', // label for this language in the 🌐 dropdown
         selectText: '🌐',
         editLinkText: 'Edit this page on GitHub', // text for the edit-on-github link
-        lastUpdated: 'Updated',
+        // lastUpdated: 'Updated',
         nav: require('./nav/en'),
         sidebar: require('./sidebar/en'),
         sidebarDepth: 1
@@ -58,7 +51,7 @@ module.exports = {
         label: '日本語',
         selectText: '🌐',
         editLinkText: 'GitHubでこのページを編集',
-        lastUpdated: '前回更新',
+        // lastUpdated: '前回更新',
         nav: require('./nav/ja'),
         sidebar: require('./sidebar/ja'),
         sidebarDepth: 1
