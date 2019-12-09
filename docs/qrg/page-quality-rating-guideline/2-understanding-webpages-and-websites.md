@@ -13,6 +13,10 @@ PQ rating requires an in-depth understanding of websites. We'll start with the b
 
 Here are some important definitions:
 
+A **search engine** is a tool to help people find or interact with content available on the Internet.
+
+In these guidelines, the word "**user**" refers to a person trying to find information or accomplish a task on the Internet. Keep in mind that users are people from many different backgrounds, whose experiences and needs may differ from your own: people of all ages, genders, races, religions, political affiliations, etc.
+
 A **webpage** is connected to the World Wide Web and can be viewed or "visited" using a web browser (e.g., Chrome), a browser on your phone, or a search app. In the 1990s, webpage content was mostly text and links. Today, webpage content includes many forms of media (such as images, videos, etc.) and functionality (such as online shopping features, email, calculator functionality, online games, etc.).
 
 A **URL** is a character string that your web browser uses to "find" and display a webpage. Page Quality rating doesn't require you to have in-depth understanding of the structure of URLs, i.e., you don't need to know the difference between host, domain, etc. But if you are interested, see [here](http://en.wikipedia.org/wiki/Url) to read more.

@@ -20,6 +20,10 @@ PQ評価を行う上で、Webサイトについて深く理解することが必
 
 以下に重要な用語をまとめる。
 
+A **search engine** is a tool to help people find or interact with content available on the Internet.
+
+In these guidelines, the word "**user**" refers to a person trying to find information or accomplish a task on the Internet. Keep in mind that users are people from many different backgrounds, whose experiences and needs may differ from your own: people of all ages, genders, races, religions, political affiliations, etc.
+
 **ページ（Webページ）**
 :   wwwに接続していて、Chromeなどのブラウザで「閲覧・訪問」できるもの。1990年代は、ページのコンテンツは主に文章とリンクのみだった。現代ではコンテンツの幅も広がり、動画・画像などの「メディア」をはじめ、商品購入機能、メール、計算機、オンラインゲーム等の「機能」まで広がっている。
 
