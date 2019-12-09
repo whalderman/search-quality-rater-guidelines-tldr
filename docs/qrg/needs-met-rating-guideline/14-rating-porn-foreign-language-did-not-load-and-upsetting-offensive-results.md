@@ -514,7 +514,7 @@ Do NOT assign the **Upsetting‑Offensive** flag, regardless of what the query w
 
 ### Needs Met Rating for Upsetting‑Offensive Tolerant Queries
 
-Remember that people of all ages, genders, races, and religions use search engines for a variety of needs. One especially important user need is exploring subjects that may be difficult to discuss in person. For example, some people may hesitate to ask what racial slurs mean. People may also want to understand why certain racially offensive statements are made. Giving users access to resources that help them understand racism, hatred, and other sensitive topics is beneficial to society.
+Remember that people of all ages, genders, races, religions, and political affiliations use search engines for a variety of needs. One especially important user need is exploring subjects that may be difficult to discuss in person. For example, some people may hesitate to ask what racial slurs mean. People may also want to understand why certain racially offensive statements are made. Giving users access to resources that help them understand racism, hatred, and other sensitive topics is beneficial to society.
 
 When the user's query seems to either ask for or tolerate potentially upsetting or offensive content, we will call the query a "Upsetting‑Offensive tolerant query". For the purpose of Needs Met rating, please assume that users have a dominant educational/informational intent for Upsetting‑Offensive tolerant queries. All results should be rated on the Needs Met rating scale assuming a genuine educational/informational intent.
 

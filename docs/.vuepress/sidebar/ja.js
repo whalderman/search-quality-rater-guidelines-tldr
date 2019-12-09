@@ -14,7 +14,7 @@ module.exports = {
       title: '検索品質評価ガイドラインの概要',
       children: [
         '/ja/qrg/general-guidelines-overview/',
-        '/ja/qrg/general-guidelines-overview/0-introduction-to-search-quality-rating'
+        '/ja/qrg/general-guidelines-overview/0-the-search-experience'
       ]
     },
     {

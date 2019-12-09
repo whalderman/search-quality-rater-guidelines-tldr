@@ -15,7 +15,7 @@ module.exports = {
       title: 'General Guidelines Overview',
       children: [
         '/qrg/general-guidelines-overview/',
-        '/qrg/general-guidelines-overview/0-introduction-to-search-quality-rating'
+        '/qrg/general-guidelines-overview/0-the-search-experience'
       ]
     },
     {
