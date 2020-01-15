@@ -1,0 +1,26 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: install the package
+      run: npm install
+    - name: build the docs
+      run: npm run docs:build
+    - name: FTP Deploy
+      uses: SamKirkland/FTP-Deploy-Action@2.0.0
+      with:
+        ftp_server: ${{ secrets.FTPH }}
+        ftp_username: ${{ secrets.FTPU }}
+        ftp_password: ${{ secrets.FTPP }}
+        method: ftp # optional, default is ftp
+        port: 21 # optional, default is 21
+        local_dir: /.vuepress/dist # optional, default is "/"
+        remote_dir: ${{ secrets.FTP_DIR }} # optional, default is "/"
+        # Passes through options into lftp
