@@ -5,13 +5,6 @@ meta:
     content: PQ評価を行う上で、Webサイトについて深く理解することが必要である。ここでは、Webサイトの評判の重要性と、メインコンテンツ、補助的コンテンツ、広告・マネタイズ要素の違いについて説明します。
 ---
 
-<div class="note">
-
-**注**：このページの翻訳はまだ完了していません。  
-　　翻訳を手伝いたい場合は、ページの下部のリンクを使用できます。
-
-</div>
-
 # ページ・Webサイトの理解
 
 PQ評価を行う上で、Webサイトについて深く理解することが必要である。このガイドラインでは、はじめに基本的な事項、流れに沿ってPQ評価の要点を理解していく。「自分はWebに詳しい」と思っている人もこのセクションを一読する。
@@ -20,9 +13,9 @@ PQ評価を行う上で、Webサイトについて深く理解することが必
 
 以下に重要な用語をまとめる。
 
-A **search engine** is a tool to help people find or interact with content available on the Internet.
+**検索エンジン**<!-- -->は、人々がインターネットで利用可能なコンテンツを見つけたり、やり取りしたりするのを支援するツール。
 
-In these guidelines, the word "**user**" refers to a person trying to find information or accomplish a task on the Internet. Keep in mind that users are people from many different backgrounds, whose experiences and needs may differ from your own: people of all ages, genders, races, religions, political affiliations, etc.
+このガイドラインでは、「**ユーザー**」という言葉は、インターネット上で情報を検索したり、タスクを実行しようとする人を指します。ユーザーは様々な性格を持つ人々であり（すべての年齢、性別、人種、宗教、所属政党など）、その経験やニーズはあなたとは異なる可能性があることに留意してください。
 
 **ページ（Webページ）**
 :   wwwに接続していて、Chromeなどのブラウザで「閲覧・訪問」できるもの。1990年代は、ページのコンテンツは主に文章とリンクのみだった。現代ではコンテンツの幅も広がり、動画・画像などの「メディア」をはじめ、商品購入機能、メール、計算機、オンラインゲーム等の「機能」まで広がっている。
@@ -137,7 +130,7 @@ YMYLページに関して、Googleの評価基準は厳しくなる。品質の�
 
 「ページの目的達成に直接関わる部分」は全てMC（メインコンテンツ）である。ウェブマスターは基本的に全てのMCを直接制御する（ユーザー生成コンテンツ（UGC）は除く）コンテンツの種類についてMCは問わない。「テキスト」「画像」「動画」「計算機・ゲーム等の機能」「ユーザー生成コンテンツ」などもMCになる。タブの中にユーザーレビューの情報やその他「タブ内に隠されたコンテンツ」をMC判定することもあるので注意する。
 
-The MC also includes the title at the top of the page ([example](https://guidelines.raterhub.com/images/2.2.4mc-title.jpg)). Descriptive MC titles allow users to make informed decisions about what pages to visit. Helpful titles summarize the MC on the page.
+MCには、ページ上部のタイトルも含まれる（[例](https://guidelines.raterhub.com/images/2.2.4mc-title.jpg))。説明的なMCタイトルを使用すると、ユーザーはどのページにアクセスするかについて十分な情報に基づいた決定を下すことができる。役立つタイトルは、ページ上のMCを要約している。
 
 <div class="examples">
 <div class="example">
@@ -505,7 +498,7 @@ Finally, there are some websites that show licensed or syndicated content. This 
 
 種類によってのWebサイトには、連絡先情報が少なくて良い場合もある。例えば、ユーモアに部類されるWebサイトには、オンラインバンキングのWebサイトのような詳細な連絡先情報のレベルは必要ない。
 
-場合によっては、匿名であることに正当な理由があるWebサイトもあります。例えば、個人のWebサイトには、個人の自宅の住所や電話番号などの個人連絡先情報がないこともある。同様に、ユーザー生成コンテンツを有するWebサイトでは、作成者は偽名またはユーザー名の登録で作成できる。
+場合によっては、匿名であることに正当な理由があるWebサイトもある。例えば、個人のWebサイトには、個人の自宅の住所や電話番号などの個人連絡先情報がないこともある。同様に、ユーザー生成コンテンツを有するWebサイトでは、作成者は偽名またはユーザー名の登録で作成できる。
 
 Webサイトの連絡先またはお客様サービス情報を検索するには、ホームページから始める。「お問い合わせ」または「お客様サービス」のリンクを探す。「お問い合わせ」ページが見つからない場合は、Webサイト内も探してみる。場合によっては、「企業サイト」のリンクや会社のFacebookページで連絡先情報を見つけることもできる。探偵になったつもりで探してみる。
 
@@ -527,7 +520,7 @@ Webサイトの評判は、Webサイトが何で最も知られているかを�
 
 店舗には頻繁にユーザー評価をつけるため、実際に店舗で買い物をしているユーザーの評価に基づいて店舗の評判を理解していく。Googleは、多数の肯定的なユーザー評価を肯定的な評判の証拠とみなす。
 
-Many other kinds of websites have reputations as well. For example, you might find that a newspaper (with an associated website) has won journalistic awards. Prestigious awards, such as the Pulitzer Prize award, or a history of high quality original reporting are strong evidence of positive reputation.
+他の多くの種類のWebサイトにも評判がある。たとえば、新聞（関連するWebサイトを含む）がジャーナリスト賞を受賞している場合がある。ピューリッツァー賞などの名誉ある賞、または高品質なオリジナルの報告の歴史は、前向きな評判の強力な証拠。
 
 高いレベルの権威性や専門知識が必要な場合、Webサイトの評判は、専門家の意見によって判断する必要がある。専門家から評価されることは、非常に肯定的な評判に大きく影響する。
 
@@ -541,7 +534,7 @@ Webサイト全部で評判調査が必要である。あなたが個人的に�
 
 ### 店舗・ビジネスのレビュー
 
-Customer reviews can be helpful for assessing the reputation of a store or business. However, you should interpret these reviews with care, particularly if there are only a few. Be skeptical of both positive and negative user reviews. Anyone can write them, including the creator of the website or someone the store or business hires for this purpose. See [here](https://guidelines.raterhub.com/images/FerretingOutFakeReviewsOnline.jpg) for a New York Times article on fake reviews and [here](http://www.theguardian.com/money/2013/jan/26/fake-reviews-plague-consumer-websites) for a Guardian article on fake reviews.
+顧客レビューは、店舗やビジネスの評判を評価するのに役立ちます。しかし、特に数が少ない場合は、レビューを慎重に解釈しなければならない。肯定的な・否定的なユーザーレビューの両方に懐疑的する。Webサイトの作成者や、この目的のために店やビジネスが雇う人を含め、誰でもそれらを書ける。偽のレビューに関するNew York Timesの記事については[こちら](https://guidelines.raterhub.com/images/FerretingOutFakeReviewsOnline.jpg)、Guardianの記事については[こちら](http://www.theguardian.com/money/2013/jan/26/fake-reviews-plague-consumer-websites)をご覧ください。
 
 顧客のレビューを調査するときは、可能な限り多くを見ていく。どの店舗やWebサイトでも、いくつかの否定的レビューを得ることがある。大規模な店舗や企業には何千ものレビューがあり、ほとんどの場合、いくつかの否定的なレビューが存在する。
 
@@ -564,9 +557,9 @@ Customer reviews can be helpful for assessing the reputation of a store or busin
 
 3. Webサイトについて書いた記事、レビュー、フォーラム投稿、ディスカッションなどを探す。企業にとっては、評判情報やレビューには多くの情報源がある。いくつかの例を出すと：[Yelp](https://guidelines.raterhub.com/images/PQ.ReputationResearchExampleWebsite1.jpg)、[Better Business Bureau](https://guidelines.raterhub.com/images/PQ.ReputationResearchExampleWebsite3.jpg)（ビジネスとチャリティーの信頼性に重点を置く非営利組織）、[Amazon](https://guidelines.raterhub.com/images/PQ.ReputationResearchExample4.jpg)、[Googleショッピング](https://guidelines.raterhub.com/images/PQ.ReputationResearchExample5.jpg)は 特定のサイトを検索してレビューを探すことができる。例えば、<span class="query">ibm site:bbb.org</span>または<span class="query">"ibm.com" site:bbb.org</span>を試すことができる。
 
-    For content creators, look for biographical data and other sources that are not written by the individual.
+    コンテンツクリエーターの場合、伝記データや、自分で書いていない他の記事を探してください。
 
-    <div class="note"><b>注：</b>Better Business Bureau（BBB）のWebサイトには高い評価が表示されることがある。ビジネスにはデータが少ないからである。ビジネスが肯定的な評判を持っていることにはならない。しかし、BBBの格付けが非常に低いのは、通常、複数の未解決の苦情の結果である。BBBサイトの非常に低い評価であった否定的な評判の証拠として扱っていく。</div>
+    <div class="note"><b>注：</b>Better Business Bureau (BBB) のWebサイトには高い評価が表示されることがある。ビジネスにはデータが少ないからである。ビジネスが肯定的な評判を持っていることにはならない。しかし、BBBの格付けが非常に低いのは、通常、複数の未解決の苦情の結果である。BBBサイトの非常に低い評価であった否定的な評判の証拠として扱っていく。</div>
 
 4. 有名なニュースサイト、Wikipedia記事またはニュース記事を探す。Wikipediaは、企業や組織を知る良い情報源となる。<span class="query">ibm site:en.wikipedia.org</span>または<span class="query">"ibm.com" site:en.wikipedia.org</span>を試してみる。賞やその他の認定書や論争や問題など、評判に関する情報も含まれている。一部のWikipediaの記事には、コンテンツの一部に意見の不一致がある、またはコンテンツが古くなっている可能性があることを警告するメッセージが表示される。これについては追加の調査が必要であることを示唆している可能性がある。
 
