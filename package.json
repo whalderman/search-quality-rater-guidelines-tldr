@@ -1,7 +1,7 @@
 {
 	"name": "search-quality-rater-guidelines-tldr",
 	"main": "index.js",
-	"repository": "https://github.com/thewarrman/qrg-bci.git",
+	"repository": "https://github.com/thewarrman/search-quality-rater-guidelines-tldr.git",
 	"author": "Warren Halderman <halderman.warren@gmail.com>",
 	"license": "MIT",
 	"private": true,
