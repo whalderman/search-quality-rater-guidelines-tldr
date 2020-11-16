@@ -18,11 +18,11 @@
 	},
 	"devDependencies": {},
 	"dependencies": {
-		"@vuepress/plugin-google-analytics": "^1.5.2",
+		"@vuepress/plugin-google-analytics": "^1.7.1",
 		"markdown-it-abbr": "^1.0.4",
-		"markdown-it-deflist": "^2.0.3",
-		"vuepress": "^1.5.2",
-		"vuepress-plugin-clean-urls": "^1.1.1",
-		"vuepress-plugin-container": "^2.1.4"
+		"markdown-it-deflist": "^2.1.0",
+		"vuepress": "^1.7.1",
+		"vuepress-plugin-clean-urls": "^1.1.2",
+		"vuepress-plugin-container": "^2.1.5"
 	}
 }
