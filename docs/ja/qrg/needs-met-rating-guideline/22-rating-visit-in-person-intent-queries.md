@@ -3,6 +3,7 @@ title: 訪れるクエリの評価
 meta:
   - name: description
     content: 訪れる意図のクエリの中には、クエリが中華レストランのように、クエリ自体は地域を指定していないが、ユーザーの場所が分かっている場合があり、そのときはユーザーの場所の近くにある検索結果が一番役に立つ。
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # 訪れるクエリの評価

@@ -3,6 +3,7 @@ title: 序章　検索品質評価の概要
 meta:
   - name: description
     content: あなたの評価は世界中の検索エンジンの評価に使われる。検索エンジンを快適に使い、よく知ることが重要。Google検索のエキスパートになることを推奨する。
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # 序章　検索品質評価の概要

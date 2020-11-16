@@ -3,6 +3,7 @@ title: ページ・Webサイトの理解
 meta:
   - name: description
     content: PQ評価を行う上で、Webサイトについて深く理解することが必要である。ここでは、Webサイトの評判の重要性と、メインコンテンツ、補助的コンテンツ、広告・マネタイズ要素の違いについて説明します。
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # ページ・Webサイトの理解

@@ -3,6 +3,7 @@ title: Page Quality評価の要点
 meta:
   - name: description
     content: ページの品質評価のため、ページとWebサイトのいくつかの側面を見て、考える必要がある。このような評価は練習をしていく必要がある。
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # Page Quality評価の要点

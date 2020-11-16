@@ -3,6 +3,7 @@ title: Overall Page Quality Rating
 meta:
   - name: description
     content: At a high level, assigning a Page Quality rating involves understanding the true purpose of a page and how well the page achieves that purpose for a given query.
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # Overall Page Quality Rating

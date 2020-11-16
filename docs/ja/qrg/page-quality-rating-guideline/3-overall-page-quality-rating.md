@@ -3,6 +3,7 @@ title: Page Quality評価スケール
 meta:
   - name: description
     content: ページ品質評価を割り当てるには、ページの本当の目的が分かることと、特定のクエリに対してページがその目的をどの程度達成しているかを理解する必要があります。
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # Page Quality評価スケール

@@ -3,6 +3,7 @@ title: Page QualityとNeeds Met評価の関係
 meta:
   - name: description
     content: Needs Met評価は、クエリと結果の両方に基づいている。Needs Met評価を割り当てるときは、クエリとユーザーの意図について注意深く考える必要がある。
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # Page QualityとNeeds Met評価の関係

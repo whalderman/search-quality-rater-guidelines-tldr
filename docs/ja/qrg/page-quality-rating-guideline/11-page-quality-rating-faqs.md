@@ -3,6 +3,7 @@ title: Page Quality評価に関するよくある質問
 meta:
   - name: description
     content: ここでは、Google検索品質評価者ガイドラインに関するよくある質問のいくつかを読むことができます。
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # PQ評価に関するよくある質問

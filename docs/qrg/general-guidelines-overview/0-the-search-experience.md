@@ -3,6 +3,7 @@ title: Introduction to Search Quality Rating
 meta:
   - name: description
     content: Your ratings will be used to evaluate search engine quality around the world. It is important that you are familiar with and comfortable using a search engine.
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # Introduction to Search Quality Rating

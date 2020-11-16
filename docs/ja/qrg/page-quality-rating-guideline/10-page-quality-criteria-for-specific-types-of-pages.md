@@ -3,6 +3,7 @@ title: 特定タイプのページに対するPage Quality評価の注意点
 meta:
   - name: description
     content: エンサイクロペディアページ（ウィキペディアなど）、エラーページ、メインコンテンツがないのページ、フォーラム、Q&Aページなど、一般的なページタイプの評価に関するGoogleのガイドライン。
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # 特定タイプのページに対するPage Quality評価の注意点

@@ -3,6 +3,7 @@ title: 重複するLPの報告
 meta:
   - name: description
     content: いくつかの評価タスクでは、結果が重複であるかどうかを判断するよう求められる。このセクションでは、Needs Met評価タスクで重複結果を報告する方法のガイダンスと例を示す。
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # 重複するLPの報告

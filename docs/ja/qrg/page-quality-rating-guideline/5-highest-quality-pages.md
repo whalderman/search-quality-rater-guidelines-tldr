@@ -3,6 +3,7 @@ title: 最高品質なページ
 meta:
   - name: description
     content: 最高品質は、目的の達成度、ユーザーの満足度ともに非常に高いページに付与される。「High評価」と「最高品質」はMCの質、E-A-Tのレベル、Webサイトの評判に基づいて区別される。
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 <div class="note">

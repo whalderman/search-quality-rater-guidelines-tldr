@@ -3,6 +3,7 @@ title: Understanding Webpages and Websites
 meta:
   - name: description
     content: The Page Quality rating requires an in-depth understanding of websites. Here we go over the importance of website reputation and the differences between main content, supplementary content, and ads.
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # Understanding Webpages and Websites

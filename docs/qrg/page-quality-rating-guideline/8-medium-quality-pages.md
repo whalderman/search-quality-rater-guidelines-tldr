@@ -3,6 +3,7 @@ title: Medium Quality Pages
 meta:
   - name: description
     content: "There are two types of Medium quality pages: those that do nothing well, but nothing wrong, and pages that have both High quality and Low quality characteristics."
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # Medium Quality Pages

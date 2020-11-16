@@ -3,6 +3,7 @@ title: 評価インターフェイスを使った評価タスク
 meta:
   - name: description
     content: 評価を割り振る前に、すべてのResult Blockがロードされたかを確かめるためにページをスキャンしてください。もしResult Blockに何もなければ、リザルトブックの読み込みが遅くなったり、再読み込みする必要がある。
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # 評価インターフェイスを使った評価タスク

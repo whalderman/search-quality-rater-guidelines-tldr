@@ -3,6 +3,7 @@ title: Acquiring Tasks
 meta:
   - name: description
     content: Please note that changes are sometimes made to the appearance of this page, so it may not look exactly as it appears on this page.
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # Acquiring Tasks

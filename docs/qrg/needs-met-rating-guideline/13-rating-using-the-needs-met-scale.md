@@ -3,6 +3,7 @@ title: Rating Using the Needs Met Scale
 meta:
   - name: description
     content: Needs Met rating tasks ask you to focus on mobile user needs and think about how helpful and satisfying the result is for the mobile users.
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # Rating Using the Needs Met Scale

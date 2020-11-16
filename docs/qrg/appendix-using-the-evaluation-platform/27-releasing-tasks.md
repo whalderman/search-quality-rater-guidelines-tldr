@@ -3,6 +3,7 @@ title: Releasing Tasks
 meta:
   - name: description
     content: Most raters have difficulty rating some tasks now and then. Some queries are about highly technical topics (e.g., computer science or physics) or involve very specialized areas of interest (e.g., gaming or torrents).
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # Releasing Tasks

@@ -3,6 +3,7 @@ title: "Product Queries: Importance of Browsing and Researching"
 meta:
   - name: description
     content: Page Quality ratings for product results need extra care and attention. Users need high quality information from authoritative sources when researching products, especially when products are expensive or represent a major investment/important life event.
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # Product Queries: Importance of Browsing and Researching

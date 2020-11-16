@@ -3,6 +3,7 @@ title: 製品クエリ：閲覧と調査の重要性
 meta:
   - name: description
     content: 製品の結果に対するPQ評価には、特別な注意と注意が必要だ。商品を探すとき、ユーザーは権威性のある情報源からの質の高い情報が必要で、特に、製品が高価であるか、または重要な投資/重要な生活イベントを表す場合である。
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 <div class="note">

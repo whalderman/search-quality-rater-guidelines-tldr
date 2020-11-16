@@ -3,6 +3,7 @@ title: 高品質なページ
 meta:
   - name: description
     content: ページを高品質なするものは何ですか？高品質なページには有益な目的があり、その目的を十分に果たす必要があります。
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 <div class="note">

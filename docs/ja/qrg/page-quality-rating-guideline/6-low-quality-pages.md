@@ -3,6 +3,7 @@ title: 低品質なページ
 meta:
   - name: description
     content: 低品質なページは何らかの要素が欠落あるいは不足しており、そのためにページの目的を達成しにくくなっています。ページの目的に対して、専門性の欠如や信頼性・権威性の不足が見られます。
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 <div class="note">

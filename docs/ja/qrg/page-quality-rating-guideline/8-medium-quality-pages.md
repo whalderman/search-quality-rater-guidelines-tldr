@@ -3,6 +3,7 @@ title: 中品質なページ
 meta:
   - name: description
     content: 本セクションでは、中品質の評価のページについて解説します。中品質なページとは、ページの目的は達成できており。
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # 中品質なページ

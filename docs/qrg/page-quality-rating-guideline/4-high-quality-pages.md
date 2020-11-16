@@ -3,6 +3,7 @@ title: High Quality Pages
 meta:
   - name: description
     content: What makes a High quality page? A High quality page should have a beneficial purpose and achieve that purpose well.
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # High Quality Pages

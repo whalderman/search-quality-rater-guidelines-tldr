@@ -3,6 +3,7 @@ title: Lowest Quality Pages
 meta:
   - name: description
     content: Lowest quality pages include pages that lack purpose, fail to achieve their purpose, potentially spread hate, misinform users, deceive users, or are potentially harmful.
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # Lowest Quality Pages

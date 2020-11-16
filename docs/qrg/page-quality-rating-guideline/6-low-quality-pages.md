@@ -3,6 +3,7 @@ title: Low Quality Pages
 meta:
   - name: description
     content: Low quality pages do not achieve their purpose well because they are lacking in an important dimension, such as having an unsatisfying amount of content, or because the creator of the content lacks expertise for the purpose of the page.
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # Low Quality Pages

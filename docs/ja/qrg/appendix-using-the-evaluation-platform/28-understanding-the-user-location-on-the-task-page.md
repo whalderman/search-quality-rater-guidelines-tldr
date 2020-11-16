@@ -3,6 +3,7 @@ title: タスクページのユーザーロケーションを理解する
 meta:
   - name: description
     content: 多くのタスクでは、クエリの下にユーザーの位置が表示される。また、地図にもユーザーがクエリを実行したときの位置が表示され、さらに正確な位置を知ることができる。
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # タスクページのユーザーロケーションを理解する

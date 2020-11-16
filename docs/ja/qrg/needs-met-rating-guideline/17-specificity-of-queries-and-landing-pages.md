@@ -3,6 +3,7 @@ title: クエリの限定性とランディングページ（LP）
 meta:
   - name: description
     content: クエリの限定性が強いほどユーザーの求めているものもわかりやすいので、Needs Met評価が簡単です。一方、幅の広いクエリのNeeds Met評価は難しいです。
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # クエリの限定性とLP

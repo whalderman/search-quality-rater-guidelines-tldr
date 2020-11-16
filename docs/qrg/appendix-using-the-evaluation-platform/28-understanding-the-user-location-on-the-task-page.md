@@ -3,6 +3,7 @@ title: Understanding the User Location on the Task Page
 meta:
   - name: description
     content: The location of the user should be inferred from the map provided. The map can help clarify where the user was physically located when the query was issued.
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # Understanding the User Location on the Task Page

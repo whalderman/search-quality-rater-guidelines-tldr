@@ -3,6 +3,7 @@ title: Specificity of Queries and Landing Pages
 meta:
   - name: description
     content: Results for specific queries are easier to rate on the Needs Met scale because we know more about what the user is looking for. Giving a Needs Met rating for results for general queries can be difficult.
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # Specificity of Queries and Landing Pages

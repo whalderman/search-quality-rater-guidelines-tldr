@@ -3,6 +3,7 @@ title: Misspelled and Mistyped Queries and Results
 meta:
   - name: description
     content: For obviously misspelled or mistyped queries, you should base your rating on user intent, not necessarily on exactly how the query has been spelled or typed by the user. For queries that are not obviously misspelled or mistyped, respect the query as written, and assume users are looking for results for the query as it is spelled.
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # Misspelled and Mistyped Queries and Results

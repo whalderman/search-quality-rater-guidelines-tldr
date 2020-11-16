@@ -3,6 +3,7 @@ title: 最低品質なページ
 meta:
   - name: description
     content: ユーザーの助けとならないページや嫌悪感や害を与える可能性があるページ、ユーザーに誤解させるまたはユーザーを欺くページなど、有益な目的のないものは最低品質なページです。
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 <div class="note">

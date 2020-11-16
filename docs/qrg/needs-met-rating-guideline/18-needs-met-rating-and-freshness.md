@@ -3,6 +3,7 @@ title: Needs Met Rating and Freshness
 meta:
   - name: description
     content: Some queries demand very recent or "fresh" information. When a query demands recent content, only pages with current, recent, or updated content should get high Needs Met ratings.
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # Needs Met Rating and Freshness

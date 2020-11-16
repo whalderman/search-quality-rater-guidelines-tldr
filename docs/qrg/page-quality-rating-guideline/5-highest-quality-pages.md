@@ -3,6 +3,7 @@ title: Highest Quality Pages
 meta:
   - name: description
     content: The distinction between High and Highest quality pages is based on the quality and quantity of main content, as well as the level of reputation, expertise, authoritativeness, and trustworthiness.
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # Highest Quality Pages

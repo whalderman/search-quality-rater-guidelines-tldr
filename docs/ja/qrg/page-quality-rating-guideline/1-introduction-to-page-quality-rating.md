@@ -3,6 +3,7 @@ title: Page Quality評価の概要
 meta:
   - name: description
     content: Page Quality (PQ) 評価タスクは「URL」と「評価結果を記録するためのグリット」からなる。PQ評価は「ページが、ページ自体の目的をどの程度達成しているか」の評価をすることが目的である。
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # Page Quality評価の概要

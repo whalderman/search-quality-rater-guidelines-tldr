@@ -3,6 +3,7 @@ title: Reporting Duplicate Results in Tasks
 meta:
   - name: description
     content: In some rating tasks, you may be asked to determine whether any results are Duplicates (dupes). This section provides guidance and examples of how to report duplicate results In Needs Met (NM) rating tasks.
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # Reporting Duplicate Results in Tasks

@@ -3,6 +3,7 @@ title: The Relationship between Page Quality and Needs Met
 meta:
   - name: description
     content: The Needs Met rating is based on both the query and the result. The query and user intent are both evaluated when assigning a Needs Met rating.
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # The Relationship between Page Quality and Needs Met

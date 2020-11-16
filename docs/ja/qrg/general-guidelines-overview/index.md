@@ -3,6 +3,7 @@ title: 検索品質評価ガイドラインの概要
 meta:
   - name: description
     content: この「検索品質評価ガイドライン」を通して、「Page Quality評価（PQ評価）」と「Needs Met評価」理解していく。
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # 検索品質評価ガイドラインの概要

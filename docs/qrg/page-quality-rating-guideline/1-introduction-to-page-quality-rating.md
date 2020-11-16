@@ -3,6 +3,7 @@ title: Introduction to Page Quality Rating
 meta:
   - name: description
     content: The purpose of a Page Quality rating is to determine how well a page achieves its purpose for a given query.
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # Introduction to Page Quality Rating

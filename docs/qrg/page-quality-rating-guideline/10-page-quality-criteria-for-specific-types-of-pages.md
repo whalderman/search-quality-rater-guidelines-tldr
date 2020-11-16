@@ -3,6 +3,7 @@ title: Page Quality Criteria for Specific Types of Pages
 meta:
   - name: description
     content: Here are Google's guidelines for rating common page types, including encyclopedia pages (like wikipedia), pages with error messages or no main content, forums, and Q&A pages.
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # Page Quality Criteria for Specific Types of Pages

@@ -3,6 +3,7 @@ title: 簡略化されたNMタスク
 meta:
   - name: description
     content: NM評価はすべてのブロックの評価を必要としないかもしれない。これらのブロックでは、NMおよびPQ評価尺度はグレー表示され、テキストに「No Rating Required」と注釈が付けられる。
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # 簡略化されたNMタスク

@@ -3,6 +3,7 @@ title: 誤字・タイプミスのあるクエリと検索結果
 meta:
   - name: description
     content: 誤字・タイプミスであることが明白なクエリの場合、ユーザーの意図に基づいて評価しましょう。誤字・タイプミスであることが明白ではないクエリの場合、ユーザーが入力した通りのクエリを尊重し、ユーザーは入力した通りのクエリに関する検索結果を求めていると推定します。
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # 誤字・タイプミスのあるクエリと検索結果

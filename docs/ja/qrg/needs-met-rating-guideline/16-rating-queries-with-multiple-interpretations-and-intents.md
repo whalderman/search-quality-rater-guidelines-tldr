@@ -3,6 +3,7 @@ title: 複数の解釈・意図があるクエリの評価
 meta:
   - name: description
     content: クエリの意味が1つしかないクエリがあります。一方、複数の意味があるクエリもあります。複数の「クエリの解釈」が成立する場合、それぞれの解釈の蓋然性を考え、さらにその解釈に対して検索結果がどの程度役立つかを考えてNeeds Met評価をしてください。
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # 複数の解釈・意図があるクエリの評価

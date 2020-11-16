@@ -3,6 +3,7 @@ title: Page Quality Rating FAQs
 meta:
   - name: description
     content: Read some of the most frequently asked questions regarding the Google Search Quality Rater Guidelines.
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # Page Quality Rating FAQs

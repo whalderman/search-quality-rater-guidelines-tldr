@@ -3,6 +3,7 @@ title: 非英語ロケールでの英語の結果の評価
 meta:
   - name: description
     content: あなたのロケールでNM評価が有益な結果をもたらすことを示すべきであるのはユーザーのためである。クエリがあなたのロケールの言語である時、ユーザーはその言語の結果が欲しいと推測できる。
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 <div class="note">

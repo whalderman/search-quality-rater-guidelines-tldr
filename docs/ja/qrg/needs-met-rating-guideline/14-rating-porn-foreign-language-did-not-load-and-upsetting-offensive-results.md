@@ -3,6 +3,7 @@ title: 「ポルノ」「外国語」「読み込めない」「使いにくい�
 meta:
   - name: description
     content: 「ポルノ」「外国語」「読み込めない」「使いにくい」のいずれかに該当する検索結果には、フラグを立ててください。
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 <div class="note">

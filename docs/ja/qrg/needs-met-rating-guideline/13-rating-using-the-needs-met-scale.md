@@ -3,6 +3,7 @@ title: Needs Metスケールを使用した品質評価
 meta:
   - name: description
     content: ページがユーザーの意図をどれだけ満たしているか、モバイルユーザーを中心として「Needs Met評価タスク」で考えていく。
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 <div class="note">

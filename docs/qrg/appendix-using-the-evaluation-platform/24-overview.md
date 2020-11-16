@@ -3,6 +3,7 @@ title: Using the Evaluation Platform
 meta:
   - name: description
     content: As a Search Quality Rater, you will work on many different types of rating tasks. This section provides guidance on how to use certain features of the Evaluation Platform that you will encounter frequently in Page Quality (PQ) and Needs Met (NM) rating tasks.
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # Overview

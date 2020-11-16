@@ -3,6 +3,7 @@ title: Rating Visit-in-Person Intent Queries
 meta:
   - name: description
     content: When there is a user location for a visit-in-person intent query, but a location has not been specified in the query itself, results in or near the user location are still the most helpful.
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # Rating Visit-in-Person Intent Queries

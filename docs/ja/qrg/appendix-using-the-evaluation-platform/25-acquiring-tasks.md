@@ -3,6 +3,7 @@ title: タスクを取得する
 meta:
   - name: description
     content: Evaluation Platformのデザインは時々変わるので、異なる場合がある。
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # タスクを取得する

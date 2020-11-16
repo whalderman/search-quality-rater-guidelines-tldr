@@ -3,6 +3,7 @@ title: Simplified Needs Met Tasks
 meta:
   - name: description
     content: Some Needs Met rating tasks may not require ratings for all blocks. In these blocks, the Needs Met and E‑A‑T rating scales will be greyed out and annotated with the text "No Rating Required".
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # Simplified Needs Met Tasks

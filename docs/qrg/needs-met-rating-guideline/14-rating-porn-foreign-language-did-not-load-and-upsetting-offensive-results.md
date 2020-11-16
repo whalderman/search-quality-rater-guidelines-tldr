@@ -3,6 +3,7 @@ title: Rating Porn, Foreign Language, Did Not Load, and Upsetting‑Offensive Re
 meta:
   - name: description
     content: Porn, Foreign Language, Did Not Load, and Upsetting‑Offensive flags are assigned to result blocks when appropriate.
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # Rating Porn, Foreign Language, Did Not Load, and Upsetting‑Offensive Results

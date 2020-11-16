@@ -3,6 +3,7 @@ title: URLクエリに対する、Fully Meets評価以外の検索結果
 meta:
   - name: description
     content: クエリが正常に読み込めるURLであるならば、評価はFully Meetsであるか、Fails to Meetになるのではないか？と尋ねるがそれはNoだ。URLクエリでも、他の評価に当てはまる役に立つ検索結果はある。
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 <div class="note">

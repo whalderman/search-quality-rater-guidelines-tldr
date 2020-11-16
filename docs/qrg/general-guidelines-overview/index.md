@@ -3,6 +3,7 @@ title: General Guidelines Overview
 meta:
   - name: description
     content: The Search Quality Rater General Guidelines primarily cover ratings for both Page Quality and Needs Met.
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # General Guidelines Overview

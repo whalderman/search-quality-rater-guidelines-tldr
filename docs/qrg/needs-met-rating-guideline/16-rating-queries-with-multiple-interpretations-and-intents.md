@@ -3,6 +3,7 @@ title: Rating Queries with Multiple Interpretations and Intents
 meta:
   - name: description
     content: Some queries really only have one meaning. Other queries truly have different possible meanings. When giving Needs Met ratings for results involving different query interpretations, think about how likely the query interpretation is and how helpful the result is.
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # Rating Queries with Multiple Interpretations and Intents

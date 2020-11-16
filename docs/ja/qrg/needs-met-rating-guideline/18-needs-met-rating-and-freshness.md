@@ -3,6 +3,7 @@ title: 情報の鮮度とNeeds Met評価
 meta:
   - name: description
     content: クエリによっては、ごく最近の情報や「新鮮な」情報を強く求めていることがあります。クエリが最近の情報を要求するとき、現在、最近、アップデートされたページがあるコンテンツが高いNeeds Met評価を得るべきである。
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # 情報の鮮度とNeeds Met評価

@@ -3,6 +3,7 @@ title: Page Quality Rating Tasks
 meta:
   - name: description
     content: For Page Quality Ratings, there are several aspects of the page and the website to look at and think about. This type of rating takes practice.
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # Page Quality Rating Tasks

@@ -3,6 +3,7 @@ title: タスクをリリースする
 meta:
   - name: description
     content: ほとんどの評価者は難しいタスクを抱えている。高度なテクニックについてのクエリ（コンピューター科学や物理学）や非常に特化した関心領域（例えば、ゲームやトレント）を必要とする。
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 <div class="note">

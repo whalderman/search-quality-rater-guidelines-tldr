@@ -3,6 +3,7 @@ title: Non-Fully Meets Results for URL Queries
 meta:
   - name: description
     content: For a well-formed working URL query, are the only acceptable Needs Met ratings for a result either Fully Meets or Fails to Meet? The answer is no. There can be other helpful results for URL queries.
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # Non-Fully Meets Results for URL Queries

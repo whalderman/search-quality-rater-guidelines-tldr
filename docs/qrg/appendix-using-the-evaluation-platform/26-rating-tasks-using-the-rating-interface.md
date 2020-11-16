@@ -3,6 +3,7 @@ title: Rating Tasks Using the Rating Interface
 meta:
   - name: description
     content: Before assigning any ratings, please scan the task page to make sure that all result blocks have loaded. Please note that result blocks may be slow to load and/or that the task page may need reloading if there are empty result blocks.
+canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
 # Rating Tasks Using the Rating Interface
