@@ -6,13 +6,6 @@ meta:
 canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
-<div class="note">
-
-**注**：このページの翻訳はまだ完了していません。  
-　　翻訳を手伝いたい場合は、ページの下部のリンクを使用できます。
-
-</div>
-
 # 最低品質なページ
 
 このセクションでは、**最低**品質なページについて説明します。「**Lowest**評価ページの例」はこの概念を理解するのに重要なので、よく確認してください。念のため、Page Quality評価の手順をもう一度振り返りましょう。
@@ -151,7 +144,7 @@ Googleはインターネットアーカイブが運営している[Wayback Machi
 
 ### サイトに関する情報の欠如
 
-[「当サイトについて」「連絡先」「お客様サービス」などの見つけ方](/ja/qrg/page-quality-rating-guideline/2-understanding-webpages-and-websites.html#「当サイトについて」「連絡先」「お客様サービス」などの見つけ方)の項でも説明したように、Googleは多くのWebサイトに対して、サイトの責任者情報、連絡先情報の掲載を求める。オンライン銀行などYMYLページのあるサイトの場合には、広範囲にわたるカスタマーサービス情報を含む豊富なサイト情報を求める。
+[「当サイトについて」「連絡先」「お客様サービス」などの見つけ方](2-understanding-webpages-and-websites.html#「当サイトについて」「連絡先」「お客様サービス」などの見つけ方)の項でも説明したように、Googleは多くのWebサイトに対して、サイトの責任者情報、連絡先情報の掲載を求める。オンライン銀行などYMYLページのあるサイトの場合には、広範囲にわたるカスタマーサービス情報を含む豊富なサイト情報を求める。
 
 サイトの目的と、ユーザーが必要としているサイト情報の種類を考えよう。
 
@@ -169,7 +162,7 @@ Webマスターによる維持、管理が全くされていないサイトも�
 
 ## 嫌悪を拡散させるようなページ
 
-Use the Lowest rating for pages that promote hate or violence against a group of people, including but not limited to those grouped on the basis of race or ethnic origin, religion, disability, age, nationality, veteran status, sexual orientation, gender or gender identity. Websites advocating hate or violence can cause real world harm.
+人種や民族、宗教、障害、年齢、国籍、ベテランステータス、性的指向、性別に基づいてグループ化されたものを含むがこれらに限定されない、人々のグループに対する憎悪または暴力を助長するページには**Lowest**評価を使用します または性同一性。 憎悪や暴力を擁護するウェブサイトは、現実世界に害を及ぼす可能性があります。
 
 憎悪は、扇動的、感情的、または不快な言葉で表現されますが、礼儀正しく、あるいは学術的な言葉で表現されることもあります。
 
@@ -204,7 +197,7 @@ Use the Lowest rating for pages that promote hate or violence against a group of
 
 ### 否定的または悪意のある評判
 
-ウェブサイトおよびメインコンテンツの作成者に対して否定的または悪意のある評判がある場合は、**Lowest**評価がなされます。[How to Search for Reputation Information](/page-quality-rating-guideline/understanding-webpages-and-websites.html#how-to-search-for-reputation-information)においていくつか例が示されています。否定的または悪意のある評判よって、これらのウェブサイト上の全てのページは**Lowest**評価が適用されます。
+ウェブサイトおよびメインコンテンツの作成者に対して否定的または悪意のある評判がある場合は、**Lowest**評価がなされます。[How to Search for Reputation Information](2-understanding-webpages-and-websites.html#how-to-search-for-reputation-information)においていくつか例が示されています。否定的または悪意のある評判よって、これらのウェブサイト上の全てのページは**Lowest**評価が適用されます。
 
 - [子供のジャングルジムを販売するサイト](https://guidelines.raterhub.com/images/domeclimber.com.jpg)
   - **否定的な評判：**<!-- -->このビジネスの[BBBにおける評価](https://guidelines.raterhub.com/images/DomeClimberBBBReview.jpg)はFです。金融詐欺に関するニュース記事や、ユーザーがそのように送金し、商品を受け取ることができなかったかなどのレビューが多くあります。

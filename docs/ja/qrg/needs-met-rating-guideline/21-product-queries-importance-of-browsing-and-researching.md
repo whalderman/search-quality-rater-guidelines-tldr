@@ -6,20 +6,13 @@ meta:
 canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
-<div class="note">
-
-**注**：このページの翻訳はまだ完了していません。  
-　　翻訳を手伝いたい場合は、ページの下部のリンクを使用できます。
-
-</div>
-
 # 製品クエリ：閲覧と調査の重要性
 
 <span class="query">ipad reviews</span>のような情報を探す（**知識**）意図が明白な商品名クエリがあれば、<span class="query">buy ipad</span>のような購入する（**Do**）意図が明白な商品名クエリもある。そして<span class="query">ipad store.apple.com</span>のようなWebサイトを訪れる（**Website**）意図が明白な商品名クエリもある。しかしながら、多くの商品名クエリは1つのタイプの意図を持っていない。
 
-Keep in mind that many users enjoy browsing and visually exploring products online, similar to window shopping in real life. Give high Needs Met ratings to results that allow users to research, browse, and decide what to purchase.
+多くのユーザーは、実際のウィンドウショッピングと同様に、オンラインで商品を閲覧したり視覚的に探索したりすることを楽しんでいることに注意してください。 ユーザーが何を購入するかを調査、閲覧、決定できるようにする結果に、高いNeedsMet評価を与えます。
 
-Users may not always plan to buy products online that they are browsing and researching, for example, cars or major appliances. 最終的なゴールは製品を購入することだが、製品の調査（レビュー、技術仕様）、利用可能なオプションの理解（ブランド、モデル、価格設定）、さまざまなオプションの表示と検討(閲覧)など、多くの他のことが先に行われるかもしれない。
+ユーザーは、自動車や大型家電製品など、閲覧および調査している製品をオンラインで購入することを常に計画しているとは限りません。最終的なゴールは製品を購入することだが、製品の調査（レビュー、技術仕様）、利用可能なオプションの理解（ブランド、モデル、価格設定）、さまざまなオプションの表示と検討(閲覧)など、多くの他のことが先に行われるかもしれない。
 
 **重要：**<!-- -->製品の結果に対するPQ評価には、特別な注意と注意が必要だ。
 
@@ -83,8 +76,8 @@ Users may not always plan to buy products online that they are browsing and rese
 <div class="example">
 
 **クエリ：**<span class="query">twist of fate ring pandora</span>  
-**ユーザーの所在地：**<!-- -->Philadelphia, Pennsylvania  
-**ユーザーの意図：**<!-- -->The user is looking for a specific ring sold by the Pandora brand and likely wants to research the ring, see what it looks like, find options to browse or purchase, etc.
+**ユーザーの所在地：**<!-- -->ペンシルベニア州フィラデルフィア  
+**ユーザーの意図：**<!-- -->ユーザーは、Pandoraブランドで販売されている特定の指輪を探しており、指輪を調べたり、外観を確認したり、閲覧または購入するオプションを見つけたりしたいと考えています。
 
 <div class="results">
 <div class="result">
@@ -92,7 +85,7 @@ Users may not always plan to buy products online that they are browsing and rese
 ![](../images/img789.jpg)  
 ![needs met scale - highly meets](../images/hm.jpg)
 
-This result has a variety of images of the ring, showing different angles and materials. Knowing what the ring looks like is very helpful to users who are researching the product and browsing options that are available.
+この結果には、さまざまな角度と素材を示すさまざまなリングの画像が含まれています。 リングがどのように見えるかを知ることは、製品を研究し、利用可能なオプションを閲覧しているユーザーにとって非常に役立ちます。
 
 </div>
 </div>

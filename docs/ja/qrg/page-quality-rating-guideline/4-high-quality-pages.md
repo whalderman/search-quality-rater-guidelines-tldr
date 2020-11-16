@@ -6,13 +6,6 @@ meta:
 canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
-<div class="note">
-
-**注**：このページの翻訳はまだ完了していません。  
-　　翻訳を手伝いたい場合は、ページの下部のリンクを使用できます。
-
-</div>
-
 # 高品質なページ
 
 このセクションでは、価値の高い**高**品質なページの特徴について、多くの例を挙げながら述べる。具体例は評価を決定するのに役立つため、それぞれ吟味すること。
@@ -59,7 +52,7 @@ YMYLでないWebサイトの場合、必要な「Webサイトに関する情報�
 
 ## 良い評判
 
-**High**評価を適用し、E‑A‑Tが高いことを示すためには、評判も重要です。評判が全く無くても**High**評価を適用することはできますが、「信頼に値する悪い評判」があるWebサイトには**High**評価を適用できません。Remember that when doing research, make sure to consider the reasons behind a negative rating and not just the rating itself.
+**High**評価を適用し、E‑A‑Tが高いことを示すためには、評判も重要です。評判が全く無くても**High**評価を適用することはできますが、「信頼に値する悪い評判」があるWebサイトには**High**評価を適用できません。調査を行うときは、格付け自体だけでなく、否定的な格付けの背後にある理由を必ず考慮してください。
 
 ## 高レベルな専門性／権威性／信頼性（E‑A‑T）
 
@@ -94,7 +87,7 @@ PQ評価と説明
 
 ![high narrow quality][h-n]
 
-This is the homepage of a newspaper that has won several Pulitzer Prizes and Overseas Press Club awards. This newspaper has a positive reputation for its objective reporting.
+これは、いくつかのピューリッツァー賞と海外記者クラブ賞を受賞した新聞のホームページです。 この新聞は、その客観的な報道で高い評価を得ています。
 
 </div>
 </div>
@@ -120,7 +113,7 @@ This is the homepage of a newspaper that has won several Pulitzer Prizes and Ove
 
 ![high narrow quality][h-n]
 
-This is an article on a newspaper website that has won many Pulitzer Prize awards and has a positive reputation for its investigative journalism. There is a satisfying amount of high quality MC. While there are Ads on the page, the MC is easy to find and the Ads are clearly labeled as Ads.
+これは、多くのピューリッツァー賞を受賞し、調査報道で高い評価を得ている新聞のWebサイトの記事です。 満足のいく高品質のMCがあります。 ページに広告がありますが、MCは簡単に見つけられ、広告には広告として明確にラベルが付けられています。
 
 </div>
 </div>
@@ -272,7 +265,7 @@ This is an article on a newspaper website that has won many Pulitzer Prize award
 
 ![high narrow quality][h-n]
 
-This is a blog post on a newspaper that has won a variety of awards, such as the Pulitzer Prize, George Polk Award, Peabody Award, etc. The author of this blog post has become known as an expert on parenting issues. She is a regular contributor to this and other media websites.
+これは、ピューリッツァー賞、ジョージポルク賞、ピーボディ賞など、さまざまな賞を受賞した新聞のブログ投稿です。このブログ投稿の著者は、親の問題の専門家として知られるようになりました。 彼女はこのメディアや他のメディアのウェブサイトに定期的に寄稿しています。
 
 </div>
 </div>

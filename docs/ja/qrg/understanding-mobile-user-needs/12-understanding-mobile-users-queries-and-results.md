@@ -95,7 +95,7 @@ canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com
 
 全てのクエリには、必ず評価タスク用のロケール（言語と地域）が表示されています。クエリやユーザーの意図を理解するためには、ロケールが重要です。ユーザーの所在地が違うと、同じクエリであっても意味合いが異なることがあります。評価タスクにはユーザーの所在地情報が表示されます。「大体このあたり」というエリアで表示されることもあれば、具体的な場所が表示されることもあります。
 
-> Note: Examples in the following sections will include a User Location in the form of a city and state. Note that in the actual rating tasks, you will need to infer the User Location based on the map that is provided, as discussed in [Understanding the User Location on the Task Page](/appendix-using-the-evaluation-platform/understanding-the-user-location-on-the-task-page).
+> 注：次のセクションの例には、都市と州の形式のユーザーの場所が含まれます。 実際の評価タスクでは、[タスクページのユーザーの場所について](../appendix-using-the-evaluation-platform/28-understanding-the-user-location-on-the-task-page.html)で説明されているように、提供されたマップに基づいてユーザーの場所を推測する必要があることに注意してください。.
 
 ![UK and US football](../images/img206.jpg)
 
@@ -837,7 +837,7 @@ Web検索のRBを構成するものとして、「タイトル付きリンク」
   - 「モバイルページを開くか、デスクトップページを開くか」を選択するメッセージ：両者のLPが同じ場合、モバイルページから開く。一部、バイルページを開くと選択したURLのLPではなくモバイルサイトのトップページに転送されることがある。モバイルページのURLがデスクトップページと同じURLか確認を行う。
 - PDFファイルは開いて確認する。利用している端末によって、PDFが開きにくいものもあるが、必ず確認する。
 - 評価タスクをデスクトップで行うように指示されても、特記されていない限りはモバイルユーザー視点で評価を行う。
-- You should assume queries were issued on a smartphone unless otherwise stated in the task or project-specific instructions.
+- タスクまたはプロジェクト固有の手順で特に明記されていない限り、クエリはスマートフォンで発行されたと想定する必要があります。
 
 <div class="source">
 © 2020 Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)

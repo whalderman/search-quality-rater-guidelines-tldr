@@ -6,13 +6,6 @@ meta:
 canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
-<div class="note">
-
-**注**：このページの翻訳はまだ完了していません。  
-　　翻訳を手伝いたい場合は、ページの下部のリンクを使用できます。
-
-</div>
-
 # 「ポルノ」「外国語」「読み込めない」「使いにくい」検索結果
 
 「**ポルノ**」「**外国語**」「**読み込めない**」「**使いにくい**」のいずれかに該当する検索結果には、フラグを立ててください。Some rating tasks may ask you to identify **Not‑for‑Everyone** results. フラグはクエリに依存しません。つまり、フラグはクエリに関係なく立てるようにしてください。下記がフラグのスクリーンショットです。
@@ -407,7 +400,7 @@ LP上にカスタマイズされた「結果が見つかりません」という
 
 たとえ検索結果がユーザーの意図に沿うものであったとしても、ロケール内のユーザーの考え方を考慮し、動揺させたり不快にさせたりするコンテンツを含む全てのWeb結果に**Upsetting-­Offensive**フラグを割り当てる。
 
-In addition, some rating tasks may ask you to identify **Not‑for‑Everyone** results in order to flag content that you feel may be uncomfortable for some users.
+さらに、一部の評価タスクでは、一部のユーザーにとって不快と思われるコンテンツにフラグを立てるために、**Not‑for‑Everyone**の結果を特定するように求められる場合があります。
 
 ### Upsetting-­Offensiveフラグの使用
 
@@ -415,7 +408,7 @@ In addition, some rating tasks may ask you to identify **Not‑for‑Everyone** 
 
 動揺させるまたは不快にさせるコンテンツは一般的に以下のものを含む：
 
-- Content that promotes hate or violence against a group of people, including but not limited to those grouped on the basis of race or ethnic origin, religion, disability, age, nationality, veteran status, sexual orientation, gender or gender identity.
+- 人種または民族、宗教、障害、年齢、国籍、ベテランステータス、性的指向、性別または性同一性に基づいてグループ化された人々を含むがこれらに限定されない、人々のグループに対する憎悪または暴力を助長するコンテンツ。
 - 人種差別や極めて不快な用語を含むコンテンツ
 - 動物虐待や児童虐待を含む生々しい暴力
 - 有害な活動に関する明示的なハウツー情報（人身売買や暴行に関するハウツーなど）

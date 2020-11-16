@@ -6,18 +6,11 @@ meta:
 canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
-<div class="note">
-
-**注**：このページの翻訳はまだ完了していません。  
-　　翻訳を手伝いたい場合は、ページの下部のリンクを使用できます。
-
-</div>
-
 # 非英語ロケールでの英語の結果の評価
 
 <span style="color: red">**以下の評価ガイダンスは非英語ロケールでの評価者のためのものである。もしあなたの仕事の言語が英語（アメリカやインド、ニュージーランド）であれば、このセクションを読むことをやめてもよい。**</span>
 
-あなたのロケールでNM評価が有益な結果をもたらすことを示すべきであるのはユーザーのためである。クエリがあなたのロケールの言語である時、ユーザーはその言語の結果が欲しいと推測できる。You should only give high Needs Met ratings to English results if users in your locale would expect or want them for a particular query. Unless requested by the query, English results should be considered useless if most users in the locale can't read them.
+あなたのロケールでNM評価が有益な結果をもたらすことを示すべきであるのはユーザーのためである。クエリがあなたのロケールの言語である時、ユーザーはその言語の結果が欲しいと推測できる。あなたのロケールのユーザーが特定のクエリに対してそれらを期待または望んでいる場合にのみ、英語の結果に高い**NeedsMet**評価を与える必要があります。 クエリで要求されない限り、そのロケールのほとんどのユーザーが英語の結果を読むことができない場合、英語の結果は役に立たないと見なされます。
 
 しかしながら、クエリが英語の名前や言葉を含む時や英語の結果が特定のクエリに対して十分かどうかが不明瞭な時は評価がより難しくなる。あなたのロケールで適切な評価を判断するためにあなたの意見や知識を使うべきである。
 

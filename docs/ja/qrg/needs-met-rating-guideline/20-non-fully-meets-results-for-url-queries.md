@@ -6,13 +6,6 @@ meta:
 canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
-<div class="note">
-
-**注**：このページの翻訳はまだ完了していません。  
-　　翻訳を手伝いたい場合は、ページの下部のリンクを使用できます。
-
-</div>
-
 # URLクエリに対する、Fully Meets評価以外の検索結果
 
 評価者は時々、「クエリが正常に読み込めるURLであるならば、評価は**Fully Meets**であるか、**Fails to Meet**になるのではないか？」と尋ねるがそれはNoだ。URLクエリでも、他の評価に当てはまる役に立つ検索結果はある。
@@ -26,7 +19,7 @@ canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com
 
 **クエリ：**<span class="query">potterybarn.com</span>  
 **ユーザーの所在地：**<!-- -->カリフォルニア州パロアルト  
-**ユーザーの意図：**<!-- -->Pottery Barn is a home furnishing store. Users may want to go to the website, do research, or find more information on the company.
+**ユーザーの意図：**<!-- -->PotteryBarnは家具店です。ユーザーがWebサイトにアクセスしたり、調査を行ったり、会社に関する詳細情報を見つけたい
 
 <div class="results">
 <div class="result">
@@ -35,7 +28,7 @@ canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com
 ![needs met scale - fully meets](../images/fullym.jpg)  
 ![page quality scale - high - wide range](../images/high-wide.jpg)
 
-This LP is the target of the query.
+このLPがクエリのターゲットです。
 
 </div>
 <div class="result">
@@ -44,7 +37,7 @@ This LP is the target of the query.
 ![needs met scale - moderately meets+ - narrow range](../images/mm+narrow.jpg)  
 ![page quality scale - medium- wide range](../images/medium-wide.jpg)
 
-Online coupon codes are very popular in the U.S. and this LP (from a well-known coupon site) displays codes for online purchases on the Pottery Barn website. Users may be interested in coupon codes and this would be very helpful for those shopping online at potterybarn.com, especially frequent shoppers.
+オンラインクーポンコードは米国で非常に人気があり、このLP（有名なクーポンサイトから）は、PotteryBarnのWebサイトでオンライン購入のコードを表示します。 ユーザーはクーポンコードに興味があるかもしれません、そしてこれはpotterybarn.comでオンラインで買い物をする人々、特に頻繁な買い物客にとって非常に役に立ちます。
 
 </div>
 <div class="result">
@@ -53,7 +46,7 @@ Online coupon codes are very popular in the U.S. and this LP (from a well-known 
 ![needs met scale - moderately meets+ - narrow range](../images/mm+narrow.jpg)  
 ![page quality scale - medium- wide range](../images/medium-wide.jpg)
 
-This LP (from a well-known review site) has reviews of the potterybarn.com website. Users may be interested in reading reviews when considering whether to make purchases at potterybarn.com, especially new shoppers.
+このLP（有名なレビューサイトから）には、potterybarn.com Webサイトのレビューがあります。 ユーザー、特に新しい買い物客は、potterybarn.comで購入するかどうかを検討するときにレビューを読むことに興味があるかもしれません。
 
 </div>
 </div>

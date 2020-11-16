@@ -6,13 +6,6 @@ meta:
 canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
-<div class="note">
-
-**注**：このページの翻訳はまだ完了していません。  
-　　翻訳を手伝いたい場合は、ページの下部のリンクを使用できます。
-
-</div>
-
 # 低品質なページ
 
 **低**品質なページは何らかの要素が欠落あるいは不足しており、そのためにページの目的を達成しにくくなっています。ページの目的に対して、専門性の欠如や信頼性・権威性の不足が見られます。

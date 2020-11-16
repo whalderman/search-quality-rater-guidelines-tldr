@@ -91,7 +91,7 @@ All queries have a task language and task location (referred to in rating tasks 
 
 <div class="note">
 
-Note: Examples in the following sections will include a User Location in the form of a city and state. Note that in the actual rating tasks, you will need to infer the User Location based on the map that is provided, as discussed in [Understanding the User Location on the Task Page](/appendix-using-the-evaluation-platform/understanding-the-user-location-on-the-task-page).
+Note: Examples in the following sections will include a User Location in the form of a city and state. Note that in the actual rating tasks, you will need to infer the User Location based on the map that is provided, as discussed in [Understanding the User Location on the Task Page](../appendix-using-the-evaluation-platform/28-understanding-the-user-location-on-the-task-page).
 
 </div>
 

@@ -29,7 +29,7 @@ canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com
 
 一般的に、タスクをリリースした理由を最もよく記述しているオプションを選択すべきである。不明な点がある場合は、最も近いオプションを選択するか、詳細については雇用主や会社に問い合わせる。
 
-Please leave a comment explaining the release when it makes sense to provide additional information, for example, when you are releasing for a "technical problem."
+追加情報を提供する意味がある場合は、リリースを説明するコメントを残してください。たとえば、「技術的な問題」のためにリリースする場合です。
 
 ここにリリースオプションの欠落したノウハウと技術的な問題の例がある。
 

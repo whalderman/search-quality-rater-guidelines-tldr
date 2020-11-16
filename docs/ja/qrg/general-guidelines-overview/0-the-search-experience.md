@@ -8,17 +8,17 @@ canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com
 
 # 序章　検索品質評価の概要
 
-The World Wide Web is a vast collection of online information and content. Internet search engines provide a powerful way to explore this online universe. There are many ways people search: people may type words into a search box in a browser, speak to a mobile phone or assistant device, use search engine autocomplete features, etc.
+ワールドワイドウェブは、オンライン情報とコンテンツの膨大なコレクションです。インターネット検索エンジンは、このオンラインの世界を探索するための強力な方法を提供します。ユーザーが検索する方法はたくさんあります。ユーザーはブラウザの検索ボックスに単語を入力したり、携帯電話やアシスタントデバイスに話しかけたり、検索エンジンのオートコンプリート機能を使用したりできます。
 
-People search the Internet for a variety of purposes, ranging from accomplishing a quick task to researching a topic in depth. A search may be part of a long-term project, such as a home remodel or vacation planning. A search may be done when someone is bored and looking for entertainment, such as a search for [funny videos]. A search may be a single question asked during a critical moment of a person's life, such as [what are the symptoms of a heart attack?].
+人々は、迅速なタスクの実行からトピックの詳細な調査まで、さまざまな目的でインターネットを検索します。検索は、住宅のリフォームや休暇の計画など、長期的なプロジェクトの一部である可能性があります。検索は、誰かが退屈していて、[面白い動画]の検索などの娯楽を探しているときに実行される場合があります。検索は、[心臓発作の症状は何ですか？]など、人の人生の重要な瞬間に尋ねられる単一の質問である可能性があります。
 
-Search engines exist to help people find what they are looking for. To do that, search engines must provide a diverse set of helpful, high quality search results, presented in the most helpful order.
+検索エンジンは、人々が探しているものを見つけるのを助けるために存在します。そのためには、検索エンジンは、最も役立つ順序で表示される、役立つ高品質の検索結果の多様なセットを提供する必要があります。
 
-Different types of searches need very different types of search results. Medical search results should be high quality, authoritative, and trustworthy. Search results for "cute baby animal pictures" should be adorable. Search results for a specific website or webpage should have that desired result at the top. Searches that have many possible meanings or involve many perspectives need a diverse set of results that reflect the natural diversity of meanings and points of view.
+さまざまな種類の検索には、非常にさまざまな種類の検索結果が必要です。医療検索結果は、高品質で信頼性が高く、信頼できるものでなければなりません。 「かわいい動物の赤ちゃんの写真」の検索結果は愛らしいはずです。特定のWebサイトまたはWebページの検索結果では、目的の結果が上部に表示されます。多くの可能な意味を持っているか、多くの視点を含む検索には、意味と視点の自然な多様性を反映する多様な結果のセットが必要です。
 
-People all over the world use search engines; therefore, diversity in search results is essential to satisfy the diversity of people who use search. For example, searches about groups of people should return helpful results that represent a diversity of demographic backgrounds and cultures.
+世界中の人々が検索エンジンを使用しています。したがって、検索結果の多様性は、検索を使用する人々の多様性を満たすために不可欠です。たとえば、人々のグループに関する検索では、人口統計学的背景や文化の多様性を表す有益な結果が返されるはずです。
 
-Finally, search results should help people. Search results should provide authoritative and trustworthy information, not lead people astray with misleading content. Search results should allow people to find what they're looking for, not surprise people with unpleasant, upsetting, offensive, or disturbing content. Harmful, hateful, violent, or sexually explicit search results are only appropriate if the person phrased their search in a way that makes it clear that they are looking for this type of content, **_and_** there is no other reasonable interpretation of the words used in their search.
+最後に、検索結果は人々を助けるはずです。検索結果は、誤解を招くコンテンツで人々を惑わせないように、信頼できる信頼できる情報を提供する必要があります。検索結果は、不快、動揺、不快、または不快なコンテンツで人々を驚かせるのではなく、探しているものを見つけることができるようにする必要があります。有害、憎悪、暴力、または性的に露骨な検索結果は、その人がこのタイプのコンテンツを探していることを明確にする方法で検索を表現した場合、**および**クエリの他の合理的な解釈がない場合にのみ適切です。
 
 ## 検索品質評価の目的
 
@@ -30,7 +30,7 @@ Finally, search results should help people. Search results should provide author
 
 あなたの評価ロケールのユーザーを代表するということは重要。評価タスクの言語・地域を理解しなければならない。知識が無いときはベンダーに連絡する。
 
-Unless your rating task indicates otherwise, your ratings should be based on the instructions and examples given in these guidelines. Ratings should not be based on your personal opinions, preferences, religious beliefs, or political views. Always use your best judgment and represent the cultural standards and norms of your rating locale.
+評価タスクで特に明記されていない限り、評価はこれらのガイドラインに記載されている手順と例に基づいて行う必要があります。 評価は、個人的な意見、好み、宗教的信念、または政治的見解に基づくべきではありません。 常に最善の判断を下し、評価地域の文化的基準と規範を代表してください。
 
 ## ブラウザの設定
 

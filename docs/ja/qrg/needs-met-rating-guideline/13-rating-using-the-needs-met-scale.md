@@ -6,13 +6,6 @@ meta:
 canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
-<div class="note">
-
-**注**：このページの翻訳はまだ完了していません。  
-　　翻訳を手伝いたい場合は、ページの下部のリンクを使用できます。
-
-</div>
-
 # Needs Metスケールを使用した品質評価
 
 クエリや検索結果はユーザーによって変わるが、品質評価方法は変わらない。**ページがユーザーの意図をどれだけ満たしているか、モバイルユーザーを中心として「Needs Met評価タスク」で考えていく。**
@@ -195,7 +188,7 @@ RB評価対象の例「loveの意味とは」
 
 - ユーザーが特定のページ・Webサイトを探していて、RB（リザルトブロック）がそのページ・Webサイトである
 - ユーザーがデバイスを操作しようとしていて、RBでは望み通りの操作ができる
-- ユーザーが特定の事実・情報を求めており、RBが「即座に」「完璧に」「明白に」その情報を提示しているため、他の結果を見せる必要がない。Before using the **Fully Meets** rating for queries seeking a very specific fact or piece of information, you must check for accuracy and confirm that the information is supported by expert consensus where such consensus exists.
+- ユーザーが特定の事実・情報を求めており、RBが「即座に」「完璧に」「明白に」その情報を提示しているため、他の結果を見せる必要がない。非常に具体的な事実または情報を求めるクエリに**Fully Meets**レーティングを使用する前に、正確性を確認し、そのようなコンセンサスが存在する専門家のコンセンサスによって情報がサポートされていることを確認する必要があります。
 
 ここで取り上げた3つ以外にも適用されるパターンがある。「このRBは大半のユーザーを完全に満足させることのできる、完璧な答えか？」**Fully Meets**の利用には、慎重になりましょう。決断に迷った場合は低い方の評価を下す。
 
@@ -772,7 +765,7 @@ RBには特定の場所から数マイル以内の人気のあるコーヒーシ
 
 **クエリ：**<span class="query">metro center station</span>  
 **ユーザーの所在地：**<!-- -->ワシントンDCアダムスモーガン  
-**ユーザーの意図：**<!-- -->The user wants to see a map, schedule, transfer options, and/or other train information for the Metro Center station, given that the user is close to the queried station
+**ユーザーの意図：**<!-- -->ユーザーは、照会された駅の近くにいる場合、メトロセンター駅の地図、スケジュール、乗り換えオプション、および/またはその他の列車情報を見たいと考えています
 
 <div class="results">
 <div class="result">
@@ -781,9 +774,9 @@ RBには特定の場所から数マイル以内の人気のあるコーヒーシ
 
 ![rating: highly meets+ narrow](../images/hm+narrow.jpg)
 
-This block contains a map, link to get directions, departure times for the multiple train lines that operate at this station, link to a detailed schedule (i.e., the "Departure board"), and an option to see more information.  
-Since the user is located in the same city as the station, the information in this block is highly satisfying.  
-**注：**<!-- -->A range is included because some users would be fully satisfied with this result, while some users may want more information (e.g., nearby attractions, ticket prices).
+このブロックには、地図、道順を取得するためのリンク、この駅で運行されている複数の列車の出発時刻、詳細なスケジュールへのリンク（つまり、「出発ボード」）、および詳細情報を表示するオプションが含まれています。  
+ユーザーは駅と同じ都市にいるので、このブロックの情報は非常に満足のいくものです。  
+**注：**<!-- -->一部のユーザーはこの結果に完全に満足する一方で、一部のユーザーはより多くの情報（近くのアトラクション、チケット価格など）が必要になる可能性があるため、範囲が含まれています。
 
 </div>
 </div>
@@ -808,9 +801,9 @@ Since the user is located in the same city as the station, the information in th
 
 ## Highly Meets評価（HM）
 
-**Highly Meets（HM）** 評価は、多数あるいは大半のユーザーにとって役立つ検索結果に適用されます。**HM**評価の検索結果は満足度が高く、クエリにもうまく合致しています。In addition, they often have some or all of the following characteristics: high quality, authoritative, entertaining, and/or recent (e.g., breaking news on a topic).
+**Highly Meets（HM）** 評価は、多数あるいは大半のユーザーにとって役立つ検索結果に適用されます。**HM**評価の検索結果は満足度が高く、クエリにもうまく合致しています。さらに、それらは多くの場合、次の特性の一部またはすべてを持っています：高品質、権威、娯楽、および/または最近（たとえば、トピックに関する最新ニュース）。
 
-In order to receive a **Highly Meets** rating, information pages such as encyclopedia articles and news articles must be accurate and highly credible. **Highly Meets** medical and scientific information pages must represent well-established scientific/medical consensus unless the user is clearly seeking an alternative viewpoint. For all information pages, you must check for accuracy and confirm that the information is supported by expert consensus where such consensus exists.
+**HM**の評価を受けるには、百科事典の記事やニュース記事などの情報ページが正確で信頼性が高い必要があります。**HM**の医療および科学情報ページは、ユーザーが別の視点を明確に求めていない限り、確立された科学的/医学的コンセンサスを表す必要があります。 すべての情報ページについて、正確性を確認し、そのようなコンセンサスが存在する場合、情報が専門家のコンセンサスによってサポートされていることを確認する必要があります。
 
 1つのクエリに対して、**複数の検索結果がHM評価を受けられる**ことがあります。
 
@@ -1014,7 +1007,7 @@ RBは公式Webサイトであり、在庫、収支情報等についての非常
 
 **クエリ：**<span class="query">fear the walking dead</span>  
 **ユーザーの所在地：**<!-- -->カリフォルニア州マウンテンビュー  
-**ユーザーの意図：**<!-- -->Find information about the TV show (e.g., show summary, episode guide, cast information, streaming options, etc.).
+**ユーザーの意図：**<!-- -->テレビ番組に関する情報（番組の概要、エピソードガイド、キャスト情報、ストリーミングオプションなど）を検索したい
 
 <div class="results">
 <div class="result">
@@ -1023,8 +1016,8 @@ RBは公式Webサイトであり、在庫、収支情報等についての非常
 
 ![highly meets](../images/hm.jpg)
 
-The user intent is too broad to have a Fully Meets result, and different users may be looking for different things.  
-This interactive block has a large amount of helpful content for a TV show including a summary, episode and cast information, etc.—this result would be very helpful for many or most users.
+ユーザーの意図が広すぎて完全に一致する結果を得ることができず、さまざまなユーザーがさまざまなものを探している可能性があります。  
+このインタラクティブブロックには、要約、エピソード、キャスト情報など、テレビ番組に役立つコンテンツが大量に含まれています。この結果は、多くのユーザーまたはほとんどのユーザーにとって非常に役立ちます。
 
 </div>
 </div>
@@ -1160,7 +1153,7 @@ RBもその一つであり、過去10年間のダンススタイルを披露す�
 
 **クエリ：**<span class="query">trestle bridge</span>  
 **ユーザーの所在地：**<!-- -->コロラド州コロラドスプリングス  
-**ユーザーの意図：**<!-- -->The user wants to understand what a trestle bridge is or learn more information about them (e.g., what it looks like, how they are built, types of materials, well-known examples, etc.).
+**ユーザーの意図：**<!-- -->ユーザーは、架台橋とは何かを理解したり、架台橋についての詳細情報（たとえば、どのように見えるか、どのように構築されているか、材料の種類、よく知られた例など）を知りたいと考えています。
 
 <div class="results">
 <div class="result">
@@ -1169,7 +1162,7 @@ RBもその一つであり、過去10年間のダンススタイルを披露す�
 
 ![highly meets](../images/hm.jpg)
 
-Seeing images of trestle bridges is very helpful in understanding this type of bridge. In this case, "a picture is worth a thousand words," meaning that a picture may be more helpful than a text description due to the unique design of the bridge.
+トレッスル橋の画像を見ると、このタイプの橋を理解するのに非常に役立ちます。 この場合、「絵は千の言葉に値する」ということは、橋のユニークなデザインのために、絵がテキストの説明よりも役立つかもしれないことを意味します。
 
 </div>
 </div>
@@ -1232,7 +1225,7 @@ RBは概要が分かりやすく解説されているが、一部のユーザー
 
 **クエリ：**<span class="query">how to get from seattle to xpppzyfii</span>  
 **ユーザーの所在地：**<!-- -->ワシントン州シアトル  
-**ユーザーの意図：**<!-- -->Get directions from Seattle to another place. Note that the location in the query ("xpppzyfii") is garbled and it is impossible to know what the user wanted. (The name was likely mistyped or mistranscribed from a voice query.)
+**ユーザーの意図：**<!-- -->シアトルから別の場所への道順を取得します。 クエリ内の場所**xpppzyfii**文字化けしており、ユーザーが何を望んでいるかを知ることができないことに注意してください。 （名前は、音声クエリから入力ミスまたは転記された可能性があります。）
 
 <div class="results">
 <div class="result">
@@ -1241,8 +1234,8 @@ RBは概要が分かりやすく解説されているが、一部のユーザー
 
 ![highly meets](../images/hm.jpg)
 
-Even though the user has to re-enter the destination, the RB recognizes that the user was asking for directions from Seattle. The user has to enter the destination manually because the name in the query ("xpppzyfii") is so garbled that there is no good guess as to what the user meant.  
-Therefore, this block is satisfying because it helps the user correct the request and then immediately get the desired directions.
+ユーザーが目的地を再入力する必要がある場合でも、RBは、ユーザーがシアトルからの道順を求めていたことを認識します。 クエリ内の名前**xpppzyfii**が文字化けしているため、ユーザーが何を意味しているかを正確に推測できないため、ユーザーは宛先を手動で入力する必要があります。  
+したがって、このブロックは、ユーザーが要求を修正し、すぐに目的の方向を取得するのに役立つため、満足のいくものです。
 
 </div>
 </div>
@@ -1269,7 +1262,7 @@ LPはKristen Wiigのファンサイト。このWebサイトには50,000点以上
 
 **クエリ：**<span class="query">greek alphabet</span>  
 **ユーザーの所在地：**<!-- -->ニューヨーク州アルバニー  
-**ユーザーの意図：**<!-- -->Find historical information about the Greek alphabet, the names of the letters in the Greek alphabet, images of the letters, etc.
+**ユーザーの意図：**<!-- -->ギリシャ語のアルファベット、ギリシャ語のアルファベットの文字の名前、文字の画像などに関する履歴情報を検索したい
 
 <div class="results">
 <div class="result">
@@ -1278,8 +1271,8 @@ LPはKristen Wiigのファンサイト。このWebサイトには50,000点以上
 
 ![moderately meets+ narrow](../images/mm+narrow.jpg)
 
-This is a broad query. Different users may be looking for different things.  
-This result shows multiple tables of images with the letters in the Greek alphabet. This result would be helpful for many users. Some users may wish to see additional results.
+これは幅広いクエリです。 さまざまなユーザーがさまざまなものを探している可能性があります。  
+この結果は、ギリシャ語のアルファベットの文字を含む複数の画像テーブルを示しています。 この結果は、多くのユーザーに役立ちます。 一部のユーザーは、追加の結果を見たいと思うかもしれません。
 
 </div>
 </div>
@@ -1326,7 +1319,7 @@ RBには地図・天気・名所等の様々な有益な情報が掲載されて
 
 **クエリ：**<span class="query">emily blunt</span>  
 **ユーザーの所在地：**<!-- -->オレゴン州ポートランド  
-**ユーザーの意図：**<!-- -->Find biographical information(e.g., filmography) or current news/celebrity gossip about Emily Blunt.
+**ユーザーの意図：**<!-- -->エミリーブラントに関する伝記情報（フィルモグラフィーなど）または現在のニュース/有名人のゴシップを検索したい
 
 <div class="results">
 <div class="result">
@@ -1336,7 +1329,7 @@ RBには地図・天気・名所等の様々な有益な情報が掲載されて
 ![moderately meets+ narrow](../images/mm+narrow.jpg)
 
 このクエリはこの女優についての意図の広いクエリ。ユーザーによって必要とする情報は異なる可能性がある。  
-The result contains a variety of helpful information such as images, brief biography, recent movies, and an option to see more. Moderately Meets+ to Highly Meets is an appropriate rating for this result.
+結果には、画像、簡単な伝記、最近の映画、詳細を表示するオプションなど、さまざまな役立つ情報が含まれています。**Moderately Meets+**から**Highly Meets**は、この結果の適切な評価です。
 
 </div>
 </div>
@@ -1345,7 +1338,7 @@ The result contains a variety of helpful information such as images, brief biogr
 
 **クエリ：**<span class="query">coldplay yellow lyrics</span>  
 **ユーザーの所在地：**<!-- -->モンタナ州ビリングズ  
-**ユーザーの意図：**<!-- -->Find the lyrics to the song "Yellow", which was written by the band Coldplay
+**ユーザーの意図：**<!-- -->バンドColdplayによって書かれた曲「Yellow」の歌詞を見つけたい
 
 <div class="results">
 <div class="result">
@@ -1354,7 +1347,7 @@ The result contains a variety of helpful information such as images, brief biogr
 
 ![moderately meets+ narrow](../images/mm+narrow.jpg)
 
-This page provides the requested lyrics on Coldplay's official website. Users can also navigate around the site to listen to the song, explore all albums the song appears on, listen to or view lyrics for other songs on the same album, or learn more about the artist overall.  
+このページは、コールドプレイの公式ウェブサイトでリクエストされた歌詞を提供します。 ユーザーは、サイト内を移動して曲を聴いたり、曲が表示されているすべてのアルバムを調べたり、同じアルバムの他の曲の歌詞を聴いたり表示したり、アーティスト全体について詳しく知ることもできます。  
 Additionally, users can trust that the lyrics on the LP are 100% accurate due to the uniquely authoritative nature of the source, which makes this result very helpful for many or most users.
 
 </div>
@@ -1364,7 +1357,7 @@ Additionally, users can trust that the lyrics on the LP are 100% accurate due to
 
 **クエリ：**<span class="query">1969 moon landing</span>  
 **ユーザーの所在地：**<!-- -->コネチカット州ニューヘイブン  
-**ユーザーの意図：**<!-- -->Find accurate and authoritative information about this historical event
+**ユーザーの意図：**<!-- -->この歴史的な出来事についての正確で信頼できる情報を見つけたい
 
 <div class="results">
 <div class="result">
@@ -1373,7 +1366,7 @@ Additionally, users can trust that the lyrics on the LP are 100% accurate due to
 
 ![highly meets](../images/hm.jpg)
 
-The LP for this web result contains authoritative information about the Apollo 11 moon landing on the official website of NASA, which was the organization that oversaw this mission in 1969. The MC has a lot of helpful information and content, including a detailed summary, video footage, and images of the moon landing that users can view and explore. This result would be very helpful for many or most users.
+このウェブ結果のLPには、1969年にこのミッションを監督した組織であるNASAの公式ウェブサイトに着陸したアポロ11号に関する信頼できる情報が含まれています。MCには、詳細な要約、ビデオなど、役立つ情報とコンテンツがたくさんあります。ユーザーが表示および探索できる月面着陸の映像と画像。 この結果は、多くのユーザーまたはほとんどのユーザーにとって非常に役立ちます。
 
 </div>
 </div>
@@ -1382,7 +1375,7 @@ The LP for this web result contains authoritative information about the Apollo 1
 
 **クエリ：**<span class="query">stem education</span>  
 **ユーザーの所在地：**<!-- -->テネシー州メンフィス  
-**ユーザーの意図：**<!-- -->Find information or recent news about education in STEM fields (i.e., Science, Technology, Engineering, and Mathematics).
+**ユーザーの意図：**<!-- -->STEM分野（科学、技術、工学、数学など）の教育に関する情報や最近のニュースを検索したい
 
 <div class="results">
 <div class="result">
@@ -1391,8 +1384,8 @@ The LP for this web result contains authoritative information about the Apollo 1
 
 ![highly meets](../images/hm.jpg)
 
-This is an informational query on a fairly broad topic. Different users may be looking for different things, yet accuracy and credibility of the source are important.  
-This LP is a news article published on a reputable news website. The MC of the article covers recent efforts to reform STEM education in the U.S., and it includes citations from expert sources. This result would be helpful for many or most users.
+これは、かなり幅広いトピックに関する情報クエリです。 さまざまなユーザーがさまざまなものを探している可能性がありますが、ソースの正確性と信頼性は重要です。  
+このLPは、評判の良いニュースWebサイトで公開されているニュース記事です。 この記事のMCは、米国におけるSTEM教育を改革するための最近の取り組みをカバーしており、専門家からの引用が含まれています。 この結果は、多くのユーザーまたはほとんどのユーザーに役立ちます。
 
 </div>
 </div>
@@ -1401,7 +1394,7 @@ This LP is a news article published on a reputable news website. The MC of the a
 
 **クエリ：**<span class="query">mentos and coke death</span>  
 **ユーザーの所在地：**<!-- -->ネバダ州ラスベガス  
-**ユーザーの意図：**<!-- -->Find accurate information about a rumor that a mixture of Mentos and Coca-Cola can cause death, which was spread on the Internet in 2006.
+**ユーザーの意図：**<!-- -->2006年にインターネット上で広まったメントスとコカコーラの混合物が死を引き起こす可能性があるという噂についての正確な情報を見つけたい
 
 <div class="results">
 <div class="result">
@@ -1410,7 +1403,7 @@ This LP is a news article published on a reputable news website. The MC of the a
 
 ![highly meets](../images/hm.jpg)
 
-This LP is on a well-known fact-checking and debunking website. The page calls this story "False", then provides a credible explanation of how the authors came to that conclusion, including history of similar urban legends. This result would be very helpful for users seeking to verify the credibility of this rumor.
+このLPは、有名なファクトチェックおよびデバンキングのWebサイトにあります。 このページはこの物語を「偽」と呼び、同様の都市伝説の歴史を含め、著者がどのようにしてその結論に達したのかについての信頼できる説明を提供します。 この結果は、この噂の信頼性を検証しようとしているユーザーにとって非常に役立ちます。
 
 </div>
 </div>
@@ -1419,7 +1412,7 @@ This LP is on a well-known fact-checking and debunking website. The page calls t
 
 **クエリ：**<span class="query">pj fleck</span>  
 **ユーザーの所在地：**<!-- -->ミネソタ州ミネアポリス  
-**ユーザーの意図：**<!-- -->Find information or recent news about P.J. Fleck, who had just become the new head football coach at the University of Minnesota a few days before this example was written
+**ユーザーの意図：**<!-- -->この例が書かれる数日前にミネソタ大学の新しいヘッドコーチになったばかりのP.J.フレックに関する情報や最近のニュースを見つけたい
 
 <div class="results">
 <div class="result">
@@ -1428,7 +1421,7 @@ This LP is on a well-known fact-checking and debunking website. The page calls t
 
 ![moderately meets+ narrow](../images/mm+narrow.jpg)
 
-This LP is an opinion piece written by the Editorial Board of the largest newspaper in the U.S. state of Minnesota. The MC of the article expresses well-informed opinions about Fleck's upcoming tenure as head coach, and it would likely be of interest to many or most users when this query was issued.
+このLPは、米国ミネソタ州最大の新聞の編集委員会によって書かれた意見記事です。記事のMCは、ヘッドコーチとしてのフレックの今後の在職期間について十分な情報に基づいた意見を表明しており、このクエリが発行されたとき、多くのユーザーまたはほとんどのユーザーにとって興味深いものになるでしょう。
 
 </div>
 </div>
@@ -1437,7 +1430,7 @@ This LP is an opinion piece written by the Editorial Board of the largest newspa
 
 **クエリ：**<span class="query">batman lego movie review</span>  
 **ユーザーの所在地：**<!-- -->フロリダ州オーランド  
-**ユーザーの意図：**<!-- -->Find reviews of the 2017 film _The LEGO Batman Movie_ on credible news or entertainment sources.
+**ユーザーの意図：**<!-- -->信頼できるニュースやエンターテインメントソースで2017年の映画「レゴバットマンムービー」のレビューを見つけたい
 
 <div class="results">
 <div class="result">
@@ -1446,7 +1439,7 @@ This LP is an opinion piece written by the Editorial Board of the largest newspa
 
 ![highly meets](../images/hm.jpg)
 
-This LP is an in-depth review of the queried movie by a film critic at a reputable newspaper. This result would be very helpful for many or most users.
+このLPは、評判の良い新聞の映画評論家が質問した映画の詳細なレビューです。 この結果は、多くのユーザーまたはほとんどのユーザーにとって非常に役立ちます。
 
 </div>
 </div>
@@ -1544,7 +1537,7 @@ RBはワシントン州シアトルの地図を表示し、地図をクリック
 
 **クエリ：**<span class="query">youtube</span>  
 **ユーザーの所在地：**<!-- -->アリゾナ州ツーソン  
-**ユーザーの意図：**<!-- -->Go to the YouTube website.
+**ユーザーの意図：**<!-- -->YouTubeのWebサイトにアクセスしたい
 
 <div class="results">
 <div class="result">
@@ -1553,7 +1546,7 @@ RBはワシントン州シアトルの地図を表示し、地図をクリック
 
 ![moderately meets](../images/mm.jpg)
 
-This is a result to download one of the YouTube apps. Mobile users want answers and results right away and may not be able to spend a lot of time downloading and installing apps. It is possible that users want one of the YouTube apps, but it is probably not the dominant intent for mobile users on the go.
+これは、YouTubeアプリをダウンロードした結果です。 モバイルユーザーはすぐに回答と結果を求めており、アプリのダウンロードとインストールに多くの時間を費やすことができない場合があります。 ユーザーがYouTubeアプリのいずれかを望んでいる可能性はありますが、それはおそらく外出中のモバイルユーザーにとって主要な意図ではありません。
 
 </div>
 </div>
@@ -1562,7 +1555,7 @@ This is a result to download one of the YouTube apps. Mobile users want answers 
 
 **クエリ：**<span class="query">nicaraguan money</span>  
 **ユーザーの所在地：**<!-- -->フロリダ州マイアミ  
-**ユーザーの意図：**<!-- -->「ニカラグアの通貨が知りたい」「通貨の見た目が知りたい」「為替レートが知りたい」
+**ユーザーの意図：**<!-- -->ニカラグアの通貨が知りたいや通貨の見た目が知りたいや為替レートが知りたい
 
 <div class="results">
 <div class="result">
@@ -1636,7 +1629,7 @@ LPはKristen Wiigの公式Webサイトですが、事務所サイトへのリン
 
 **Slightly Meets** 評価は、ごく一部から一定数のユーザーにしか役に立たない検索結果に適用されます。「少数派解釈に関するもの」「低品質なもの」「古すぎる情報」「意図に対して狭すぎる」「意図に対して広すぎる」等の理由で、**MM**以上の評価に当てはまらないものが**SM**評価になります。
 
-> **注意点：**<!-- -->On mobile phones, the "cost of a click" is high. Many users decide which result to click or tap on based on the title of the web result on the search results page. (Note that these titles usually come from webpages.) A result with a very misleading or exaggerated title should be rated **Slightly Meets** or lower, due to the poor user experience that occurs when the landing page does not match the expectation of the user when clicking or tapping on the result.
+> **注意点：**<!-- -->携帯電話では、「クリックのコスト」が高くなります。多くのユーザーは、検索結果ページのWeb結果のタイトルに基づいて、クリックまたはタップする結果を決定します。 （これらのタイトルは通常、Webページからのものであることに注意してください。）ランディングページが期待と一致しない場合に発生するユーザーエクスペリエンスの低下のため、非常に誤解を招くまたは誇張されたタイトルの結果は、**Slightly Meets**以下と評価する必要があります。結果をクリックまたはタップしたときのユーザー。
 
 ### Slightly Meets評価（SM）の例
 
@@ -1825,7 +1818,7 @@ RBにはIBMのロゴが複数掲載されているが、このクエリには大
 
 **クエリ：**<span class="query">where is nibiru</span>  
 **ユーザーの所在地：**<!-- -->オクラホマ州オクラホマシティ  
-**ユーザーの意図：**<!-- -->Find the location of "Nibiru", which was a fictional planet in the movie _Star Trek Into Darkness_, as well as a pseudoscientific outer planet in the solar system that doesn't actually exist.
+**ユーザーの意図：**<!-- -->映画「スター・トレック・イントゥ・ダークネス」の架空の惑星である「ニビル」の場所と、実際には存在しない太陽系の疑似科学的な外惑星を見つけたい
 
 <div class="results">
 <div class="result">
@@ -1834,8 +1827,8 @@ RBにはIBMのロゴが複数掲載されているが、このクエリには大
 
 ![slightly meets](../images/failsm+narrow.jpg)
 
-The title of this article makes it appear as though the article describes an impending catastrophe. Yet, the MC states in its third paragraph that Nibiru "doesn't actually exist" and calls believers in it "conspiracy theorists". The title contradicts the content of the article, and as a result could mislead users who don't read the full article.  
-**注：**<!-- -->The "cost of a click" is high on mobile phones. Results with very misleading or exaggerated titles should be rated Slightly Meets or lower.
+この記事のタイトルは、記事が差し迫った大惨事を説明しているように見せます。 それでも、MCはその第3段落で、ニビルは「実際には存在しない」と述べ、その信者を「陰謀論者」と呼んでいます。 タイトルが記事の内容と矛盾しているため、記事全体を読んでいないユーザーを誤解させる可能性があります。
+**注：**<!-- -->「クリックのコスト」は携帯電話で高いです。 非常に誤解を招くタイトルや誇張されたタイトルの結果は、Slightly Meets以下と評価する必要があります。
 
 </div>
 </div>
@@ -1846,20 +1839,19 @@ The title of this article makes it appear as though the article describes an imp
 
 **Fails to Meet評価**（**FailsM**）は、ユーザーの大半から全員にとって役立たない検索結果に適用されます。**FailsM**評価は「クエリに無関係」あるいは「内容が不正確（注:品質評価者は『事実と照らし合わせて内容が正確か』を確認する事！)」であり、全てのユーザーが「これ以外の結果が見たい」と思ってしまう検索結果に該当します。これらの結果は、「クエリの中の重要な要素や、ユーザーの所在地を見落としている」等、ユーザーの意図に全く合致していません。他にも「極端に低品質」「極端に古すぎる」「モバイル端末ではほぼ利用不可能」等の場合も**FailsM**評価になります。
 
-**Fails to Meet** should be used for the following types of **Lowest Page Quality** results:
+**FailsM**は、次の最低品質なページの結果に使用する必要があります。
 
-- Results that harm users (e.g., malicious download pages, "phishing" pages or websites, etc.).
-- Pages or websites that misrepresent the website's owner or purpose, such as by impersonating a different site
-(e.g., copied logo or branding of an unaffiliated site, URL that mimics another site's name).
-- Pages or websites that appear to be deliberate attempts to misinform or deceive users by presenting factually inaccurate content (e.g., fake product reviews, demonstrably inaccurate news, etc.).
-- Pages or websites with factually inaccurate content that can cause harm to users, regardless of their purpose or intent (e.g., inaccurate medical information; inaccurate information about how to vote, obtain a visa or green card, pay government taxes, etc.).
+- ユーザーに害を及ぼす結果（悪意のあるダウンロードページ、「フィッシング」ページまたはWebサイトなど）。
+- 別のサイトになりすますなど、ウェブサイトの所有者または目的を偽るページまたはウェブサイト（たとえば、コピーされたロゴや関連のないサイトのブランド、別のサイトの名前を模倣したURL）。
+- 意図的に表示されるページまたはWebサイトは、事実上不正確なコンテンツ（たとえば、偽の製品レビュー、明らかに不正確なニュースなど）を提示することにより、ユーザーに誤解を与えたり、欺いたりしようとします。
+- ユーザーの目的や意図に関係なく、ユーザーに害を及ぼす可能性のある事実上不正確なコンテンツを含むページまたはWebサイト（例：不正確な医療情報、投票方法、ビザまたはグリーンカードの取得、政府税の支払いなどに関する不正確な情報）。
 
-The following should also be rated **Fails to Meet** because they lead to very poor and upsetting user experiences:
+以下も、ユーザーエクスペリエンスが非常に悪く、動揺する原因となるため、**FailsM**と評価する必要があります。
 
-- Porn results for non-porn-seeking queries.
-- Upsetting or offensive results for queries that are not obviously seeking upsetting or offensive content.
-- Pages that directly contradict well-established scientific or medical consensus for queries seeking scientific or medical information, unless the query indicates the user is seeking an alternative viewpoint.
-- Pages that directly contradict well-established historical facts (e.g., unsubstantiated conspiracy theories), unless the query clearly indicates the user is seeking an alternative viewpoint.
+- ポルノを求めていないクエリのポルノ結果。
+- 明らかに動揺または不快なコンテンツを求めていないクエリの動揺または不快な結果。
+- ユーザーが別の視点を求めていることをクエリが示していない限り、科学的または医学的情報を求めるクエリについて確立された科学的または医学的コンセンサスと直接矛盾するページ。
+- クエリがユーザーが別の視点を探していることを明確に示していない限り、確立された歴史的事実（例：根拠のない陰謀論）と直接矛盾するページ。
 
 ### Fails to Meet評価（FailsM）の例
 
@@ -2093,7 +2085,7 @@ RBはストーニー児童発達支援センターではなくウェストポイ
 
 **クエリ：**<span class="query">who invented stairs</span>  
 **ユーザーの所在地：**<!-- -->テキサス州ラボック  
-**ユーザーの意図：**<!-- -->Find out about the origin of stairs.
+**ユーザーの意図：**<!-- -->階段の起源について学びます。
 
 <div class="results">
 <div class="result">
@@ -2102,7 +2094,7 @@ RBはストーニー児童発達支援センターではなくウェストポイ
 
 ![fails to meet](../images/failsm.jpg)
 
-The answer provided in this RB is factually inaccurate. Stairs have been a common architectural feature of buildings, pathways, outdoor structures, etc. since long before 1948, and they were not invented by a person named Werner Bösendörfer.
+このRBで提供される答えは事実上不正確です。 階段は、1948年よりずっと前から、建物、小道、屋外構造物などの一般的な建築上の特徴であり、ヴェルナーベーゼンドルファーという人物によって発明されたものではありません。
 
 </div>
 </div>
@@ -2414,7 +2406,7 @@ LPは夫がスーツを買うのを、助ける妻についてのユーモラス
 
 ![fails to meet](../images/failsm.jpg)
 
-LPには「キーボード上でたばこのシンボルを生成するための方法は？」といった意味不明な文章の羅列がある。低品質なFailsMページである。
+LPには「キーボード上でたばこのシンボルを生成するための方法は？」といった意味不明な文章の羅列がある。低品質な**FailsM**ページである。
 
 </div>
 </div>
@@ -2452,7 +2444,7 @@ LPはこの映画の**公式サイト**。しかし、LPは非常に使いにく
 
 ![fails to meet](../images/failsm.jpg)
 
-RBはナスカーのスケジュールは掲載しているが、「出走順」について掲載はない。コンテンツはユーザーが探しているものとは異なるため、FailsMが相応しい。
+RBはナスカーのスケジュールは掲載しているが、「出走順」について掲載はない。コンテンツはユーザーが探しているものとは異なるため、**FailsM**が相応しい。
 
 </div>
 </div>
@@ -2479,7 +2471,7 @@ RBはナスカーのスケジュールは掲載しているが、「出走順」
 
 **クエリ：**<span class="query">obama news</span>  
 **ユーザーの所在地：**<!-- -->バージニア州ノーフォーク  
-**ユーザーの意図：**<!-- -->Find recent news about Barack Obama, the 44th president of the United States
+**ユーザーの意図：**<!-- -->米国の第44代大統領であるバラクオバマに関する最近のニュースを探す
 
 <div class="results">
 <div class="result">
@@ -2488,7 +2480,7 @@ RBはナスカーのスケジュールは掲載しているが、「出走順」
 
 ![fails to meet](../images/failsm.jpg)
 
-The MC of this page is an example of a demonstrably inaccurate news report, including a fictitious quotation by Barack Obama. Because the content is presented as a factual news article, it is inaccurate with an intent to deceive users and should be rated Fails to Meet.
+このページのMCは、バラク・オバマによる架空の引用を含む、明らかに不正確なニュースレポートの例です。 コンテンツは事実に基づくニュース記事として提示されているため、ユーザーを欺く意図で不正確になっているため、**FailsM**と評価する必要があります。
 
 </div>
 </div>
@@ -2497,7 +2489,7 @@ The MC of this page is an example of a demonstrably inaccurate news report, incl
 
 **クエリ：**<span class="query">does smoking cause cancer</span>  
 **ユーザーの所在地：**<!-- -->アリゾナ州スコッツデール  
-**ユーザーの意図：**<!-- -->Find out whether smoking causes cancer.
+**ユーザーの意図：**<!-- -->喫煙が癌を引き起こすかどうかを調べます
 
 <div class="results">
 <div class="result">
@@ -2506,8 +2498,8 @@ The MC of this page is an example of a demonstrably inaccurate news report, incl
 
 ![fails to meet](../images/failsm.jpg)
 
-Despite strong medical consensus linking tobacco to lung cancer—which can be found at authoritative sources by searching [lung cancer and smoking]—this LP claims there is no connection between smoking and cancer by selectively interpreting some experiments done on animals.  
-Additionally, this is a YMYL query on a medical topic, so accurate and trustworthy information is highly important. This page directly contradicts well-established medical consensus and may potentially cause harm to users, so it should be rated Fails to Meet.
+タバコと肺がんを結びつける強力な医学的コンセンサス（<span class="query">肺がんと喫煙</span>を検索することで信頼できる情報源で見つけることができます）にもかかわらず、このLPは、動物で行われたいくつかの実験を選択的に解釈することにより、喫煙とがんの間に関連性がないと主張しています。  
+さらに、これは医療トピックに関するYMYLクエリであるため、正確で信頼できる情報が非常に重要です。 このページは、確立された医学的コンセンサスと直接矛盾し、ユーザーに害を及ぼす可能性があるため、**FailsM**と評価する必要があります。
 
 </div>
 </div>
@@ -2516,7 +2508,7 @@ Additionally, this is a YMYL query on a medical topic, so accurate and trustwort
 
 **クエリ：**<span class="query">betty white</span>  
 **ユーザーの所在地：**<!-- -->ケンタッキー州レキシントン  
-**ユーザーの意図：**<!-- -->Find information about the American actress Betty White, such as biographical info, filmography, awards, current news, etc.
+**ユーザーの意図：**<!-- -->伝記情報、フィルモグラフィー、賞、最新ニュースなど、アメリカの女優ベティホワイトに関する情報を検索します
 
 <div class="results">
 <div class="result">
@@ -2525,8 +2517,8 @@ Additionally, this is a YMYL query on a medical topic, so accurate and trustwort
 
 ![fails to meet](../images/failsm.jpg)
 
-Betty White was alive at the time this example was written. This LP is a social media profile page created by an unknown author that was designed to look like a memorial page for Betty White and falsely states that she died. This page is factually inaccurate and deceptive to users, so it should be rated Fails to Meet.  
-*Remember: For informational queries/results, it is important to check other reputable sources to determine if the result is factually accurate. A quick online search for [betty white] would allow you to confirm that she was still alive.*
+この例が書かれたとき、ベティ・ホワイトは生きていました。 このLPは、未知の作者によって作成されたソーシャルメディアのプロフィールページであり、ベティホワイトの記念ページのように見えるように設計されており、彼女が亡くなったと誤って述べています。 このページは事実上不正確でユーザーを欺くため、**FailsM**と評価する必要があります。  
+*注意：情報のクエリ/結果については、他の信頼できる情報源をチェックして、結果が事実上正確であるかどうかを判断することが重要です。<span class="query">ベティホワイト</span>をオンラインですばやく検索すると、彼女がまだ生きていることを確認できます。*
 
 </div>
 </div>
@@ -2535,7 +2527,7 @@ Betty White was alive at the time this example was written. This LP is a social 
 
 **クエリ：**<span class="query">miley cyrus</span>  
 **ユーザーの所在地：**<!-- -->ケンタッキー州レキシントン  
-**ユーザーの意図：**<!-- -->Find information about the American singer/actress Miley Cyrus, such as biographical info, discography/filmography, current news, etc.
+**ユーザーの意図：**<!-- -->伝記情報、ディスコグラフィー/フィルモグラフィー、最新ニュースなど、アメリカの歌手/女優マイリー・サイラスに関する情報を検索します
 
 <div class="results">
 <div class="result">
@@ -2544,8 +2536,8 @@ Betty White was alive at the time this example was written. This LP is a social 
 
 ![fails to meet](../images/failsm.jpg)
 
-Miley Cyrus was alive at the time this example was written. This LP is an article written by an unknown author that was designed to look like a news story and falsely states that she died. Furthermore, the page is found on a low quality website, and the article has not been updated, clarified, or removed even days after having been proven false. This page is factually inaccurate and deceptive to users, so it should be rated Fails to Meet.  
-*Remember: Just because a website has the look and feel of a traditional news site does NOT mean that you should consider the reporting to be factually accurate without further research. Watch out for sites that present themselves as news, but were actually created with the intent to mislead or misinform users.*
+この例が書かれたとき、マイリー・サイラスは生きていました。 このLPは、ニュース記事のように見えるように設計された未知の著者によって書かれた記事であり、彼女が死んだと誤って述べています。さらに、このページは質の低いWebサイトにあり、虚偽であることが証明されてから数日経っても、記事は更新、明確化、または削除されていません。 このページは事実上不正確でユーザーを欺くため、**FailsM**と評価する必要があります。  
+注意：ウェブサイトが従来のニュースサイトのルックアンドフィールを備えているからといって、それ以上の調査を行わなくても、レポートが事実上正確であると見なす必要があるとは限りません。 ニュースとして表示されるサイトに注意してください。ただし、実際には、ユーザーを誤解させたり、誤解を与えたりすることを目的として作成されています。
 
 </div>
 </div>
@@ -2554,7 +2546,7 @@ Miley Cyrus was alive at the time this example was written. This LP is an articl
 
 **クエリ：**<span class="query">holocaust history</span>  
 **ユーザーの所在地：**<!-- -->ニューヨーク州クーパーズタウン  
-**ユーザーの意図：**<!-- -->Find historical information about the Holocaust.
+**ユーザーの意図：**<!-- -->ホロコーストに関する歴史的情報を見つけたい
 
 <div class="results">
 <div class="result">
@@ -2563,8 +2555,8 @@ Miley Cyrus was alive at the time this example was written. This LP is an articl
 
 ![fails to meet](../images/failsm.jpg)
 
-This query is seeking historical information. The LP of this web result is on a well-known white supremacist hate site (read more here or here). The discussion on this page is inaccurate and misleading, since the Holocaust is an extremely well-documented historical event.  
-*Remember: Pages that directly contradict well-established historical facts should be rated Fails to Meet, unless the query clearly indicates the user is seeking an alternative viewpoint.*
+このクエリは履歴情報を求めています。 このウェブ結果のLPは、有名な白人至上主義者の憎悪サイトにあります。 ホロコーストは非常によく文書化された歴史的出来事であるため、このページの議論は不正確で誤解を招くものです。  
+注意：定評のある歴史的事実と直接矛盾するページは、ユーザーが別の視点を求めていることをクエリが明確に示していない限り、**FailsM**と評価する必要があります。
 
 </div>
 </div>
@@ -2573,7 +2565,7 @@ This query is seeking historical information. The LP of this web result is on a 
 
 **クエリ：**<span class="query">who is hitler's daughter</span>  
 **ユーザーの所在地：**<!-- -->ニューヨーク州クーパーズタウン  
-**ユーザーの意図：**<!-- -->Find the name of or information about Adolf Hitler's daughter, if Hitler in fact had a daughter.
+**ユーザーの意図：**<!-- -->ヒットラーに実際に娘がいた場合は、アドルフヒットラーの娘の名前または情報を見つけたい
 
 <div class="results">
 <div class="result">
@@ -2582,8 +2574,8 @@ This query is seeking historical information. The LP of this web result is on a 
 
 ![fails to meet](../images/failsm.jpg)
 
-This LP is a blog post presenting a factually unsupported conspiracy theory that Angela Merkel is the daughter of Adolph Hitler. Because the MC is inaccurate and misleading, it completely Fails to Meet the user intent, even though the topic of the page matches the query.  
-**注：**<!-- -->A more helpful result for this query might confirm that Adolf Hitler had no children, or provide information on the novel Hitler's Daughter by Jackie French.
+このLPは、アンゲラ・メルケルがアドルフ・ヒトラーの娘であるという事実上支持されていない陰謀説を紹介するブログ投稿です。 MCは不正確で誤解を招くため、ページのトピックがクエリと一致していても、ユーザーの意図を完全に満たすことができません。  
+**注：**<!-- -->このクエリのより有用な結果は、アドルフヒトラーに子供がいないことを確認するか、ジャッキーフレンチの小説「ヒトラーの娘」に関する情報を提供する可能性があります。
 
 </div>
 </div>
@@ -2592,7 +2584,7 @@ This LP is a blog post presenting a factually unsupported conspiracy theory that
 
 **クエリ：**<span class="query">islam</span>  
 **ユーザーの所在地：**<!-- -->ケンタッキー州レキシントン  
-**ユーザーの意図：**<!-- -->Find information about the religion of Islam.
+**ユーザーの意図：**<!-- -->イスラム教についての情報を見つけたい
 
 <div class="results">
 <div class="result">
@@ -2601,8 +2593,8 @@ This LP is a blog post presenting a factually unsupported conspiracy theory that
 
 ![fails to meet](../images/failsm.jpg)
 
-This is a broad query seeking information about Islam. The LP was created for the purpose of stating the author's opinion that Islam is not a religion. The author lacks expertise in the topic; the writing has frequent misspellings, typos, and grammar errors; and the page seems to exist to promote intolerance or hate.  
-*Remember: Upsetting or offensive results for queries that are not obviously seeking this type of content should be rated Fails to Meet.*
+これは、イスラム教に関する情報を求める幅広い質問です。 LPは、イスラム教は宗教ではないという著者の意見を述べる目的で作成されました。 著者はこのトピックに関する専門知識を欠いています。 文章には頻繁なスペルミス、タイプミス、文法エラーがあります。 このページは、不寛容または憎悪を助長するために存在しているようです。  
+注意：このタイプのコンテンツを明らかに求めていないクエリの不快な結果や不快な結果は、**FailsM**と評価する必要があります。
 
 </div>
 </div>

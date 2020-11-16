@@ -6,13 +6,6 @@ meta:
 canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf
 ---
 
-<div class="note">
-
-**注**：このページの翻訳はまだ完了していません。  
-　　翻訳を手伝いたい場合は、ページの下部のリンクを使用できます。
-
-</div>
-
 # 最高品質なページ
 
 **最高**品質は、目的の達成度、ユーザーの満足度ともに非常に高いページに付与される。「**High**評価」と「**最高**品質」はMCの質、E‑A‑Tのレベル、Webサイトの評判に基づいて区別される。
@@ -25,19 +18,19 @@ canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com
 
 ## 極めてハイクオリティなMC
 
-We will consider the MC of the page to be very high or highest quality when it is created with a high degree of time and effort, and in particular, expertise, talent, and skill—this may provide evidence for the E-A-T of the page. Very high quality MC may be created by experts, hobbyists, or even people with everyday expertise. Our standards depend on the purpose of the page and the type of content. For YMYL topics, there is a high standard for accuracy and well-established medical/scientific/historical consensus where such consensus exists. A factor that often distinguishes very high quality MC is the creation of unique and original content for the specific website. While what constitutes original content may be very different depending on the type of website, here are some examples:
+ページのMCは、高度な時間と労力、特に専門知識、才能、スキルで作成された場合、非常に高品質または最高品質であると見なされます。これにより、ページのE-A-Tの証拠が得られる可能性があります。 非常に高品質のMCは、専門家、愛好家、または日常の専門知識を持つ人々によって作成される場合があります。 私たちの基準は、ページの目的とコンテンツの種類によって異なります。 YMYLのトピックについては、そのようなコンセンサスが存在する場合、正確性と確立された医学的/科学的/歴史的コンセンサスの高い基準があります。 非常に高品質のMCを区別することが多い要因は、特定のWebサイト用に独自のオリジナルコンテンツを作成することです。 オリジナルのコンテンツを構成するものはウェブサイトの種類によって大きく異なる場合がありますが、ここにいくつかの例があります。
 
-- **For news:** very high quality MC is original reporting that provides information that would not otherwise have been known had the article not revealed it. Original, in-depth, and investigative reporting requires a high degree of skill, time, and effort. Often very high quality news content will include a description of primary sources and other original reporting referenced during the content creation process. Very high quality news content must be accurate and should meet professional journalistic standards.
-- **For artistic content** (videos, images, photography, writing, etc.): very high quality MC is unique and original content created by highly skilled and talented artists or content creators. Such artistic content requires a high degree of skill/talent, time, and effort. If the artistic content is related to a YMYL topic (e.g., artistic content with the purpose of informing or swaying opinion about YMYL topics), YMYL standards should apply.
-- **For informational content:** very high quality MC is original, accurate, comprehensive, clearly communicated, professionally presented, and should reflect expert consensus as appropriate. Expectations for different types of information may vary. For example, scientific papers have a different set of standards than information about a hobby such as stamp collecting. However, all types of very high quality informational content share common attributes of accuracy, comprehensiveness, and clear communication, in addition to meeting standards appropriate to the topic or field.
+- **ニュースの場合：**非常に高品質のMCは、記事で明らかにされていなかった場合には知られていなかった情報を提供するオリジナルのレポートです。 独創的で詳細な調査報道には、高度なスキル、時間、労力が必要です。 多くの場合、非常に高品質のニュースコンテンツには、コンテンツ作成プロセス中に参照される一次資料やその他の元のレポートの説明が含まれます。 非常に高品質のニュースコンテンツは正確である必要があり、専門的なジャーナリズムの基準を満たす必要があります。
+- **芸術的なコンテンツ（ビデオ、画像、写真、執筆など）の場合：**非常に高品質のMCは、高度なスキルと才能のあるアーティストまたはコンテンツ作成者によって作成された独自のオリジナルコンテンツです。 このような芸術的なコンテンツには、高度なスキル/才能、時間、および労力が必要です。 芸術的コンテンツがYMYLトピックに関連している場合（たとえば、YMYLトピックに関する意見を伝えたり、揺さぶったりすることを目的とした芸術的コンテンツ）、YMYL基準を適用する必要があります。
+- **情報コンテンツの場合：**非常に高品質のMCは、独創的で、正確で、包括的で、明確に伝達され、専門的に提示され、必要に応じて専門家のコンセンサスを反映する必要があります。 さまざまな種類の情報に対する期待は異なる場合があります。 たとえば、科学論文には、切手収集などの趣味に関する情報とは異なる一連の基準があります。 ただし、すべてのタイプの非常に高品質の情報コンテンツは、トピックまたは分野に適した基準を満たすことに加えて、正確性、包括性、および明確なコミュニケーションという共通の属性を共有しています。
 
 「**Highest**評価」は十分な量または分かりやすさを備える非常にハイクオリティなMCに対して付与され得るものである。
 
 ## 極めて高い評判
 
-Extensive reputation research is important when giving **Highest** ratings. Very positive reputation is often based on prestigious awards or recommendations from known experts or professional societies on the topic of the page. Wikipedia and other informational sources can be a good starting point for reputation research.
+**最高**の評価を与える場合は、広範な評判調査が重要です。 非常に肯定的な評判は、多くの場合、ページのトピックに関する既知の専門家または専門家団体からの権威ある賞または推奨に基づいています。 Wikipediaやその他の情報源は、評判調査の良い出発点になる可能性があります。
 
-For YMYL topics especially, careful checks for reputation are required. YMYL reputation should be based on evidence from experts, professional societies, awards, etc. For shopping pages, experts could include people who have used the store's website to make purchases; whereas for medical advice pages, experts should be people or organizations with appropriate medical expertise or accreditation. Please review section 2.3 for a summary of types of YMYL pages/topics.
+特にYMYLトピックの場合、レピュテーションを注意深くチェックする必要があります。 YMYLの評判は、専門家、専門家協会、賞などからの証拠に基づく必要があります。ショッピングページの場合、専門家には、ストアのWebサイトを使用して購入した人を含めることができます。 一方、医療アドバイスページの場合、専門家は適切な医療専門知識または認定を受けた人または組織である必要があります。 YMYLページ/トピックのタイプの要約については、[セクション2.3](2-understanding-webpages-and-websites.html#ymylページ-金銭・人生に関するページ)を確認してください。
 
 ユーモアやレシピなどいくつかのトピックに関しては、公式の専門知識は殆ど無くてもよい。これらのトピックでは、人気、ユーザーエンゲージメント、ユーザーレビューをサイトの評判を示す証拠とみなすことができる。正式な専門知識を必要としないトピックの場合、人気が高く、トピックやコンテンツがユーザーに愛されており、ユーザー支援に力を入れているWebサイトであれば高い評判を得ていると考えることができる。
 
@@ -73,7 +66,7 @@ For YMYL topics especially, careful checks for reputation are required. YMYL rep
 
 ![highest quality][hst]
 
-This is a feature article from a newspaper that has won numerous awards (such as the Pulitzer Prize, James Beard Award, and Scripps Howard Award).
+これは、数々の賞（ピューリッツァー賞、ジェームズビアード賞、スクリップスハワード賞など）を受賞した新聞の特集記事です。
 
 このページには分かりやすく非常にハイクオリティなMCがある。調査報道に関する幅広い知識と経験をもつ2人の記者による詳しい報道など。
 
@@ -108,29 +101,28 @@ This is a feature article from a newspaper that has won numerous awards (such as
 </div>
 <div class="example">
 
-**Type of Webpage:** [Highest: News 2](https://guidelines.raterhub.com/images/news-last-diplomat-m.jpg)
-
-**Type of Content:** Article on a newspaper website
+**Webページ：** [Highest: News 2](https://guidelines.raterhub.com/images/news-last-diplomat-m.jpg)  
+**コンテンツの種類：** Article on a newspaper website
 
 <div class="results">
 <div class="result">
 
-**Highest Quality Characteristics**
+**最高品質の特徴**
 
-- Very high level of E-A-T for the purpose of the page, including of the publisher and/or authors for a news article
-- A satisfying or comprehensive amount of very high quality MC for the purpose of the page
-- Very positive reputation (website)
+- ニュース記事の発行者および/または著者を含む、ページの目的のための非常に高レベルのE-A-T
+- ページの目的のための非常に高品質のMCの満足のいくまたは包括的な量
+- 非常に好評（ウェブサイト）
 
 </div>
 <div class="result">
 
-**PQ Rating and Explanation**
+**PQ評価と説明**
 
 ![highest quality][hst]
 
-This is an article on a newspaper website that has won a variety of awards including the Pulitzer Prize and the GLAAD Media Award.
+ピューリッツァー賞やGLAADメディア賞など、さまざまな賞を受賞した新聞サイトの記事です。
 
-The article has a comprehensive amount of very high quality MC that is unique and original, including in-depth investigative reporting by two authors with extensive knowledge and experience in investigative journalism.
+この記事には、調査ジャーナリズムに関する幅広い知識と経験を持つ2人の著者による詳細な調査報告を含む、ユニークで独創的な非常に高品質のMCが包括的に含まれています。
 
 </div>
 </div>
@@ -645,7 +637,7 @@ Wikipediaの記事によるとこの病院は「USニューズ＆ワールド・
 
 ![high+narrow quality][h+n]
 
-これはプロが作成したハイクオリティなMVである。バンドの公式チャンネルで公開された。The music video represents unique and original content created by a highly skilled and talented musical artist.
+これはプロが作成したハイクオリティなMVである。バンドの公式チャンネルで公開された。ミュージックビデオは、高度なスキルと才能のあるミュージシャンによって作成されたユニークでオリジナルのコンテンツを表しています。
 
 </div>
 </div>
@@ -670,7 +662,7 @@ Wikipediaの記事によるとこの病院は「USニューズ＆ワールド・
 
 ![high+narrow quality][h+n]
 
-ハイクオリティで人気のある動画。Walker Art Center主催のInternet Cat Video Film Festivalにて、最も良い猫ビデオに贈られる"Golden Kitty Award"を受賞している。The video is unique and original content created with a high degree of time and effort.
+ハイクオリティで人気のある動画。Walker Art Center主催のInternet Cat Video Film Festivalにて、最も良い猫ビデオに贈られる"Golden Kitty Award"を受賞している。この動画は、独自のオリジナルコンテンツであり、多大な時間と労力を費やして作成されています。
 
 </div>
 </div>

@@ -143,7 +143,7 @@ Here are some examples of pages with obstructed MC that should be rated **Lowest
 
 ### Inadequate Information about the Website or Creator of the Main Content
 
-As discussed in [Finding About Us, Contact Information, and Customer Service Information](/page-quality-rating-guideline/understanding-webpages-and-websites.html#finding-about-us-contact-information-and-customer-service-information), we expect most websites to have some information about who (e.g., what individual, company, business, foundation, etc.) is responsible for the website and who created the MC, as well as some contact information, unless there is a good reason for anonymity. For websites with YMYL pages, such as online banks, we expect to find a lot of information about the site, including extensive customer service information.
+As discussed in [Finding About Us, Contact Information, and Customer Service Information](2-understanding-webpages-and-websites.html#finding-about-us-contact-information-and-customer-service-information), we expect most websites to have some information about who (e.g., what individual, company, business, foundation, etc.) is responsible for the website and who created the MC, as well as some contact information, unless there is a good reason for anonymity. For websites with YMYL pages, such as online banks, we expect to find a lot of information about the site, including extensive customer service information.
 
 Think about the purpose of the website and the type of website information users would expect or demand.
 
@@ -194,7 +194,7 @@ Use the **Lowest** rating if you suspect a page is malicious, even if you're not
 
 ### Negative or Malicious Reputation
 
-Use the **Lowest** rating if the website and the creators of the MC have a negative or malicious reputation. Here are some examples originally shown in [<span class="query">How to Search for Reputation Information</span>](/page-quality-rating-guideline/understanding-webpages-and-websites.html#how-to-search-for-reputation-information). All pages on these websites should be rated **Lowest** because of the negative or malicious reputation of these websites.
+Use the **Lowest** rating if the website and the creators of the MC have a negative or malicious reputation. Here are some examples originally shown in [<span class="query">How to Search for Reputation Information</span>](2-understanding-webpages-and-websites.html#how-to-search-for-reputation-information). All pages on these websites should be rated **Lowest** because of the negative or malicious reputation of these websites.
 
 - [Site selling children's jungle gym](https://guidelines.raterhub.com/images/domeclimber.com.jpg)
   - **Negative reputation information:** This business has a [BBB rating](https://guidelines.raterhub.com/images/DomeClimberBBBReview.jpg) of F. There is a news article about financial fraud. There are many reviews on websites describing how users sent money and did not receive anything in return.

@@ -63,7 +63,7 @@ Some definitions from Google:
 > **Supplementary Content (SC)**
 > : Any content that **is not** considered MC or Ads, but **[positively or negatively] affects user experience** (navigation links, related products, spammy comments, etc.).
 >
-> **Identifying Advertisements/Monetization (Ads)**
+> **Advertisements/Monetization (Ads)**
 > : Any content and/or links that are displayed for the purpose of **monetizing the page**.
 
 ### Understanding Websites
@@ -148,7 +148,7 @@ For pages that have a beneficial purpose, E‑A‑T is:
 
 ### How to Evoke Expertise, Authority, and Trust
 
-E‑A‑T is determined differently based on the topic(s) of your website. For guidance based on page and site type, [see here.](/tldr/quality-characteristics/)
+E‑A‑T is determined differently based on the topic(s) of your website. For guidance based on page and site type, [see here.](quality-characteristics.html)
 
 ## High Quality Pages
 
@@ -332,7 +332,7 @@ Helpful for only a few users. Many or most users would want to see more results.
 
 ::: warning Characteristics of pages that only slightly satisfy a user's query:
 
-- The page satisfies a [minor interpretation](/qrg/needs-met-rating-guideline/16-rating-queries-with-multiple-interpretations-and-intents.html#rating-queries-with-multiple-interpretations-and-intents) of a query
+- The page satisfies a [minor interpretation](/qrg/needs-met-rating-guideline/16-rating-queries-with-multiple-interpretations-and-intents.html) of a query
 - The page is [low quality](/qrg/page-quality-rating-guideline/6-low-quality-pages.html)
 - The information is outdated
 - Content is inaccurate
@@ -369,7 +369,7 @@ These pages completely fail to meet/satisfy the needs of users. All or almost al
 
 ### The Relationship between E‑A‑T and Needs Met
 
-If a page has [no useful purpose](/tldr/for-everyone.html#understanding-webpages-and-websites), it will not rank.
+If a page has [no useful purpose](#understanding-webpages-and-websites), it will not rank.
 
 <div class="note">
 
