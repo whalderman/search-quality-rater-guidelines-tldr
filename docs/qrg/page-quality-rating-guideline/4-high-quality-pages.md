@@ -539,3 +539,7 @@ This discussion focuses on the landscaping for a particular paludarium (an aquar
 [h-n]: ../images/high-narrow.jpg
 [m+n]: ../images/medium+narrow.jpg
 [m+w]: ../images/medium+wide.jpg
+
+<div class="source">
+Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+</div>

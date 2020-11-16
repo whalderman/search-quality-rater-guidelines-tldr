@@ -42,3 +42,7 @@ Here are some examples for the "lack expertise" and "technical problem" release 
 Note: Based on the number and/or type of tasks that you release, you may be asked to provide additional details about the reason for some of the releases.
 
 </div>
+
+<div class="source">
+Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+</div>

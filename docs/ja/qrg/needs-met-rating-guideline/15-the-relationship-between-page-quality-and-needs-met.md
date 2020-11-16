@@ -95,3 +95,7 @@ Needs Met評価とページ品質評価の割り当てに関するガイダン�
 </div>
 </div>
 </div>
+
+<div class="source">
+Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+</div>

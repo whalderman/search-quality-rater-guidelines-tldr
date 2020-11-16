@@ -837,3 +837,7 @@ Web検索のRBを構成するものとして、「タイトル付きリンク」
 - PDFファイルは開いて確認する。利用している端末によって、PDFが開きにくいものもあるが、必ず確認する。
 - 評価タスクをデスクトップで行うように指示されても、特記されていない限りはモバイルユーザー視点で評価を行う。
 - You should assume queries were issued on a smartphone unless otherwise stated in the task or project-specific instructions.
+
+<div class="source">
+Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+</div>

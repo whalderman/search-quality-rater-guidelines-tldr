@@ -23,3 +23,7 @@ Evaluation Platformの簡易化したタスク受注ページのスクリーン�
 このラベルは、タスクにヘッドフォンまたはスピーカーが必要であることを示します。たとえば、オーディオファイルを聞くために。
 
 > タスク取得ページのボタンの横に他の種類のラベルが表示される場合があります。ボタンが1つしかない場合もありますが、要件が異なるタスクを区別するために複数のボタンが表示されることもあります。表示されているものが複数ある場合は、必要なものを選択できます。
+
+<div class="source">
+Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+</div>

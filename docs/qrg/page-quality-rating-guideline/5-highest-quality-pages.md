@@ -752,3 +752,7 @@ It is an expert and authoritative source of information about the Tennessee Repu
 [hst]: ../images/highest.jpg
 [h+n]: ../images/high+narrow.jpg
 [h-w]: ../images/high-wide.jpg
+
+<div class="source">
+Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+</div>

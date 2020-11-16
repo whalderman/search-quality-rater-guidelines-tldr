@@ -20,3 +20,7 @@ The examples in these guidelines are very important. Please view each one and ke
 - Webpages and websites change rapidly, so we use images or "snapshots" of webpages in most of our examples.
 - The information in the examples was accurate at the time it was added, but content and websites may change over time.
 - Some examples show pages on desktop and some show pages on mobile devices.
+
+<div class="source">
+Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+</div>

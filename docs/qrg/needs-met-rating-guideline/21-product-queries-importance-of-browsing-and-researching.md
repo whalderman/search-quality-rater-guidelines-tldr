@@ -89,3 +89,7 @@ This result has a variety of images of the ring, showing different angles and ma
 </div>
 </div>
 </div>
+
+<div class="source">
+Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+</div>

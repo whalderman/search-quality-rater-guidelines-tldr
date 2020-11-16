@@ -14,3 +14,7 @@ The greyed-out results (sometimes referred to as "contextual results") are shown
 Here is an example:
 
 ![](../images/img871.jpg)
+
+<div class="source">
+Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+</div>

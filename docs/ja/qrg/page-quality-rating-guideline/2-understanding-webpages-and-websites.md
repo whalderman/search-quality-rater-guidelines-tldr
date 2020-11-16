@@ -706,3 +706,7 @@ Webサイト全部で評判調査が必要である。あなたが個人的に�
 大企業の情報や大きな規模のWebサイトの情報は評判情報を期待できる。
 
 小規模な組織のWebサイトの評判についての情報は、ほとんど見つからない。これは肯定的または否定的な評判を示すものではない。多くの小規模な地方の企業やコミュニティ組織は、小規模な「Webの存在」のため、Web上のレビューではなく、口コミに依存している。これらの小規模な企業や組織にとって、評判がないということはPage Qualityの低下を示すものではない。
+
+<div class="source">
+Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+</div>

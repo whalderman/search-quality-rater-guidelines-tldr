@@ -15,3 +15,7 @@ For brevity, we refer to "Search Quality Raters" as "raters" in these guidelines
 
 ![Should I buy an iPhone?](../images/img6.jpg)
 ![Is this page trustworthy?](../images/img8.jpg)
+
+<div class="source">
+Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+</div>

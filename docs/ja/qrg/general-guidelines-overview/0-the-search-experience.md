@@ -60,3 +60,7 @@ NM評価・PQ評価を行うときは、広告をブロックするアドオン�
 **注**：このwebサイトを訪問すると、コンピューターに損害が発生することがあります」のような警告が示されるページや、ウイルス対策ソフトウェアが警告するページは、ページ訪問ことも評価をつけることも必要ない。
 
 RealPlayerやAdobe Flash Playerプラグインが必要なページもあるが、基本的にダウンロードしても安全である。
+
+<div class="source">
+Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+</div>

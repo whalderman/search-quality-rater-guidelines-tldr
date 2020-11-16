@@ -111,3 +111,7 @@ This is Google's official page on careers and jobs at Google, where users can se
 </div>
 </div>
 </div>
+
+<div class="source">
+Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+</div>

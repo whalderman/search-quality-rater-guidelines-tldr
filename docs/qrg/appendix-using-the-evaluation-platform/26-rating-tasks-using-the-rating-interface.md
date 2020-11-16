@@ -21,3 +21,7 @@ Additionally, here are a few general things to keep in mind when rating tasks:
 - **Sometimes a side will not have any result blocks:** If one side displays the message "This side did not generate any results," please do not release the task.
 
 - **Do not refresh the task page after assigning ratings:** If you refresh the page after assigning ratings, you will lose them and they will have to be entered again.
+
+<div class="source">
+Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+</div>

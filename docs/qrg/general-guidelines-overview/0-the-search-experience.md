@@ -58,3 +58,7 @@ We suggest that you only open files with which you are comfortable. The file for
 If you encounter a page with a warning message, such as "Warning-visiting this web site may harm your computer," or if your antivirus software warns you about a page, you should not try to visit the page to assign a rating.
 
 You may also encounter pages that require RealPlayer or the Adobe Flash plug-in. These are generally safe to download.
+
+<div class="source">
+Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+</div>

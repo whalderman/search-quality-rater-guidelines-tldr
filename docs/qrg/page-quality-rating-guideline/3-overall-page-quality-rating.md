@@ -60,3 +60,7 @@ Some topics require less formal expertise. Many people write extremely detailed,
 It's even possible to have everyday expertise in YMYL topics. For example, there are forums and support pages for people with specific diseases. Sharing personal experience is a form of everyday expertise. Consider [this example](https://static.googleusercontent.com/media/www.google.com/en//insidesearch/howsearchworks/assets/GG/CancerCompass.jpg). Here, forum participants are telling how long their loved ones lived with liver cancer. This is an example of sharing personal experiences (in which they are experts), not medical advice. Specific medical information and advice (rather than descriptions of life experiences) should come from doctors or other health professionals.
 
 Think about the topic of the page. What kind of expertise is required for the page to achieve its purpose well? The standard for expertise depends on the topic of the page.
+
+<div class="source">
+Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+</div>

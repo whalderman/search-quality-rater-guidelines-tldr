@@ -59,3 +59,7 @@ YMYLに関するトピックであっても、日々の経験から専門性を�
 
 *[MC]: メインコンテンツ
 *[E‑A‑T]: 専門性、権威性、信頼性
+
+<div class="source">
+Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+</div>

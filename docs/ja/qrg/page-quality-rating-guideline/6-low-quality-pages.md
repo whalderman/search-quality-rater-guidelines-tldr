@@ -411,3 +411,7 @@ Google は大半のWebサイトに対して「Webサイト自体についての�
 
 [l]: ../images/low.jpg
 [l+n]: ../images/lowest+narrow.jpg
+
+<div class="source">
+Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+</div>

@@ -339,3 +339,7 @@ MCの相対的な不足はこのフォーラムの専門性によって釣り合
 
 [m]: ../images/medium.jpg
 [m-n]: ../images/medium-narrow.jpg
+
+<div class="source">
+Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+</div>

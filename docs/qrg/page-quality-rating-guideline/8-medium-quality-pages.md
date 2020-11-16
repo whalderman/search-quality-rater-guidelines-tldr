@@ -341,3 +341,7 @@ This page is "mixed" because there is some distracting content that makes it har
 
 [m]: ../images/medium.jpg
 [m-n]: ../images/medium-narrow.jpg
+
+<div class="source">
+Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+</div>

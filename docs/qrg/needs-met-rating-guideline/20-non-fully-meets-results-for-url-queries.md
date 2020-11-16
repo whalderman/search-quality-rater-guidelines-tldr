@@ -85,3 +85,7 @@ This LP is an article dated April 17, 2006 about the ratemyprofessors.com websit
 </div>
 </div>
 </div>
+
+<div class="source">
+Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+</div>

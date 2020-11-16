@@ -48,3 +48,7 @@ Page Quality評価を割り当てるには、ウェブサイトとMCの作成者
 メインコンテンツの作成者の評判とE‑A‑Tは、ウェブサイトがそれぞれページに異なる著者やコンテンツ作成者を持っている場合、非常に重要です。これは、フォーラムやQ&Aページ、ニュースサイト、YouTubeやTwitterなどのユーザーが生成したコンテンツを持つウェブサイトに当てはまります。これらのタイプのWebサイト上のページの評判とE‑A‑T評価は、評価しているページによって大きく異なる場合があります。（あるウェブサイト内において）YMYLトピックに関するE‑A‑Tがかなり欠如した**最低**品質のYouTubeビデオが存在すると同時に、非常に評判が高く、専門のコンテンツ制作者によって作成された**最高**品質のYouTubeビデオが存在することがあります。
 
 **重要：**<!-- -->Webサイトとメインコンテンツの作成者の両方の評判とE‑A‑Tを調べましょう。ページの目的に沿っていない場合は、**Low**または**Lowest**の評価が適切だとされます。
+
+<div class="source">
+Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+</div>

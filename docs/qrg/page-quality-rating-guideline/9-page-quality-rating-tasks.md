@@ -48,3 +48,7 @@ You must consider the reputation and E‑A‑T of both the website and the creat
 The reputation and E‑A‑T of the creators of the MC is extremely important when a website has different authors or content creators on different pages. This is true of forum and Q&A pages, news websites, or websites that have user-generated content, such as YouTube, Twitter, etc. The reputation and E‑A‑T assessment for pages on these types of websites may differ drastically depending on what page you are evaluating. There are **Highest** quality YouTube videos created by highly reputable and expert content creators, as well as **Lowest** quality YouTube videos created with a dangerous lack of E‑A‑T on YMYL topics.
 
 **Important:** Research the reputation and E‑A‑T of both the website and the creators of the MC. If either are lacking for the purpose of the page, the **Low** or **Lowest** rating is appropriate.
+
+<div class="source">
+Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+</div>

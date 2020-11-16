@@ -12,3 +12,7 @@ Evaluation Platformはタスクを取得して評価するために使うシス�
 検索品質評価者として、多くの異なるタイプの評価タスクがあるだろう。このセクションではPQ評価とNM評価のタスクであなたがしばしば出会うであろうEvaluation Platformの特徴と使い方の手引を供給する。これらのコンセプトでは他のタイプの評価タスクも同様に適用する。
 
 **重要：**<!-- -->多くのタスクであなたはタスクページにプロジェクト固有の指示が表示される。供給する時、いつもこれらのプロジェクト固有の指示に従うべきである。
+
+<div class="source">
+Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+</div>

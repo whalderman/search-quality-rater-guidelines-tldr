@@ -20,3 +20,7 @@ Page Quality (PQ) 評価タスクは「URL」と「評価結果を記録する�
 - Webサイト・ページ内容はすぐに変化するものである。事例にはスクリーンショットを使用する。
 - 事例記載情報は、作成時のものであるため、記載後にコンテンツ内容やWebサイトに変更があることがある。
 - デスクトップPCとモバイルの事例双方を記載している。
+
+<div class="source">
+Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+</div>
