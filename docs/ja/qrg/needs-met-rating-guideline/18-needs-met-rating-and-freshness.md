@@ -156,5 +156,5 @@ LPには、ユーザーが求めている情報がある。
 </div>
 
 <div class="source">
-Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+© 2020 Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
 </div>

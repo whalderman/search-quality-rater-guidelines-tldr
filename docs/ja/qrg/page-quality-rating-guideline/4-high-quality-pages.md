@@ -536,5 +536,5 @@ This is a blog post on a newspaper that has won a variety of awards, such as the
 [m+w]: ../images/medium+wide.jpg
 
 <div class="source">
-Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+© 2020 Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
 </div>

@@ -14,5 +14,5 @@ Evaluation Platformはタスクを取得して評価するために使うシス�
 **重要：**<!-- -->多くのタスクであなたはタスクページにプロジェクト固有の指示が表示される。供給する時、いつもこれらのプロジェクト固有の指示に従うべきである。
 
 <div class="source">
-Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+© 2020 Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
 </div>

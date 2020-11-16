@@ -1160,5 +1160,5 @@ In addition, the "Shipping and Returns" page has the name of another company tha
 [lest-n]: ../images/lowest-narrow.jpg
 
 <div class="source">
-Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+© 2020 Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
 </div>

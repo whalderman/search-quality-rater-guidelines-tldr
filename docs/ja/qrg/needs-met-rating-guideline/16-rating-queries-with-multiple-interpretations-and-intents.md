@@ -106,5 +106,5 @@ RBには、近くの２つのCitibankが表示される。この情報は店を�
 </div>
 
 <div class="source">
-Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+© 2020 Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
 </div>

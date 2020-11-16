@@ -23,5 +23,5 @@ Additionally, here are a few general things to keep in mind when rating tasks:
 - **Do not refresh the task page after assigning ratings:** If you refresh the page after assigning ratings, you will lose them and they will have to be entered again.
 
 <div class="source">
-Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+© 2020 Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
 </div>

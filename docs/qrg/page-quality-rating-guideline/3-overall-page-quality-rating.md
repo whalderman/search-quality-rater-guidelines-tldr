@@ -62,5 +62,5 @@ It's even possible to have everyday expertise in YMYL topics. For example, there
 Think about the topic of the page. What kind of expertise is required for the page to achieve its purpose well? The standard for expertise depends on the topic of the page.
 
 <div class="source">
-Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+© 2020 Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
 </div>

@@ -22,5 +22,5 @@ Page Quality (PQ) 評価タスクは「URL」と「評価結果を記録する�
 - デスクトップPCとモバイルの事例双方を記載している。
 
 <div class="source">
-Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+© 2020 Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
 </div>

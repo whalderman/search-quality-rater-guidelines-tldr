@@ -117,5 +117,5 @@ URL 2: [http://www.lyrics007.com/Madonna%20Lyrics/Material%20Girl%20Lyrics.html]
 **理由：**<!-- -->両方ともマドンナの「Material Girl」の歌詞を表示しているが、ユーザーは両方とも訪問して歌詞の正しさを確かめたいと思うかもしれない。検索エンジンがこの歌詞を掲載したページを複数表示すると、ユーザーの役に立つ。
 
 <div class="source">
-Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+© 2020 Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
 </div>

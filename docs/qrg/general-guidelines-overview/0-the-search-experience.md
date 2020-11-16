@@ -60,5 +60,5 @@ If you encounter a page with a warning message, such as "Warning-visiting this w
 You may also encounter pages that require RealPlayer or the Adobe Flash plug-in. These are generally safe to download.
 
 <div class="source">
-Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+© 2020 Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
 </div>

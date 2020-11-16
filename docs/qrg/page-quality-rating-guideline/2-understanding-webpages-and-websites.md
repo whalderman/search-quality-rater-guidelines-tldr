@@ -706,5 +706,5 @@ You should expect to find reputation information for large businesses and websit
 Frequently, you will find little or no information about the reputation of a website for a small organization. This is not indicative of positive or negative reputation. Many small, local businesses or community organizations have a small "web presence" and rely on word of mouth, not online reviews. For these smaller businesses and organizations, lack of reputation should not be considered an indication of low page quality.
 
 <div class="source">
-Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+© 2020 Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
 </div>

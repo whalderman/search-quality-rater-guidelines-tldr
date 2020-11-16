@@ -46,5 +46,5 @@ meta:
   Yes! More intensive analysis on the website (e.g., researching E‑A‑T) can be done on your computer. Any time that using your computer will help you complete the task, feel free to use it.
 
 <div class="source">
-Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+© 2020 Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
 </div>

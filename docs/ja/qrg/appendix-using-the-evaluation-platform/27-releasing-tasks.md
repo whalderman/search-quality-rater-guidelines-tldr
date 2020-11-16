@@ -47,5 +47,5 @@ Please leave a comment explaining the release when it makes sense to provide add
 **注：**<!-- -->リリースしたタスクの量やタイプによっては、リリース原因の追加説明が必要になることがあります。
 
 <div class="source">
-Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+© 2020 Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
 </div>

@@ -50,5 +50,5 @@ The reputation and E‑A‑T of the creators of the MC is extremely important wh
 **Important:** Research the reputation and E‑A‑T of both the website and the creators of the MC. If either are lacking for the purpose of the page, the **Low** or **Lowest** rating is appropriate.
 
 <div class="source">
-Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+© 2020 Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
 </div>

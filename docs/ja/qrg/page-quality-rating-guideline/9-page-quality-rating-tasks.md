@@ -50,5 +50,5 @@ Page Quality評価を割り当てるには、ウェブサイトとMCの作成者
 **重要：**<!-- -->Webサイトとメインコンテンツの作成者の両方の評判とE‑A‑Tを調べましょう。ページの目的に沿っていない場合は、**Low**または**Lowest**の評価が適切だとされます。
 
 <div class="source">
-Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+© 2020 Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
 </div>

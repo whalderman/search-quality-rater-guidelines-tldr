@@ -22,5 +22,5 @@ A few notes about how to acquire tasks from this page:
   Please note you may see other types of labels next to the button on the task acquisition page. Sometimes there will be only one button, while other times you may see more than one button displayed to distinguish tasks with different requirements. When there is more than one displayed, you may choose the one you want to acquire.
 
 <div class="source">
-Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+© 2020 Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
 </div>

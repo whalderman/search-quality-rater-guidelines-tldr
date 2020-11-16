@@ -23,5 +23,5 @@ meta:
 - **評価を適用した後、タスクページを再読み込みしない：**<!-- -->評価の適用後に再読み込みを行うと、適用した評価が消えるので、もう一度入力しなければならない。
 
 <div class="source">
-Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+© 2020 Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
 </div>

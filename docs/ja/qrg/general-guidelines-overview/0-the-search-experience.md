@@ -62,5 +62,5 @@ NM評価・PQ評価を行うときは、広告をブロックするアドオン�
 RealPlayerやAdobe Flash Playerプラグインが必要なページもあるが、基本的にダウンロードしても安全である。
 
 <div class="source">
-Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+© 2020 Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
 </div>

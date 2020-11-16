@@ -852,5 +852,5 @@ We understand that raters using different phones, operating systems, and browser
 - You should assume queries were issued on a smartphone unless otherwise stated in the task or project-specific instructions.
 
 <div class="source">
-Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+© 2020 Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
 </div>

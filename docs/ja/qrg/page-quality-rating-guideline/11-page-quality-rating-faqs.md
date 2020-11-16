@@ -46,5 +46,5 @@ meta:
   はい！ あなたのコンピューター上で、より集中的なWebサイト分析（E‑A‑Tの研究など）を行うことができる。あなたのコンピューターを使用してタスクを完了するのに役立つときはいつでも、PCを自由に利用することができる。また、タスクではWebサイトのリサーチに役立つリンクがいくつか用意されているが、デスクトップ/ラップトップで行うことを指示することもある。
 
 <div class="source">
-Copyright 2020 © Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
+© 2020 Google (<a href="https://static.googleusercontent.com/media/guidelines.raterhub.com///searchqualityevaluatorguidelines.pdf">source</a>)
 </div>
