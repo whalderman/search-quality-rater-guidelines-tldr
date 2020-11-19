@@ -2,7 +2,7 @@
 title: Search Quality Rater Guidelines - TL;DR
 meta:
   - name: description
-    content: Here's a TL;DR summary of Google's Search Quality Rater Guidelines, more concise and useful for those of us who aren't contracted as Google's Search Quality Raters.
+    content: Here's a TL;DR summary of Google's Search Quality Rater Guidelines specifically for SEOs and website managers (more concise and chiseled down for those of us who aren't contracted as Google's Search Quality Raters).
 ---
 
 # Search Quality Rater Guidelines, TL;DR
