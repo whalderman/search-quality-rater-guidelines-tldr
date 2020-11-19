@@ -74,7 +74,7 @@ canonicalUrl: https://static.googleusercontent.com/media/guidelines.raterhub.com
 - **読みづらい、見づらい、使いづらいなど、ページの内容の理解やページの使用に労力を使うメインコンテンツ**
 - **不便なサイトの構築やデザイン、メンテナンスの不備など、ページが機能していない**
 
-高い基準を持ち、あなたのページの典型的なユーザーがどのようにメインコンテンツを利用するかを考慮してください。A page may have value to the creator or participants in the discussion, but few to no general users who view it would benefit from the MC.
+高い基準を持ち、あなたのページの典型的なユーザーがどのようにメインコンテンツを利用するかを考慮してください。特定ページは、ディスカッションの作成者または参加者にとって重要である可能性があるけど、それを表示する一般ユーザーはMCの恩恵を受けるのはほとんどないです。
 
 ### コピーによるMC
 
