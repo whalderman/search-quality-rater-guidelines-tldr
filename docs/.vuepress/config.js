@@ -15,9 +15,6 @@ module.exports = {
     ['meta', { name: 'keywords', content: 'don\'t waste your time with meta keywords'}]
   ],
   plugins: [
-    ['@vuepress/google-analytics', {
-      ga: 'UA-27119256-1'
-    }]
   ],
   evergreen: true, // target newer browsers only
   markdown: {
